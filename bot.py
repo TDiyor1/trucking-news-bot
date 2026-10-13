@@ -204,9 +204,10 @@ def update_feed(records):
               open(NEWS, "w"), indent=1, ensure_ascii=False)
 
 
-def send(env, text):
+def send(env, text, preview=True):
     data = urllib.parse.urlencode({
         "chat_id": env["TELEGRAM_CHAT_ID"], "text": text, "parse_mode": "HTML",
+        "disable_web_page_preview": "false" if preview else "true",
     }).encode()
     url = f"https://api.telegram.org/bot{env['TELEGRAM_BOT_TOKEN']}/sendMessage"
     for attempt in range(3):
@@ -223,6 +224,101 @@ def send(env, text):
             print("send failed:", ex, file=sys.stderr)
             time.sleep(2)
     return False
+
+
+# ---------------------------------------------------------------- EIA weekly fuel report
+EIA_URL = "https://www.eia.gov/petroleum/gasdiesel/"
+
+
+def parse_eia():
+    """Return {'week': 'MM/DD/YY', 'gas_regions': [...], 'gas_places': [...], 'diesel': [...]}.
+    Each row is (name, [3 weekly prices oldest->newest], week_change, vs_year_ago, vs_2yr_ago)."""
+    raw = fetch(EIA_URL).decode("utf-8", "ignore")
+    raw = re.sub(r"<(script|style).*?</\1>", " ", raw, flags=re.S)
+    sections, week = [], None
+    for r in re.findall(r"<tr[^>]*>(.*?)</tr>", raw, flags=re.S):
+        c = [" ".join(html.unescape(re.sub(r"<[^>]+>", " ", x)).split())
+             for x in re.findall(r"<t[dh][^>]*>(.*?)</t[dh]>", r, flags=re.S)]
+        if len(c) >= 7 and re.match(r"\d\d/\d\d/\d\d", c[1]):
+            sections.append([])
+            week = c[3]
+        elif sections and len(c) == 7:
+            try:
+                v = [float(x) for x in c[1:]]
+            except ValueError:
+                continue
+            sections[-1].append((c[0], v[:3], v[5], v[4], v[3]))
+    if len(sections) < 3 or not week or sections[0][0][0] != "U.S." or sections[2][0][0] != "U.S.":
+        raise ValueError("EIA page layout changed")
+    return {"week": week, "gas_regions": sections[0], "gas_places": sections[1], "diesel": sections[2]}
+
+
+def _short(name):
+    name = re.sub(r"\s*\(PADD\s*\w+\)", "", name)
+    return {"West Coast less California": "West Coast ex-CA", "Rocky Mountain": "Rocky Mtn"}.get(name, name)
+
+
+def _chg(x):
+    cents = round(x * 100)
+    return "flat" if cents == 0 else f"{'▲' if cents > 0 else '▼'}{abs(cents)}¢"
+
+
+def _summary(label, row):
+    _, p, wk, yr, yr2 = row
+    trend = "rose" if wk > 0 else "fell" if wk < 0 else "was unchanged"
+    amt = f" {abs(round(wk * 100))}¢" if wk else ""
+    streak = ""
+    if p[2] < p[1] < p[0]:
+        streak = ", the second straight weekly drop"
+    elif p[2] > p[1] > p[0]:
+        streak = ", the second straight weekly gain"
+    return (f"{label} {trend}{amt} to ${p[2]:.2f}{streak}; it is "
+            f"${abs(yr):.2f} {'above' if yr >= 0 else 'below'} a year ago.")
+
+
+def _table(rows):
+    w = max(len(_short(r[0])) for r in rows)
+    return "\n".join(f"{_short(r[0]):<{w}}  ${r[1][2]:.3f}  {_chg(r[2]):>5}" for r in rows)
+
+
+def format_eia(d):
+    e = html.escape
+    diesel_us, gas_us = d["diesel"][0], d["gas_regions"][0]
+    def trend(row):
+        return " → ".join(f"{x:.2f}" for x in row[1])
+    parts = [
+        f"⛽ <b>EIA Weekly Fuel Report</b>\nPrices as of {e(d['week'])} · US average, per gallon",
+        f"🚛 <b>Diesel (on-highway)</b>\n<b>${diesel_us[1][2]:.3f}</b> {_chg(diesel_us[2])} vs last week\n"
+        f"Last 3 weeks: {trend(diesel_us)}\n"
+        f"vs 1 yr ago {diesel_us[3]:+.2f} · vs 2 yrs ago {diesel_us[4]:+.2f}",
+        "<pre>" + e(_table(d["diesel"][1:])) + "</pre>",
+        f"🚗 <b>Regular gasoline</b>\n<b>${gas_us[1][2]:.3f}</b> {_chg(gas_us[2])} vs last week\n"
+        f"Last 3 weeks: {trend(gas_us)}\n"
+        f"vs 1 yr ago {gas_us[3]:+.2f} · vs 2 yrs ago {gas_us[4]:+.2f}",
+        "<pre>" + e(_table(d["gas_regions"][1:])) + "</pre>",
+        "<b>In short:</b> " + e(_summary("Diesel", diesel_us)) + " " + e(_summary("Regular gas", gas_us)),
+        f"Source: <a href=\"{EIA_URL}\">U.S. Energy Information Administration</a>. Regional averages, "
+        "not station prices; actual pump and truck-stop prices vary.",
+    ]
+    return "\n\n".join(parts)[:4000]
+
+
+def eia_report(env, seen, dry_run=False):
+    """Post this week's EIA report once, as soon as EIA publishes a new week."""
+    try:
+        d = parse_eia()
+    except Exception as ex:
+        print(f"[warn] EIA: {ex}", file=sys.stderr)
+        return
+    key = "eia:" + d["week"]
+    if key in seen:
+        return
+    msg = format_eia(d)
+    if dry_run:
+        print(msg, "\n" + "-" * 60)
+    elif send(env, msg, preview=False):
+        seen.add(key)
+        print(f"Posted EIA weekly report for {d['week']}.")
 
 
 def main():
@@ -281,6 +377,8 @@ def main():
     env = load_env()
     if not args.dry_run and not (env.get("TELEGRAM_BOT_TOKEN") and env.get("TELEGRAM_CHAT_ID")):
         sys.exit("Missing TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID in .env")
+
+    eia_report(env, seen, args.dry_run)
 
     sent, posted = 0, []
     for it, tags in queue:
