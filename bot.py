@@ -228,6 +228,7 @@ def send(env, text, preview=True):
 
 # ---------------------------------------------------------------- EIA weekly fuel report
 EIA_URL = "https://www.eia.gov/petroleum/gasdiesel/"
+EIA_STATES = {"California", "Colorado", "Florida", "Massachusetts", "Minnesota", "New York", "Ohio", "Texas", "Washington"}
 
 
 def parse_eia():
@@ -296,6 +297,7 @@ def format_eia(d):
         f"Last 3 weeks: {trend(gas_us)}\n"
         f"vs 1 yr ago {gas_us[3]:+.2f} · vs 2 yrs ago {gas_us[4]:+.2f}",
         "<pre>" + e(_table(d["gas_regions"][1:])) + "</pre>",
+        "📍 <b>Gasoline by state</b>\n<pre>" + e(_table([r for r in d["gas_places"] if r[0] in EIA_STATES])) + "</pre>",
         "<b>In short:</b> " + e(_summary("Diesel", diesel_us)) + " " + e(_summary("Regular gas", gas_us)),
         f"Source: <a href=\"{EIA_URL}\">U.S. Energy Information Administration</a>. Regional averages, "
         "not station prices; actual pump and truck-stop prices vary.",
