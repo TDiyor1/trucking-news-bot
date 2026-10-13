@@ -17,6 +17,10 @@ from email.utils import parsedate_to_datetime
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 STATE = os.path.join(HERE, "state.json")
+NEWS = os.path.join(HERE, "news.json")  # rolling feed read by the website
+NEWS_KEEP = 80
+NEWS_MAX_AGE = timedelta(days=7)
+SITE_EXCERPT = 300
 MAX_AGE = timedelta(hours=24)
 MAX_PER_RUN = 12
 UA = "Mozilla/5.0 (TruckingNewsBot)"
@@ -143,13 +147,18 @@ TOPIC_AUDIENCE = {
 }
 
 
-def audience(item, tags):
+def audience_set(item, tags):
     hay = item["title"] + " " + item["body"][:600]
     hits = {k for k, rx in AUDIENCE_RE.items() if rx.search(hay)}
     if not hits:
         for t in tags:
             hits |= TOPIC_AUDIENCE.get(t, set())
-    if len(hits) in (0, 3):
+    return hits if len(hits) in (1, 2) else {"Carrier", "Shipper", "Broker"}
+
+
+def audience(item, tags):
+    hits = audience_set(item, tags)
+    if len(hits) == 3:
         return "🌐 ALL: CARRIER · SHIPPER · BROKER"
     return " · ".join(AUDIENCE_LABEL[k] for k in ("Carrier", "Shipper", "Broker") if k in hits)
 
@@ -173,6 +182,26 @@ def format_msg(item, tags):
         parts.append(e(ex))
     parts.append(f"{e(item['source'])} · <a href=\"{e(item['link'], quote=True)}\">Read full article</a>")
     return "\n\n".join(parts)[:4000]
+
+
+def record(item, tags):
+    d = item["date"] or datetime.now(timezone.utc)
+    return {
+        "id": item["id"], "title": item["title"], "url": item["link"], "source": item["source"],
+        "audience": [k for k in ("Carrier", "Shipper", "Broker") if k in audience_set(item, tags)],
+        "tags": tags, "excerpt": excerpt(item["body"], SITE_EXCERPT),
+        "published": d.astimezone(timezone.utc).isoformat(timespec="seconds"),
+    }
+
+
+def update_feed(records):
+    old = json.load(open(NEWS))["items"] if os.path.exists(NEWS) else []
+    merged = {r["id"]: r for r in old + records}
+    cutoff = (datetime.now(timezone.utc) - NEWS_MAX_AGE).isoformat()
+    items = sorted((r for r in merged.values() if r["published"] >= cutoff),
+                   key=lambda r: r["published"], reverse=True)[:NEWS_KEEP]
+    json.dump({"updated": datetime.now(timezone.utc).isoformat(timespec="seconds"), "items": items},
+              open(NEWS, "w"), indent=1, ensure_ascii=False)
 
 
 def send(env, text):
@@ -200,17 +229,19 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--seed", action="store_true")
+    ap.add_argument("--backfill", action="store_true", help="rebuild news.json from the last 48h; sends nothing")
     args = ap.parse_args()
 
     seen = set(json.load(open(STATE))) if os.path.exists(STATE) else set()
     now = datetime.now(timezone.utc)
-    fresh = []
+    fresh, everything = [], []
     for source, url in FEEDS.items():
         try:
             items = parse_feed(source, fetch(url))
         except Exception as ex:
             print(f"[warn] {source}: {ex}", file=sys.stderr)
             continue
+        everything += [i for i in items if i["link"] and i["title"]]
         for it in items:
             if not it["link"] or not it["title"] or it["id"] in seen:
                 continue
@@ -220,6 +251,16 @@ def main():
         seen |= {i["id"] for i in fresh}
         json.dump(sorted(seen)[-5000:], open(STATE, "w"))
         print(f"Seeded {len(fresh)} existing articles; nothing sent.")
+        return
+
+    if args.backfill:
+        recs = []
+        for it in everything:
+            tags = tag(it)
+            if it["date"] and now - it["date"] <= timedelta(hours=48) and (tags or it["source"] not in BROAD):
+                recs.append(record(it, tags))
+        update_feed(recs)
+        print(f"news.json rebuilt with {len(recs)} recent articles.")
         return
 
     queue = []
@@ -241,16 +282,18 @@ def main():
     if not args.dry_run and not (env.get("TELEGRAM_BOT_TOKEN") and env.get("TELEGRAM_CHAT_ID")):
         sys.exit("Missing TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID in .env")
 
-    sent = 0
+    sent, posted = 0, []
     for it, tags in queue:
         msg = format_msg(it, tags)
         if args.dry_run:
             print(msg, "\n" + "-" * 60)
         elif send(env, msg):
             seen.add(it["id"])
+            posted.append(record(it, tags))
             sent += 1
             time.sleep(1.2)
     if not args.dry_run:
+        update_feed(posted)
         json.dump(sorted(seen)[-5000:], open(STATE, "w"))
     print(f"{'Would send' if args.dry_run else 'Sent'} {len(queue) if args.dry_run else sent} articles.")
 
