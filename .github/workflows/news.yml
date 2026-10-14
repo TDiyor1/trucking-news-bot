@@ -3,6 +3,10 @@ on:
   schedule:
     - cron: "11,41 * * * *"
   workflow_dispatch:
+    inputs:
+      linkedin_test:
+        type: boolean
+        default: false
 permissions:
   contents: write
 concurrency:
@@ -22,6 +26,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TELEGRAM_LINKEDIN_CHAT_ID: ${{ secrets.TELEGRAM_LINKEDIN_CHAT_ID }}
+          LINKEDIN_TEST: ${{ inputs.linkedin_test }}
         run: python bot.py
       - name: Save state
         run: |

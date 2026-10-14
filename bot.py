@@ -418,6 +418,14 @@ def main():
     seen |= {i["id"] for i, _ in overflow}
 
     env = load_env()
+    if env.get("LINKEDIN_TEST") == "true":  # manual delivery check: one draft from news.json
+        for r in json.load(open(NEWS))["items"]:
+            it = dict(title=r["title"], body=r["excerpt"], link=r["url"], source=r["source"])
+            if r["tags"] and set(r["audience"]) & {"Carrier", "Shipper"}:
+                linkedin_send(env, it, r["tags"])
+                print("Sent LinkedIn test draft.")
+                return
+        sys.exit("No suitable article for test")
     if not args.dry_run and not (env.get("TELEGRAM_BOT_TOKEN") and env.get("TELEGRAM_CHAT_ID")):
         sys.exit("Missing TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID in .env")
 
