@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-14T17:23:37+00:00",
+ "updated": "2026-10-14T17:30:32+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=583120",
+   "title": "Freight broker alleges customer theft, kickbacks in lawsuit against rival",
+   "url": "https://www.freightwaves.com/news/freight-broker-alleges-customer-theft-kickbacks-in-lawsuit-against-rival",
+   "source": "FreightWaves",
+   "audience": [
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Edge Logistics has sued rival freight broker Freight Tec Management Group and four former employees, alleging they diverted customers through a scheme involving confidential information and kickbacks funded by inflated freight charges. The 51-page federal complaint, filed Sept.",
+   "published": "2026-10-14T17:09:49+00:00"
+  },
   {
    "id": "https://joc.com/article/savannahs-new-terminal-sets-2028-work-start-following-permit-approval-6305803",
    "title": "Savannah’s new terminal sets 2028 work start following permit approval",
@@ -1154,20 +1166,6 @@
    ],
    "excerpt": "BD plans to increase U.S. production of essential medical consumables in exchange for relief from future tariffs on its products.",
    "published": "2026-10-12T13:36:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=582907",
-   "title": "OOCL revenue up 45.1% on trans-Pacific surge",
-   "url": "https://www.freightwaves.com/news/oocl-revenue-up-45-1-on-trans-pacific-surge",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Orient Overseas Container Line reported a 45.1% year-over-year increase in third-quarter liner revenue to $3.28 billion, as higher revenue per container and increased cargo volumes drove gains across all four of its reported trade regions. OOCL handled 2.12 million twenty-foot equivalent units in…",
-   "published": "2026-10-12T13:31:00+00:00"
   }
  ]
 }
