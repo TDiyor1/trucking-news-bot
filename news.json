@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-14T17:30:32+00:00",
+ "updated": "2026-10-14T17:53:39+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/15834943",
+   "title": "Volvo overhauls its heavy-haul VNX model: 'Nothing like you’ve ever seen before'",
+   "url": "https://www.ccjdigital.com/trucks/class-7-8/article/15834943/volvo-trucks-north-america-launches-nextgen-vnx-vocational-rig",
+   "source": "CCJ",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Volvo Trucks North America (VTNA) introduced its redesigned Volvo VNX heavy-haul and vocational truck on Wednesday—the company's third product refresh in 33 months. VNX made its debut in 2013 and was updated in 2018. Just because it's third in line behind the long-haul flagship VNL and regional VNR…",
+   "published": "2026-10-14T17:30:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=583120",
    "title": "Freight broker alleges customer theft, kickbacks in lawsuit against rival",
@@ -1152,20 +1166,6 @@
    ],
    "excerpt": "The delivery offering provides long-haul transit from Nippon Express warehouses near the Port of Los Angeles to any U.S. destination within 100 miles of designated metropolitan areas.",
    "published": "2026-10-12T13:49:00+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/bd-strikes-supply-chain-pact-with-trump-administration/832653/",
-   "title": "BD strikes supply chain pact with Trump administration",
-   "url": "https://www.supplychaindive.com/news/bd-strikes-supply-chain-pact-with-trump-administration/832653/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "BD plans to increase U.S. production of essential medical consumables in exchange for relief from future tariffs on its products.",
-   "published": "2026-10-12T13:36:00+00:00"
   }
  ]
 }
