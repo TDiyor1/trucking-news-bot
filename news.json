@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-14T19:35:22+00:00",
+ "updated": "2026-10-14T19:53:46+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/fixing-trucking-detention",
+   "title": "Detention costs trucking billions — why is it so hard to fix?",
+   "url": "https://www.ttnews.com/articles/fixing-trucking-detention",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "The issue drew renewed attention in September when Congress released a report that examined ways to reduce excessive truck detention times.",
+   "published": "2026-10-14T19:52:25+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=583171",
    "title": "Waabi signs Warrior Logistics for Dallas-Houston freight",
@@ -1151,21 +1166,6 @@
    ],
    "excerpt": "Netradyne on Tuesday expanded the lineup of AI agents running on its Netradyne Intelligence platform. The update adds a Campaign Agent for driver coaching, a builder that lets fleet managers create their own agents, and conversational answers drawn from live fleet data.",
    "published": "2026-10-13T10:30:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15837117",
-   "title": "North Carolina suspends its fuel tax",
-   "url": "https://www.ccjdigital.com/regulations/equipment/article/15837117/north-carolina-suspends-motor-fuel-tax",
-   "source": "CCJ",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "Trucking news and briefs for Tuesday, Oct. 13, 2026: North Carolina suspends fuel tax The North Carolina General Assembly passed legislation Oct. 7, to temporarily suspend the state's 41-cent-per-gallon motor fuel tax through Nov. 30. The measure now heads to the Governor, who has 10 days to sign…",
-   "published": "2026-10-13T05:44:00+00:00"
   }
  ]
 }
