@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-14T20:00:32+00:00",
+ "updated": "2026-10-14T20:23:49+00:00",
  "items": [
+  {
+   "id": "https://www.dcvelocity.com/editorial/featured/external-forces-to-reshape-supply-chains-in-2027",
+   "title": "External forces to reshape supply chains in 2027",
+   "url": "https://www.dcvelocity.com/editorial/featured/external-forces-to-reshape-supply-chains-in-2027",
+   "source": "DC Velocity",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "A range of forces will reshape supply chains in the year ahead, and many of them will come from outside the industry, according to a 2027 Freight Market Outlook Report from logistics service provider C.H. Robinson, released this week. The report examines five key areas shaping supply chains in the…",
+   "published": "2026-10-14T20:20:39+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/california-diesel-prices-remain-above-8-per-gallon-as-truckers-call-for-re/832808/",
+   "title": "California diesel prices remain above $8 per gallon as truckers call for relief",
+   "url": "https://www.truckingdive.com/news/california-diesel-prices-remain-above-8-per-gallon-as-truckers-call-for-re/832808/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Elevated costs could extend well into next year, an energy expert tells Trucking Dive.",
+   "published": "2026-10-14T20:16:00+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/fixing-trucking-detention",
    "title": "Detention costs trucking billions — why is it so hard to fix?",
@@ -1135,37 +1163,6 @@
    ],
    "excerpt": "Bot Auto has picked Lenovo’s AD1 autonomous-driving domain controller, built on Nvidia Hyperion, as the production computer for its Class 8 driverless trucks. The Houston company announced the deal Tuesday. The AD1 goes into Bot Auto trucks starting in the first quarter of 2027.",
    "published": "2026-10-13T13:00:00+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/taylor-farms-halts-central-mexico-sourcing-after-cyclospora-outbreak/832766/",
-   "title": "Taylor Farms halts central Mexico sourcing after Cyclospora outbreak",
-   "url": "https://www.supplychaindive.com/news/taylor-farms-halts-central-mexico-sourcing-after-cyclospora-outbreak/832766/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "The company will no longer harvest and process lettuce from the region between May and August, a period the CDC deems the cyclosporiasis season.",
-   "published": "2026-10-13T10:57:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=582937",
-   "title": "Netradyne expands AI Agent lineup for fleet safety teams",
-   "url": "https://www.freightwaves.com/news/netradyne-expands-ai-agents-fleet-safety",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tariffs",
-    "Tech",
-    "Ports/Rail"
-   ],
-   "excerpt": "Netradyne on Tuesday expanded the lineup of AI agents running on its Netradyne Intelligence platform. The update adds a Campaign Agent for driver coaching, a builder that lets fleet managers create their own agents, and conversational answers drawn from live fleet data.",
-   "published": "2026-10-13T10:30:00+00:00"
   }
  ]
 }
