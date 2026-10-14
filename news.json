@@ -1,6 +1,32 @@
 {
- "updated": "2026-10-14T18:23:46+00:00",
+ "updated": "2026-10-14T18:30:32+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104281",
+   "title": "What to do if your ELD stops working",
+   "url": "https://landline.media/what-to-do-if-your-eld-stops-working/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Technology isn’t perfect, and sometimes ELDs malfunction. Knowing what to do if that happens is easy if you’re prepared.",
+   "published": "2026-10-14T18:29:21+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104278",
+   "title": "Push a button. Hide your plate. Now states are fighting back",
+   "url": "https://landline.media/push-a-button-hide-your-plate-now-states-are-fighting-back/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "License plate flippers can help drivers hide plates and dodge tolls. States are targeting these devices and other ways to block cameras.",
+   "published": "2026-10-14T18:27:44+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/ford-lasting-us-tariffs-trump",
    "title": "Ontario Premier Ford warns U.S. tariffs may outlast Trump",
@@ -1138,33 +1164,6 @@
    "tags": [],
    "excerpt": "The bargain-priced van trailers some drivers have seen could become much harder to find after new trade duties, and more are expected.",
    "published": "2026-10-12T15:34:56+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104244",
-   "title": "Troopers target fatigued truck drivers on I-5",
-   "url": "https://landline.media/troopers-target-fatigued-truck-drivers-on-i-5/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Among the common but preventable factors in vehicular crashes is fatigued driving. One state is stepping up enforcement.",
-   "published": "2026-10-12T15:31:57+00:00"
-  },
-  {
-   "id": "https://joc.com/article/north-american-intermodal-trends-varying-widely-by-geography-6304708",
-   "title": "North American intermodal trends varying widely by geography",
-   "url": "https://joc.com/article/north-american-intermodal-trends-varying-widely-by-geography-6304708",
-   "source": "JOC",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs",
-    "Ports/Rail"
-   ],
-   "excerpt": "The trade war between the US and Canada is wreaking damage on the Canadian economy and depressing demand for freight transportation, writes Larry Gross.",
-   "published": "2026-10-12T15:17:16+00:00"
   }
  ]
 }
