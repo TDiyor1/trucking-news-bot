@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T17:53:39+00:00",
+ "updated": "2026-10-14T17:58:39+00:00",
  "items": [
   {
    "id": "https://www.ccjdigital.com/15834943",
@@ -13,6 +13,20 @@
    ],
    "tags": [],
    "excerpt": "Volvo Trucks North America (VTNA) introduced its redesigned Volvo VNX heavy-haul and vocational truck on Wednesday—the company's third product refresh in 33 months. VNX made its debut in 2013 and was updated in 2018. Just because it's third in line behind the long-haul flagship VNL and regional VNR…",
+   "published": "2026-10-14T17:30:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583063",
+   "title": "Volvo takes aim at vocational trucks with 540-hp VNX launch",
+   "url": "https://www.freightwaves.com/news/volvo-vnx-vocational-truck-launch",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "SHIPPENSBURG, Pa. — Volvo Trucks North America unveiled the all-new VNX on Wednesday, a vocational and heavy-haul truck built for a segment where Volvo is looking to expand its market reach. Peter Voorhoeve, president of Volvo Trucks North America, put the company’s share of North American…",
    "published": "2026-10-14T17:30:00+00:00"
   },
   {
@@ -1152,20 +1166,6 @@
    "tags": [],
    "excerpt": "The OEM and fueling giant Pilot are scaling heavy-duty electric charging infrastructure and targeting key freight corridors.",
    "published": "2026-10-12T14:04:00+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/nippon-express-aims-to-boost-us-transport-reliability-with-5-day-service/832500/",
-   "title": "Nippon Express aims to boost US transport reliability with 5-day service",
-   "url": "https://www.truckingdive.com/news/nippon-express-aims-to-boost-us-transport-reliability-with-5-day-service/832500/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "The delivery offering provides long-haul transit from Nippon Express warehouses near the Port of Los Angeles to any U.S. destination within 100 miles of designated metropolitan areas.",
-   "published": "2026-10-12T13:49:00+00:00"
   }
  ]
 }
