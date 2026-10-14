@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-14T16:23:40+00:00",
+ "updated": "2026-10-14T16:30:32+00:00",
  "items": [
+  {
+   "id": "https://joc.com/article/container-ship-sinks-in-strait-of-hormuz-after-attack-6305838",
+   "title": "Container ship sinks in Strait of Hormuz after attack",
+   "url": "https://joc.com/article/container-ship-sinks-in-strait-of-hormuz-after-attack-6305838",
+   "source": "JOC",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Two vessels from the same feeder operator were hit in the waterway, with one catching fire and sinking while the other has limped to a safe anchorage.",
+   "published": "2026-10-14T16:24:19+00:00"
+  },
+  {
+   "id": "https://joc.com/article/tesla-driving-intermodal-surge-from-southern-california-to-houston-6305837",
+   "title": "Tesla driving intermodal surge from Southern California to Houston",
+   "url": "https://joc.com/article/tesla-driving-intermodal-surge-from-southern-california-to-houston-6305837",
+   "source": "JOC",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The electric vehicle manufacturer is importing goods into Los Angeles and Long Beach and railing them to its two factories in the Houston area, according to multiple sources.",
+   "published": "2026-10-14T16:24:15+00:00"
+  },
   {
    "id": "https://joc.com/article/rising-suez-vessel-transits-have-north-europe-hubs-on-edge-6305783",
    "title": "Rising Suez vessel transits have North Europe hubs on edge",
@@ -1135,35 +1163,6 @@
    ],
    "excerpt": "Penske Truck Leasing President Art Vallely says that the most valuable question about AI in trucking is a practical one: What can it help us do better?",
    "published": "2026-10-12T11:00:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/penske-sherry-sanger-qa",
-   "title": "Executive Q&A with Penske’s Sherry Sanger",
-   "url": "https://www.ttnews.com/articles/penske-sherry-sanger-qa",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Sherry Sanger, executive vice president of strategy and marketing at Penske Transportation Solutions, explains how AI enhances fleet and maintenance operations.",
-   "published": "2026-10-12T11:00:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15837055",
-   "title": "Climbing driver wages are driving up contract rates",
-   "url": "https://www.ccjdigital.com/economic-trends/article/15837055/truck-driver-pay-continues-to-rise",
-   "source": "CCJ",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Truck driver pay continued to rise through 2025 despite motor carriers weathering the tail end of a prolonged slump marked by sluggish freight demand, declining rates, and escalating expenses, data from the American Trucking Associations shows. The ATA's 2026 Driver Compensation Study revealed…",
-   "published": "2026-10-12T10:53:29+00:00"
   }
  ]
 }
