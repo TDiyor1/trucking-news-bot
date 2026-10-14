@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-14T18:30:32+00:00",
+ "updated": "2026-10-14T18:53:50+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104284",
+   "title": "Diesel price relief remains elusive as potential threats emerge",
+   "url": "https://landline.media/diesel-price-relief-remains-elusive-as-potential-threats-emerge/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "While the highest diesel prices on record have hit the trucking industry hard, there are more potential price-increasing threats lurking in the shadows.",
+   "published": "2026-10-14T18:31:58+00:00"
+  },
   {
    "id": "https://landline.media/?p=104281",
    "title": "What to do if your ELD stops working",
@@ -26,6 +40,20 @@
    "tags": [],
    "excerpt": "License plate flippers can help drivers hide plates and dodge tolls. States are targeting these devices and other ways to block cameras.",
    "published": "2026-10-14T18:27:44+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/epa-texas-low-sulfur-diesel",
+   "title": "EPA grants Texas waiver for wider use of low-sulfur diesel",
+   "url": "https://www.ttnews.com/articles/epa-texas-low-sulfur-diesel",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "The waiver, however, applies only to older engines. EPA warned that the fuel can damage newer trucks equipped with modern emissions systems.",
+   "published": "2026-10-14T18:19:55+00:00"
   },
   {
    "id": "https://www.ttnews.com/articles/ford-lasting-us-tariffs-trump",
@@ -1136,34 +1164,6 @@
    ],
    "excerpt": "A proposed federal rule to formally codify English language proficiency requirements as an out-of-service violation has spurred division among trucking associations, training schools, and advocacy groups. The Federal Motor Carrier Safety Administration (FMCSA) in August published the Notice of…",
    "published": "2026-10-12T17:05:27+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=582902",
-   "title": "1 million boxes set new Los Angeles port record",
-   "url": "https://www.freightwaves.com/news/1-million-boxes-set-new-los-angeles-port-record",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs",
-    "Ports/Rail"
-   ],
-   "excerpt": "The Port of Los Angeles handled a record 1,042,652 twenty-foot equivalent units in September, marking the busiest month in its 118-year history as rising imports helped cap unprecedented quarterly and four-month cargo totals. Throughput exceeded the previous monthly record, set in July 2025, by…",
-   "published": "2026-10-12T15:44:44+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104247",
-   "title": "Massive China van trailer duties set to become final",
-   "url": "https://landline.media/massive-china-van-trailer-duties-set-to-become-final/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "The bargain-priced van trailers some drivers have seen could become much harder to find after new trade duties, and more are expected.",
-   "published": "2026-10-12T15:34:56+00:00"
   }
  ]
 }
