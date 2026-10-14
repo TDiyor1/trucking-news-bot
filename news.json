@@ -1,6 +1,92 @@
 {
- "updated": "2026-10-14T13:30:29+00:00",
+ "updated": "2026-10-14T14:00:42+00:00",
  "items": [
+  {
+   "id": "https://www.supplychaindive.com/news/cbp-eyes-earlier-filing-deadlines-for-low-cost-imports-postal-changes/832877/",
+   "title": "CBP eyes earlier filing deadlines for low-cost imports, postal changes",
+   "url": "https://www.supplychaindive.com/news/cbp-eyes-earlier-filing-deadlines-for-low-cost-imports-postal-changes/832877/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs",
+    "Capacity"
+   ],
+   "excerpt": "The proposed adjustments could spur higher shipping costs and USPS capacity issues, but trade compliance would improve, the agency said.",
+   "published": "2026-10-14T13:49:47+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/15837427",
+   "title": "Truck-Lite releases trailer back up safety system for 2027 builds",
+   "url": "https://www.ccjdigital.com/products/article/15837427/new-trucklite-backup-safety-system-for-commercial-trailers-2027",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Truck-Lite has released its Trailer Back Up Safety System for 2027 builds, offering an integrated reverse-lighting and audible alarm system designed to improve trailer backup safety and efficiency. The system, initially announced at the Technology & Maintenance Council's (TMC) Annual Meeting and…",
+   "published": "2026-10-14T13:49:13+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/15837425",
+   "title": "Why AI governance is important and how to implement it",
+   "url": "https://www.ccjdigital.com/technology/artificial-intelligence/article/15837425/ai-governance-in-trucking-managing-shadow-ai-and-fleet-risks",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "In July, I wrote : “Artificial intelligence (AI) is already active inside most transportation companies. In many cases, it arrived without an intentional decision, having been bolted on by vendors to existing platforms. These tools are now processing your operational data with no internal policy…",
+   "published": "2026-10-14T13:38:20+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583086",
+   "title": "LTL rates hit new high in Q3, moving higher in Q4",
+   "url": "https://www.freightwaves.com/news/ltl-rates-hit-new-high-in-q3-moving-higher-in-q4",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "Less-than-truckload rates hit a new high in the third quarter and are expected to finish the year even higher, according to a report from AFS Logistics and financial services firm TD Cowen. The LTL rate-per-pound component of the TD Cowen-AFS Freight Index finished the third quarter 78.8% above its…",
+   "published": "2026-10-14T13:35:12+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583082",
+   "title": "Is UPS parcel pivot a strategic winner or a ‘Trojan horse’?",
+   "url": "https://www.freightwaves.com/news/is-ups-parcel-pivot-a-strategic-winner-or-a-trojan-horse",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "ORLANDO, Florida — For 18 months, United Parcel Service management has talked about shedding unprofitable e-commerce volume to concentrate on more complex, premium services in sectors like B2B distribution, healthcare, automotive and small enterprises.",
+   "published": "2026-10-14T13:23:59+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=582888",
+   "title": "Nebraska deputies recover $250K stolen copper load 50 miles past Iowa destination",
+   "url": "https://www.freightwaves.com/news/nebraska-deputies-recover-250k-stolen-copper-load-50-miles-past-iowa-destination",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation",
+    "Fraud"
+   ],
+   "excerpt": "A Nebraska traffic stop uncovered more than $250,000 in stolen copper inside a semi-truck on October 7. Lancaster County’s Criminal Interdiction Unit stopped the vehicle around 2 p.m. on Interstate 80. Deputies saw the trailer leaning heavily after the load shifted toward the passenger side.",
+   "published": "2026-10-14T13:20:34+00:00"
+  },
   {
    "id": "https://www.freightcaviar.com/stories/shut-down-reopen-repeat",
    "title": "🎣 Shut Down, Reopen, Repeat",
