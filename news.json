@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T20:23:49+00:00",
+ "updated": "2026-10-14T20:30:27+00:00",
  "items": [
   {
    "id": "https://www.dcvelocity.com/editorial/featured/external-forces-to-reshape-supply-chains-in-2027",
@@ -28,6 +28,20 @@
    ],
    "excerpt": "Elevated costs could extend well into next year, an energy expert tells Trucking Dive.",
    "published": "2026-10-14T20:16:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583177",
+   "title": "English language rule’s comments bring criticism from Sikh organization",
+   "url": "https://www.freightwaves.com/news/english-language-rules-comments-bring-criticism-from-sikh-organization",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "With the more than 2,200 comments filed to the Federal Motor Carrier Safety Administration are overwhelmingly in favor of codifying current regulations on English Language Proficiency (ELP), the few urging caution tend to stick out. That is particularly true in the case of the Sikh Coalition, which…",
+   "published": "2026-10-14T20:13:47+00:00"
   },
   {
    "id": "https://www.ttnews.com/articles/fixing-trucking-detention",
@@ -1148,21 +1162,6 @@
    ],
    "excerpt": "CSX Executive Vice President and Chief Operating Officer Mike Cory is retiring, ending a tenure that began when he came out of retirement to join the railroad in September 2023. Cory will work with the leadership team to ensure a smooth transition, the company said, and will provide transition…",
    "published": "2026-10-13T13:24:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=582933",
-   "title": "Bot Auto taps Lenovo, Nvidia, pegs autonomy hardware at $50,000",
-   "url": "https://www.freightwaves.com/news/bot-auto-lenovo-ad1-nvidia-driverless-trucks",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation",
-    "Tech"
-   ],
-   "excerpt": "Bot Auto has picked Lenovo’s AD1 autonomous-driving domain controller, built on Nvidia Hyperion, as the production computer for its Class 8 driverless trucks. The Houston company announced the deal Tuesday. The AD1 goes into Bot Auto trucks starting in the first quarter of 2027.",
-   "published": "2026-10-13T13:00:00+00:00"
   }
  ]
 }
