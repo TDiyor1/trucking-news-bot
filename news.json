@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-14T14:30:38+00:00",
+ "updated": "2026-10-14T15:30:33+00:00",
  "items": [
+  {
+   "id": "https://joc.com/article/rising-suez-vessel-transits-have-north-europe-hubs-on-edge-6305783",
+   "title": "Rising Suez vessel transits have North Europe hubs on edge",
+   "url": "https://joc.com/article/rising-suez-vessel-transits-have-north-europe-hubs-on-edge-6305783",
+   "source": "JOC",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "A key concern of hubs in the region is that as container services move to the shorter Suez route, they'll begin to overlap ships on services still sailing around southern Africa, creating a bunching effect at the ports.",
+   "published": "2026-10-14T14:41:15+00:00"
+  },
   {
    "id": "https://joc.com/article/airlines-move-capacity-to-booming-china-hong-kong-outbound-markets-6305764",
    "title": "Airlines move capacity to booming China, Hong Kong outbound markets",
@@ -174,6 +188,22 @@
    "published": "2026-10-14T12:13:03+00:00"
   },
   {
+   "id": "https://www.supplychaindive.com/news/has-washingtons-approach-to-manufacturing-incentives-really-changed/832121/",
+   "title": "Has Washington’s approach to manufacturing incentives really changed?",
+   "url": "https://www.supplychaindive.com/news/has-washingtons-approach-to-manufacturing-incentives-really-changed/832121/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs",
+    "Ports/Rail"
+   ],
+   "excerpt": "In addition to tariffs, the Trump administration has taken a more sector-specific approach to incentives compared to the Biden administration. A recent Department of Commerce report laid out the current tools available.",
+   "published": "2026-10-14T11:36:00+00:00"
+  },
+  {
    "id": "https://www.freightwaves.com/?p=583067",
    "title": "Pilot, Tesla open first Megacharger site, 12 more underway",
    "url": "https://www.freightwaves.com/news/pilot-tesla-megacharger-site-opens",
@@ -202,6 +232,20 @@
    ],
    "excerpt": "Elevated fuel prices, tight capacity and peak-season fees are pushing freight rates to historic highs, according to the fourth-quarter 2026 TD Cowen/AFS Freight Index released Tuesday. The index projects the highest truckload rates since the first quarter of 2022, less-than-truckload (LTL) rates…",
    "published": "2026-10-14T10:53:36+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583099",
+   "title": "New chief for DP World Americas",
+   "url": "https://www.freightwaves.com/news/new-chief-for-dp-world-americas",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "DP World has appointed Morten Johansen as chief executive officer of its Americas region, placing a longtime ports and logistics executive in charge of the company’s operations across North America, South America, and the Caribbean. Johansen made the announcement in a LinkedIn post Oct. 13.",
+   "published": "2026-10-14T10:26:00+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=583106",
@@ -1120,30 +1164,6 @@
    ],
    "excerpt": "Truck driver pay continued to rise through 2025 despite motor carriers weathering the tail end of a prolonged slump marked by sluggish freight demand, declining rates, and escalating expenses, data from the American Trucking Associations shows. The ATA's 2026 Driver Compensation Study revealed…",
    "published": "2026-10-12T10:53:29+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/spons/the-fast-track-to-6-figure-driving-why-truckers-should-team-up/832337/",
-   "title": "The fast track to 6-figure driving: Why truckers should team up",
-   "url": "https://www.truckingdive.com/spons/the-fast-track-to-6-figure-driving-why-truckers-should-team-up/832337/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Carriers recruiting from a shrinking talent pool are turning to team driving to attract interest.",
-   "published": "2026-10-12T09:00:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15837141",
-   "title": "Alabama suspends IFTA requirements for hurricane relief",
-   "url": "https://www.ccjdigital.com/regulations/article/15837141/alabama-suspends-ifta-requirements-for-hurricane-relief",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Trucking news and briefs for Monday, Oct. 12, 2026: Alabama offering hurricane-relief haulers tax relief With Hurricane Isaias bearing down on the Gulf Coast, the Alabama Department of Revenue is easing the tax burden for truck drivers providing disaster relief.",
-   "published": "2026-10-12T05:15:00+00:00"
   }
  ]
 }
