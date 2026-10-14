@@ -323,6 +323,47 @@ def eia_report(env, seen, dry_run=False):
         print(f"Posted EIA weekly report for {d['week']}.")
 
 
+# ---------------------------------------------------------------- LinkedIn draft feed (optional)
+# Separate private chat (TELEGRAM_LINKEDIN_CHAT_ID). Skipped entirely when the secret is unset,
+# so the main channel is never affected.
+LI_TAKEAWAY = {
+    "Rates": "Rate moves change what shippers should budget and what carriers should quote.",
+    "Diesel": "Fuel swings hit carrier margins first, then show up in shipper surcharges.",
+    "Regulation": "Rule changes affect which carriers can legally haul, and shippers' capacity options.",
+    "Tariffs": "Trade policy shifts freight lanes and timing, so shippers should plan routing early.",
+    "Capacity": "Capacity shifts decide who gets trucks and at what price.",
+    "Fraud": "Fraud and cargo theft are rising risks: vet carriers and verify pickups.",
+    "Tech": "New tech can lower costs for carriers and improve visibility for shippers.",
+    "Ports/Rail": "Port and rail disruptions ripple into truck demand and delivery times.",
+}
+
+
+def linkedin_ok(item, tags):
+    return bool(tags) and bool(audience_set(item, tags) & {"Carrier", "Shipper"})
+
+
+def format_linkedin(item, tags):
+    e = html.escape
+    who = " & ".join(k.lower() + "s" for k in ("Shipper", "Carrier") if k in audience_set(item, tags))
+    take = LI_TAKEAWAY.get(tags[0], "")
+    ex = excerpt(item["body"], 350)
+    tagline = " ".join("#" + t.replace("/", "") for t in tags[:3]) + " #Freight #Logistics #Trucking"
+    draft = (f"{item['title']}\n\n{ex}\n\nWhy it matters for {who}: {take}\n\n"
+             f"What are you seeing in your lanes? Message me if you need coverage.\n\n{tagline}")
+    return (f"📝 <b>LinkedIn draft · {e(who)}</b>\n\n<pre>{e(draft)}</pre>\n"
+            f"{e(item['source'])} · <a href=\"{e(item['link'], quote=True)}\">Source</a>")[:4000]
+
+
+def linkedin_send(env, item, tags):
+    chat = env.get("TELEGRAM_LINKEDIN_CHAT_ID")
+    if not chat or not linkedin_ok(item, tags):
+        return
+    try:
+        send(dict(env, TELEGRAM_CHAT_ID=chat), format_linkedin(item, tags), preview=False)
+    except Exception as ex:  # never let this break the main channel run
+        print("linkedin send failed:", ex, file=sys.stderr)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
@@ -387,10 +428,13 @@ def main():
         msg = format_msg(it, tags)
         if args.dry_run:
             print(msg, "\n" + "-" * 60)
+            if linkedin_ok(it, tags):
+                print(format_linkedin(it, tags), "\n" + "=" * 60)
         elif send(env, msg):
             seen.add(it["id"])
             posted.append(record(it, tags))
             sent += 1
+            linkedin_send(env, it, tags)
             time.sleep(1.2)
     if not args.dry_run:
         update_feed(posted)
