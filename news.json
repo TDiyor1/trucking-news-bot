@@ -1,6 +1,49 @@
 {
- "updated": "2026-10-14T14:00:42+00:00",
+ "updated": "2026-10-14T14:30:38+00:00",
  "items": [
+  {
+   "id": "https://joc.com/article/airlines-move-capacity-to-booming-china-hong-kong-outbound-markets-6305764",
+   "title": "Airlines move capacity to booming China, Hong Kong outbound markets",
+   "url": "https://joc.com/article/airlines-move-capacity-to-booming-china-hong-kong-outbound-markets-6305764",
+   "source": "JOC",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Capacity"
+   ],
+   "excerpt": "Freighter operators are adjusting aircraft deployment, schedules and allocations as booking activity takes off on trans-Pacific, intra-Asia and Africa routes.",
+   "published": "2026-10-14T14:21:15+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/shipping-tool-arcbest-view-enhances-platform-for-visibility-efficiency/832857/",
+   "title": "Shipping tool ArcBest View enhances platform for visibility, efficiency",
+   "url": "https://www.truckingdive.com/news/shipping-tool-arcbest-view-enhances-platform-for-visibility-efficiency/832857/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "The transportation company added automated classification, real-time tracking and a simpler integration to the interface, following feedback from customers.",
+   "published": "2026-10-14T14:10:00+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/ta-services-acquires-2-texas-based-businesses/832634/",
+   "title": "TA Services acquires 2 Texas-based businesses",
+   "url": "https://www.truckingdive.com/news/ta-services-acquires-2-texas-based-businesses/832634/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "The acquisition adds trucks and expands the Texas-based 3PL’s cross-border operations, according to an announcement.",
+   "published": "2026-10-14T14:05:00+00:00"
+  },
   {
    "id": "https://www.supplychaindive.com/news/cbp-eyes-earlier-filing-deadlines-for-low-cost-imports-postal-changes/832877/",
    "title": "CBP eyes earlier filing deadlines for low-cost imports, postal changes",
@@ -159,6 +202,21 @@
    ],
    "excerpt": "Elevated fuel prices, tight capacity and peak-season fees are pushing freight rates to historic highs, according to the fourth-quarter 2026 TD Cowen/AFS Freight Index released Tuesday. The index projects the highest truckload rates since the first quarter of 2022, less-than-truckload (LTL) rates…",
    "published": "2026-10-14T10:53:36+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583106",
+   "title": "Philadelphia ports sets $837 million expansion, first new berth in 50 years",
+   "url": "https://www.freightwaves.com/news/philadelphia-ports-sets-837-million-expansion-first-new-berth-in-50-years",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Capacity",
+    "Ports/Rail"
+   ],
+   "excerpt": "Pennsylvania will spend more than $371 million at the of Philadelphia, a commitment that officials say will unlock $466 million in federal grants and private investment as part of a $837 million expansion described as the largest in the hub’s history. The plan is expected to increase container…",
+   "published": "2026-10-14T10:05:00+00:00"
   },
   {
    "id": "https://www.ccjdigital.com/15837369",
