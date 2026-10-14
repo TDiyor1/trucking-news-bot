@@ -1,6 +1,96 @@
 {
- "updated": "2026-10-14T19:00:36+00:00",
+ "updated": "2026-10-14T19:23:50+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/cargo-ship-sinks-hit-hormuz",
+   "title": "Cargo ship sinks after Strait of Hormuz strike causes fire",
+   "url": "https://www.ttnews.com/articles/cargo-ship-sinks-hit-hormuz",
+   "source": "Transport Topics",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "A cargo ship sank in the Strait of Hormuz after a strike that sparked a fire and the evacuation of crew members, the Maritime and Port Authority of Singapore said.",
+   "published": "2026-10-14T19:10:00+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104287",
+   "title": "Expect to see more driverless trucks in 2027",
+   "url": "https://landline.media/expect-to-see-more-driverless-trucks-in-2027/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation",
+    "Tech"
+   ],
+   "excerpt": "Following FMCSA’s decision to grant an exemption for autonomous trucking companies, expect to see more driverless trucks on the highway.",
+   "published": "2026-10-14T19:07:18+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583151",
+   "title": "Intermodal: Freight’s MUST-HAVE in Volatile Markets",
+   "url": "https://www.freightwaves.com/news/intermodal-freights-must-have-in-volatile-markets",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Diesel",
+    "Ports/Rail"
+   ],
+   "excerpt": "Intermodal conversion is no longer an option but a necessity for shippers, driven by past supply chain chaos and persistent fuel costs. FreightWaves Finance Editor Todd Maiden breaks down J.B. Hunt’s strategic plays in intermodal and dedicated, revealing how major carriers are navigating current…",
+   "published": "2026-10-14T19:00:08+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583150",
+   "title": "Why Rail Is Booming: Intermodal & Carload Growth Explained",
+   "url": "https://www.freightwaves.com/news/why-rail-is-booming-intermodal-carload-growth-explained",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Diesel",
+    "Capacity",
+    "Ports/Rail"
+   ],
+   "excerpt": "US rail traffic is surging, with intermodal and carload volumes hitting new highs. This isn’t just a few bright spots; growth is broad-based across nearly all industrial sectors, driven by tight trucking capacity and high diesel prices. Find out what this means for the broader industrial economy…",
+   "published": "2026-10-14T18:59:14+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583149",
+   "title": "Democratizing Trucking Tech: What Small Fleets NEED to Know",
+   "url": "https://www.freightwaves.com/news/democratizing-trucking-tech-what-small-fleets-need-to-know",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "The trucking industry is rapidly evolving, making cutting-edge technology a must-have for carriers of all sizes. Learn how Datatruck is transforming the landscape for small and mid-sized fleets, offering advanced TMS solutions that help them boost profits, cut costs, and gain unparalleled…",
+   "published": "2026-10-14T18:58:14+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583148",
+   "title": "Freight Market Alert: Why October’s Tender Rejections Hit 14% Unexpectedly",
+   "url": "https://www.freightwaves.com/news/freight-market-alert-why-octobers-tender-rejections-hit-14-unexpectedly",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "The SONAR Truckload Rejection Index is skyrocketing, hitting an unexpected 14% in October – a significant development outside normal seasonal patterns. This isn’t driven by a demand spike, but rather by persistent market imbalance and insufficient supply across the country.",
+   "published": "2026-10-14T18:57:25+00:00"
+  },
   {
    "id": "https://landline.media/?p=104284",
    "title": "Diesel price relief remains elusive as potential threats emerge",
@@ -1076,94 +1166,6 @@
    ],
    "excerpt": "A 17-cent per-mile gain in the national average DAT spot rate over two weeks heralds more volatile transactional pricing in the fourth quarter.",
    "published": "2026-10-12T20:27:15+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=582921",
-   "title": "Mexico trucker shortages, visa restrictions squeeze cross-border capacity",
-   "url": "https://www.freightwaves.com/news/mexico-trucker-shortages-visa-restrictions-squeeze-cross-border-capacity",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tariffs",
-    "Capacity",
-    "Ports/Rail"
-   ],
-   "excerpt": "North American cross-border trucking capacity is expected to remain constrained into 2027 despite softer freight demand. Executives at logistics provider TRAFFIX told FreightWaves driver shortages , regulatory restrictions and rising operating costs could limit the number of trucks available to…",
-   "published": "2026-10-12T19:07:46+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104258",
-   "title": "Hurricane Isaias triggers trucking waivers across the Southeast",
-   "url": "https://landline.media/hurricane-isaias-triggers-trucking-waivers-across-the-southeast/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Hauling supplies into storm-hit areas? Three states have eased trucking rules, but the relief comes with different limits and deadlines.",
-   "published": "2026-10-12T18:18:47+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=582914",
-   "title": "State loan to aid Louisiana port’s new rail connection",
-   "url": "https://www.freightwaves.com/news/state-loan-to-aid-louisiana-ports-new-rail-connection",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "A state agency is providing a $1 million loan to add a rail spur connecting the Port of Columbia to Union Pacific ’s main line. Louisiana Economic Development awarded the loan under its FastSites program, helping close a funding gap on the $7 million project.",
-   "published": "2026-10-12T18:17:36+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104253",
-   "title": "Northeast states plan ‘Wicked’ enforcement blitz",
-   "url": "https://landline.media/northeast-states-plan-wicked-enforcement-blitz/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Wicked Safe enforcement blitz targets dangerous driving and truck violations. Consider this your treat of a warning before enforcement brings the tricks.",
-   "published": "2026-10-12T18:13:28+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104250",
-   "title": "English proficiency a ‘life-and-death safety standard,’ OOIDA says",
-   "url": "https://landline.media/english-proficiency-a-life-and-death-safety-standard-ooida-says/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "One instant can be the difference between a safe trip and a disastrous one. That’s why OOIDA says English proficiency is crucial for truckers.",
-   "published": "2026-10-12T17:25:20+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15837232",
-   "title": "FMCSA’s proposed trucker language rule draws praise and pushback",
-   "url": "https://www.ccjdigital.com/regulations/safety-compliance/article/15837232/fmcsa-trucker-language-rule-sparks-debate-over-safety-oos-criteria",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "A proposed federal rule to formally codify English language proficiency requirements as an out-of-service violation has spurred division among trucking associations, training schools, and advocacy groups. The Federal Motor Carrier Safety Administration (FMCSA) in August published the Notice of…",
-   "published": "2026-10-12T17:05:27+00:00"
   }
  ]
 }
