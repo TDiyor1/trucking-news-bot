@@ -1,6 +1,75 @@
 {
- "updated": "2026-10-14T18:00:32+00:00",
+ "updated": "2026-10-14T18:23:46+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/ford-lasting-us-tariffs-trump",
+   "title": "Ontario Premier Ford warns U.S. tariffs may outlast Trump",
+   "url": "https://www.ttnews.com/articles/ford-lasting-us-tariffs-trump",
+   "source": "Transport Topics",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "Ontario Premier Doug Ford said Canada must prepare for the possibility that U.S. trade protectionism will last well beyond President Donald Trump’s administration.",
+   "published": "2026-10-14T18:15:00+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/15837489",
+   "title": "The myth of the bottomless market: Evaluating Class 8 truck sales and tech optimism",
+   "url": "https://www.ccjdigital.com/trucks/class-7-8/article/15837489/class-8-truck-market-reality-check-why-sales-projections-fall-short",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Safe harbor provisions allow companies to share ambitious corporate forecasts with the public, investors, competitors, and regulators. The market eventually decides whether those predictions were fantasy or sound. Those predictions usually miss a key detail: They rarely explain where those new…",
+   "published": "2026-10-14T18:14:27+00:00"
+  },
+  {
+   "id": "https://joc.com/article/fmc-floats-port-fees-for-spanish-ships-import-restrictions-6305859",
+   "title": "FMC floats port fees for Spanish ships, import restrictions",
+   "url": "https://joc.com/article/fmc-floats-port-fees-for-spanish-ships-import-restrictions-6305859",
+   "source": "JOC",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The proposals stem from a December 2024 investigation that found Spain created unfavorable conditions for US trade by barring US-flagged vessels from its ports.",
+   "published": "2026-10-14T18:02:14+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/15837485",
+   "title": "Truck maintenance tips that maximize uptime",
+   "url": "https://www.ccjdigital.com/maintenance/maintenance/article/15837485/commercial-truck-maintenance-checklist-best-practices",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Regular truck maintenance is essential for safe operation, maximizing uptime and helping reduce operating costs. Routine inspections can identify small issues before they become costly repairs while helping keep your truck operating efficiently. Daily miles on the road can take a toll on various…",
+   "published": "2026-10-14T18:01:43+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583126",
+   "title": "Houthi attacks add new geopolitical risk to softening container rates",
+   "url": "https://www.freightwaves.com/news/houthi-attacks-add-new-geopolitical-risk-to-softening-container-rates",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Rates",
+    "Ports/Rail"
+   ],
+   "excerpt": "Repeated Houthi missile and drone attacks on Saudi Arabia’s airports and energy infrastructure have sharply escalated the Saudi-Houthi conflict, raising the prospect of renewed disruption to Red Sea shipping as the 2027 contract-tendering season gets underway.",
+   "published": "2026-10-14T17:46:53+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/15834943",
    "title": "Volvo overhauls its heavy-haul VNX model: 'Nothing like you’ve ever seen before'",
@@ -1096,76 +1165,6 @@
    ],
    "excerpt": "The trade war between the US and Canada is wreaking damage on the Canadian economy and depressing demand for freight transportation, writes Larry Gross.",
    "published": "2026-10-12T15:17:16+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=582027",
-   "title": "Freight Fraud Awareness Day returns as strategic cargo theft reshapes trucking",
-   "url": "https://www.freightwaves.com/news/freight-fraud-awareness-day-returns-as-strategic-cargo-theft-reshapes-trucking",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Fraud"
-   ],
-   "excerpt": "Freight fraud can leave victims wondering whether anyone else has faced the same attack. Stolen identities, deceptive pickups and double brokering can strike businesses across transportation. Many companies never publicly discuss what happened afterward.",
-   "published": "2026-10-12T14:41:12+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/walmart-opens-next-gen-california-facility-to-boost-west-coast-fulfillmen/832631/",
-   "title": "Walmart opens ‘next gen’ California facility to boost West Coast fulfillment",
-   "url": "https://www.supplychaindive.com/news/walmart-opens-next-gen-california-facility-to-boost-west-coast-fulfillmen/832631/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Capacity"
-   ],
-   "excerpt": "The 900,000-square-foot site is equipped with an automated storage and retrieval system to help increase order capacity to enable faster shipping.",
-   "published": "2026-10-12T14:32:40+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=582889",
-   "title": "The Hidden Business Risk Inside Fleet Compliance",
-   "url": "https://www.freightwaves.com/news/the-hidden-business-risk-inside-fleet-compliance",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Many transportation executives seem to place vehicle compliance in the same mental category as expense reports and badge renewals. It’s necessary, but it’s largely forgettable and delegated to the back office. That might have made sense when fleets were smaller and simpler, but it breaks down as…",
-   "published": "2026-10-12T14:17:52+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/werner-backs-autonomous-trucks-but-economic-and-liability-hurdles-remain/832549/",
-   "title": "Werner backs autonomous trucks, but economic and liability hurdles remain",
-   "url": "https://www.truckingdive.com/news/werner-backs-autonomous-trucks-but-economic-and-liability-hurdles-remain/832549/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "The carrier is brokering freight to several AV developers, CFO Christopher Wikoff said, while cautioning that insurance questions must be resolved before the technology can scale.",
-   "published": "2026-10-12T14:07:00+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/tesla-expands-megacharger-network-in-california-georgia/832578/",
-   "title": "Tesla expands Megacharger network in California, Georgia",
-   "url": "https://www.truckingdive.com/news/tesla-expands-megacharger-network-in-california-georgia/832578/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "The OEM and fueling giant Pilot are scaling heavy-duty electric charging infrastructure and targeting key freight corridors.",
-   "published": "2026-10-12T14:04:00+00:00"
   }
  ]
 }
