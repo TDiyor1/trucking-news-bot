@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-14T17:00:43+00:00",
+ "updated": "2026-10-14T17:23:37+00:00",
  "items": [
+  {
+   "id": "https://joc.com/article/savannahs-new-terminal-sets-2028-work-start-following-permit-approval-6305803",
+   "title": "Savannah’s new terminal sets 2028 work start following permit approval",
+   "url": "https://joc.com/article/savannahs-new-terminal-sets-2028-work-start-following-permit-approval-6305803",
+   "source": "JOC",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Construction of the $2.3 billion Savannah Container Terminal is expected to start in January 2028, with the facility expected to handle the largest container ships once it's completed in the 2030s.",
+   "published": "2026-10-14T17:00:00+00:00"
+  },
   {
    "id": "https://www.dcvelocity.com/supply-chain/other-services/global-logistics/dhl-ai-infrastructure-boom-outweighs-tariff-policy-damage",
    "title": "DHL: AI infrastructure boom outweighs tariff policy damage",
@@ -1154,20 +1168,6 @@
    ],
    "excerpt": "Orient Overseas Container Line reported a 45.1% year-over-year increase in third-quarter liner revenue to $3.28 billion, as higher revenue per container and increased cargo volumes drove gains across all four of its reported trade regions. OOCL handled 2.12 million twenty-foot equivalent units in…",
    "published": "2026-10-12T13:31:00+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/levis-to-use-part-of-80m-tariff-refund-for-supply-chain/832562/",
-   "title": "Levi’s to use part of $80M tariff refund for supply chain",
-   "url": "https://www.supplychaindive.com/news/levis-to-use-part-of-80m-tariff-refund-for-supply-chain/832562/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "The jeans maker plans to spend three-fourths of the levy recovery on distribution, logistics, marketing and promotional activities, an executive said.",
-   "published": "2026-10-12T11:39:00+00:00"
   }
  ]
 }
