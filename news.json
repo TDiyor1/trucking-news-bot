@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-14T19:30:36+00:00",
+ "updated": "2026-10-14T19:35:22+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=583171",
+   "title": "Waabi signs Warrior Logistics for Dallas-Houston freight",
+   "url": "https://www.freightwaves.com/news/waabi-warrior-logistics-autonomous-freight-dallas-houston",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Waabi and Warrior Logistics announced a commercial partnership Wednesday to move routine customer freight on Waabi Driver-powered autonomous trucks between Dallas and Houston. Warrior, an asset-based carrier headquartered in Coppell, Texas , has added a fleet of Waabi’s trucks to its network to…",
+   "published": "2026-10-14T19:25:48+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/cargo-ship-sinks-hit-hormuz",
    "title": "Cargo ship sinks after Strait of Hormuz strike causes fire",
@@ -1152,20 +1166,6 @@
    ],
    "excerpt": "Trucking news and briefs for Tuesday, Oct. 13, 2026: North Carolina suspends fuel tax The North Carolina General Assembly passed legislation Oct. 7, to temporarily suspend the state's 41-cent-per-gallon motor fuel tax through Nov. 30. The measure now heads to the Governor, who has 10 days to sign…",
    "published": "2026-10-13T05:44:00+00:00"
-  },
-  {
-   "id": "https://joc.com/article/us-truckload-spot-rates-climbing-again-after-summer-decline-6304806",
-   "title": "US truckload spot rates climbing again after summer decline",
-   "url": "https://joc.com/article/us-truckload-spot-rates-climbing-again-after-summer-decline-6304806",
-   "source": "JOC",
-   "audience": [
-    "Broker"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "A 17-cent per-mile gain in the national average DAT spot rate over two weeks heralds more volatile transactional pricing in the fourth quarter.",
-   "published": "2026-10-12T20:27:15+00:00"
   }
  ]
 }
