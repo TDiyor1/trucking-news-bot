@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-14T16:30:32+00:00",
+ "updated": "2026-10-14T16:53:36+00:00",
  "items": [
+  {
+   "id": "https://www.dcvelocity.com/supply-chain/other-services/global-logistics/dhl-ai-infrastructure-boom-outweighs-tariff-policy-damage",
+   "title": "DHL: AI infrastructure boom outweighs tariff policy damage",
+   "url": "https://www.dcvelocity.com/supply-chain/other-services/global-logistics/dhl-ai-infrastructure-boom-outweighs-tariff-policy-damage",
+   "source": "DC Velocity",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tariffs",
+    "Tech"
+   ],
+   "excerpt": "Higher tariffs and geopolitical conflicts have been slowing the flow of global trade, but a powerful new trend is now helping to outweigh those forces, as the global race to build infrastructure for artificial intelligence is giving world trade strong momentum, according to a study from DHL.",
+   "published": "2026-10-14T16:39:31+00:00"
+  },
   {
    "id": "https://joc.com/article/container-ship-sinks-in-strait-of-hormuz-after-attack-6305838",
    "title": "Container ship sinks in Strait of Hormuz after attack",
@@ -317,6 +332,23 @@
    ],
    "excerpt": "A U.S. deal for Russian diesel is too limited to meaningfully move prices at the pumps ahead of November’s midterm elections, analysts say.",
    "published": "2026-10-13T21:00:00+00:00"
+  },
+  {
+   "id": "https://www.dcvelocity.com/transportation/trucking/td-cowen-afs-shippers-should-buckle-up-for-an-expensive-q4",
+   "title": "TD Cowen/AFS: shippers should buckle up for an expensive Q4",
+   "url": "https://www.dcvelocity.com/transportation/trucking/td-cowen-afs-shippers-should-buckle-up-for-an-expensive-q4",
+   "source": "DC Velocity",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Rates",
+    "Diesel",
+    "Capacity"
+   ],
+   "excerpt": "Freight rates are being driven to historic highs by the potent effects of a structurally higher-cost transportation environment, heated up by entrenched high fuel prices, capacity constraints, and peak-related fees, according to a report from AFS Logistics and TD Cowen.",
+   "published": "2026-10-13T20:53:49+00:00"
   },
   {
    "id": "https://www.dcvelocity.com/transportation/maritime-ocean/u-s-container-imports-reached-their-highest-september-on-record",
@@ -1136,33 +1168,6 @@
    ],
    "excerpt": "The jeans maker plans to spend three-fourths of the levy recovery on distribution, logistics, marketing and promotional activities, an executive said.",
    "published": "2026-10-12T11:39:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=582870",
-   "title": "Penske request for en banc hearing gets pushback from victim’s estate",
-   "url": "https://www.freightwaves.com/news/penske-request-for-en-banc-hearing-gets-pushback-from-victims-estate",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Both sides in the closely watched federal appellate case involving companies in the Penske network of companies now have made their case to the Fifth Circuit, as it considers whether to take up a larger hearing on an issue that has enormous disruptive potential for broker and carrier liability.",
-   "published": "2026-10-12T11:00:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/practical-case-ai-trucking",
-   "title": "The practical case for AI in trucking",
-   "url": "https://www.ttnews.com/articles/practical-case-ai-trucking",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Penske Truck Leasing President Art Vallely says that the most valuable question about AI in trucking is a practical one: What can it help us do better?",
-   "published": "2026-10-12T11:00:00+00:00"
   }
  ]
 }
