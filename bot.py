@@ -35,10 +35,15 @@ FEEDS = {
     "Land Line": "https://landline.media/feed/",
     "Freight Caviar": "https://www.freightcaviar.com/feed/",
     "JOC": "https://www.joc.com/rss.xml",
+    "FreightWaves SONAR": "https://www.freightwaves.com/news/category/sonar/feed",
+    "The Loadstar": "https://theloadstar.com/feed/",
+    "Logistics Management": "https://www.logisticsmgmt.com/feed",
+    "DAT iQ": "https://www.dat.com/blog/feed",
 }
 
 # Sources that cover more than trucking: an article must hit a topic to be posted.
-BROAD = {"Supply Chain Dive", "DC Velocity", "JOC", "Transport Topics", "Freight Caviar"}
+BROAD = {"Supply Chain Dive", "DC Velocity", "JOC", "Transport Topics", "Freight Caviar",
+         "The Loadstar", "Logistics Management", "DAT iQ"}
 
 TOPICS = {
     "Rates": r"\brates?\b|spot market|contract (rate|market)|freight (market|index)|load[- ]to[- ]truck|tender reject|DAT\b|SONAR|Cass|truckload",
@@ -371,7 +376,7 @@ LI_PER_DAY = 3
 LI_HOUR = 8
 LI_TZ = "America/Chicago"
 LI_TOPIC_W = {"Rates": 3, "Capacity": 3, "Regulation": 3, "Fraud": 3, "Diesel": 2, "Tariffs": 2, "Tech": 1, "Ports/Rail": 1}
-LI_SOURCE_W = {"FreightWaves": 2, "Land Line": 2, "Transport Topics": 2, "CCJ": 1, "Trucking Dive": 1}
+LI_SOURCE_W = {"DAT iQ": 2, "FreightWaves SONAR": 2, "FreightWaves": 2, "Land Line": 2, "Transport Topics": 2, "CCJ": 1, "Trucking Dive": 1}
 
 
 def li_load():
