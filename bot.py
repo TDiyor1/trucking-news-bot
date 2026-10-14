@@ -342,9 +342,10 @@ def linkedin_ok(item, tags):
     return bool(tags) and bool(audience_set(item, tags) & {"Carrier", "Shipper"})
 
 
-def format_linkedin(item, tags):
+def format_linkedin(item, tags, aud=None):
     e = html.escape
-    who = " & ".join(k.lower() + "s" for k in ("Shipper", "Carrier") if k in audience_set(item, tags))
+    aud = aud or audience_set(item, tags)
+    who = " & ".join(k.lower() + "s" for k in ("Shipper", "Carrier") if k in aud)
     take = LI_TAKEAWAY.get(tags[0], "")
     ex = excerpt(item["body"], 350)
     tagline = " ".join("#" + t.replace("/", "") for t in tags[:3]) + " #Freight #Logistics #Trucking"
@@ -354,14 +355,79 @@ def format_linkedin(item, tags):
             f"{e(item['source'])} · <a href=\"{e(item['link'], quote=True)}\">Source</a>")[:4000]
 
 
-def linkedin_send(env, item, tags):
+def linkedin_send(env, item, tags, aud=None, prefix=""):
     chat = env.get("TELEGRAM_LINKEDIN_CHAT_ID")
-    if not chat or not linkedin_ok(item, tags):
+    if not chat:
         return
     try:
-        send(dict(env, TELEGRAM_CHAT_ID=chat), format_linkedin(item, tags), preview=False)
+        send(dict(env, TELEGRAM_CHAT_ID=chat), prefix + format_linkedin(item, tags, aud), preview=False)
     except Exception as ex:  # never let this break the main channel run
         print("linkedin send failed:", ex, file=sys.stderr)
+
+
+# Daily shortlist: eligible stories are queued, then the top LI_PER_DAY are sent once after 8 AM Central.
+LIQ = os.path.join(HERE, "li_queue.json")
+LI_PER_DAY = 3
+LI_HOUR = 8
+LI_TZ = "America/Chicago"
+LI_TOPIC_W = {"Rates": 3, "Capacity": 3, "Regulation": 3, "Fraud": 3, "Diesel": 2, "Tariffs": 2, "Tech": 1, "Ports/Rail": 1}
+LI_SOURCE_W = {"FreightWaves": 2, "Land Line": 2, "Transport Topics": 2, "CCJ": 1, "Trucking Dive": 1}
+
+
+def li_load():
+    if os.path.exists(LIQ):
+        return json.load(open(LIQ))
+    return {"last_digest": "", "queue": []}
+
+
+def li_queue(rec):
+    if not set(rec["audience"]) & {"Carrier", "Shipper"} or not rec["tags"]:
+        return
+    q = li_load()
+    if all(r["id"] != rec["id"] for r in q["queue"]):
+        q["queue"].append(rec)
+    json.dump(q, open(LIQ, "w"), indent=1, ensure_ascii=False)
+
+
+def li_score(r, now):
+    age_h = (now - datetime.fromisoformat(r["published"])).total_seconds() / 3600
+    sc = sum(LI_TOPIC_W.get(t, 0) for t in r["tags"][:2])
+    sc += 2 if {"Carrier", "Shipper"} <= set(r["audience"]) else 0
+    sc += LI_SOURCE_W.get(r["source"], 0)
+    return sc + (2 if age_h < 6 else 1 if age_h < 12 else 0)
+
+
+def li_pick(queue, now, n=LI_PER_DAY):
+    pool, picked, used = list(queue), [], {}
+    while pool and len(picked) < n:
+        best = max(pool, key=lambda r: li_score(r, now) - 2 * used.get(r["tags"][0], 0))
+        pool.remove(best)
+        picked.append(best)
+        used[best["tags"][0]] = used.get(best["tags"][0], 0) + 1
+    return picked
+
+
+def li_digest(env, dry_run=False):
+    from zoneinfo import ZoneInfo
+    now = datetime.now(timezone.utc)
+    local = now.astimezone(ZoneInfo(LI_TZ))
+    q = li_load()
+    today = local.strftime("%Y-%m-%d")
+    if local.hour < LI_HOUR or q["last_digest"] == today or not env.get("TELEGRAM_LINKEDIN_CHAT_ID"):
+        return
+    cutoff = (now - timedelta(hours=36)).isoformat()
+    fresh = [r for r in q["queue"] if r["published"] >= cutoff]
+    top = li_pick(fresh, now)
+    for i, r in enumerate(top, 1):
+        it = dict(title=r["title"], body=r["excerpt"], link=r["url"], source=r["source"])
+        if dry_run:
+            print(f"[{i}/{len(top)}]", format_linkedin(it, r["tags"], set(r["audience"])), "\n" + "=" * 60)
+        else:
+            linkedin_send(env, it, r["tags"], set(r["audience"]), prefix=f"<b>{i}/{len(top)}</b> · ")
+            time.sleep(1.2)
+    if not dry_run:
+        json.dump({"last_digest": today, "queue": []}, open(LIQ, "w"), indent=1)
+        print(f"Sent LinkedIn shortlist ({len(top)} of {len(fresh)} candidates).")
 
 
 def main():
@@ -422,7 +488,7 @@ def main():
         for r in json.load(open(NEWS))["items"]:
             it = dict(title=r["title"], body=r["excerpt"], link=r["url"], source=r["source"])
             if r["tags"] and set(r["audience"]) & {"Carrier", "Shipper"}:
-                linkedin_send(env, it, r["tags"])
+                linkedin_send(env, it, r["tags"], set(r["audience"]))
                 print("Sent LinkedIn test draft.")
                 return
         sys.exit("No suitable article for test")
@@ -436,17 +502,19 @@ def main():
         msg = format_msg(it, tags)
         if args.dry_run:
             print(msg, "\n" + "-" * 60)
-            if linkedin_ok(it, tags):
-                print(format_linkedin(it, tags), "\n" + "=" * 60)
         elif send(env, msg):
             seen.add(it["id"])
             posted.append(record(it, tags))
             sent += 1
-            linkedin_send(env, it, tags)
+            li_queue(posted[-1])
             time.sleep(1.2)
     if not args.dry_run:
         update_feed(posted)
         json.dump(sorted(seen)[-5000:], open(STATE, "w"))
+    try:
+        li_digest(env, args.dry_run)
+    except Exception as ex:
+        print("linkedin digest failed:", ex, file=sys.stderr)
     print(f"{'Would send' if args.dry_run else 'Sent'} {len(queue) if args.dry_run else sent} articles.")
 
 
