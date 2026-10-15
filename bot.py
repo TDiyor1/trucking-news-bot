@@ -116,6 +116,7 @@ def parse_feed(source, raw):
             source=source, title=clean(text_of(it, "title")), link=link,
             id=text_of(it, "guid") or link,
             date=parse_date(text_of(it, "pubDate", "{http://purl.org/dc/elements/1.1/}date")),
+            cats=[(c.text or "").strip() for c in it.findall("category")],
             body=clean(body)))
     for en in root.iter("{http://www.w3.org/2005/Atom}entry"):
         l = en.find("a:link", ns)
@@ -126,6 +127,7 @@ def parse_feed(source, raw):
             source=source, title=clean(en.findtext("a:title", namespaces=ns) or ""), link=link,
             id=en.findtext("a:id", namespaces=ns) or link,
             date=parse_date(en.findtext("a:published", namespaces=ns) or en.findtext("a:updated", namespaces=ns)),
+            cats=[c.get("term") or "" for c in en.findall("a:category", ns)],
             body=clean(body)))
     return items
 
@@ -166,6 +168,51 @@ def audience(item, tags):
     if len(hits) == 3:
         return "🌐 ALL: CARRIER · SHIPPER · BROKER"
     return " · ".join(AUDIENCE_LABEL[k] for k in ("Carrier", "Shipper", "Broker") if k in hits)
+
+
+# ---------------------------------------------------------------- US-only / no-ads filter
+STATES = ("Alabama|Alaska|Arizona|Arkansas|California|Colorado|Connecticut|Delaware|Florida|Georgia|Hawaii|Idaho|Illinois|"
+          "Indiana|Iowa|Kansas|Kentucky|Louisiana|Maine|Maryland|Massachusetts|Michigan|Minnesota|Mississippi|Missouri|"
+          "Montana|Nebraska|Nevada|New Hampshire|New Jersey|New Mexico|New York|North Carolina|North Dakota|Ohio|Oklahoma|"
+          "Oregon|Pennsylvania|Rhode Island|South Carolina|South Dakota|Tennessee|Texas|Utah|Vermont|Virginia|Washington|"
+          "West Virginia|Wisconsin|Wyoming")
+US_RE = re.compile(r"\bU\.?S\.?A?\b|\bAmerican?s?\b|United States|\bFMCSA\b|\bNHTSA\b|\bDOT\b|Department of Transportation|"
+                   r"Congress|\bSenate\b|Trump|Duffy|\bEIA\b|\bDAT\b|\bCass\b|\bSONAR\b|\bBNSF\b|Union Pacific|\bCSX\b|"
+                   r"Norfolk Southern|Los Angeles|Long Beach|Savannah|Houston|Chicago|Memphis|Laredo|\bCBP\b|\bUSMCA\b|"
+                   r"\b(" + STATES + r")\b", re.I)
+FOREIGN_RE = re.compile(r"\bEurope(an)?\b|\bEU\b|\bU\.?K\.?\b|Britain|British|England|China|Chinese|Hong Kong|India(n)?\b|"
+                        r"\bAsia(n)?\b|Red Sea|Suez|Houthi|Africa|Australia|Germany|German|France|French|Rotterdam|Hamburg|"
+                        r"Singapore|Middle East|Saudi|Latin America|Brazil|Japan|Korea|Vietnam|Pakistan|Dubai|Turkey|Russia|"
+                        r"Ukraine|Israel|Iran|Netherlands|Spain|Spanish|Italy|Port Klang|Shanghai|Shenzhen|Ningbo", re.I)
+GLOBAL_SOURCES = {"The Loadstar", "JOC"}  # world-wide outlets: must show a US signal
+GOV_RE = re.compile(r"Trucking Associations?|\\bATA\\b|FMCSA|\bDOT\b|Department of|Congress|Senate|court|judge|lawsuit|\bCBP\b|\bEPA\b|\bNHTSA\b|\bFTC\b|\bFMC\b|Duffy", re.I)
+AD_CAT_RE = re.compile(r"sponsor|podcast|\bvideo|\bTV\b|freightwaves today|webinar|press release|advertis|partner (content|insight)|paid|\bevents?\b", re.I)
+AD_TEXT_RE = re.compile(r"sponsored|partner content|presented by|webinar|press release|white ?paper|podcast|register (now|today)|"
+                        r"free (trial|demo|guide|ebook)|download (the|our|your)|book a demo|\bsign up\b", re.I)
+AD_URL_RE = re.compile(r"/(sponsored|press-releases?|webinars?|podcasts?|videos?|events?|whitepapers?|advertis\w*|partner-content)(/|$)", re.I)
+PROMO_VERB_RE = re.compile(r"\b(launch(es|ed)?|unveil(s|ed)?|introduc(es|ed)?|rolls? out|debuts?|announces? (new|the launch)|"
+                           r"partners? with|teams? up with|selects?|appoints?|names? .{0,40}(CEO|president|chief|VP)|"
+                           r"expands?|opens? new|now available|new (platform|solution|product|service|app|tool|feature|offering))\b", re.I)
+
+
+def keep(item):
+    """(ok, reason). Drop ads/promos and non-US stories."""
+    title, body, url = item["title"], item["body"][:400], item["link"]
+    hay = title + " " + body
+    if AD_URL_RE.search(url or ""):
+        return False, "ad-url"
+    if any(AD_CAT_RE.search(c) for c in item.get("cats", [])):
+        return False, "ad-category"
+    if AD_TEXT_RE.search(title) or AD_TEXT_RE.search(body[:200]):
+        return False, "ad-text"
+    if PROMO_VERB_RE.search(title) and not GOV_RE.search(title):
+        return False, "promo"
+    has_us = bool(US_RE.search(hay))
+    if item["source"] in GLOBAL_SOURCES and not has_us:
+        return False, "global-source-no-US"
+    if FOREIGN_RE.search(hay) and not has_us:
+        return False, "non-US"
+    return True, ""
 
 
 def excerpt(body, limit=700):
@@ -480,6 +527,9 @@ def main():
             continue
         tags = tag(it)
         if not tags and it["source"] in BROAD:
+            seen.add(it["id"])
+            continue
+        if not keep(it)[0]:  # ad/promo or non-US: never post
             seen.add(it["id"])
             continue
         queue.append((it, tags))
