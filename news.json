@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T17:43:44+00:00",
+ "updated": "2026-10-15T18:00:51+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/usdot-200m-truck-parking",
@@ -14,6 +14,22 @@
    ],
    "excerpt": "The Department of Transportation announced Oct. 14 that $200 million will be invested in truck parking in 12 states, including Iowa, Wisconsin and Georgia.",
    "published": "2026-10-15T17:30:00+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/12-states-oracle-gas-pipeline",
+   "title": "12 states want Oracle gas pipeline approved in New Mexico",
+   "url": "https://www.ttnews.com/articles/12-states-oracle-gas-pipeline",
+   "source": "Transport Topics",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs",
+    "Ports/Rail"
+   ],
+   "excerpt": "The attorneys general argue to the Federal Energy Regulatory Commission that a broader environmental review could complicate similar projects across the country.",
+   "published": "2026-10-15T17:20:04+00:00"
   },
   {
    "id": "https://landline.media/?p=104291",
@@ -1126,21 +1142,6 @@
    ],
    "excerpt": "The Port of Los Angeles moved 1.42 million TEUs in September, its best single month ever and the highest monthly volume ever recorded by a port in the Western Hemisphere, Executive Director Gene Seroka said this week. He said lower tariff levels, resilient consumer demand, and cargo shifting away…",
    "published": "2026-10-13T19:30:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/sheinbaum-mexico-trump-trade",
-   "title": "Sheinbaum says Mexico is addressing Trump’s trade concerns",
-   "url": "https://www.ttnews.com/articles/sheinbaum-mexico-trump-trade",
-   "source": "Transport Topics",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "Mexican President Claudia Sheinbaum said she’s addressing Trump administration concerns about the U.S. trade deficit with its neighbor by buying more American goods.",
-   "published": "2026-10-13T19:13:27+00:00"
   }
  ]
 }
