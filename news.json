@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T21:00:39+00:00",
+ "updated": "2026-10-15T21:30:36+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/footage-fleet-focus",
@@ -29,6 +29,20 @@
    ],
    "excerpt": "Explore the everyday fuel challenges facing carriers and how better-connected data can help reduce waste, protect margins and support smarter decisions on every route today.",
    "published": "2026-10-18T04:00:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583261",
+   "title": "Freight Visibility Gets a Second Set of Eyes",
+   "url": "https://www.freightwaves.com/news/freight-visibility-gets-a-second-set-of-eyes",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "freight visibility meant knowing where a given truck was, but the industry has only gotten more complex as it has digitized. On a recent episode of FreightWaves’ What the Truck?!? , host Malcolm Harris pressed Andrew Wimer, Associate General Manager, Transportation Management at Descartes , on how…",
+   "published": "2026-10-15T20:54:07+00:00"
   },
   {
    "id": "https://landline.media/?p=104301",
@@ -1109,21 +1123,6 @@
    ],
    "excerpt": "A Nebraska traffic stop uncovered more than $250,000 in stolen copper inside a semi-truck on October 7. Lancaster County’s Criminal Interdiction Unit stopped the vehicle around 2 p.m. on Interstate 80. Deputies saw the trailer leaning heavily after the load shifted toward the passenger side.",
    "published": "2026-10-14T13:20:34+00:00"
-  },
-  {
-   "id": "https://www.freightcaviar.com/stories/shut-down-reopen-repeat",
-   "title": "🎣 Shut Down, Reopen, Repeat",
-   "url": "https://www.freightcaviar.com/stories/shut-down-reopen-repeat",
-   "source": "Freight Caviar",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation",
-    "Capacity"
-   ],
-   "excerpt": "After chameleon carriers and chameleon ELDs, FMCSA is now telling us there are chameleon CDL schools too.",
-   "published": "2026-10-14T13:00:00+00:00"
   }
  ]
 }
