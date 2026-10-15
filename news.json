@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T18:39:33+00:00",
+ "updated": "2026-10-15T18:56:05+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/take-control-your-fleet-fuel-costs",
@@ -15,6 +15,18 @@
    ],
    "excerpt": "Explore the everyday fuel challenges facing carriers and how better-connected data can help reduce waste, protect margins and support smarter decisions on every route today.",
    "published": "2026-10-18T04:00:00+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104297",
+   "title": "‘Regulatory uncertainty’ causes big drop in new truck orders",
+   "url": "https://landline.media/regulatory-uncertainty-causes-big-drop-in-new-truck-orders/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Class 8 truck orders have declined significantly from a year ago. ACT Research says that “regulatory uncertainty” is to blame.",
+   "published": "2026-10-15T18:51:38+00:00"
   },
   {
    "id": "https://www.ttnews.com/articles/trucking-congress-midterms",
@@ -1123,22 +1135,6 @@
    ],
    "excerpt": "Freight rates are being driven to historic highs by the potent effects of a structurally higher-cost transportation environment, heated up by entrenched high fuel prices, capacity constraints, and peak-related fees, according to a report from AFS Logistics and TD Cowen.",
    "published": "2026-10-13T20:53:49+00:00"
-  },
-  {
-   "id": "https://www.dcvelocity.com/transportation/maritime-ocean/u-s-container-imports-reached-their-highest-september-on-record",
-   "title": "U.S. container imports reached their highest September on record",
-   "url": "https://www.dcvelocity.com/transportation/maritime-ocean/u-s-container-imports-reached-their-highest-september-on-record",
-   "source": "DC Velocity",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs",
-    "Ports/Rail"
-   ],
-   "excerpt": "U.S. container imports reached their highest September volume on record, reaching 24.8% above the pre-Covid mark of September, 2019, according to the Global Shipping Report from supply chain software vendor Descartes. By the numbers, September imports to the U.S.",
-   "published": "2026-10-13T20:42:28+00:00"
   }
  ]
 }
