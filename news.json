@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T21:46:49+00:00",
+ "updated": "2026-10-15T22:00:38+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/footage-fleet-focus",
@@ -29,6 +29,34 @@
    ],
    "excerpt": "Explore the everyday fuel challenges facing carriers and how better-connected data can help reduce waste, protect margins and support smarter decisions on every route today.",
    "published": "2026-10-18T04:00:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583235",
+   "title": "First look: J.B. Hunt’s Q3 earnings",
+   "url": "https://www.freightwaves.com/news/first-look-j-b-hunt-q3-earnings",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "J.B. Hunt Transport Services’ third quarter slightly surpassed analysts’ lowered expectations following the company’s earnings warning issued in September. J.B. Hunt ( NASDAQ: JBHT ) reported third-quarter revenue of $3.68 billion Thursday after the market closed.",
+   "published": "2026-10-15T21:17:54+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583280",
+   "title": "Federal DOT grants will fund more than 2,400 parking spots",
+   "url": "https://www.freightwaves.com/news/federal-dot-grants-will-fund-more-than-2400-parking-spots",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "There will be a little more than 2,400 new truck parking spaces built over the next few years as a result of funding provided to various projects under the Nationally Significant Multimodal Freight & Highway Projects (INFRA) program. “A targeted objective of this funding opportunity is to directly…",
+   "published": "2026-10-15T21:00:00+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=583261",
@@ -1094,35 +1122,6 @@
    ],
    "excerpt": "Less-than-truckload rates hit a new high in the third quarter and are expected to finish the year even higher, according to a report from AFS Logistics and financial services firm TD Cowen. The LTL rate-per-pound component of the TD Cowen-AFS Freight Index finished the third quarter 78.8% above its…",
    "published": "2026-10-14T13:35:12+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583082",
-   "title": "Is UPS parcel pivot a strategic winner or a ‘Trojan horse’?",
-   "url": "https://www.freightwaves.com/news/is-ups-parcel-pivot-a-strategic-winner-or-a-trojan-horse",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "ORLANDO, Florida — For 18 months, United Parcel Service management has talked about shedding unprofitable e-commerce volume to concentrate on more complex, premium services in sectors like B2B distribution, healthcare, automotive and small enterprises.",
-   "published": "2026-10-14T13:23:59+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=582888",
-   "title": "Nebraska deputies recover $250K stolen copper load 50 miles past Iowa destination",
-   "url": "https://www.freightwaves.com/news/nebraska-deputies-recover-250k-stolen-copper-load-50-miles-past-iowa-destination",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation",
-    "Fraud"
-   ],
-   "excerpt": "A Nebraska traffic stop uncovered more than $250,000 in stolen copper inside a semi-truck on October 7. Lancaster County’s Criminal Interdiction Unit stopped the vehicle around 2 p.m. on Interstate 80. Deputies saw the trailer leaning heavily after the load shifted toward the passenger side.",
-   "published": "2026-10-14T13:20:34+00:00"
   }
  ]
 }
