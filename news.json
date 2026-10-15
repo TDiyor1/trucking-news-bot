@@ -1,6 +1,33 @@
 {
- "updated": "2026-10-15T14:30:42+00:00",
+ "updated": "2026-10-15T15:01:00+00:00",
  "items": [
+  {
+   "id": "https://theloadstar.com/?p=326813",
+   "title": "AP Møller Capital acquires Singapore’s Portek International from Mitsui",
+   "url": "https://theloadstar.com/ap-moller-capital-acquires-portek-international-from-mitsui/",
+   "source": "The Loadstar",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "PRESS RELEASE A.P. Moller Capital agrees to acquire Portek International from Mitsui & Co. – A.P. Moller Capital has signed an agreement to acquire 100% of Singapore-based Portek International from Mitsui & Co. – Portek is a feeder terminal operator with interests in seven port terminals across…",
+   "published": "2026-10-15T14:55:39+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583205",
+   "title": "Prologis tops Q3 estimates, raises development starts forecast again",
+   "url": "https://www.freightwaves.com/news/prologis-tops-q3-estimates-raises-development-starts-forecast-again",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [],
+   "excerpt": "Logistics warehouse operator Prologis beat third-quarter expectations Thursday before the market opened, significantly raising its outlook for new developments. Prologis ( NYSE: PLD ) reported consolidated revenue of $2.39 billion for the quarter, reflecting an 8% year-over-year increase and…",
+   "published": "2026-10-15T14:20:04+00:00"
+  },
   {
    "id": "https://www.supplychaindive.com/news/how-unfi-tackles-higher-fuel-prices/832977/",
    "title": "How UNFI tackles higher fuel prices",
@@ -1124,38 +1151,6 @@
    ],
    "excerpt": "Key takeaways U.S. gross federal debt passed $40 trillion in August 2026; about $32.4 trillion of it is held by the public. Net interest on the debt now runs above $1 trillion a year and eats roughly 18.5% of federal revenue, a record. Heavy Treasury borrowing competes with private borrowers for…",
    "published": "2026-10-13T17:46:25+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583011",
-   "title": "SONAR Pricing Power Index Slips to 70 as Intermodal Contract Rates Fall",
-   "url": "https://www.freightwaves.com/news/sonar-pricing-power-index-slips-to-70-as-intermodal-contract-rates-fall",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Rates",
-    "Ports/Rail"
-   ],
-   "excerpt": "The SONAR Pricing Power Index (PPI) fell to 70 this week from 71, its fourth straight weekly decline, but freight carriers still hold the upper hand in rate negotiations. Softer intermodal contract rates and ocean import bookings drove the dip, while truckload tender rejections held steady near…",
-   "published": "2026-10-13T17:34:52+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583002",
-   "title": "CCT Auto Trans expands car haul coverage map in Livingston VTS deal",
-   "url": "https://www.freightwaves.com/news/cct-auto-trans-expands-car-haul-coverage-map-in-livingston-vts-deal",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "CCT Auto Trans announced Tuesday that it has acquired fellow car hauler Livingston Vehicle Transportation Services (VTS). Financial terms of the transaction were not disclosed. Livingston VTS operates one of Canada’s largest vehicle-hauling networks, using its own fleet of trucks and car haulers.…",
-   "published": "2026-10-13T16:50:49+00:00"
   }
  ]
 }
