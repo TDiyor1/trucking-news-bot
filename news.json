@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T18:56:05+00:00",
+ "updated": "2026-10-15T19:00:39+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/take-control-your-fleet-fuel-costs",
@@ -27,6 +27,20 @@
    "tags": [],
    "excerpt": "Class 8 truck orders have declined significantly from a year ago. ACT Research says that “regulatory uncertainty” is to blame.",
    "published": "2026-10-15T18:51:38+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583245",
+   "title": "Penske Automotive accepts offer, will be bought out",
+   "url": "https://www.freightwaves.com/news/penske-automotive-accepts-offer-will-be-bought-out",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Penske Automotive Group (NYSE: PAG) , a publicly-traded company that includes the current Penske-related companies involved in a closely-watched liability case , will become a private company with a buyout from two of its current corporate owners. After a review of the July offer from Penske Corp…",
+   "published": "2026-10-15T18:46:48+00:00"
   },
   {
    "id": "https://www.ttnews.com/articles/trucking-congress-midterms",
@@ -1118,23 +1132,6 @@
    ],
    "excerpt": "A U.S. deal for Russian diesel is too limited to meaningfully move prices at the pumps ahead of November’s midterm elections, analysts say.",
    "published": "2026-10-13T21:00:00+00:00"
-  },
-  {
-   "id": "https://www.dcvelocity.com/transportation/trucking/td-cowen-afs-shippers-should-buckle-up-for-an-expensive-q4",
-   "title": "TD Cowen/AFS: shippers should buckle up for an expensive Q4",
-   "url": "https://www.dcvelocity.com/transportation/trucking/td-cowen-afs-shippers-should-buckle-up-for-an-expensive-q4",
-   "source": "DC Velocity",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Rates",
-    "Diesel",
-    "Capacity"
-   ],
-   "excerpt": "Freight rates are being driven to historic highs by the potent effects of a structurally higher-cost transportation environment, heated up by entrenched high fuel prices, capacity constraints, and peak-related fees, according to a report from AFS Logistics and TD Cowen.",
-   "published": "2026-10-13T20:53:49+00:00"
   }
  ]
 }
