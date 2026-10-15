@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T11:00:41+00:00",
+ "updated": "2026-10-15T11:30:31+00:00",
  "items": [
   {
    "id": "https://theloadstar.com/?p=326733",
@@ -31,6 +31,18 @@
    ],
    "excerpt": "It’s peak season, but FTR CEO Jonathan Starks said it’s not consumers driving shifts in the transportation market. The pressure is coming from the industrial side, tight capacity, rising costs and tougher regulatory enforcement. During FTR Transportation Intelligence’s State of Freight webinar last…",
    "published": "2026-10-15T10:44:32+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583180",
+   "title": "Westport becomes Aetherion, bets on CNG for US long-haul",
+   "url": "https://www.freightwaves.com/news/westport-aetherion-name-change-cng-hpdi",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Westport Fuel Systems Inc. changed its name to Aetherion Technologies Inc. on Thursday. The Vancouver, British Columbia, company said its next push is bringing Cespira’s high-pressure direct injection (HPDI) fuel system to North American long-haul fleets on compressed natural gas.",
+   "published": "2026-10-15T10:30:00+00:00"
   },
   {
    "id": "https://theloadstar.com/?p=326581",
@@ -1150,20 +1162,6 @@
    ],
    "excerpt": "Felipe Capella, CEO of Loadsmart, shares his unique journey from lawyer to freight tech innovator and discusses how his company navigated the ‘Freight Apocalypse’ by pivoting to a blended service and SaaS model. He also sheds light on the growing problem of crime and fraud in freight, emphasizing…",
    "published": "2026-10-13T14:33:57+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=582951",
-   "title": "Shippers waiting an extra week for US-bound containers",
-   "url": "https://www.freightwaves.com/news/shippers-waiting-an-extra-week-for-us-bound-containers",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Global ocean container schedule reliability fell for a fourth consecutive month in September, dropping 2 percentage points to 27% on-time, according to Xeneta’s September Schedule Reliability Scorecard. Average vessel delay rose to 6 days across all arrivals, up 2.4 days since the start of the…",
-   "published": "2026-10-13T14:01:30+00:00"
   }
  ]
 }
