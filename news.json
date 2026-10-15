@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-15T18:00:51+00:00",
+ "updated": "2026-10-15T18:09:25+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104294",
+   "title": "How heavy is too heavy? States rethink truck weight limits",
+   "url": "https://landline.media/how-heavy-is-too-heavy-states-rethink-truck-weight-limits/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "States are allowing heavier loads of milk, grain and other goods. Supporters see fewer trips, but critics warn about safety and road wear.",
+   "published": "2026-10-15T18:01:41+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/usdot-200m-truck-parking",
    "title": "USDOT awards $200 million boost for truck parking",
@@ -1126,22 +1140,6 @@
    ],
    "excerpt": "Samsara has made its Agent Studio platform generally available to all customers, opening its no-code AI agent builder to fleets and other businesses using its software. Samsara is recording AI-agent interactions about seven times faster than when it launched the tools in June, with its latest…",
    "published": "2026-10-13T19:30:38+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583044",
-   "title": "Despite new record, Port of LA chief warns of tariff-driven planning risk",
-   "url": "https://www.freightwaves.com/news/despite-new-record-port-of-la-chief-warns-of-tariff-driven-planning-risk",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs",
-    "Ports/Rail"
-   ],
-   "excerpt": "The Port of Los Angeles moved 1.42 million TEUs in September, its best single month ever and the highest monthly volume ever recorded by a port in the Western Hemisphere, Executive Director Gene Seroka said this week. He said lower tariff levels, resilient consumer demand, and cargo shifting away…",
-   "published": "2026-10-13T19:30:00+00:00"
   }
  ]
 }
