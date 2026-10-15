@@ -1,6 +1,51 @@
 {
- "updated": "2026-10-15T10:30:55+00:00",
+ "updated": "2026-10-15T11:00:41+00:00",
  "items": [
+  {
+   "id": "https://theloadstar.com/?p=326733",
+   "title": "No post-peak easing at US container gateways, despite drayage woes",
+   "url": "https://theloadstar.com/no-post-peak-easing-at-us-container-gateways-despite-drayage-woes/",
+   "source": "The Loadstar",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Capacity",
+    "Ports/Rail"
+   ],
+   "excerpt": "Elevated import volumes have strained drayage capacity at US container gateways. Much of the recent spotlight has been on the port of Houston, which is handling record volumes of cargo, and traffic is expected to keep growing, fuelled by multiple drivers.",
+   "published": "2026-10-15T10:47:04+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/15837491",
+   "title": "Rates may have 'peaked' but tight capacity keeping them high",
+   "url": "https://www.ccjdigital.com/economic-trends/article/15837491/ftr-freight-rates-to-flatten-not-fall",
+   "source": "CCJ",
+   "audience": [
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Capacity"
+   ],
+   "excerpt": "It’s peak season, but FTR CEO Jonathan Starks said it’s not consumers driving shifts in the transportation market. The pressure is coming from the industrial side, tight capacity, rising costs and tougher regulatory enforcement. During FTR Transportation Intelligence’s State of Freight webinar last…",
+   "published": "2026-10-15T10:44:32+00:00"
+  },
+  {
+   "id": "https://theloadstar.com/?p=326581",
+   "title": "Podcast: How AI will transform freight forwarding beyond the hype",
+   "url": "https://theloadstar.com/how-ai-will-transform-freight-forwarding-beyond-the-hype/",
+   "source": "The Loadstar",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "AI is everywhere in logistics right now, but what does it actually mean for freight forwarding? In this episode of The Loadstar Podcast, host Charlotte Goldstone speaks to Erik Muttersbach, founder of Zauber and former Forto technology executive, about where AI and agentic AI really stand today,…",
+   "published": "2026-10-15T08:23:45+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/15837497",
    "title": "$200 million awarded by DOT for truck parking projects",
@@ -1119,48 +1164,6 @@
    ],
    "excerpt": "Global ocean container schedule reliability fell for a fourth consecutive month in September, dropping 2 percentage points to 27% on-time, according to Xeneta’s September Schedule Reliability Scorecard. Average vessel delay rose to 6 days across all arrivals, up 2.4 days since the start of the…",
    "published": "2026-10-13T14:01:30+00:00"
-  },
-  {
-   "id": "https://joc.com/article/a-few-positive-surprises-as-african-logistics-journey-begins-6305277",
-   "title": "A few positive surprises as African logistics journey begins",
-   "url": "https://joc.com/article/a-few-positive-surprises-as-african-logistics-journey-begins-6305277",
-   "source": "JOC",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Container shipping analyst Lars Jensen checks in from Africa, where he’s six weeks into an 18-month journey to explore firsthand the logistics opportunities and challenges on the continent.",
-   "published": "2026-10-13T13:59:15+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/ata-dozens-of-trucking-companies-planned-pay-increases-for-2026/832705/",
-   "title": "ATA: Dozens of trucking companies planned pay increases for 2026",
-   "url": "https://www.truckingdive.com/news/ata-dozens-of-trucking-companies-planned-pay-increases-for-2026/832705/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Drivers also saw improvements in compensation recently despite the difficult freight environment, the organization said.",
-   "published": "2026-10-13T13:53:00+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/fmcsa-lets-driverless-trucks-swap-warning-triangles-for-cab-mounted-beacons/832674/",
-   "title": "FMCSA lets driverless trucks swap warning triangles for cab-mounted beacons",
-   "url": "https://www.truckingdive.com/news/fmcsa-lets-driverless-trucks-swap-warning-triangles-for-cab-mounted-beacons/832674/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation",
-    "Tech",
-    "Ports/Rail"
-   ],
-   "excerpt": "The five-year exemption, requested by Aurora, is available to any Level 4 autonomous company with prior notice to the agency.",
-   "published": "2026-10-13T13:38:00+00:00"
   }
  ]
 }
