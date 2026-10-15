@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-15T13:30:53+00:00",
+ "updated": "2026-10-15T14:00:41+00:00",
  "items": [
+  {
+   "id": "https://www.supplychaindive.com/news/california-diesel-prices-remain-above-8-per-gallon-as-truckers-call-for-re/833092/",
+   "title": "California diesel prices remain above $8 per gallon as truckers call for relief",
+   "url": "https://www.supplychaindive.com/news/california-diesel-prices-remain-above-8-per-gallon-as-truckers-call-for-re/833092/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Elevated costs could extend well into next year, an energy expert tells Trucking Dive.",
+   "published": "2026-10-15T13:45:10+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583140",
+   "title": "The Heavy-Duty Oil Standard Is Changing In January, What It Means For Your Fleet, Your Costs, And Your Equipment",
+   "url": "https://www.freightwaves.com/news/the-heavy-duty-oil-standard-is-changing-in-january-what-it-means-for-your-fleet-your-costs-and-your-equipment",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "If your trucks have been running the same heavy-duty diesel engine oil since roughly 2017, whether you manage a hundred-truck fleet, run a small operation of a few units, or own the one truck you drive yourself, that oil is about to be replaced by something new, because the American Petroleum…",
+   "published": "2026-10-15T13:28:30+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=583189",
    "title": "FedEx digitizes booking process for European cold-chain pharma shipments",
@@ -1127,35 +1155,6 @@
    ],
    "excerpt": "Brent crude oil, the international standard, fell 0.7% to $105.91 a barrel. That is still higher than the roughly $72 per barrel in late February before the Iran war.",
    "published": "2026-10-13T16:37:08+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=582992",
-   "title": "Russian diesel deal having limited impact, if any, on prices",
-   "url": "https://www.freightwaves.com/news/russian-diesel-deal-having-limited-impact-if-any-on-prices",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "With the weekly average retail diesel benchmark release delayed a day due to the Columbus Day holiday Monday, that lagging indicator is likely to show another decline even as most of the industry discussion these days has been decidedly bullish. Since the Department of Energy/Energy Information…",
-   "published": "2026-10-13T15:48:50+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=582959",
-   "title": "Cass: TL linehaul rates up 10% in September, shipment counts remain positive",
-   "url": "https://www.freightwaves.com/news/cass-tl-linehaul-rates-up-10-in-september-shipment-counts-remain-positive",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Truckload linehaul rates surged again in September while shipment counts remained in positive territory, according to a monthly report from Cass Information Systems. Cass’ TL linehaul index, which tracks rates excluding fuel and accessorial surcharges, increased 10.1% year over year, according to…",
-   "published": "2026-10-13T15:03:35+00:00"
   }
  ]
 }

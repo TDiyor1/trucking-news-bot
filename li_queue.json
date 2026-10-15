@@ -1,4 +1,33 @@
 {
  "last_digest": "2026-10-15",
- "queue": []
+ "queue": [
+  {
+   "id": "https://www.freightwaves.com/?p=583140",
+   "title": "The Heavy-Duty Oil Standard Is Changing In January, What It Means For Your Fleet, Your Costs, And Your Equipment",
+   "url": "https://www.freightwaves.com/news/the-heavy-duty-oil-standard-is-changing-in-january-what-it-means-for-your-fleet-your-costs-and-your-equipment",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "If your trucks have been running the same heavy-duty diesel engine oil since roughly 2017, whether you manage a hundred-truck fleet, run a small operation of a few units, or own the one truck you drive yourself, that oil is about to be replaced by something new, because the American Petroleum…",
+   "published": "2026-10-15T13:28:30+00:00"
+  },
+  {
+   "id": "https://www.supplychaindive.com/news/california-diesel-prices-remain-above-8-per-gallon-as-truckers-call-for-re/833092/",
+   "title": "California diesel prices remain above $8 per gallon as truckers call for relief",
+   "url": "https://www.supplychaindive.com/news/california-diesel-prices-remain-above-8-per-gallon-as-truckers-call-for-re/833092/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Elevated costs could extend well into next year, an energy expert tells Trucking Dive.",
+   "published": "2026-10-15T13:45:10+00:00"
+  }
+ ]
 }
