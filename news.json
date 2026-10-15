@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-15T18:37:57+00:00",
+ "updated": "2026-10-15T18:39:33+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/take-control-your-fleet-fuel-costs",
+   "title": "Take control of your fleet fuel costs",
+   "url": "https://www.ttnews.com/articles/take-control-your-fleet-fuel-costs",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Explore the everyday fuel challenges facing carriers and how better-connected data can help reduce waste, protect margins and support smarter decisions on every route today.",
+   "published": "2026-10-18T04:00:00+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/trucking-congress-midterms",
    "title": "Trucking groups seek congressional support before midterms",
@@ -1124,22 +1139,6 @@
    ],
    "excerpt": "U.S. container imports reached their highest September volume on record, reaching 24.8% above the pre-Covid mark of September, 2019, according to the Global Shipping Report from supply chain software vendor Descartes. By the numbers, September imports to the U.S.",
    "published": "2026-10-13T20:42:28+00:00"
-  },
-  {
-   "id": "https://joc.com/article/us-shipment-volumes-rose-in-september-buoyed-by-manufacturing-6305405",
-   "title": "US shipment volumes rose in September, buoyed by manufacturing",
-   "url": "https://joc.com/article/us-shipment-volumes-rose-in-september-buoyed-by-manufacturing-6305405",
-   "source": "JOC",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "As factory orders and production “pick up a gear,” the Cass Freight Shipments Index is looking more solid entering the fourth quarter.",
-   "published": "2026-10-13T19:55:18+00:00"
   }
  ]
 }
