@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T20:39:43+00:00",
+ "updated": "2026-10-15T21:00:39+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/footage-fleet-focus",
@@ -43,6 +43,21 @@
    "tags": [],
    "excerpt": "Wreaths Across America is looking for volunteers to help further its mission. Find out how you can get involved.",
    "published": "2026-10-15T20:27:35+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/fmcsa-beacons-autonomous-trucks",
+   "title": "FMCSA approves warning beacons for autonomous trucks",
+   "url": "https://www.ttnews.com/articles/fmcsa-beacons-autonomous-trucks",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation",
+    "Tech"
+   ],
+   "excerpt": "Autonomous truck software developers received a boost from the FMCSA, which OK’d the use of beacons rather than warning triangles for five years.",
+   "published": "2026-10-15T20:20:27+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=583264",
@@ -1109,20 +1124,6 @@
    ],
    "excerpt": "After chameleon carriers and chameleon ELDs, FMCSA is now telling us there are chameleon CDL schools too.",
    "published": "2026-10-14T13:00:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583080",
-   "title": "Parcel shipping costs approach record high as extra charges stack up",
-   "url": "https://www.freightwaves.com/news/parcel-shipping-costs-approach-record-high-as-extra-charges-stack-up",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Sharp increases in rates and extra fees have continued into the fourth quarter, putting 2026 on track to be the most expensive year on record for parcel shipping as carriers strive to maximize revenue, according to the latest market snapshot from investment bank TD Cowen and AFS Logistics.",
-   "published": "2026-10-14T12:33:00+00:00"
   }
  ]
 }
