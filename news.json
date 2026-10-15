@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T22:30:28+00:00",
+ "updated": "2026-10-15T22:35:04+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/footage-fleet-focus",
@@ -29,6 +29,35 @@
    ],
    "excerpt": "Explore the everyday fuel challenges facing carriers and how better-connected data can help reduce waste, protect margins and support smarter decisions on every route today.",
    "published": "2026-10-18T04:00:00+00:00"
+  },
+  {
+   "id": "https://www.dat.com/blog/?p=27660",
+   "title": "Reefer Produce Report: California rates run 44% above last year as national volume drops 9%",
+   "url": "https://www.dat.com/blog/reefer-produce-report-california-rates-run-44-above-last-year-as-national-volume-drops-9",
+   "source": "DAT iQ",
+   "audience": [
+    "Broker"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "Produce rates firmed again last week as the load pool thinned. Total refrigerated produce volume fell 9% week over week and 4% year over year, according to the USDA Produce Truck Rate and Volume Report for the week ending Tuesday, October 13. Washington apple and pear lanes led the rate board at an…",
+   "published": "2026-10-15T22:34:51+00:00"
+  },
+  {
+   "id": "https://www.dat.com/blog/?p=27603",
+   "title": "How fresh is DAT’s rate data? We measured 20 million loads",
+   "url": "https://www.dat.com/blog/how-fresh-is-dats-rate-data-we-measured-20-million-loads",
+   "source": "DAT iQ",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "You ‘ve probably heard some version of this argument. Rate data built on invoices has to be old, because invoices come after delivery. The argument states that by the time a settled transaction reaches DAT’s database, the market has moved on. But that’s not how the DAT database works, and we…",
+   "published": "2026-10-15T22:33:03+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=583235",
@@ -1094,34 +1123,6 @@
    "tags": [],
    "excerpt": "Truck-Lite has released its Trailer Back Up Safety System for 2027 builds, offering an integrated reverse-lighting and audible alarm system designed to improve trailer backup safety and efficiency. The system, initially announced at the Technology & Maintenance Council's (TMC) Annual Meeting and…",
    "published": "2026-10-14T13:49:13+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15837425",
-   "title": "Why AI governance is important and how to implement it",
-   "url": "https://www.ccjdigital.com/technology/artificial-intelligence/article/15837425/ai-governance-in-trucking-managing-shadow-ai-and-fleet-risks",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "In July, I wrote : “Artificial intelligence (AI) is already active inside most transportation companies. In many cases, it arrived without an intentional decision, having been bolted on by vendors to existing platforms. These tools are now processing your operational data with no internal policy…",
-   "published": "2026-10-14T13:38:20+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583086",
-   "title": "LTL rates hit new high in Q3, moving higher in Q4",
-   "url": "https://www.freightwaves.com/news/ltl-rates-hit-new-high-in-q3-moving-higher-in-q4",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Less-than-truckload rates hit a new high in the third quarter and are expected to finish the year even higher, according to a report from AFS Logistics and financial services firm TD Cowen. The LTL rate-per-pound component of the TD Cowen-AFS Freight Index finished the third quarter 78.8% above its…",
-   "published": "2026-10-14T13:35:12+00:00"
   }
  ]
 }
