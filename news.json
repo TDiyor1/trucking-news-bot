@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T19:09:31+00:00",
+ "updated": "2026-10-15T19:30:33+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/take-control-your-fleet-fuel-costs",
@@ -15,6 +15,20 @@
    ],
    "excerpt": "Explore the everyday fuel challenges facing carriers and how better-connected data can help reduce waste, protect margins and support smarter decisions on every route today.",
    "published": "2026-10-18T04:00:00+00:00"
+  },
+  {
+   "id": "https://joc.com/article/massport-names-supply-chain-veteran-as-new-port-director-6306500",
+   "title": "Massport names supply chain veteran as new port director",
+   "url": "https://joc.com/article/massport-names-supply-chain-veteran-as-new-port-director-6306500",
+   "source": "JOC",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Charlie Cunnion most recently served as vice president of supply chain and customer service for CMPC Forest Products North America.",
+   "published": "2026-10-15T19:18:14+00:00"
   },
   {
    "id": "https://landline.media/?p=104297",
@@ -1118,20 +1132,6 @@
    ],
    "excerpt": "Trucking news and briefs for Wednesday, Oct. 14, 2026: Charger Logistics partners with Kodiak for autonomous hauls Kodiak and Charger completed their first delivery on Sept. 8, 2026. Kodiak AI Autonomous trucking company Kodiak AI and Charger Logistics ( CCJ Top 250 , No.",
    "published": "2026-10-14T05:00:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/analysts-diesel-relief-russia",
-   "title": "Analysts see little diesel price relief from deal with Russia",
-   "url": "https://www.ttnews.com/articles/analysts-diesel-relief-russia",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "A U.S. deal for Russian diesel is too limited to meaningfully move prices at the pumps ahead of November’s midterm elections, analysts say.",
-   "published": "2026-10-13T21:00:00+00:00"
   }
  ]
 }
