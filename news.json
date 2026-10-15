@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T19:39:31+00:00",
+ "updated": "2026-10-15T20:00:39+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/footage-fleet-focus",
@@ -31,6 +31,18 @@
    "published": "2026-10-18T04:00:00+00:00"
   },
   {
+   "id": "https://www.ccjdigital.com/15837502",
+   "title": "Trimble's potential T&L unit sale urges fleets to consider vendor changes",
+   "url": "https://www.ccjdigital.com/technology/business-operations/article/15837502/experts-offer-tips-for-fleets-considering-a-tms-switch",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Network optimization has become all-important in helping transportation and logistics companies manage what Trimble President and CEO Rob Painter called “the spicy market that we find ourselves in.” The industry needs technology now more than ever, Painter recently told media at the company’s…",
+   "published": "2026-10-15T19:42:45+00:00"
+  },
+  {
    "id": "https://www.truckingdive.com/news/american-trucking-associations-appoints-new-ceo/833123/",
    "title": "American Trucking Associations appoints new CEO",
    "url": "https://www.truckingdive.com/news/american-trucking-associations-appoints-new-ceo/833123/",
@@ -43,6 +55,18 @@
    "tags": [],
    "excerpt": "Mark Colson will start the new role Dec. 1, bringing over 20 years of experience, the ATA said.",
    "published": "2026-10-15T19:32:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583251",
+   "title": "Fleetworthy expands Expedited Inspection to five states",
+   "url": "https://www.freightwaves.com/news/fleetworthy-expedited-inspection-five-states",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Fleetworthy expanded its Expedited Inspection program to California, Michigan, Vermont and Maine on Tuesday, bringing the automated roadside inspection tool to five states. Nevada, the first, has used it since June 2025. When a truck is selected for inspection, the program sends fleet and vehicle…",
+   "published": "2026-10-15T19:26:57+00:00"
   },
   {
    "id": "https://joc.com/article/massport-names-supply-chain-veteran-as-new-port-director-6306500",
@@ -1101,36 +1125,6 @@
    ],
    "excerpt": "Pilot Travel Centers and Tesla have opened their first Megacharger site for heavy-duty electric trucks, Pilot said Oct. 8 . The site, at a Pilot travel center in Ellabell, Ga., has six charging stalls. Twelve more heavy-duty sites are under construction, and three are nearly finished: a Flying J in…",
    "published": "2026-10-14T11:30:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15837351",
-   "title": "Fuel, capacity and peak fees push freight rates to record highs",
-   "url": "https://www.ccjdigital.com/economic-trends/indicators/article/15837351/freight-rates-near-records-as-fuel-capacity-tighten",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Rates",
-    "Diesel",
-    "Capacity"
-   ],
-   "excerpt": "Elevated fuel prices, tight capacity and peak-season fees are pushing freight rates to historic highs, according to the fourth-quarter 2026 TD Cowen/AFS Freight Index released Tuesday. The index projects the highest truckload rates since the first quarter of 2022, less-than-truckload (LTL) rates…",
-   "published": "2026-10-14T10:53:36+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583099",
-   "title": "New chief for DP World Americas",
-   "url": "https://www.freightwaves.com/news/new-chief-for-dp-world-americas",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "DP World has appointed Morten Johansen as chief executive officer of its Americas region, placing a longtime ports and logistics executive in charge of the company’s operations across North America, South America, and the Caribbean. Johansen made the announcement in a LinkedIn post Oct. 13.",
-   "published": "2026-10-14T10:26:00+00:00"
   }
  ]
 }
