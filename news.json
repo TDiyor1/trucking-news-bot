@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-15T18:30:33+00:00",
+ "updated": "2026-10-15T18:37:57+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/trucking-congress-midterms",
+   "title": "Trucking groups seek congressional support before midterms",
+   "url": "https://www.ttnews.com/articles/trucking-congress-midterms",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation",
+    "Fraud"
+   ],
+   "excerpt": "At events in Ohio and North Carolina, industry representatives sought support for legislation addressing lawsuit abuse, truck parking and accident fraud.",
+   "published": "2026-10-15T18:33:23+00:00"
+  },
   {
    "id": "https://landline.media/?p=104294",
    "title": "How heavy is too heavy? States rethink truck weight limits",
@@ -1125,21 +1140,6 @@
    ],
    "excerpt": "As factory orders and production “pick up a gear,” the Cass Freight Shipments Index is looking more solid entering the fourth quarter.",
    "published": "2026-10-13T19:55:18+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=582947",
-   "title": "Samsara makes AI agent platform generally available, reports 7x adoption growth",
-   "url": "https://www.freightwaves.com/news/samsara-makes-ai-agent-platform-generally-available-reports-7x-adoption-growth",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech",
-    "Ports/Rail"
-   ],
-   "excerpt": "Samsara has made its Agent Studio platform generally available to all customers, opening its no-code AI agent builder to fleets and other businesses using its software. Samsara is recording AI-agent interactions about seven times faster than when it launched the tools in June, with its latest…",
-   "published": "2026-10-13T19:30:38+00:00"
   }
  ]
 }
