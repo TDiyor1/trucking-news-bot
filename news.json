@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-15T05:30:29+00:00",
+ "updated": "2026-10-15T06:00:37+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/15837497",
+   "title": "$200 million awarded by DOT for truck parking projects",
+   "url": "https://www.ccjdigital.com/regulations/article/15837497/dot-awards-200m-for-truck-parking-projects",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "Trucking news and briefs for Thursday, Oct. 15, 2026: $200M in truck parking coming to 12 states The U.S. Department of Transportation on Wednesday announced $200 million in grants awarded to a dozen states to expand truck parking. Transportation Secretary Sean Duffy announced the investments are…",
+   "published": "2026-10-15T05:42:00+00:00"
+  },
   {
    "id": "https://www.dcvelocity.com/editorial/featured/external-forces-to-reshape-supply-chains-in-2027",
    "title": "External forces to reshape supply chains in 2027",
@@ -1147,21 +1161,6 @@
    ],
    "excerpt": "The five-year exemption, requested by Aurora, is available to any Level 4 autonomous company with prior notice to the agency.",
    "published": "2026-10-13T13:38:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=582998",
-   "title": "CSX operations chief to retire",
-   "url": "https://www.freightwaves.com/news/csx-operations-chief-to-retire",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "CSX Executive Vice President and Chief Operating Officer Mike Cory is retiring, ending a tenure that began when he came out of retirement to join the railroad in September 2023. Cory will work with the leadership team to ensure a smooth transition, the company said, and will provide transition…",
-   "published": "2026-10-13T13:24:00+00:00"
   }
  ]
 }
