@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T22:35:04+00:00",
+ "updated": "2026-10-15T23:00:36+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/footage-fleet-focus",
@@ -58,6 +58,20 @@
    ],
    "excerpt": "You ‘ve probably heard some version of this argument. Rate data built on invoices has to be old, because invoices come after delivery. The argument states that by the time a settled transaction reaches DAT’s database, the market has moved on. But that’s not how the DAT database works, and we…",
    "published": "2026-10-15T22:33:03+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/15837652",
+   "title": "FMCSA's DataQs reforms officially in effect",
+   "url": "https://www.ccjdigital.com/regulations/safety-compliance/article/15837652/fmcsas-dataqs-reforms-officially-in-effect",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "The Federal Motor Carrier Safety Administration on Thursday officially announced the implementation of its reformed DataQs requirements unveiled earlier this year . Those changes, as reported , tied states’ adherence to the requirements to their eligibility to receive Motor Carrier Safety…",
+   "published": "2026-10-15T21:19:07+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=583235",
@@ -294,6 +308,20 @@
    ],
    "excerpt": "The attorneys general argue to the Federal Energy Regulatory Commission that a broader environmental review could complicate similar projects across the country.",
    "published": "2026-10-15T17:20:04+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/15837589",
+   "title": "Truck driver petitions FMCSA for mandatory CO detectors after deaths",
+   "url": "https://www.ccjdigital.com/regulations/equipment/article/15837589/truck-driver-calls-for-co-detectors-in-sleeperequipped-trucks",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "A truck driver has filed a petition with the Federal Motor Carrier Safety Administration requesting a new rule to require carbon monoxide detector alarms in sleeper berth-equipped commercial vehicles. Cincinnati, Ohio-based Todd Daum in his petition described himself as a “CDL-A holder with Hazmat…",
+   "published": "2026-10-15T16:59:34+00:00"
   },
   {
    "id": "https://landline.media/?p=104291",
@@ -1094,35 +1122,6 @@
    ],
    "excerpt": "The acquisition adds trucks and expands the Texas-based 3PL’s cross-border operations, according to an announcement.",
    "published": "2026-10-14T14:05:00+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/cbp-eyes-earlier-filing-deadlines-for-low-cost-imports-postal-changes/832877/",
-   "title": "CBP eyes earlier filing deadlines for low-cost imports, postal changes",
-   "url": "https://www.supplychaindive.com/news/cbp-eyes-earlier-filing-deadlines-for-low-cost-imports-postal-changes/832877/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs",
-    "Capacity"
-   ],
-   "excerpt": "The proposed adjustments could spur higher shipping costs and USPS capacity issues, but trade compliance would improve, the agency said.",
-   "published": "2026-10-14T13:49:47+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15837427",
-   "title": "Truck-Lite releases trailer back up safety system for 2027 builds",
-   "url": "https://www.ccjdigital.com/products/article/15837427/new-trucklite-backup-safety-system-for-commercial-trailers-2027",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Truck-Lite has released its Trailer Back Up Safety System for 2027 builds, offering an integrated reverse-lighting and audible alarm system designed to improve trailer backup safety and efficiency. The system, initially announced at the Technology & Maintenance Council's (TMC) Annual Meeting and…",
-   "published": "2026-10-14T13:49:13+00:00"
   }
  ]
 }
