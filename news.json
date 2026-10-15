@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-15T13:00:43+00:00",
+ "updated": "2026-10-15T13:30:53+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=583189",
+   "title": "FedEx digitizes booking process for European cold-chain pharma shipments",
+   "url": "https://www.freightwaves.com/news/fedex-digitizes-booking-process-for-european-cold-chain-pharma-shipments",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "FedEx Corp. has introduced an online portal for pharmaceutical and life sciences companies to simplify booking and management of temperature-controlled parcel shipments in Europe. Medicines, vaccines, biologics and other critical healthcare products typically follow a separate booking process…",
+   "published": "2026-10-15T12:47:29+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/oil-prices-global-oil-supply",
    "title": "Oil prices steady as uncertainty surrounds global oil supply",
@@ -1142,22 +1156,6 @@
    ],
    "excerpt": "Truckload linehaul rates surged again in September while shipment counts remained in positive territory, according to a monthly report from Cass Information Systems. Cass’ TL linehaul index, which tracks rates excluding fuel and accessorial surcharges, increased 10.1% year over year, according to…",
    "published": "2026-10-13T15:03:35+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/panama-canal-challenges-drive-shippers-to-port-of-los-angeles/832748/",
-   "title": "Panama Canal challenges drive shippers to Port of Los Angeles",
-   "url": "https://www.supplychaindive.com/news/panama-canal-challenges-drive-shippers-to-port-of-los-angeles/832748/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Diesel",
-    "Ports/Rail"
-   ],
-   "excerpt": "High fuel costs are also pushing shippers and carriers to shift volume to the San Pedro Bay port to avoid longer transit times.",
-   "published": "2026-10-13T14:49:00+00:00"
   }
  ]
 }
