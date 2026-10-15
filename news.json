@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-15T14:00:41+00:00",
+ "updated": "2026-10-15T14:24:20+00:00",
  "items": [
+  {
+   "id": "https://www.supplychaindive.com/news/how-unfi-tackles-higher-fuel-prices/832977/",
+   "title": "How UNFI tackles higher fuel prices",
+   "url": "https://www.supplychaindive.com/news/how-unfi-tackles-higher-fuel-prices/832977/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel",
+    "Tech"
+   ],
+   "excerpt": "The wholesale food distributor is managing surging diesel costs by hedging and using an AI platform to optimize routes.",
+   "published": "2026-10-15T14:06:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583198",
+   "title": "Opinion: How politics and policy are rewriting the rules of parcel delivery",
+   "url": "https://www.freightwaves.com/news/opinion-how-politics-and-policy-are-rewriting-the-rules-of-parcel-delivery",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Capacity"
+   ],
+   "excerpt": "By Daniil Davydoff Following the U.S. parcel delivery market can feel like tracking a race. Tactical moves to increase network capacity, build facilities, and launch tools, as well as strategic changes in leadership and operating models, dominate assessments of which carriers are gaining or losing…",
+   "published": "2026-10-15T13:59:56+00:00"
+  },
   {
    "id": "https://www.supplychaindive.com/news/california-diesel-prices-remain-above-8-per-gallon-as-truckers-call-for-re/833092/",
    "title": "California diesel prices remain above $8 per gallon as truckers call for relief",
@@ -1126,35 +1156,6 @@
    ],
    "excerpt": "CCT Auto Trans announced Tuesday that it has acquired fellow car hauler Livingston Vehicle Transportation Services (VTS). Financial terms of the transaction were not disclosed. Livingston VTS operates one of Canada’s largest vehicle-hauling networks, using its own fleet of trucks and car haulers.…",
    "published": "2026-10-13T16:50:49+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/bed-bath-beyond-parent-company-taps-ai-to-unify-forecasting-replenishmen/832759/",
-   "title": "Bed Bath & Beyond parent company taps AI to unify forecasting, replenishment",
-   "url": "https://www.supplychaindive.com/news/bed-bath-beyond-parent-company-taps-ai-to-unify-forecasting-replenishmen/832759/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tech",
-    "Ports/Rail"
-   ],
-   "excerpt": "Neighborhood Intelligence is using Relex Solutions to reduce supply chain complexity across its brand portfolio, which includes The Container Store and Kirkland’s.",
-   "published": "2026-10-13T16:41:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/oil-prices-watch-middle-east",
-   "title": "Oil prices remain above $100 as traders watch Middle East",
-   "url": "https://www.ttnews.com/articles/oil-prices-watch-middle-east",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Brent crude oil, the international standard, fell 0.7% to $105.91 a barrel. That is still higher than the roughly $72 per barrel in late February before the Iran war.",
-   "published": "2026-10-13T16:37:08+00:00"
   }
  ]
 }
