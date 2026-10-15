@@ -1,6 +1,62 @@
 {
- "updated": "2026-10-15T15:01:00+00:00",
+ "updated": "2026-10-15T15:30:38+00:00",
  "items": [
+  {
+   "id": "https://joc.com/article/growing-backlog-of-empty-containers-hurting-la-lb-port-fluidity-hta-6306369",
+   "title": "Growing backlog of empty containers hurting LA-LB port fluidity: HTA",
+   "url": "https://joc.com/article/growing-backlog-of-empty-containers-hurting-la-lb-port-fluidity-hta-6306369",
+   "source": "JOC",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Empties that are not being shipped back to Asia are causing congestion at the US' busiest gateway, according to the Harbor Trucking Association, though marine terminals say the situation is being managed capably.",
+   "published": "2026-10-15T15:27:13+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/15837582",
+   "title": "ATA taps Alabama's trucking boss as next president, CEO",
+   "url": "https://www.ccjdigital.com/regulations/industry/article/15837582/alabamas-mark-colson-named-new-american-trucking-associations-ceo",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "American Trucking Associations has appointed Mark Colson its next president and chief executive officer, effective Dec. 1. Colson has led the Alabama Trucking Association since 2019. At ATA, he succeeds Chris Spear, who abruptly left ATA in August . With more than two decades of experience…",
+   "published": "2026-10-15T15:17:38+00:00"
+  },
+  {
+   "id": "https://joc.com/article/philaport-secures-funding-for-more-container-roro-capacity-6306366",
+   "title": "PhilaPort secures funding for more container, ro/ro capacity",
+   "url": "https://joc.com/article/philaport-secures-funding-for-more-container-roro-capacity-6306366",
+   "source": "JOC",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Capacity",
+    "Ports/Rail"
+   ],
+   "excerpt": "More than $800 million in new funds will help Philadelphia add container handling capacity at its Southport Marine Terminal in addition to the site’s current auto handling capacity.",
+   "published": "2026-10-15T15:16:14+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583184",
+   "title": "R&R trucking CEO reports $12.7M in assets after company collapse",
+   "url": "https://www.freightwaves.com/news/rr-trucking-ceo-reports-12-7m-in-assets-after-company-collapse",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Capacity"
+   ],
+   "excerpt": "Richard “Rich” Francis, CEO of the collapsed R&R Family of Companies, has disclosed nearly $12.7 million in personal assets in a court filing on Wednesday. Francis’ assets include an $8.5 million Florida waterfront residence, while reporting approximately $7.5 million in liabilities in newly filed…",
+   "published": "2026-10-15T15:06:46+00:00"
+  },
   {
    "id": "https://theloadstar.com/?p=326813",
    "title": "AP Møller Capital acquires Singapore’s Portek International from Mitsui",
@@ -168,6 +224,20 @@
    ],
    "excerpt": "Ahead of the T&L earnings season kick-off in the US today with intermodal and trucking bellwether JB Hunt, the sell-side analysts as usual put in some effort advising investors about ‘how to position’ their portfolios. Several top names high on the agenda, price targets have been cut or raised –…",
    "published": "2026-10-15T11:34:28+00:00"
+  },
+  {
+   "id": "https://www.supplychaindive.com/news/globalfoundries-building-21b-new-york-fabs-under-us-japan-trade-deal/832995/",
+   "title": "GlobalFoundries building $21B New York fabs under US-Japan trade deal",
+   "url": "https://www.supplychaindive.com/news/globalfoundries-building-21b-new-york-fabs-under-us-japan-trade-deal/832995/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "The multibillion-dollar agreement will accelerate U.S. semiconductor manufacturing, strengthen critical supply chains and support growing automotive and industrial demand, GlobalFoundries said in a news release.",
+   "published": "2026-10-15T11:12:00+00:00"
   },
   {
    "id": "https://theloadstar.com/?p=326733",
@@ -1078,79 +1148,6 @@
    ],
    "excerpt": "Diesel prices just jumped 20 cents in a few hours, and experts warn we’re “running out of bullets” as inventories dwindle. We dive into the latest fuel market data, the impact of red-dyed diesel policies, and how geopolitical events are creating an unstable energy supply chain that could push…",
    "published": "2026-10-13T18:40:22+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104267",
-   "title": "Paper med cards out, except for CDL holders in one state",
-   "url": "https://landline.media/paper-med-cards-out-except-for-cdl-holders-in-one-state/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "As of Oct. 12, almost all CDL holders are no longer allowed to rely on a paper copy of their medical examiner’s certificate as proof of qualification.",
-   "published": "2026-10-13T18:38:54+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104264",
-   "title": "Return to sender. Trucking company owner charged with fraud",
-   "url": "https://landline.media/return-to-sender-trucking-company-owner-charged-with-fraud/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Fraud"
-   ],
-   "excerpt": "A trucking company owner failed to deliver on signed contracts to deliver mail, leading to the discovery of a $1 million fraud scheme.",
-   "published": "2026-10-13T18:37:15+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/ryder-nj-used-truck-facilities",
-   "title": "Ryder grows Northeast used truck network with N.J. facilities",
-   "url": "https://www.ttnews.com/articles/ryder-nj-used-truck-facilities",
-   "source": "Transport Topics",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Ryder opened used commercial vehicle sales facilities in Newark and North Bergen, N.J., expanding customer access to its inventory in the New York-area freight market.",
-   "published": "2026-10-13T18:00:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583008",
-   "title": "Mexico truck exports soar 145% as US demand accelerates",
-   "url": "https://www.freightwaves.com/news/mexico-truck-exports-soar-145-as-us-demand-accelerates",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "Mexican manufacturers produced 15,181 heavy-duty vehicles during September, compared with 6,857 in the same month last year. Exports totaled 12,707 units, up 144.6% from September 2025, marking a significant acceleration in cross-border commercial vehicle shipments, according to figures from…",
-   "published": "2026-10-13T17:49:57+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583017",
-   "title": "How National Debt Affects Freight Costs and Financing",
-   "url": "https://www.freightwaves.com/news/how-national-debt-affects-freight-costs-and-financing",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Key takeaways U.S. gross federal debt passed $40 trillion in August 2026; about $32.4 trillion of it is held by the public. Net interest on the debt now runs above $1 trillion a year and eats roughly 18.5% of federal revenue, a record. Heavy Treasury borrowing competes with private borrowers for…",
-   "published": "2026-10-13T17:46:25+00:00"
   }
  ]
 }
