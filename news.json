@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-15T16:39:15+00:00",
+ "updated": "2026-10-15T17:00:37+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104291",
+   "title": "NHTSA looks to dim headlight glare",
+   "url": "https://landline.media/nhtsa-looks-to-dim-headlight-glare/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Drivers have complained about headlight glare for years. Now, federal regulators are looking at what needs to change.",
+   "published": "2026-10-15T16:55:49+00:00"
+  },
   {
    "id": "https://joc.com/article/europe-risks-becoming-a-corpse-in-steel-sector-experts-6306388",
    "title": "Europe risks becoming a 'corpse' in steel sector: experts",
@@ -1129,18 +1141,6 @@
    "tags": [],
    "excerpt": "Owners say fuel injector failures left trucks sidelined and businesses struggling. Their lawsuit against Paccar cleared a court hurdle.",
    "published": "2026-10-13T19:10:06+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104270",
-   "title": "Pennsylvania could ditch paper permits for truckers",
-   "url": "https://landline.media/pennsylvania-could-ditch-paper-permits-for-truckers/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Truckers could soon use electronic permits instead of paper copies in Pennsylvania. Another measure would add work-zone safety to the driver’s test.",
-   "published": "2026-10-13T19:08:04+00:00"
   }
  ]
 }
