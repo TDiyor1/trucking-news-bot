@@ -1,6 +1,47 @@
 {
- "updated": "2026-10-15T12:00:39+00:00",
+ "updated": "2026-10-15T12:30:36+00:00",
  "items": [
+  {
+   "id": "https://theloadstar.com/?p=326787",
+   "title": "UK port volume growth not due to EU shippers avoiding ETS, says BPA",
+   "url": "https://theloadstar.com/uk-port-volume-growth-not-due-to-eu-shippers-avoiding-ets-says-bpa/",
+   "source": "The Loadstar",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "UK lobbyists today pushed back at attempts to have the EU designate the ports of Felixstowe, London, and Southampton as “neighbouring container transhipment ports”, in the ongoing question of whether shippers are rerouting cargo to avoid ETS scheme charges.",
+   "published": "2026-10-15T12:19:45+00:00"
+  },
+  {
+   "id": "https://theloadstar.com/?p=326785",
+   "title": "Low Rhine water level driving barge cargo to capacity-strained road and rail",
+   "url": "https://theloadstar.com/low-rhine-water-level-driving-barge-cargo-to-capacity-strained-road-and-rail/",
+   "source": "The Loadstar",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Capacity",
+    "Ports/Rail"
+   ],
+   "excerpt": "Terminals at Antwerp and Rotterdam are coming under growing pressure as unseasonably low water along the Rhine continues to restrict container barge movements on the river, with cargo being pushed towards already-constrained rail and road networks. SeasC4U’s Gunther Ginckels told The Loadstar…",
+   "published": "2026-10-15T12:11:23+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583136",
+   "title": "Volvo’s 15% share goal runs through vocational trucks",
+   "url": "https://www.freightwaves.com/news/volvo-vocational-market-share-voorhoeve",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "SHIPPENSBURG, Pa. — Volvo Trucks wants 15% of the North American heavy-truck market. Peter Voorhoeve, president of Volvo Trucks North America, says that goal counts on vocational trucks, a segment where Volvo has held a low single-digit share. Voorhoeve runs the North American arm of a brand with a…",
+   "published": "2026-10-15T12:00:00+00:00"
+  },
   {
    "id": "https://theloadstar.com/?p=326657",
    "title": "DSV, not K+N, the golden goose",
@@ -1120,47 +1161,6 @@
    ],
    "excerpt": "Craig Fuller dives deep into the latest SONAR data, revealing how contract rates are climbing past recession highs, spot rates are trending up towards peak, and why demand isn’t the primary driver of current market volume. Get the essential insights on diesel prices and tender rejections affecting…",
    "published": "2026-10-13T14:38:15+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=582964",
-   "title": "The AI Boom: Why It’s Replacing E-commerce in Global Freight",
-   "url": "https://www.freightwaves.com/news/the-ai-boom-why-its-replacing-e-commerce-in-global-freight",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "AI has officially taken over e-commerce as the main driver of air freight out of Asia. This massive shift is fueled by semiconductor and data center equipment demands. Learn how this boom is reshaping logistics networks and international trade, with surprising implications for economies like…",
-   "published": "2026-10-13T14:36:54+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=582960",
-   "title": "Truck driver, 74, killed in Interstate 84 rollover in Idaho",
-   "url": "https://www.freightwaves.com/news/truck-driver-74-killed-in-interstate-84-rollover-in-idaho",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "A 74-year-old truck driver from Reno, Nevada, died after his tractor-trailer left Interstate 84 and overturned east of Boise, Idaho, early Monday. The single-vehicle crash occurred at approximately 3:08 a.m. Oct. 12 near milepost 62 in Ada County, along the eastbound lanes of I-84, according to…",
-   "published": "2026-10-13T14:36:08+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=582962",
-   "title": "Electric Trucks: The REALITY for Tesla Semi & Volvo Fleets",
-   "url": "https://www.freightwaves.com/news/electric-trucks-the-reality-for-tesla-semi-volvo-fleets",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation",
-    "Tech"
-   ],
-   "excerpt": "Electric trucks are here, but what’s the real-world experience like? Hight Logistics CEO Rudy Diaz, who operates 2,500 electric trucks including Tesla Semis and Volvo EVs, breaks down the challenges and successes of transitioning to an electric fleet. From charging infrastructure and battery range…",
-   "published": "2026-10-13T14:35:52+00:00"
   }
  ]
 }
