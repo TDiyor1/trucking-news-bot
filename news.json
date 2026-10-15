@@ -1,6 +1,47 @@
 {
- "updated": "2026-10-15T15:30:38+00:00",
+ "updated": "2026-10-15T16:00:52+00:00",
  "items": [
+  {
+   "id": "https://joc.com/article/europe-risks-becoming-a-corpse-in-steel-sector-experts-6306388",
+   "title": "Europe risks becoming a 'corpse' in steel sector: experts",
+   "url": "https://joc.com/article/europe-risks-becoming-a-corpse-in-steel-sector-experts-6306388",
+   "source": "JOC",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The demise of Europe’s steel industry would lead to the collapse of the associated logistics sector that supports it, participants at the Port of Antwerp-Bruges Breakbulk Summit were told this week.",
+   "published": "2026-10-15T15:56:18+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583220",
+   "title": "Alabama association chief Colson named new head of ATA",
+   "url": "https://www.freightwaves.com/news/alabama-association-chief-colson-named-new-head-of-ata",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "The American Trucking Associations has turned to one of its affiliates and plucked the head of the Alabama Trucking Association to be the national group’s next president and CEO, effective December 1. Mark Colson has been named to head the ATA, which was jolted by the sudden departure of Chris…",
+   "published": "2026-10-15T15:42:07+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/200m-in-federal-funds-to-aid-truck-parking-in-12-states/833091/",
+   "title": "$200M in federal funds to aid truck parking in 12 states",
+   "url": "https://www.truckingdive.com/news/200m-in-federal-funds-to-aid-truck-parking-in-12-states/833091/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "The investments will “create hundreds of new parking spaces along major freight corridors and at key freight facilities,” the American Trucking Associations noted.",
+   "published": "2026-10-15T15:31:00+00:00"
+  },
   {
    "id": "https://joc.com/article/growing-backlog-of-empty-containers-hurting-la-lb-port-fluidity-hta-6306369",
    "title": "Growing backlog of empty containers hurting LA-LB port fluidity: HTA",
@@ -1100,54 +1141,6 @@
    "tags": [],
    "excerpt": "Truckers could soon use electronic permits instead of paper copies in Pennsylvania. Another measure would add work-zone safety to the driver’s test.",
    "published": "2026-10-13T19:08:04+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583039",
-   "title": "25,000 Drivers Lost: US-Mexico Border Crisis Explained",
-   "url": "https://www.freightwaves.com/news/25000-drivers-lost-us-mexico-border-crisis-explained",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Tariffs",
-    "Capacity"
-   ],
-   "excerpt": "Cross-border freight capacity is facing unprecedented challenges. With 25,000 Mexican driver visas revoked, and significant tender rejections at both the US-Mexico and US-Canada borders, rates are skyrocketing. Learn why these constraints are expected to continue well into 2027 and how it impacts…",
-   "published": "2026-10-13T18:42:23+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583038",
-   "title": "Canada Tariffs Are Changing Freight Strategy Fast",
-   "url": "https://www.freightwaves.com/news/canada-tariffs-are-changing-freight-strategy-fast",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs",
-    "Capacity"
-   ],
-   "excerpt": "Canada-US trade tension is forcing fast changes in cross-border logistics. James Edge breaks down how importers, exporters and retailers are handling tariffs, shifting demand and new data requirements. In this FreightWaves conversation, Edge explains the real operator playbook: split U.S.",
-   "published": "2026-10-13T18:41:13+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583037",
-   "title": "Diesel Prices Surge 20 Cents: Why the Fuel Market is in Crisis",
-   "url": "https://www.freightwaves.com/news/diesel-prices-surge-20-cents-why-the-fuel-market-is-in-crisis",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Diesel prices just jumped 20 cents in a few hours, and experts warn we’re “running out of bullets” as inventories dwindle. We dive into the latest fuel market data, the impact of red-dyed diesel policies, and how geopolitical events are creating an unstable energy supply chain that could push…",
-   "published": "2026-10-13T18:40:22+00:00"
   }
  ]
 }
