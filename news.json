@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T20:30:34+00:00",
+ "updated": "2026-10-15T20:39:43+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/footage-fleet-focus",
@@ -43,6 +43,34 @@
    "tags": [],
    "excerpt": "Wreaths Across America is looking for volunteers to help further its mission. Find out how you can get involved.",
    "published": "2026-10-15T20:27:35+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583264",
+   "title": "How AI Agents Boost Fleet Safety & Efficiency by 30%",
+   "url": "https://www.freightwaves.com/news/how-ai-agents-boost-fleet-safety-efficiency-by-30",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation",
+    "Tech"
+   ],
+   "excerpt": "Samsara’s new Agent Studio is changing the game for physical operations, making powerful AI agents accessible through a no-code builder. Discover how voice and chat agents are helping logistics companies proactively manage everything from HOS compliance to driver coaching, improving safety by up to…",
+   "published": "2026-10-15T20:16:46+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583263",
+   "title": "Is Your Trailer Leasing EXPOSURE Covered?",
+   "url": "https://www.freightwaves.com/news/is-your-trailer-leasing-exposure-covered",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Freight brokers stepping into trailer leasing face significant new liabilities beyond just arranging transportation. From critical maintenance issues to relying on inadequate insurance, the risks are substantial. Learn why dedicated coverage and robust processes are essential to protect your…",
+   "published": "2026-10-15T20:16:00+00:00"
   },
   {
    "id": "https://www.ccjdigital.com/15837502",
@@ -1095,36 +1123,6 @@
    ],
    "excerpt": "Sharp increases in rates and extra fees have continued into the fourth quarter, putting 2026 on track to be the most expensive year on record for parcel shipping as carriers strive to maximize revenue, according to the latest market snapshot from investment bank TD Cowen and AFS Logistics.",
    "published": "2026-10-14T12:33:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/oil-prices-inflation-report",
-   "title": "Oil prices tick upward with eye on inflation report",
-   "url": "https://www.ttnews.com/articles/oil-prices-inflation-report",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Brent crude gained 0.6% to $106.37 a barrel. Gas prices averaged $4.33 per gallon on Oct. 14, according to AAA, up slightly from a month ago.",
-   "published": "2026-10-14T12:13:03+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/has-washingtons-approach-to-manufacturing-incentives-really-changed/832121/",
-   "title": "Has Washington’s approach to manufacturing incentives really changed?",
-   "url": "https://www.supplychaindive.com/news/has-washingtons-approach-to-manufacturing-incentives-really-changed/832121/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs",
-    "Ports/Rail"
-   ],
-   "excerpt": "In addition to tariffs, the Trump administration has taken a more sector-specific approach to incentives compared to the Biden administration. A recent Department of Commerce report laid out the current tools available.",
-   "published": "2026-10-14T11:36:00+00:00"
   }
  ]
 }
