@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T12:30:34+00:00",
+ "updated": "2026-10-16T13:00:41+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/footage-fleet-focus",
@@ -46,6 +46,18 @@
    ],
    "excerpt": "Our team traveled to Moldova to meet the people who book American freight and to investigate reports of freight fraud linked to the country.",
    "published": "2026-10-16T13:00:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583312",
+   "title": "J.B. Hunt experiences growing pains in Q3",
+   "url": "https://www.freightwaves.com/news/j-b-hunt-experiences-growing-pains-in-q3",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "J.B. Hunt Transport Services’ third quarter may prove to be a speed bump on the road to recovery. The company previously flagged significant cost pressures, some growth-related, heading into the Thursday print. To meet demand, some of its business units offered sign-on bonuses and increase driver…",
+   "published": "2026-10-16T12:20:27+00:00"
   },
   {
    "id": "https://www.ccjdigital.com/15837632",
@@ -1111,20 +1123,6 @@
    ],
    "excerpt": "Higher tariffs and geopolitical conflicts have been slowing the flow of global trade, but a powerful new trend is now helping to outweigh those forces, as the global race to build infrastructure for artificial intelligence is giving world trade strong momentum, according to a study from DHL.",
    "published": "2026-10-14T16:39:31+00:00"
-  },
-  {
-   "id": "https://joc.com/article/container-ship-sinks-in-strait-of-hormuz-after-attack-6305838",
-   "title": "Container ship sinks in Strait of Hormuz after attack",
-   "url": "https://joc.com/article/container-ship-sinks-in-strait-of-hormuz-after-attack-6305838",
-   "source": "JOC",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Two vessels from the same feeder operator were hit in the waterway, with one catching fire and sinking while the other has limped to a safe anchorage.",
-   "published": "2026-10-14T16:24:19+00:00"
   }
  ]
 }
