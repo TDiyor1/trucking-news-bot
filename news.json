@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T19:30:27+00:00",
+ "updated": "2026-10-16T19:46:03+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/footage-fleet-focus",
@@ -29,6 +29,20 @@
    ],
    "excerpt": "Explore the everyday fuel challenges facing carriers and how better-connected data can help reduce waste, protect margins and support smarter decisions on every route today.",
    "published": "2026-10-18T04:00:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583385",
+   "title": "Louisiana attorney, staged accident scammer, finally sentenced",
+   "url": "https://www.freightwaves.com/news/louisiana-attorney-staged-accident-scammer-finally-sentenced",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Fraud"
+   ],
+   "excerpt": "Danny Keating, an attorney who was one of the masterminds of the Louisiana staged accident scam, was sentenced Thursday to 32 months in federal prison. Keating’s sentence will be followed by three years of supervised release. He also must pay $657,405.34 in restitution.",
+   "published": "2026-10-16T19:26:51+00:00"
   },
   {
    "id": "https://www.ccjdigital.com/15837715",
@@ -1110,23 +1124,6 @@
    ],
    "excerpt": "Intermodal conversion is no longer an option but a necessity for shippers, driven by past supply chain chaos and persistent fuel costs. FreightWaves Finance Editor Todd Maiden breaks down J.B. Hunt’s strategic plays in intermodal and dedicated, revealing how major carriers are navigating current…",
    "published": "2026-10-14T19:00:08+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583150",
-   "title": "Why Rail Is Booming: Intermodal & Carload Growth Explained",
-   "url": "https://www.freightwaves.com/news/why-rail-is-booming-intermodal-carload-growth-explained",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Diesel",
-    "Capacity",
-    "Ports/Rail"
-   ],
-   "excerpt": "US rail traffic is surging, with intermodal and carload volumes hitting new highs. This isn’t just a few bright spots; growth is broad-based across nearly all industrial sectors, driven by tight trucking capacity and high diesel prices. Find out what this means for the broader industrial economy…",
-   "published": "2026-10-14T18:59:14+00:00"
   }
  ]
 }
