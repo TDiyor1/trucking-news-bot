@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T19:00:34+00:00",
+ "updated": "2026-10-16T19:16:02+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/footage-fleet-focus",
@@ -29,6 +29,21 @@
    ],
    "excerpt": "Explore the everyday fuel challenges facing carriers and how better-connected data can help reduce waste, protect margins and support smarter decisions on every route today.",
    "published": "2026-10-18T04:00:00+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/15837715",
+   "title": "J.B. Hunt eyes 2027 bid season rate hike to fend off higher driver, fuel, and medical costs",
+   "url": "https://www.ccjdigital.com/business/article/15837715/jb-hunt-q3-earnings-revenue-up-20-profit-up-just-1",
+   "source": "CCJ",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "J.B. Hunt Transport Services ( CCJ Top 250 , No. 5) is turning its attention to the 2027 bid season to secure rate increases, emphasizing that pricing must catch up with a widening value proposition and rising operational costs . J.B. Hunt posted a 1% gain in third-quarter net earnings as 20%…",
+   "published": "2026-10-16T18:59:41+00:00"
   },
   {
    "id": "https://landline.media/?p=104336",
@@ -1112,18 +1127,6 @@
    ],
    "excerpt": "US rail traffic is surging, with intermodal and carload volumes hitting new highs. This isn’t just a few bright spots; growth is broad-based across nearly all industrial sectors, driven by tight trucking capacity and high diesel prices. Find out what this means for the broader industrial economy…",
    "published": "2026-10-14T18:59:14+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583149",
-   "title": "Democratizing Trucking Tech: What Small Fleets NEED to Know",
-   "url": "https://www.freightwaves.com/news/democratizing-trucking-tech-what-small-fleets-need-to-know",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "The trucking industry is rapidly evolving, making cutting-edge technology a must-have for carriers of all sizes. Learn how Datatruck is transforming the landscape for small and mid-sized fleets, offering advanced TMS solutions that help them boost profits, cut costs, and gain unparalleled…",
-   "published": "2026-10-14T18:58:14+00:00"
   }
  ]
 }
