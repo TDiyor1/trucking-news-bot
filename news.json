@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T13:00:41+00:00",
+ "updated": "2026-10-16T13:30:50+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/footage-fleet-focus",
@@ -46,6 +46,20 @@
    ],
    "excerpt": "Our team traveled to Moldova to meet the people who book American freight and to investigate reports of freight fraud linked to the country.",
    "published": "2026-10-16T13:00:00+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/oil-prices-supply-pressure",
+   "title": "Oil prices stable as world supply remains under pressure",
+   "url": "https://www.ttnews.com/articles/oil-prices-supply-pressure",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Brent crude fell 0.6% to $105.26 per barrel. Oil prices continued to stay elevated as global oil supply remains under pressure without a deal between the U.S. and Iran to end the Iran war.",
+   "published": "2026-10-16T12:22:55+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=583312",
@@ -1108,21 +1122,6 @@
    ],
    "excerpt": "Construction of the $2.3 billion Savannah Container Terminal is expected to start in January 2028, with the facility expected to handle the largest container ships once it's completed in the 2030s.",
    "published": "2026-10-14T17:00:00+00:00"
-  },
-  {
-   "id": "https://www.dcvelocity.com/supply-chain/other-services/global-logistics/dhl-ai-infrastructure-boom-outweighs-tariff-policy-damage",
-   "title": "DHL: AI infrastructure boom outweighs tariff policy damage",
-   "url": "https://www.dcvelocity.com/supply-chain/other-services/global-logistics/dhl-ai-infrastructure-boom-outweighs-tariff-policy-damage",
-   "source": "DC Velocity",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tariffs",
-    "Tech"
-   ],
-   "excerpt": "Higher tariffs and geopolitical conflicts have been slowing the flow of global trade, but a powerful new trend is now helping to outweigh those forces, as the global race to build infrastructure for artificial intelligence is giving world trade strong momentum, according to a study from DHL.",
-   "published": "2026-10-14T16:39:31+00:00"
   }
  ]
 }

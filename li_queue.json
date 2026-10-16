@@ -1,4 +1,19 @@
 {
  "last_digest": "2026-10-16",
- "queue": []
+ "queue": [
+  {
+   "id": "https://www.ttnews.com/articles/oil-prices-supply-pressure",
+   "title": "Oil prices stable as world supply remains under pressure",
+   "url": "https://www.ttnews.com/articles/oil-prices-supply-pressure",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Brent crude fell 0.6% to $105.26 per barrel. Oil prices continued to stay elevated as global oil supply remains under pressure without a deal between the U.S. and Iran to end the Iran war.",
+   "published": "2026-10-16T12:22:55+00:00"
+  }
+ ]
 }
