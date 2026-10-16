@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T16:16:03+00:00",
+ "updated": "2026-10-16T16:30:36+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/footage-fleet-focus",
@@ -29,6 +29,23 @@
    ],
    "excerpt": "Explore the everyday fuel challenges facing carriers and how better-connected data can help reduce waste, protect margins and support smarter decisions on every route today.",
    "published": "2026-10-18T04:00:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583219",
+   "title": "Carrier Logistics, LSP44 announce partnership to automate LTL shipment identification",
+   "url": "https://www.freightwaves.com/news/carrier-logistics-lsp44-announce-partnership-to-automate-ltl-shipment-identification",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Tech"
+   ],
+   "excerpt": "Carrier Logistics and LSP44 have partnered to develop an AI-powered API that can identify less-than-truckload shipments when a shipper or third-party logistics provider does not have the correct tracking number, targeting a source of manual work for carrier customer service teams.",
+   "published": "2026-10-16T16:08:59+00:00"
   },
   {
    "id": "https://www.truckingdive.com/news/jb-hunt-reports-22-yoy-drop-in-dedicated-q3-operating-income/833126/",
@@ -1110,21 +1127,6 @@
    "tags": [],
    "excerpt": "Regular truck maintenance is essential for safe operation, maximizing uptime and helping reduce operating costs. Routine inspections can identify small issues before they become costly repairs while helping keep your truck operating efficiently. Daily miles on the road can take a toll on various…",
    "published": "2026-10-14T18:01:43+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583126",
-   "title": "Houthi attacks add new geopolitical risk to softening container rates",
-   "url": "https://www.freightwaves.com/news/houthi-attacks-add-new-geopolitical-risk-to-softening-container-rates",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Rates",
-    "Ports/Rail"
-   ],
-   "excerpt": "Repeated Houthi missile and drone attacks on Saudi Arabia’s airports and energy infrastructure have sharply escalated the Saudi-Houthi conflict, raising the prospect of renewed disruption to Red Sea shipping as the 2027 contract-tendering season gets underway.",
-   "published": "2026-10-14T17:46:53+00:00"
   }
  ]
 }
