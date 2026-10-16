@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T17:20:09+00:00",
+ "updated": "2026-10-16T17:30:31+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/footage-fleet-focus",
@@ -29,6 +29,18 @@
    ],
    "excerpt": "Explore the everyday fuel challenges facing carriers and how better-connected data can help reduce waste, protect margins and support smarter decisions on every route today.",
    "published": "2026-10-18T04:00:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583369",
+   "title": "ATRI gets a new head: TeamOne’s Siplon",
+   "url": "https://www.freightwaves.com/news/atri-gets-a-new-head-teamones-siplon",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "The American Trucking Associations wrapped up a busy week Friday as it prepares for its annual conference beginning Sunday, with the American Transportation Research Institute, ATA’s not-for-profit research organization, naming a new head the day after ATA announced a new chief of the entire…",
+   "published": "2026-10-16T17:10:32+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=583219",
@@ -1115,18 +1127,6 @@
    ],
    "excerpt": "The proposals stem from a December 2024 investigation that found Spain created unfavorable conditions for US trade by barring US-flagged vessels from its ports.",
    "published": "2026-10-14T18:02:14+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15837485",
-   "title": "Truck maintenance tips that maximize uptime",
-   "url": "https://www.ccjdigital.com/maintenance/maintenance/article/15837485/commercial-truck-maintenance-checklist-best-practices",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Regular truck maintenance is essential for safe operation, maximizing uptime and helping reduce operating costs. Routine inspections can identify small issues before they become costly repairs while helping keep your truck operating efficiently. Daily miles on the road can take a toll on various…",
-   "published": "2026-10-14T18:01:43+00:00"
   }
  ]
 }
