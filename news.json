@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T18:30:32+00:00",
+ "updated": "2026-10-16T18:46:05+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/footage-fleet-focus",
@@ -29,6 +29,60 @@
    ],
    "excerpt": "Explore the everyday fuel challenges facing carriers and how better-connected data can help reduce waste, protect margins and support smarter decisions on every route today.",
    "published": "2026-10-18T04:00:00+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104336",
+   "title": "IRS weighs in on red-dye diesel tax relief",
+   "url": "https://landline.media/irs-weighs-in-on-red-dye-diesel-tax-relief/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "The IRS has weighed in to clarify further what it will mean if truckers use red-dyed diesel for on-highway use as allowed by an Oct. 6 executive order.",
+   "published": "2026-10-16T18:36:46+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104333",
+   "title": "Shell Rotella revs up its heavy-duty oil lineup",
+   "url": "https://landline.media/shell-rotella-revs-up-its-heavy-duty-oil-lineup/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Shell Rotella introduced a new lineup of heavy-duty engine oils designed to deliver advanced protection for new engine designs.",
+   "published": "2026-10-16T18:35:10+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104330",
+   "title": "Thousands of truck parking spots coming to 12 states",
+   "url": "https://landline.media/thousands-of-truck-parking-spots-coming-to-12-states/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Fourteen truck parking expansion projects will deliver more than 2,400 new spaces across the country. Find out if any of the projects fall on your route.",
+   "published": "2026-10-16T18:33:05+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/atri-taps-logistics-transportation-exec-to-lead-organization/833244/",
+   "title": "ATRI taps logistics, transportation exec to lead organization",
+   "url": "https://www.truckingdive.com/news/atri-taps-logistics-transportation-exec-to-lead-organization/833244/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "TeamOne Logistics CEO Page Siplon will join the research group in November.",
+   "published": "2026-10-16T18:33:00+00:00"
   },
   {
    "id": "https://landline.media/?p=104327",
@@ -1070,60 +1124,6 @@
    ],
    "excerpt": "The SONAR Truckload Rejection Index is skyrocketing, hitting an unexpected 14% in October – a significant development outside normal seasonal patterns. This isn’t driven by a demand spike, but rather by persistent market imbalance and insufficient supply across the country.",
    "published": "2026-10-14T18:57:25+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104284",
-   "title": "Diesel price relief remains elusive as potential threats emerge",
-   "url": "https://landline.media/diesel-price-relief-remains-elusive-as-potential-threats-emerge/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "While the highest diesel prices on record have hit the trucking industry hard, there are more potential price-increasing threats lurking in the shadows.",
-   "published": "2026-10-14T18:31:58+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104281",
-   "title": "What to do if your ELD stops working",
-   "url": "https://landline.media/what-to-do-if-your-eld-stops-working/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Technology isn’t perfect, and sometimes ELDs malfunction. Knowing what to do if that happens is easy if you’re prepared.",
-   "published": "2026-10-14T18:29:21+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104278",
-   "title": "Push a button. Hide your plate. Now states are fighting back",
-   "url": "https://landline.media/push-a-button-hide-your-plate-now-states-are-fighting-back/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "License plate flippers can help drivers hide plates and dodge tolls. States are targeting these devices and other ways to block cameras.",
-   "published": "2026-10-14T18:27:44+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/epa-texas-low-sulfur-diesel",
-   "title": "EPA grants Texas waiver for wider use of low-sulfur diesel",
-   "url": "https://www.ttnews.com/articles/epa-texas-low-sulfur-diesel",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "The waiver, however, applies only to older engines. EPA warned that the fuel can damage newer trucks equipped with modern emissions systems.",
-   "published": "2026-10-14T18:19:55+00:00"
   }
  ]
 }
