@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T20:00:37+00:00",
+ "updated": "2026-10-16T20:30:35+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/footage-fleet-focus",
@@ -29,6 +29,47 @@
    ],
    "excerpt": "Explore the everyday fuel challenges facing carriers and how better-connected data can help reduce waste, protect margins and support smarter decisions on every route today.",
    "published": "2026-10-18T04:00:00+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/diesel-costs-squeeze-trucking",
+   "title": "Diesel costs squeeze trucking ahead of peak shipping season",
+   "url": "https://www.ttnews.com/articles/diesel-costs-squeeze-trucking",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "The trucking industry is navigating major fuel cost pressures heading into the holiday shipping season, but the severity remains uneven.",
+   "published": "2026-10-16T20:00:20+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583142",
+   "title": "Evos raises $9M to build AI operators for industrial businesses",
+   "url": "https://www.freightwaves.com/news/evos-raises-9m-to-build-ai-operators-for-industrial-businesses",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "AI startup Evos raised $9 million in pre-seed funding to develop autonomous software operators for small and midsized industrial businesses, including freight brokerages, the company announced Wednesday. This comes as the company looks to automate routine work without requiring businesses to…",
+   "published": "2026-10-16T19:55:52+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583372",
+   "title": "Tesla staffs up Nevada Semi plant as fleet orders stack up",
+   "url": "https://www.freightwaves.com/news/tesla-semi-nevada-hiring",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Tesla had 103 job openings with Semi in the title posted at its Sparks, Nevada, truck plant as of Oct. 16, according to Tesla’s careers site . The listings come three weeks after the plant started high-volume Semi production on Sept. 24. The hiring is for a 1.7-million-square-foot factory designed…",
+   "published": "2026-10-16T19:52:19+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=583385",
@@ -1078,52 +1119,6 @@
    ],
    "excerpt": "Waabi and Warrior Logistics announced a commercial partnership Wednesday to move routine customer freight on Waabi Driver-powered autonomous trucks between Dallas and Houston. Warrior, an asset-based carrier headquartered in Coppell, Texas , has added a fleet of Waabi’s trucks to its network to…",
    "published": "2026-10-14T19:25:48+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/cargo-ship-sinks-hit-hormuz",
-   "title": "Cargo ship sinks after Strait of Hormuz strike causes fire",
-   "url": "https://www.ttnews.com/articles/cargo-ship-sinks-hit-hormuz",
-   "source": "Transport Topics",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "A cargo ship sank in the Strait of Hormuz after a strike that sparked a fire and the evacuation of crew members, the Maritime and Port Authority of Singapore said.",
-   "published": "2026-10-14T19:10:00+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104287",
-   "title": "Expect to see more driverless trucks in 2027",
-   "url": "https://landline.media/expect-to-see-more-driverless-trucks-in-2027/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation",
-    "Tech"
-   ],
-   "excerpt": "Following FMCSA’s decision to grant an exemption for autonomous trucking companies, expect to see more driverless trucks on the highway.",
-   "published": "2026-10-14T19:07:18+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583151",
-   "title": "Intermodal: Freight’s MUST-HAVE in Volatile Markets",
-   "url": "https://www.freightwaves.com/news/intermodal-freights-must-have-in-volatile-markets",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Diesel",
-    "Ports/Rail"
-   ],
-   "excerpt": "Intermodal conversion is no longer an option but a necessity for shippers, driven by past supply chain chaos and persistent fuel costs. FreightWaves Finance Editor Todd Maiden breaks down J.B. Hunt’s strategic plays in intermodal and dedicated, revealing how major carriers are navigating current…",
-   "published": "2026-10-14T19:00:08+00:00"
   }
  ]
 }
