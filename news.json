@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T08:00:36+00:00",
+ "updated": "2026-10-16T08:30:30+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/footage-fleet-focus",
@@ -29,6 +29,23 @@
    ],
    "excerpt": "Explore the everyday fuel challenges facing carriers and how better-connected data can help reduce waste, protect margins and support smarter decisions on every route today.",
    "published": "2026-10-18T04:00:00+00:00"
+  },
+  {
+   "id": "https://www.freightcaviar.com/stories/dispatched-from-moldova",
+   "title": "🎣 Dispatched From Moldova",
+   "url": "https://www.freightcaviar.com/stories/dispatched-from-moldova",
+   "source": "Freight Caviar",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Fraud",
+    "Ports/Rail"
+   ],
+   "excerpt": "Our team traveled to Moldova to meet the people who book American freight and to investigate reports of freight fraud linked to the country.",
+   "published": "2026-10-16T13:00:00+00:00"
   },
   {
    "id": "https://www.ccjdigital.com/15837645",
@@ -1108,21 +1125,6 @@
    ],
    "excerpt": "A key concern of hubs in the region is that as container services move to the shorter Suez route, they'll begin to overlap ships on services still sailing around southern Africa, creating a bunching effect at the ports.",
    "published": "2026-10-14T14:41:15+00:00"
-  },
-  {
-   "id": "https://joc.com/article/airlines-move-capacity-to-booming-china-hong-kong-outbound-markets-6305764",
-   "title": "Airlines move capacity to booming China, Hong Kong outbound markets",
-   "url": "https://joc.com/article/airlines-move-capacity-to-booming-china-hong-kong-outbound-markets-6305764",
-   "source": "JOC",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Capacity"
-   ],
-   "excerpt": "Freighter operators are adjusting aircraft deployment, schedules and allocations as booking activity takes off on trans-Pacific, intra-Asia and Africa routes.",
-   "published": "2026-10-14T14:21:15+00:00"
   }
  ]
 }
