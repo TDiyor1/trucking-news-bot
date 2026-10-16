@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T04:30:30+00:00",
+ "updated": "2026-10-16T04:58:32+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/footage-fleet-focus",
@@ -29,6 +29,21 @@
    ],
    "excerpt": "Explore the everyday fuel challenges facing carriers and how better-connected data can help reduce waste, protect margins and support smarter decisions on every route today.",
    "published": "2026-10-18T04:00:00+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/15837658",
+   "title": "Nussbaum Transportation CEO stepping down next year",
+   "url": "https://www.ccjdigital.com/ccj-top-250/article/15837658/nussbaum-transportation-ceo-brent-nussbaum-to-step-down",
+   "source": "CCJ",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "After a 45-year career that began in the company’s maintenance shop, Brent Nussbaum has announced Thursday he will step down as chief executive officer of Nussbaum Transportation ( CCJ Top 250 , No. 145) on Jan. 1, 2027, to become the company's executive chairman.",
+   "published": "2026-10-16T04:49:00+00:00"
   },
   {
    "id": "https://www.dat.com/blog/?p=27660",
@@ -1108,20 +1123,6 @@
    "tags": [],
    "excerpt": "The transportation company added automated classification, real-time tracking and a simpler integration to the interface, following feedback from customers.",
    "published": "2026-10-14T14:10:00+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/ta-services-acquires-2-texas-based-businesses/832634/",
-   "title": "TA Services acquires 2 Texas-based businesses",
-   "url": "https://www.truckingdive.com/news/ta-services-acquires-2-texas-based-businesses/832634/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "The acquisition adds trucks and expands the Texas-based 3PL’s cross-border operations, according to an announcement.",
-   "published": "2026-10-14T14:05:00+00:00"
   }
  ]
 }
