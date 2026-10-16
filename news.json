@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T14:00:44+00:00",
+ "updated": "2026-10-16T14:30:33+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/footage-fleet-focus",
@@ -29,6 +29,20 @@
    ],
    "excerpt": "Explore the everyday fuel challenges facing carriers and how better-connected data can help reduce waste, protect margins and support smarter decisions on every route today.",
    "published": "2026-10-18T04:00:00+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/dyed-diesel-relief-states",
+   "title": "Dyed diesel relief leaves carriers with state-by-state rules",
+   "url": "https://www.ttnews.com/articles/dyed-diesel-relief-states",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Governors across the country are temporarily easing dyed diesel restrictions and suspending fuel taxes as diesel prices remain elevated over year-ago levels.",
+   "published": "2026-10-16T14:22:10+00:00"
   },
   {
    "id": "https://www.supplychaindive.com/news/fedex-ups-delivery-prices-set-for-record-high-q4-td-cowenafs/832992/",
@@ -1112,20 +1126,6 @@
    ],
    "tags": [],
    "excerpt": "Volvo Trucks North America (VTNA) introduced its redesigned Volvo VNX heavy-haul and vocational truck on Wednesday—the company's third product refresh in 33 months. VNX made its debut in 2013 and was updated in 2018. Just because it's third in line behind the long-haul flagship VNL and regional VNR…",
-   "published": "2026-10-14T17:30:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583063",
-   "title": "Volvo takes aim at vocational trucks with 540-hp VNX launch",
-   "url": "https://www.freightwaves.com/news/volvo-vnx-vocational-truck-launch",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "SHIPPENSBURG, Pa. — Volvo Trucks North America unveiled the all-new VNX on Wednesday, a vocational and heavy-haul truck built for a segment where Volvo is looking to expand its market reach. Peter Voorhoeve, president of Volvo Trucks North America, put the company’s share of North American…",
    "published": "2026-10-14T17:30:00+00:00"
   }
  ]
