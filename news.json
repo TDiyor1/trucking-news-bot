@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T05:00:35+00:00",
+ "updated": "2026-10-16T05:30:31+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/footage-fleet-focus",
@@ -29,6 +29,20 @@
    ],
    "excerpt": "Explore the everyday fuel challenges facing carriers and how better-connected data can help reduce waste, protect margins and support smarter decisions on every route today.",
    "published": "2026-10-18T04:00:00+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/15837645",
+   "title": "Penske reaches agreement to go private",
+   "url": "https://www.ccjdigital.com/business/mergers-acquisitions/article/15837645/penske-automotive-group-to-be-taken-private",
+   "source": "CCJ",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Trucking news and briefs for Friday, Oct. 16, 2026: Penske Automotive Group going private Penske Automotive Group has agreed to be taken private by Motown Acquisition Corp. in a deal valued at approximately $16.3 billion, the company announced Thursday.",
+   "published": "2026-10-16T05:07:00+00:00"
   },
   {
    "id": "https://www.ccjdigital.com/15837658",
@@ -1109,20 +1123,6 @@
    ],
    "excerpt": "Freighter operators are adjusting aircraft deployment, schedules and allocations as booking activity takes off on trans-Pacific, intra-Asia and Africa routes.",
    "published": "2026-10-14T14:21:15+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/shipping-tool-arcbest-view-enhances-platform-for-visibility-efficiency/832857/",
-   "title": "Shipping tool ArcBest View enhances platform for visibility, efficiency",
-   "url": "https://www.truckingdive.com/news/shipping-tool-arcbest-view-enhances-platform-for-visibility-efficiency/832857/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "The transportation company added automated classification, real-time tracking and a simpler integration to the interface, following feedback from customers.",
-   "published": "2026-10-14T14:10:00+00:00"
   }
  ]
 }
