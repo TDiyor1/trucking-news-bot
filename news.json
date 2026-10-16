@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T17:45:56+00:00",
+ "updated": "2026-10-16T18:00:38+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/footage-fleet-focus",
@@ -29,6 +29,33 @@
    ],
    "excerpt": "Explore the everyday fuel challenges facing carriers and how better-connected data can help reduce waste, protect margins and support smarter decisions on every route today.",
    "published": "2026-10-18T04:00:00+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104327",
+   "title": "Oregon makes changes to simplify weight/mile tax collection",
+   "url": "https://landline.media/oregon-makes-changes-to-simplify-weight-mile-tax-collection/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "Oregon is making some changes to how they collect weight/mile tax from truckers. The state DOT says it will make it easier on everyone.",
+   "published": "2026-10-16T17:57:21+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104322",
+   "title": "Attention Maryland toll users",
+   "url": "https://landline.media/attention-maryland-toll-users/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "One less cost increase for truckers: Maryland is putting planned toll hikes on hold. Here’s how long the reprieve will last.",
+   "published": "2026-10-16T17:55:36+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=583369",
@@ -1100,33 +1127,6 @@
    ],
    "excerpt": "Ontario Premier Doug Ford said Canada must prepare for the possibility that U.S. trade protectionism will last well beyond President Donald Trump’s administration.",
    "published": "2026-10-14T18:15:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15837489",
-   "title": "The myth of the bottomless market: Evaluating Class 8 truck sales and tech optimism",
-   "url": "https://www.ccjdigital.com/trucks/class-7-8/article/15837489/class-8-truck-market-reality-check-why-sales-projections-fall-short",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Safe harbor provisions allow companies to share ambitious corporate forecasts with the public, investors, competitors, and regulators. The market eventually decides whether those predictions were fantasy or sound. Those predictions usually miss a key detail: They rarely explain where those new…",
-   "published": "2026-10-14T18:14:27+00:00"
-  },
-  {
-   "id": "https://joc.com/article/fmc-floats-port-fees-for-spanish-ships-import-restrictions-6305859",
-   "title": "FMC floats port fees for Spanish ships, import restrictions",
-   "url": "https://joc.com/article/fmc-floats-port-fees-for-spanish-ships-import-restrictions-6305859",
-   "source": "JOC",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "The proposals stem from a December 2024 investigation that found Spain created unfavorable conditions for US trade by barring US-flagged vessels from its ports.",
-   "published": "2026-10-14T18:02:14+00:00"
   }
  ]
 }
