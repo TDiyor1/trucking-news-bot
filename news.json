@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T18:46:44+00:00",
+ "updated": "2026-10-16T19:00:34+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/footage-fleet-focus",
@@ -163,6 +163,21 @@
    "tags": [],
    "excerpt": "The carrier said higher driver expenses, medical claims and insurance premiums weighed on the business unit during the quarter.",
    "published": "2026-10-16T15:24:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583377",
+   "title": "Intermodal rail better by 10% in latest count",
+   "url": "https://www.freightwaves.com/news/intermodal-rail-better-by-10-in-latest-count",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Weekly traffic on U.S.railroads was 534,256 carloads and intermodal units for the week ending Oct. 10, up 7.2 percent compared with the same week a year ago. Carload commodities totaled 232,004 carloads, up 3.4 percent, according to Association of American Railroads data, while intermodal volume…",
+   "published": "2026-10-16T14:31:00+00:00"
   },
   {
    "id": "https://www.ttnews.com/articles/dyed-diesel-relief-states",
@@ -1109,21 +1124,6 @@
    "tags": [],
    "excerpt": "The trucking industry is rapidly evolving, making cutting-edge technology a must-have for carriers of all sizes. Learn how Datatruck is transforming the landscape for small and mid-sized fleets, offering advanced TMS solutions that help them boost profits, cut costs, and gain unparalleled…",
    "published": "2026-10-14T18:58:14+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583148",
-   "title": "Freight Market Alert: Why October’s Tender Rejections Hit 14% Unexpectedly",
-   "url": "https://www.freightwaves.com/news/freight-market-alert-why-octobers-tender-rejections-hit-14-unexpectedly",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "The SONAR Truckload Rejection Index is skyrocketing, hitting an unexpected 14% in October – a significant development outside normal seasonal patterns. This isn’t driven by a demand spike, but rather by persistent market imbalance and insufficient supply across the country.",
-   "published": "2026-10-14T18:57:25+00:00"
   }
  ]
 }
