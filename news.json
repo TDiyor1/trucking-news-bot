@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T15:15:53+00:00",
+ "updated": "2026-10-16T15:30:35+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/footage-fleet-focus",
@@ -29,6 +29,18 @@
    ],
    "excerpt": "Explore the everyday fuel challenges facing carriers and how better-connected data can help reduce waste, protect margins and support smarter decisions on every route today.",
    "published": "2026-10-18T04:00:00+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/jb-hunt-reports-22-yoy-drop-in-dedicated-q3-operating-income/833126/",
+   "title": "JB Hunt reports 22% YoY drop in dedicated Q3 operating income",
+   "url": "https://www.truckingdive.com/news/jb-hunt-reports-22-yoy-drop-in-dedicated-q3-operating-income/833126/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "The carrier said higher driver expenses, medical claims and insurance premiums weighed on the business unit during the quarter.",
+   "published": "2026-10-16T15:24:00+00:00"
   },
   {
    "id": "https://www.ttnews.com/articles/dyed-diesel-relief-states",
@@ -1113,20 +1125,6 @@
    ],
    "excerpt": "Repeated Houthi missile and drone attacks on Saudi Arabia’s airports and energy infrastructure have sharply escalated the Saudi-Houthi conflict, raising the prospect of renewed disruption to Red Sea shipping as the 2027 contract-tendering season gets underway.",
    "published": "2026-10-14T17:46:53+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15834943",
-   "title": "Volvo overhauls its heavy-haul VNX model: 'Nothing like you’ve ever seen before'",
-   "url": "https://www.ccjdigital.com/trucks/class-7-8/article/15834943/volvo-trucks-north-america-launches-nextgen-vnx-vocational-rig",
-   "source": "CCJ",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Volvo Trucks North America (VTNA) introduced its redesigned Volvo VNX heavy-haul and vocational truck on Wednesday—the company's third product refresh in 33 months. VNX made its debut in 2013 and was updated in 2018. Just because it's third in line behind the long-haul flagship VNL and regional VNR…",
-   "published": "2026-10-14T17:30:00+00:00"
   }
  ]
 }
