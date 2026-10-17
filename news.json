@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T18:00:31+00:00",
+ "updated": "2026-10-17T18:21:15+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/footage-fleet-focus",
@@ -29,6 +29,20 @@
    ],
    "excerpt": "Explore the everyday fuel challenges facing carriers and how better-connected data can help reduce waste, protect margins and support smarter decisions on every route today.",
    "published": "2026-10-18T04:00:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583423",
+   "title": "What Daimler’s Finance And Global Chiefs Revealed About Diesel, Driverless Trucks, And The Future Of The Industry",
+   "url": "https://www.freightwaves.com/news/what-daimlers-finance-and-global-chiefs-revealed-about-diesel-driverless-trucks-and-the-future-of-the-industry",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "On a rainy Saturday morning in Charlotte, inside the brand new North American headquarters of Daimler Truck Financial Services, four of the company’s senior leaders traded the usual press-conference script for something closer to a fireside chat, and over the better part of an hour they said more…",
+   "published": "2026-10-17T17:32:16+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=583411",
@@ -1103,20 +1117,6 @@
    ],
    "excerpt": "Elevated costs could extend well into next year, an energy expert tells Trucking Dive.",
    "published": "2026-10-14T20:16:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583177",
-   "title": "English language rule’s comments bring criticism from Sikh organization",
-   "url": "https://www.freightwaves.com/news/english-language-rules-comments-bring-criticism-from-sikh-organization",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "With the more than 2,200 comments filed to the Federal Motor Carrier Safety Administration are overwhelmingly in favor of codifying current regulations on English Language Proficiency (ELP), the few urging caution tend to stick out. That is particularly true in the case of the Sikh Coalition, which…",
-   "published": "2026-10-14T20:13:47+00:00"
   }
  ]
 }
