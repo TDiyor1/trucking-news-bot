@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T00:30:27+00:00",
+ "updated": "2026-10-17T00:48:19+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/footage-fleet-focus",
@@ -29,6 +29,18 @@
    ],
    "excerpt": "Explore the everyday fuel challenges facing carriers and how better-connected data can help reduce waste, protect margins and support smarter decisions on every route today.",
    "published": "2026-10-18T04:00:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583411",
+   "title": "BREAKING: Texas judge upholds nuclear verdict against C.H. Robinson",
+   "url": "https://www.freightwaves.com/news/breaking-texas-judge-upholds-nuclear-verdict-against-c-h-robinson",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "The more than $600 million judgment in a Texas court case against C.H. Robinson has been affirmed by the judge that heard the case. Judge Dianne Jones of Dallas County Court on Friday affirmed the July verdict of $604,025,000 handed down in July against C.H.",
+   "published": "2026-10-17T00:15:48+00:00"
   },
   {
    "id": "https://www.ttnews.com/articles/fmcsa-cdl-school-review",
@@ -1105,21 +1117,6 @@
    ],
    "excerpt": "With the more than 2,200 comments filed to the Federal Motor Carrier Safety Administration are overwhelmingly in favor of codifying current regulations on English Language Proficiency (ELP), the few urging caution tend to stick out. That is particularly true in the case of the Sikh Coalition, which…",
    "published": "2026-10-14T20:13:47+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/fixing-trucking-detention",
-   "title": "Detention costs trucking billions — why is it so hard to fix?",
-   "url": "https://www.ttnews.com/articles/fixing-trucking-detention",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "The issue drew renewed attention in September when Congress released a report that examined ways to reduce excessive truck detention times.",
-   "published": "2026-10-14T19:52:25+00:00"
   }
  ]
 }
