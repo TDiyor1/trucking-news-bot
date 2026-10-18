@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T17:30:28+00:00",
+ "updated": "2026-10-18T18:00:56+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/footage-fleet-focus",
@@ -14,6 +14,21 @@
    ],
    "excerpt": "When a collision occurs, pulling footage comes too late. True safety lies in leveraging AI to catch underlying driver habits—hard braking, tailgating, and minor distractions—before incidents happen. Discover how AI-powered unified video transforms reactive footage into proactive prevention to…",
    "published": "2026-10-19T04:00:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583417",
+   "title": "California trucking owner pleads guilty in $2.1M identity theft scheme",
+   "url": "https://www.freightwaves.com/news/california-trucking-owner-pleads-guilty-in-2-1m-identity-theft-scheme",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Fraud"
+   ],
+   "excerpt": "A California trucking company owner pleaded guilty to a $2.1 million fraud scheme involving nearly 100 stolen identities. Hasan Korkmaz, 45, of Las Vegas, operated San Diego Logistics Group Inc. in Santee, California. Federal prosecutors detailed how he processed fraudulent credit card transactions…",
+   "published": "2026-10-18T17:37:19+00:00"
   },
   {
    "id": "https://www.ccjdigital.com/15837605",
@@ -1109,21 +1124,6 @@
    ],
    "excerpt": "Elevated import volumes have strained drayage capacity at US container gateways. Much of the recent spotlight has been on the port of Houston, which is handling record volumes of cargo, and traffic is expected to keep growing, fuelled by multiple drivers.",
    "published": "2026-10-15T10:47:04+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15837491",
-   "title": "Rates may have 'peaked' but tight capacity keeping them high",
-   "url": "https://www.ccjdigital.com/economic-trends/article/15837491/ftr-freight-rates-to-flatten-not-fall",
-   "source": "CCJ",
-   "audience": [
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Capacity"
-   ],
-   "excerpt": "It’s peak season, but FTR CEO Jonathan Starks said it’s not consumers driving shifts in the transportation market. The pressure is coming from the industrial side, tight capacity, rising costs and tougher regulatory enforcement. During FTR Transportation Intelligence’s State of Freight webinar last…",
-   "published": "2026-10-15T10:44:32+00:00"
   }
  ]
 }
