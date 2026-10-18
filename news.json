@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T16:28:31+00:00",
+ "updated": "2026-10-18T16:30:32+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/footage-fleet-focus",
@@ -14,6 +14,23 @@
    ],
    "excerpt": "When a collision occurs, pulling footage comes too late. True safety lies in leveraging AI to catch underlying driver habits—hard braking, tailgating, and minor distractions—before incidents happen. Discover how AI-powered unified video transforms reactive footage into proactive prevention to…",
    "published": "2026-10-19T04:00:00+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/15837605",
+   "title": "Fuel surcharges push truckload rates higher as shipment volumes edge higher",
+   "url": "https://www.ccjdigital.com/economic-trends/article/15837605/record-fuel-surcharges-hit-trucking-as-demand-recovers",
+   "source": "CCJ",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Diesel"
+   ],
+   "excerpt": "While freight demand continues to inch back, fuel surcharges drove truckload rates higher in September. The Cass Freight Index’s shipments component rose 2.3% month over month and 1.9% year over year in September, the second straight annual gain after a 3.5-year downturn — the longest on record.…",
+   "published": "2026-10-18T16:27:09+00:00"
   },
   {
    "id": "https://www.ccjdigital.com/15837759",
@@ -1107,18 +1124,6 @@
    ],
    "excerpt": "It’s peak season, but FTR CEO Jonathan Starks said it’s not consumers driving shifts in the transportation market. The pressure is coming from the industrial side, tight capacity, rising costs and tougher regulatory enforcement. During FTR Transportation Intelligence’s State of Freight webinar last…",
    "published": "2026-10-15T10:44:32+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583180",
-   "title": "Westport becomes Aetherion, bets on CNG for US long-haul",
-   "url": "https://www.freightwaves.com/news/westport-aetherion-name-change-cng-hpdi",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Westport Fuel Systems Inc. changed its name to Aetherion Technologies Inc. on Thursday. The Vancouver, British Columbia, company said its next push is bringing Cespira’s high-pressure direct injection (HPDI) fuel system to North American long-haul fleets on compressed natural gas.",
-   "published": "2026-10-15T10:30:00+00:00"
   }
  ]
 }
