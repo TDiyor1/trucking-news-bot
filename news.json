@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T00:30:26+00:00",
+ "updated": "2026-10-18T01:00:31+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/footage-fleet-focus",
@@ -29,6 +29,22 @@
    ],
    "excerpt": "Explore the everyday fuel challenges facing carriers and how better-connected data can help reduce waste, protect margins and support smarter decisions on every route today.",
    "published": "2026-10-18T04:00:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583359",
+   "title": "No signs of truckload capacity recovering",
+   "url": "https://www.freightwaves.com/news/no-signs-of-truckload-capacity-recovering",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Rates",
+    "Capacity"
+   ],
+   "excerpt": "Chart of the Week: Accepted SONAR Tender Volume Index, SONAR Tender Rejection Index SONAR : ASTVI.USA, STRI.USA The truckload market is heading into the holidays with almost no slack. The Accepted SONAR Truckload Volume Index (ASTVI), which measures only the loads carriers accept, has fallen more…",
+   "published": "2026-10-18T00:30:00+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=583423",
@@ -1103,20 +1119,6 @@
    ],
    "excerpt": "A range of forces will reshape supply chains in the year ahead, and many of them will come from outside the industry, according to a 2027 Freight Market Outlook Report from logistics service provider C.H. Robinson, released this week. The report examines five key areas shaping supply chains in the…",
    "published": "2026-10-14T20:20:39+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/california-diesel-prices-remain-above-8-per-gallon-as-truckers-call-for-re/832808/",
-   "title": "California diesel prices remain above $8 per gallon as truckers call for relief",
-   "url": "https://www.truckingdive.com/news/california-diesel-prices-remain-above-8-per-gallon-as-truckers-call-for-re/832808/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Elevated costs could extend well into next year, an energy expert tells Trucking Dive.",
-   "published": "2026-10-14T20:16:00+00:00"
   }
  ]
 }
