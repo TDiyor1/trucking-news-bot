@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T11:30:29+00:00",
+ "updated": "2026-10-18T11:41:31+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/footage-fleet-focus",
@@ -14,6 +14,21 @@
    ],
    "excerpt": "When a collision occurs, pulling footage comes too late. True safety lies in leveraging AI to catch underlying driver habits—hard braking, tailgating, and minor distractions—before incidents happen. Discover how AI-powered unified video transforms reactive footage into proactive prevention to…",
    "published": "2026-10-19T04:00:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583291",
+   "title": "Borderlands Mexico: US trucking crackdown raises concerns over freight disruptions",
+   "url": "https://www.freightwaves.com/news/borderlands-mexico-us-trucking-crackdown-raises-concerns-over-freight-disruptions",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade. This week in Borderlands Mexico: US trucking crackdown raises concerns over freight disruptions; M2 Global Logistics launches in Houston; and Cutter & Buck opens new…",
+   "published": "2026-10-18T11:00:00+00:00"
   },
   {
    "id": "https://www.ttnews.com/articles/take-control-your-fleet-fuel-costs",
@@ -1105,20 +1120,6 @@
    ],
    "excerpt": "Trucking news and briefs for Thursday, Oct. 15, 2026: $200M in truck parking coming to 12 states The U.S. Department of Transportation on Wednesday announced $200 million in grants awarded to a dozen states to expand truck parking. Transportation Secretary Sean Duffy announced the investments are…",
    "published": "2026-10-15T05:42:00+00:00"
-  },
-  {
-   "id": "https://www.dcvelocity.com/editorial/featured/external-forces-to-reshape-supply-chains-in-2027",
-   "title": "External forces to reshape supply chains in 2027",
-   "url": "https://www.dcvelocity.com/editorial/featured/external-forces-to-reshape-supply-chains-in-2027",
-   "source": "DC Velocity",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "A range of forces will reshape supply chains in the year ahead, and many of them will come from outside the industry, according to a 2027 Freight Market Outlook Report from logistics service provider C.H. Robinson, released this week. The report examines five key areas shaping supply chains in the…",
-   "published": "2026-10-14T20:20:39+00:00"
   }
  ]
 }
