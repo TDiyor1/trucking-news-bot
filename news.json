@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T13:00:33+00:00",
+ "updated": "2026-10-18T13:30:29+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/footage-fleet-focus",
@@ -14,6 +14,21 @@
    ],
    "excerpt": "When a collision occurs, pulling footage comes too late. True safety lies in leveraging AI to catch underlying driver habits—hard braking, tailgating, and minor distractions—before incidents happen. Discover how AI-powered unified video transforms reactive footage into proactive prevention to…",
    "published": "2026-10-19T04:00:00+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/hexagon-agility-natural-gas",
+   "title": "Hexagon Agility showcases longhaul natural gas truck",
+   "url": "https://www.ttnews.com/articles/hexagon-agility-natural-gas",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel",
+    "Capacity"
+   ],
+   "excerpt": "The Freightliner Cascadia sleeper tractor is outfitted with Hexagon Agility’s back-of-cab and side-mount CNG fuel systems with a combined capacity equivalent to 265 gallons of diesel.",
+   "published": "2026-10-18T12:53:55+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=583291",
@@ -1106,20 +1121,6 @@
    ],
    "excerpt": "AI is everywhere in logistics right now, but what does it actually mean for freight forwarding? In this episode of The Loadstar Podcast, host Charlotte Goldstone speaks to Erik Muttersbach, founder of Zauber and former Forto technology executive, about where AI and agentic AI really stand today,…",
    "published": "2026-10-15T08:23:45+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15837497",
-   "title": "$200 million awarded by DOT for truck parking projects",
-   "url": "https://www.ccjdigital.com/regulations/article/15837497/dot-awards-200m-for-truck-parking-projects",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "Trucking news and briefs for Thursday, Oct. 15, 2026: $200M in truck parking coming to 12 states The U.S. Department of Transportation on Wednesday announced $200 million in grants awarded to a dozen states to expand truck parking. Transportation Secretary Sean Duffy announced the investments are…",
-   "published": "2026-10-15T05:42:00+00:00"
   }
  ]
 }

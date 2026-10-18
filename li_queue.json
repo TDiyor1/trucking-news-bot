@@ -1,4 +1,20 @@
 {
  "last_digest": "2026-10-18",
- "queue": []
+ "queue": [
+  {
+   "id": "https://www.ttnews.com/articles/hexagon-agility-natural-gas",
+   "title": "Hexagon Agility showcases longhaul natural gas truck",
+   "url": "https://www.ttnews.com/articles/hexagon-agility-natural-gas",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel",
+    "Capacity"
+   ],
+   "excerpt": "The Freightliner Cascadia sleeper tractor is outfitted with Hexagon Agility’s back-of-cab and side-mount CNG fuel systems with a combined capacity equivalent to 265 gallons of diesel.",
+   "published": "2026-10-18T12:53:55+00:00"
+  }
+ ]
 }
