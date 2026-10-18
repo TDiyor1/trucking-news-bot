@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T21:01:17+00:00",
+ "updated": "2026-10-18T21:30:31+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/footage-fleet-focus",
@@ -14,6 +14,20 @@
    ],
    "excerpt": "When a collision occurs, pulling footage comes too late. True safety lies in leveraging AI to catch underlying driver habits—hard braking, tailgating, and minor distractions—before incidents happen. Discover how AI-powered unified video transforms reactive footage into proactive prevention to…",
    "published": "2026-10-19T04:00:00+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/atri-top-issues-2026",
+   "title": "Fuel prices rank as trucking’s most pressing concern",
+   "url": "https://www.ttnews.com/articles/atri-top-issues-2026",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "The report noted that added fuel costs are passed on to consumers through higher prices for goods and higher borrowing costs.",
+   "published": "2026-10-18T21:20:25+00:00"
   },
   {
    "id": "https://www.ccjdigital.com/15837765",
@@ -1108,20 +1122,6 @@
    "tags": [],
    "excerpt": "SHIPPENSBURG, Pa. — Volvo Trucks wants 15% of the North American heavy-truck market. Peter Voorhoeve, president of Volvo Trucks North America, says that goal counts on vocational trucks, a segment where Volvo has held a low single-digit share. Voorhoeve runs the North American arm of a brand with a…",
    "published": "2026-10-15T12:00:00+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=326657",
-   "title": "DSV, not K+N, the golden goose",
-   "url": "https://theloadstar.com/dsv-not-kn-the-golden-goose/",
-   "source": "The Loadstar",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Ahead of the T&L earnings season kick-off in the US today with intermodal and trucking bellwether JB Hunt, the sell-side analysts as usual put in some effort advising investors about ‘how to position’ their portfolios. Several top names high on the agenda, price targets have been cut or raised –…",
-   "published": "2026-10-15T11:34:28+00:00"
   }
  ]
 }
