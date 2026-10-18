@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T20:00:36+00:00",
+ "updated": "2026-10-18T20:30:31+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/footage-fleet-focus",
@@ -14,6 +14,34 @@
    ],
    "excerpt": "When a collision occurs, pulling footage comes too late. True safety lies in leveraging AI to catch underlying driver habits—hard braking, tailgating, and minor distractions—before incidents happen. Discover how AI-powered unified video transforms reactive footage into proactive prevention to…",
    "published": "2026-10-19T04:00:00+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/15837765",
+   "title": "The blind spot in fleet safety: When AI misses the crash risk",
+   "url": "https://www.ccjdigital.com/technology/artificial-intelligence/article/15837765/ai-fleet-safety-cameras-the-hidden-liability-risks-for-fleets",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Artificial intelligence video safety systems are transforming how motor carriers manage risk, but reliance on automated detection without human verification is quietly creating legal liabilities for fleets. Speaking at the American Trucking Associations’ Management Conference & Exhibition, trucking…",
+   "published": "2026-10-18T20:26:06+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/15837767",
+   "title": "BeyondTrucks new Compatibility Engine ensures proper assignments for drivers, equipment",
+   "url": "https://www.ccjdigital.com/technology/trip-planning/article/15837767/beyondtrucks-new-compatibility-engine-ensures-proper-assignments-for-drivers-equipment",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "BeyondTrucks announced its new Compatibility Engine for its AI-powered transportation management system. The new feature ensures the driver, trailer and tractor are properly matched to the load prior to dispatch to lower the chance of a rejected load, compliance violation or safety incident.",
+   "published": "2026-10-18T20:12:31+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=583417",
@@ -1094,36 +1122,6 @@
    ],
    "excerpt": "Ahead of the T&L earnings season kick-off in the US today with intermodal and trucking bellwether JB Hunt, the sell-side analysts as usual put in some effort advising investors about ‘how to position’ their portfolios. Several top names high on the agenda, price targets have been cut or raised –…",
    "published": "2026-10-15T11:34:28+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/globalfoundries-building-21b-new-york-fabs-under-us-japan-trade-deal/832995/",
-   "title": "GlobalFoundries building $21B New York fabs under US-Japan trade deal",
-   "url": "https://www.supplychaindive.com/news/globalfoundries-building-21b-new-york-fabs-under-us-japan-trade-deal/832995/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "The multibillion-dollar agreement will accelerate U.S. semiconductor manufacturing, strengthen critical supply chains and support growing automotive and industrial demand, GlobalFoundries said in a news release.",
-   "published": "2026-10-15T11:12:00+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=326733",
-   "title": "No post-peak easing at US container gateways, despite drayage woes",
-   "url": "https://theloadstar.com/no-post-peak-easing-at-us-container-gateways-despite-drayage-woes/",
-   "source": "The Loadstar",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Capacity",
-    "Ports/Rail"
-   ],
-   "excerpt": "Elevated import volumes have strained drayage capacity at US container gateways. Much of the recent spotlight has been on the port of Houston, which is handling record volumes of cargo, and traffic is expected to keep growing, fuelled by multiple drivers.",
-   "published": "2026-10-15T10:47:04+00:00"
   }
  ]
 }
