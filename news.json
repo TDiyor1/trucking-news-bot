@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-19T18:30:28+00:00",
+ "updated": "2026-10-19T18:59:52+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104351",
+   "title": "All 50 states now using DataQ process that promises to be fairer",
+   "url": "https://landline.media/all-50-states-now-using-dataq-process-that-promises-to-be-fairer/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "Has FMCSA finally leveled the playing field for truckers and motor carriers who believe they aren’t guilty of a violation?",
+   "published": "2026-10-19T18:31:49+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=583520",
    "title": "Pump price is trucking’s #1 concern: ATRI survey",
@@ -1118,20 +1132,6 @@
    "tags": [],
    "excerpt": "Network optimization has become all-important in helping transportation and logistics companies manage what Trimble President and CEO Rob Painter called “the spicy market that we find ourselves in.” The industry needs technology now more than ever, Painter recently told media at the company’s…",
    "published": "2026-10-15T19:42:45+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/american-trucking-associations-appoints-new-ceo/833123/",
-   "title": "American Trucking Associations appoints new CEO",
-   "url": "https://www.truckingdive.com/news/american-trucking-associations-appoints-new-ceo/833123/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Mark Colson will start the new role Dec. 1, bringing over 20 years of experience, the ATA said.",
-   "published": "2026-10-15T19:32:00+00:00"
   }
  ]
 }
