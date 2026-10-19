@@ -1,6 +1,78 @@
 {
- "updated": "2026-10-19T17:00:40+00:00",
+ "updated": "2026-10-19T17:29:52+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104348",
+   "title": "Road Rumor: Trucker helps rescue 2-year-old during Amber Alert",
+   "url": "https://landline.media/road-rumor-trucker-helps-rescue-2-year-old-during-amber-alert/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "The story of a trucker who helped stop an Amber Alert suspect has been making the rounds on social media. Here are the facts.",
+   "published": "2026-10-19T17:09:58+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104345",
+   "title": "No local police radar. Pennsylvania could change that",
+   "url": "https://landline.media/no-local-police-radar-pennsylvania-could-change-that/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Pennsylvania lawmakers want to let local police use speed radar. Bills set limits on tickets, but questions about safety and revenue remain.",
+   "published": "2026-10-19T17:06:33+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104342",
+   "title": "Freightliner recall warns of fuel leaks, engine stalls",
+   "url": "https://landline.media/freightliner-recall-warns-of-fuel-leaks-engine-stalls/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "A fuel hose defect could leave Freightliner owners facing leaks or stalled engines. Check the affected models and warning signs.",
+   "published": "2026-10-19T17:04:18+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/15837739",
+   "title": "New Mack, Volvo service contracts bundle maintenance, powertrain repairs into predictable payments",
+   "url": "https://www.ccjdigital.com/maintenance/maintenance/article/15837739/asdfa",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tariffs",
+    "Ports/Rail"
+   ],
+   "excerpt": "Volvo Trucks North America and Mack Trucks Monday at the American Trucking Associations’ (ATA) 2026 Management Conference & Exhibition rolled out comprehensive new service contracts designed to combine preventive maintenance and powertrain protection into predictable monthly payments.",
+   "published": "2026-10-19T17:00:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583513",
+   "title": "Trans-Pacific facing new booking risks as reliability sinks",
+   "url": "https://www.freightwaves.com/news/trans-pacific-facing-new-booking-risks-as-reliability-sinks",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Capacity"
+   ],
+   "excerpt": "Shippers moving cargo from Asia to North America face tighter vessel capacity and greater difficulty securing bookings in the weeks ahead, while deteriorating service reliability threatens delivery schedules across major east-west trades, according to WiseTech Global’s October Ocean Freight Risk…",
+   "published": "2026-10-19T16:41:18+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/stellantis-canada-vote-strike",
    "title": "Stellantis Canada union votes in favor of strike action",
@@ -1051,79 +1123,6 @@
    "tags": [],
    "excerpt": "Penske Automotive Group (NYSE: PAG) , a publicly-traded company that includes the current Penske-related companies involved in a closely-watched liability case , will become a private company with a buyout from two of its current corporate owners. After a review of the July offer from Penske Corp…",
    "published": "2026-10-15T18:46:48+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/trucking-congress-midterms",
-   "title": "Trucking groups seek congressional support before midterms",
-   "url": "https://www.ttnews.com/articles/trucking-congress-midterms",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation",
-    "Fraud"
-   ],
-   "excerpt": "At events in Ohio and North Carolina, industry representatives sought support for legislation addressing lawsuit abuse, truck parking and accident fraud.",
-   "published": "2026-10-15T18:33:23+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104294",
-   "title": "How heavy is too heavy? States rethink truck weight limits",
-   "url": "https://landline.media/how-heavy-is-too-heavy-states-rethink-truck-weight-limits/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "States are allowing heavier loads of milk, grain and other goods. Supporters see fewer trips, but critics warn about safety and road wear.",
-   "published": "2026-10-15T18:01:41+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/usdot-200m-truck-parking",
-   "title": "USDOT awards $200 million boost for truck parking",
-   "url": "https://www.ttnews.com/articles/usdot-200m-truck-parking",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "The Department of Transportation announced Oct. 14 that $200 million will be invested in truck parking in 12 states, including Iowa, Wisconsin and Georgia.",
-   "published": "2026-10-15T17:30:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/12-states-oracle-gas-pipeline",
-   "title": "12 states want Oracle gas pipeline approved in New Mexico",
-   "url": "https://www.ttnews.com/articles/12-states-oracle-gas-pipeline",
-   "source": "Transport Topics",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs",
-    "Ports/Rail"
-   ],
-   "excerpt": "The attorneys general argue to the Federal Energy Regulatory Commission that a broader environmental review could complicate similar projects across the country.",
-   "published": "2026-10-15T17:20:04+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15837589",
-   "title": "Truck driver petitions FMCSA for mandatory CO detectors after deaths",
-   "url": "https://www.ccjdigital.com/regulations/equipment/article/15837589/truck-driver-calls-for-co-detectors-in-sleeperequipped-trucks",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "A truck driver has filed a petition with the Federal Motor Carrier Safety Administration requesting a new rule to require carbon monoxide detector alarms in sleeper berth-equipped commercial vehicles. Cincinnati, Ohio-based Todd Daum in his petition described himself as a “CDL-A holder with Hazmat…",
-   "published": "2026-10-15T16:59:34+00:00"
   }
  ]
 }
