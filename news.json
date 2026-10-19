@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-19T13:30:43+00:00",
+ "updated": "2026-10-19T13:55:59+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=583476",
+   "title": "Amerijet to repair aging 767 freighter aircraft damaged in hard landing",
+   "url": "https://www.freightwaves.com/news/amerijet-to-repair-aging-767-freighter-aircraft-damaged-in-hard-landing",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Miami-based cargo airline Amerijet International plans to repair a 36-year-old Boeing 767-300 converted freighter aircraft that suffered fuselage damage from a hard landing in Guatemala City last month, CEO Joe Mozzali said. The aircraft’s age left many speculating that it wasn’t worth fixing and…",
+   "published": "2026-10-19T13:11:52+00:00"
+  },
   {
    "id": "https://theloadstar.com/?p=326936",
    "title": "Solar power a shining example of export progress across sub-Saharan Africa",
@@ -1110,21 +1122,6 @@
    ],
    "excerpt": "The wholesale food distributor is managing surging diesel costs by hedging and using an AI platform to optimize routes.",
    "published": "2026-10-15T14:06:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583198",
-   "title": "Opinion: How politics and policy are rewriting the rules of parcel delivery",
-   "url": "https://www.freightwaves.com/news/opinion-how-politics-and-policy-are-rewriting-the-rules-of-parcel-delivery",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Capacity"
-   ],
-   "excerpt": "By Daniil Davydoff Following the U.S. parcel delivery market can feel like tracking a race. Tactical moves to increase network capacity, build facilities, and launch tools, as well as strategic changes in leadership and operating models, dominate assessments of which carriers are gaining or losing…",
-   "published": "2026-10-15T13:59:56+00:00"
   }
  ]
 }
