@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-19T20:00:35+00:00",
+ "updated": "2026-10-19T20:29:59+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=583572",
+   "title": "Volvo folds powertrain repairs into its service contract",
+   "url": "https://www.freightwaves.com/news/volvo-silver-service-contract-powertrain",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Volvo Trucks North America launched the Silver Service Contract on Monday at the American Trucking Associations’ Management Conference & Exhibition in Charlotte, North Carolina. The plan adds repair coverage for the engine, aftertreatment system, transmission, and clutch to the connected preventive…",
+   "published": "2026-10-19T19:52:46+00:00"
+  },
   {
    "id": "https://www.dat.com/blog/?p=27674",
    "title": "Flatbed Report: The only load-to-truck ratio to rise",
@@ -1127,20 +1141,6 @@
    "tags": [],
    "excerpt": "J.B. Hunt Transport Services’ third quarter slightly surpassed analysts’ lowered expectations following the company’s earnings warning issued in September. J.B. Hunt ( NASDAQ: JBHT ) reported third-quarter revenue of $3.68 billion Thursday after the market closed.",
    "published": "2026-10-15T21:17:54+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583280",
-   "title": "Federal DOT grants will fund more than 2,400 parking spots",
-   "url": "https://www.freightwaves.com/news/federal-dot-grants-will-fund-more-than-2400-parking-spots",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "There will be a little more than 2,400 new truck parking spaces built over the next few years as a result of funding provided to various projects under the Nationally Significant Multimodal Freight & Highway Projects (INFRA) program. “A targeted objective of this funding opportunity is to directly…",
-   "published": "2026-10-15T21:00:00+00:00"
   }
  ]
 }
