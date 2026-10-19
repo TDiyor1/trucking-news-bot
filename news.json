@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-19T16:30:28+00:00",
+ "updated": "2026-10-19T16:58:20+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/stellantis-canada-vote-strike",
+   "title": "Stellantis Canada union votes in favor of strike action",
+   "url": "https://www.ttnews.com/articles/stellantis-canada-vote-strike",
+   "source": "Transport Topics",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "Stellantis and Unifor stopped negotiating after Roshel said it had signed a memo that outlines steps toward buying an idled Toronto-area plant from the automaker.",
+   "published": "2026-10-19T16:24:37+00:00"
+  },
   {
    "id": "https://www.truckingdive.com/news/how-a-california-carrier-is-repurposing-diesel-tractors-to-electric/832770/",
    "title": "How a California carrier is repurposing diesel tractors to electric",
@@ -1109,18 +1124,6 @@
    ],
    "excerpt": "A truck driver has filed a petition with the Federal Motor Carrier Safety Administration requesting a new rule to require carbon monoxide detector alarms in sleeper berth-equipped commercial vehicles. Cincinnati, Ohio-based Todd Daum in his petition described himself as a “CDL-A holder with Hazmat…",
    "published": "2026-10-15T16:59:34+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104291",
-   "title": "NHTSA looks to dim headlight glare",
-   "url": "https://landline.media/nhtsa-looks-to-dim-headlight-glare/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Drivers have complained about headlight glare for years. Now, federal regulators are looking at what needs to change.",
-   "published": "2026-10-15T16:55:49+00:00"
   }
  ]
 }
