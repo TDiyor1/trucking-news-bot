@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-19T19:30:38+00:00",
+ "updated": "2026-10-19T19:52:28+00:00",
  "items": [
+  {
+   "id": "https://www.dat.com/blog/?p=27674",
+   "title": "Flatbed Report: The only load-to-truck ratio to rise",
+   "url": "https://www.dat.com/blog/flatbed-report-the-only-load-to-truck-ratio-to-rise",
+   "source": "DAT iQ",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "Flatbed spot linehaul rates paid to carriers averaged $2.65 per mile last week, minus fuel, down 0.1%, or less than a cent per mile, from the week before. Rates climbed 29.3%, or $0.60 per mile, year over year and held 26.3%, or $0.55 per mile, above the nine-year seasonal average of $2.10 per…",
+   "published": "2026-10-19T19:48:23+00:00"
+  },
+  {
+   "id": "https://www.dat.com/blog/?p=27671",
+   "title": "Dry Van Report: Rates hold as load posts cool and capacity stays thin",
+   "url": "https://www.dat.com/blog/dry-van-report-rates-hold-as-load-posts-cool-and-capacity-stays-thin",
+   "source": "DAT iQ",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Diesel",
+    "Capacity"
+   ],
+   "excerpt": "Dry van spot linehaul rates paid to carriers averaged $2.26 per mile last week, minus fuel, down 0.1%, or less than a cent per mile, from the week before. Rates ran 34.5%, or $0.58 per mile, year over year and held 23.8%, or $0.43 per mile, above the nine-year seasonal average of $1.83 per mile, in…",
+   "published": "2026-10-19T19:32:04+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=583460",
    "title": "CBP seizes $30.4M in meth hidden in commercial salt load at Laredo World Trade Bridge",
@@ -1109,35 +1141,6 @@
    "tags": [],
    "excerpt": "freight visibility meant knowing where a given truck was, but the industry has only gotten more complex as it has digitized. On a recent episode of FreightWaves’ What the Truck?!? , host Malcolm Harris pressed Andrew Wimer, Associate General Manager, Transportation Management at Descartes , on how…",
    "published": "2026-10-15T20:54:07+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104301",
-   "title": "Calling all truckers: Volunteers needed to honor fallen veterans",
-   "url": "https://landline.media/calling-all-truckers-volunteers-needed-to-honor-fallen-veterans/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Wreaths Across America is looking for volunteers to help further its mission. Find out how you can get involved.",
-   "published": "2026-10-15T20:27:35+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/fmcsa-beacons-autonomous-trucks",
-   "title": "FMCSA approves warning beacons for autonomous trucks",
-   "url": "https://www.ttnews.com/articles/fmcsa-beacons-autonomous-trucks",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation",
-    "Tech"
-   ],
-   "excerpt": "Autonomous truck software developers received a boost from the FMCSA, which OK’d the use of beacons rather than warning triangles for five years.",
-   "published": "2026-10-15T20:20:27+00:00"
   }
  ]
 }
