@@ -1,6 +1,32 @@
 {
- "updated": "2026-10-19T15:00:39+00:00",
+ "updated": "2026-10-19T15:30:36+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/15837764",
+   "title": "'Hey Peterbilt!': Paccar Connect brings consumer-like digital experience to the cab",
+   "url": "https://www.ccjdigital.com/trucks/on-board-technology/article/15837764/hey-peterbilt-paccar-connect-brings-consumerlike-digital-experience-to-the-cab",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Paccar is rolling out its new Paccar Connect to Kenworth and Peterbilt Class 8 trucks starting in early 2027. The new interface allows touchscreen access to HVAC and audio controls, Apple CarPlay and the truck’s exterior cameras, proprietary Paccar applications as well as third-party integration…",
+   "published": "2026-10-19T15:15:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583491",
+   "title": "Werner Enterprises issues Q3 profit warning",
+   "url": "https://www.freightwaves.com/news/werner-enterprises-issues-q3-profit-warning",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Werner Enterprises issued adjusted earnings-per-share guidance of 15 to 16 cents for the third quarter on Monday, which was significantly below the current consensus estimate of 36 cents. The company flagged 18 cents in cumulative cost headwinds from elevated diesel fuel prices, higher driver…",
+   "published": "2026-10-19T14:54:37+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/oil-prices-dip-still-elevated",
    "title": "Oil prices dip, but remain elevated on war uncertainty",
@@ -1094,32 +1120,6 @@
    "tags": [],
    "excerpt": "The investments will “create hundreds of new parking spaces along major freight corridors and at key freight facilities,” the American Trucking Associations noted.",
    "published": "2026-10-15T15:31:00+00:00"
-  },
-  {
-   "id": "https://joc.com/article/growing-backlog-of-empty-containers-hurting-la-lb-port-fluidity-hta-6306369",
-   "title": "Growing backlog of empty containers hurting LA-LB port fluidity: HTA",
-   "url": "https://joc.com/article/growing-backlog-of-empty-containers-hurting-la-lb-port-fluidity-hta-6306369",
-   "source": "JOC",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Empties that are not being shipped back to Asia are causing congestion at the US' busiest gateway, according to the Harbor Trucking Association, though marine terminals say the situation is being managed capably.",
-   "published": "2026-10-15T15:27:13+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15837582",
-   "title": "ATA taps Alabama's trucking boss as next president, CEO",
-   "url": "https://www.ccjdigital.com/regulations/industry/article/15837582/alabamas-mark-colson-named-new-american-trucking-associations-ceo",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "American Trucking Associations has appointed Mark Colson its next president and chief executive officer, effective Dec. 1. Colson has led the Alabama Trucking Association since 2019. At ATA, he succeeds Chris Spear, who abruptly left ATA in August . With more than two decades of experience…",
-   "published": "2026-10-15T15:17:38+00:00"
   }
  ]
 }
