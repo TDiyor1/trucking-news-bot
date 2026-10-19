@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-19T14:30:36+00:00",
+ "updated": "2026-10-19T15:00:39+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/oil-prices-dip-still-elevated",
+   "title": "Oil prices dip, but remain elevated on war uncertainty",
+   "url": "https://www.ttnews.com/articles/oil-prices-dip-still-elevated",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Brent crude, the international standard, fell 1.6% to $108.13 per barrel. It remains near its highest level since May.",
+   "published": "2026-10-19T14:26:23+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/diesel-spike-fleet-cost-mce",
    "title": "Diesel spike adds urgency to fleet cost controls",
@@ -1106,21 +1120,6 @@
    "tags": [],
    "excerpt": "American Trucking Associations has appointed Mark Colson its next president and chief executive officer, effective Dec. 1. Colson has led the Alabama Trucking Association since 2019. At ATA, he succeeds Chris Spear, who abruptly left ATA in August . With more than two decades of experience…",
    "published": "2026-10-15T15:17:38+00:00"
-  },
-  {
-   "id": "https://joc.com/article/philaport-secures-funding-for-more-container-roro-capacity-6306366",
-   "title": "PhilaPort secures funding for more container, ro/ro capacity",
-   "url": "https://joc.com/article/philaport-secures-funding-for-more-container-roro-capacity-6306366",
-   "source": "JOC",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Capacity",
-    "Ports/Rail"
-   ],
-   "excerpt": "More than $800 million in new funds will help Philadelphia add container handling capacity at its Southport Marine Terminal in addition to the site’s current auto handling capacity.",
-   "published": "2026-10-15T15:16:14+00:00"
   }
  ]
 }
