@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-19T13:55:59+00:00",
+ "updated": "2026-10-19T14:00:39+00:00",
  "items": [
+  {
+   "id": "https://www.supplychaindive.com/news/port-of-savannah-to-build-35m-teu-container-terminal/833246/",
+   "title": "Port of Savannah to build 3.5M TEU container terminal",
+   "url": "https://www.supplychaindive.com/news/port-of-savannah-to-build-35m-teu-container-terminal/833246/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The port expects to be able to handle 12 million TEUs annually once construction is complete.",
+   "published": "2026-10-19T13:55:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=583476",
    "title": "Amerijet to repair aging 767 freighter aircraft damaged in hard landing",
@@ -1107,21 +1121,6 @@
    "tags": [],
    "excerpt": "Logistics warehouse operator Prologis beat third-quarter expectations Thursday before the market opened, significantly raising its outlook for new developments. Prologis ( NYSE: PLD ) reported consolidated revenue of $2.39 billion for the quarter, reflecting an 8% year-over-year increase and…",
    "published": "2026-10-15T14:20:04+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/how-unfi-tackles-higher-fuel-prices/832977/",
-   "title": "How UNFI tackles higher fuel prices",
-   "url": "https://www.supplychaindive.com/news/how-unfi-tackles-higher-fuel-prices/832977/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel",
-    "Tech"
-   ],
-   "excerpt": "The wholesale food distributor is managing surging diesel costs by hedging and using an AI platform to optimize routes.",
-   "published": "2026-10-15T14:06:00+00:00"
   }
  ]
 }

@@ -1,4 +1,19 @@
 {
  "last_digest": "2026-10-19",
- "queue": []
+ "queue": [
+  {
+   "id": "https://www.supplychaindive.com/news/port-of-savannah-to-build-35m-teu-container-terminal/833246/",
+   "title": "Port of Savannah to build 3.5M TEU container terminal",
+   "url": "https://www.supplychaindive.com/news/port-of-savannah-to-build-35m-teu-container-terminal/833246/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The port expects to be able to handle 12 million TEUs annually once construction is complete.",
+   "published": "2026-10-19T13:55:00+00:00"
+  }
+ ]
 }
