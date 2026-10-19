@@ -1,6 +1,35 @@
 {
- "updated": "2026-10-19T09:00:37+00:00",
+ "updated": "2026-10-19T09:30:32+00:00",
  "items": [
+  {
+   "id": "https://www.supplychaindive.com/spons/unlocking-the-autonomous-supply-chain-why-execution-data-has-to-feed-the-p/833263/",
+   "title": "Unlocking the autonomous supply chain: Why execution data has to feed the plan",
+   "url": "https://www.supplychaindive.com/spons/unlocking-the-autonomous-supply-chain-why-execution-data-has-to-feed-the-p/833263/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Ditch the war room. Build a supply chain that learns and adapts autonomously.",
+   "published": "2026-10-19T09:00:00+00:00"
+  },
+  {
+   "id": "https://www.supplychaindive.com/spons/the-biggest-risk-in-agentic-commerce-isnt-easy-to-see-its-invisibility/832344/",
+   "title": "The biggest risk in agentic commerce isn’t easy to see. It’s invisibility.",
+   "url": "https://www.supplychaindive.com/spons/the-biggest-risk-in-agentic-commerce-isnt-easy-to-see-its-invisibility/832344/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "As AI agents shortlist products for shoppers, incomplete data can mean lost sales.",
+   "published": "2026-10-19T09:00:00+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/15837716",
    "title": "Fleet owner guilty of $2M credit card fraud, ID theft scheme",
@@ -1095,34 +1124,6 @@
    "tags": [],
    "excerpt": "FedEx Corp. has introduced an online portal for pharmaceutical and life sciences companies to simplify booking and management of temperature-controlled parcel shipments in Europe. Medicines, vaccines, biologics and other critical healthcare products typically follow a separate booking process…",
    "published": "2026-10-15T12:47:29+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/oil-prices-global-oil-supply",
-   "title": "Oil prices steady as uncertainty surrounds global oil supply",
-   "url": "https://www.ttnews.com/articles/oil-prices-global-oil-supply",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Brent crude declined more than 1% to $104.91 per barrel. Tensions and uncertainties surrounding global oil supply and the situation in the Middle East dragged on.",
-   "published": "2026-10-15T12:42:30+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=326787",
-   "title": "UK port volume growth not due to EU shippers avoiding ETS, says BPA",
-   "url": "https://theloadstar.com/uk-port-volume-growth-not-due-to-eu-shippers-avoiding-ets-says-bpa/",
-   "source": "The Loadstar",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "UK lobbyists today pushed back at attempts to have the EU designate the ports of Felixstowe, London, and Southampton as “neighbouring container transhipment ports”, in the ongoing question of whether shippers are rerouting cargo to avoid ETS scheme charges.",
-   "published": "2026-10-15T12:19:45+00:00"
   }
  ]
 }
