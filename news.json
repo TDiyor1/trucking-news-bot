@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-19T14:00:39+00:00",
+ "updated": "2026-10-19T14:30:36+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/diesel-spike-fleet-cost-mce",
+   "title": "Diesel spike adds urgency to fleet cost controls",
+   "url": "https://www.ttnews.com/articles/diesel-spike-fleet-cost-mce",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Fuel cost saving recommendations came as the American Transportation Research Institute’s annual ranking of industry issues saw fuel prices ascend to the top spot.",
+   "published": "2026-10-19T13:56:55+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583482",
+   "title": "DHL Group boosts guidance on expectations for strong peak season",
+   "url": "https://www.freightwaves.com/news/dhl-group-boosts-guidance-on-expectations-for-strong-peak-season",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "DHL Group revised upward its profit forecast for 2026, pointing to ongoing earnings strength at its express division and expectations of a “robust” peak shipping season that coincides with holiday sales. The global logistics giant said Friday it now expects earnings before interest and taxes to…",
+   "published": "2026-10-19T13:56:03+00:00"
+  },
   {
    "id": "https://www.supplychaindive.com/news/port-of-savannah-to-build-35m-teu-container-terminal/833246/",
    "title": "Port of Savannah to build 3.5M TEU container terminal",
@@ -14,6 +42,20 @@
    ],
    "excerpt": "The port expects to be able to handle 12 million TEUs annually once construction is complete.",
    "published": "2026-10-19T13:55:00+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/15837176",
+   "title": "Safety compliance is only the baseline for motor carriers facing rising liability",
+   "url": "https://www.ccjdigital.com/business/insurance/article/15837176/how-predictive-fleet-safety-tech-shields-motor-carriers-from-risk",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "For motor carriers navigating a landscape of rising insurance premiums and aggressive plaintiff litigation, adhering to Federal Motor Carrier Safety Administration regulations is no longer enough to protect the fleet. Speaking at the American Trucking Associations’ Management Conference &…",
+   "published": "2026-10-19T13:53:51+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=583476",
@@ -1079,48 +1121,6 @@
    ],
    "excerpt": "More than $800 million in new funds will help Philadelphia add container handling capacity at its Southport Marine Terminal in addition to the site’s current auto handling capacity.",
    "published": "2026-10-15T15:16:14+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583184",
-   "title": "R&R trucking CEO reports $12.7M in assets after company collapse",
-   "url": "https://www.freightwaves.com/news/rr-trucking-ceo-reports-12-7m-in-assets-after-company-collapse",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Capacity"
-   ],
-   "excerpt": "Richard “Rich” Francis, CEO of the collapsed R&R Family of Companies, has disclosed nearly $12.7 million in personal assets in a court filing on Wednesday. Francis’ assets include an $8.5 million Florida waterfront residence, while reporting approximately $7.5 million in liabilities in newly filed…",
-   "published": "2026-10-15T15:06:46+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=326813",
-   "title": "AP Møller Capital acquires Singapore’s Portek International from Mitsui",
-   "url": "https://theloadstar.com/ap-moller-capital-acquires-portek-international-from-mitsui/",
-   "source": "The Loadstar",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "PRESS RELEASE A.P. Moller Capital agrees to acquire Portek International from Mitsui & Co. – A.P. Moller Capital has signed an agreement to acquire 100% of Singapore-based Portek International from Mitsui & Co. – Portek is a feeder terminal operator with interests in seven port terminals across…",
-   "published": "2026-10-15T14:55:39+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583205",
-   "title": "Prologis tops Q3 estimates, raises development starts forecast again",
-   "url": "https://www.freightwaves.com/news/prologis-tops-q3-estimates-raises-development-starts-forecast-again",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [],
-   "excerpt": "Logistics warehouse operator Prologis beat third-quarter expectations Thursday before the market opened, significantly raising its outlook for new developments. Prologis ( NYSE: PLD ) reported consolidated revenue of $2.39 billion for the quarter, reflecting an 8% year-over-year increase and…",
-   "published": "2026-10-15T14:20:04+00:00"
   }
  ]
 }
