@@ -1,6 +1,35 @@
 {
- "updated": "2026-10-19T17:30:34+00:00",
+ "updated": "2026-10-19T17:59:48+00:00",
  "items": [
+  {
+   "id": "https://joc.com/article/ny-nj-port-employers-name-john-atkins-to-leadership-role-6308617",
+   "title": "NY-NJ port employers name John Atkins to leadership role",
+   "url": "https://joc.com/article/ny-nj-port-employers-name-john-atkins-to-leadership-role-6308617",
+   "source": "JOC",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The 40-year veteran of the maritime industry will become COO of the Shipping Association of New York and New Jersey, overseeing day-to-day implementation of the local labor agreement between marine terminals and longshore workers.",
+   "published": "2026-10-19T17:32:15+00:00"
+  },
+  {
+   "id": "https://www.dcvelocity.com/transportation/trucking/spiraling-diesel-prices-drive-deep-financial-consequences-for-fleets-with-older-trucks",
+   "title": "Spiraling diesel prices drive deep financial consequences for fleets with older trucks",
+   "url": "https://www.dcvelocity.com/transportation/trucking/spiraling-diesel-prices-drive-deep-financial-consequences-for-fleets-with-older-trucks",
+   "source": "DC Velocity",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "As diesel prices pass $6.40 per gallon, the climbing price pressure is forcing difficult decisions for fleet operators, making it prohibitively expensive for them to continue running older-model trucks to haul heavy freight, according to a study from data analytics and asset performance firm Fleet…",
+   "published": "2026-10-19T17:31:29+00:00"
+  },
   {
    "id": "https://landline.media/?p=104348",
    "title": "Road Rumor: Trucker helps rescue 2-year-old during Amber Alert",
@@ -1097,32 +1126,6 @@
    ],
    "excerpt": "Charlie Cunnion most recently served as vice president of supply chain and customer service for CMPC Forest Products North America.",
    "published": "2026-10-15T19:18:14+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104297",
-   "title": "‘Regulatory uncertainty’ causes big drop in new truck orders",
-   "url": "https://landline.media/regulatory-uncertainty-causes-big-drop-in-new-truck-orders/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Class 8 truck orders have declined significantly from a year ago. ACT Research says that “regulatory uncertainty” is to blame.",
-   "published": "2026-10-15T18:51:38+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583245",
-   "title": "Penske Automotive accepts offer, will be bought out",
-   "url": "https://www.freightwaves.com/news/penske-automotive-accepts-offer-will-be-bought-out",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Penske Automotive Group (NYSE: PAG) , a publicly-traded company that includes the current Penske-related companies involved in a closely-watched liability case , will become a private company with a buyout from two of its current corporate owners. After a review of the July offer from Penske Corp…",
-   "published": "2026-10-15T18:46:48+00:00"
   }
  ]
 }
