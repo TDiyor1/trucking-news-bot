@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-19T10:30:29+00:00",
+ "updated": "2026-10-19T11:00:35+00:00",
  "items": [
+  {
+   "id": "https://theloadstar.com/?p=326887",
+   "title": "Shippers eye transloading to ease truck constraints at US-Mexico border",
+   "url": "https://theloadstar.com/shippers-eye-transloading-to-ease-truck-constraints-at-us-mexico-border/",
+   "source": "The Loadstar",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tariffs",
+    "Capacity"
+   ],
+   "excerpt": "Pressures at the US’s southern border, from rising volumes and diminished trucking capacity, are causing shippers to evaluate transloading. According to Uber Freight, this is turning from an emergency solution into a structural network element. Uncertainty about the future of Mexico’s free-trade…",
+   "published": "2026-10-19T10:44:40+00:00"
+  },
   {
    "id": "https://www.supplychaindive.com/spons/unlocking-the-autonomous-supply-chain-why-execution-data-has-to-feed-the-p/833263/",
    "title": "Unlocking the autonomous supply chain: Why execution data has to feed the plan",
@@ -1110,20 +1125,6 @@
    ],
    "excerpt": "If your trucks have been running the same heavy-duty diesel engine oil since roughly 2017, whether you manage a hundred-truck fleet, run a small operation of a few units, or own the one truck you drive yourself, that oil is about to be replaced by something new, because the American Petroleum…",
    "published": "2026-10-15T13:28:30+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583189",
-   "title": "FedEx digitizes booking process for European cold-chain pharma shipments",
-   "url": "https://www.freightwaves.com/news/fedex-digitizes-booking-process-for-european-cold-chain-pharma-shipments",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "FedEx Corp. has introduced an online portal for pharmaceutical and life sciences companies to simplify booking and management of temperature-controlled parcel shipments in Europe. Medicines, vaccines, biologics and other critical healthcare products typically follow a separate booking process…",
-   "published": "2026-10-15T12:47:29+00:00"
   }
  ]
 }
