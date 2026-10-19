@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-19T18:00:35+00:00",
+ "updated": "2026-10-19T18:29:52+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=583520",
+   "title": "Pump price is trucking’s #1 concern: ATRI survey",
+   "url": "https://www.freightwaves.com/news/pump-price-is-truckings-1-concern-atri-survey",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "This year’s study of the top issues facing trucking undertaken by the American Transportation Research Institute (ATRI) had a number one concern that didn’t even crack the top 10 in the prior two years: fuel prices . That issue was number one in the responses submitted by drivers and number two for…",
+   "published": "2026-10-19T17:40:45+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583518",
+   "title": "No. 2 container line studying US-UK route for nuclear ships",
+   "url": "https://www.freightwaves.com/news/no-2-container-line-studying-us-uk-route-for-nuclear-ships",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Regulation",
+    "Capacity",
+    "Ports/Rail"
+   ],
+   "excerpt": "A.P. Moller-Maersk is participating in industry studies examining what would be required for nuclear-powered container ships to make routine port calls , with the work centered on regulation, safety, security and port operations rather than an immediate vessel-ordering program.",
+   "published": "2026-10-19T17:37:31+00:00"
+  },
   {
    "id": "https://joc.com/article/ny-nj-port-employers-name-john-atkins-to-leadership-role-6308617",
    "title": "NY-NJ port employers name John Atkins to leadership role",
@@ -1100,32 +1132,6 @@
    "tags": [],
    "excerpt": "Mark Colson will start the new role Dec. 1, bringing over 20 years of experience, the ATA said.",
    "published": "2026-10-15T19:32:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583251",
-   "title": "Fleetworthy expands Expedited Inspection to five states",
-   "url": "https://www.freightwaves.com/news/fleetworthy-expedited-inspection-five-states",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Fleetworthy expanded its Expedited Inspection program to California, Michigan, Vermont and Maine on Tuesday, bringing the automated roadside inspection tool to five states. Nevada, the first, has used it since June 2025. When a truck is selected for inspection, the program sends fleet and vehicle…",
-   "published": "2026-10-15T19:26:57+00:00"
-  },
-  {
-   "id": "https://joc.com/article/massport-names-supply-chain-veteran-as-new-port-director-6306500",
-   "title": "Massport names supply chain veteran as new port director",
-   "url": "https://joc.com/article/massport-names-supply-chain-veteran-as-new-port-director-6306500",
-   "source": "JOC",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Charlie Cunnion most recently served as vice president of supply chain and customer service for CMPC Forest Products North America.",
-   "published": "2026-10-15T19:18:14+00:00"
   }
  ]
 }
