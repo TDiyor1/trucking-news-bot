@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-19T21:30:28+00:00",
+ "updated": "2026-10-19T21:45:02+00:00",
  "items": [
+  {
+   "id": "https://joc.com/article/la-ballot-measure-seen-as-new-ilwu-attempt-to-block-port-automation-6308728",
+   "title": "LA ballot measure seen as new ILWU attempt to block port automation",
+   "url": "https://joc.com/article/la-ballot-measure-seen-as-new-ilwu-attempt-to-block-port-automation-6308728",
+   "source": "JOC",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Industry insiders say the Nov. 3 ballot measure would give the union a new way to marshal popular support against future investment by Los Angeles marine terminals in projects that could include automation.",
+   "published": "2026-10-19T21:32:14+00:00"
+  },
   {
    "id": "https://www.dat.com/blog/?p=27677",
    "title": "Reefer Report: Rates edge higher as load posts cool",
@@ -1129,20 +1144,6 @@
    ],
    "excerpt": "You ‘ve probably heard some version of this argument. Rate data built on invoices has to be old, because invoices come after delivery. The argument states that by the time a settled transaction reaches DAT’s database, the market has moved on. But that’s not how the DAT database works, and we…",
    "published": "2026-10-15T22:33:03+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15837652",
-   "title": "FMCSA's DataQs reforms officially in effect",
-   "url": "https://www.ccjdigital.com/regulations/safety-compliance/article/15837652/fmcsas-dataqs-reforms-officially-in-effect",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "The Federal Motor Carrier Safety Administration on Thursday officially announced the implementation of its reformed DataQs requirements unveiled earlier this year . Those changes, as reported , tied states’ adherence to the requirements to their eligibility to receive Motor Carrier Safety…",
-   "published": "2026-10-15T21:19:07+00:00"
   }
  ]
 }
