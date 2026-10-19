@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-19T15:30:36+00:00",
+ "updated": "2026-10-19T15:58:13+00:00",
  "items": [
+  {
+   "id": "https://www.dcvelocity.com/supply-chain/new-research-on-omnichannel-fulfillment-shows-ai-becoming-a-strategic-enabler",
+   "title": "New research on omnichannel fulfillment shows AI becoming a “strategic enabler”",
+   "url": "https://www.dcvelocity.com/supply-chain/new-research-on-omnichannel-fulfillment-shows-ai-becoming-a-strategic-enabler",
+   "source": "DC Velocity",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "",
+   "published": "2026-10-19T15:40:32+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/15837764",
    "title": "'Hey Peterbilt!': Paccar Connect brings consumer-like digital experience to the cab",
@@ -1108,18 +1122,6 @@
    "tags": [],
    "excerpt": "The American Trucking Associations has turned to one of its affiliates and plucked the head of the Alabama Trucking Association to be the national group’s next president and CEO, effective December 1. Mark Colson has been named to head the ATA, which was jolted by the sudden departure of Chris…",
    "published": "2026-10-15T15:42:07+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/200m-in-federal-funds-to-aid-truck-parking-in-12-states/833091/",
-   "title": "$200M in federal funds to aid truck parking in 12 states",
-   "url": "https://www.truckingdive.com/news/200m-in-federal-funds-to-aid-truck-parking-in-12-states/833091/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "The investments will “create hundreds of new parking spaces along major freight corridors and at key freight facilities,” the American Trucking Associations noted.",
-   "published": "2026-10-15T15:31:00+00:00"
   }
  ]
 }
