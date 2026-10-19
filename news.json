@@ -1,6 +1,37 @@
 {
- "updated": "2026-10-19T19:29:53+00:00",
+ "updated": "2026-10-19T19:30:38+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=583460",
+   "title": "CBP seizes $30.4M in meth hidden in commercial salt load at Laredo World Trade Bridge",
+   "url": "https://www.freightwaves.com/news/cbp-seizes-30-4m-in-meth-hidden-in-commercial-salt-load-at-laredo-world-trade-bridge",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "U.S. Customs and Border Protection officers discovered nearly $30.4 million in suspected methamphetamine inside a commercial salt shipment in Texas. The October 12 seizure occurred at Laredo’s World Trade Bridge along the U.S.-Mexico border. Officers recovered 3,395.91 pounds of suspected…",
+   "published": "2026-10-19T19:11:57+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583544",
+   "title": "Air Canada adds freighter destinations for winter season",
+   "url": "https://www.freightwaves.com/news/air-canada-adds-freighter-destinations-for-winter-season",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs",
+    "Capacity"
+   ],
+   "excerpt": "Air Canada on Monday announced the expansion of its freighter network for the upcoming winter season, adding new service from its Toronto global hub to Amsterdam, Monterrey, Mexico, and Panama City, Panama. The additions provide customers with dedicated, large-pallet capacity on key transatlantic…",
+   "published": "2026-10-19T19:08:52+00:00"
+  },
   {
    "id": "https://landline.media/?p=104351",
    "title": "All 50 states now using DataQ process that promises to be fairer",
@@ -162,6 +193,21 @@
    ],
    "excerpt": "Stellantis and Unifor stopped negotiating after Roshel said it had signed a memo that outlines steps toward buying an idled Toronto-area plant from the automaker.",
    "published": "2026-10-19T16:24:37+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583558",
+   "title": "Matson christens 1st new vessel of $1B US shipyard order",
+   "url": "https://www.freightwaves.com/news/matson-christens-1st-new-vessel-of-1b-us-shipyard-order",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Capacity",
+    "Ports/Rail"
+   ],
+   "excerpt": "Matson christened the containership Makua at Hanwha Philly Shipyard on Oct. 10, marking a milestone in its approximately $1 billion investment in three new vessels for its Hawaii and China–Long Beach Express services. The ship is scheduled for delivery in the first quarter of 2027.",
+   "published": "2026-10-19T16:14:00+00:00"
   },
   {
    "id": "https://www.truckingdive.com/news/how-a-california-carrier-is-repurposing-diesel-tractors-to-electric/832770/",
@@ -1092,46 +1138,6 @@
    ],
    "excerpt": "Autonomous truck software developers received a boost from the FMCSA, which OK’d the use of beacons rather than warning triangles for five years.",
    "published": "2026-10-15T20:20:27+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583264",
-   "title": "How AI Agents Boost Fleet Safety & Efficiency by 30%",
-   "url": "https://www.freightwaves.com/news/how-ai-agents-boost-fleet-safety-efficiency-by-30",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation",
-    "Tech"
-   ],
-   "excerpt": "Samsara’s new Agent Studio is changing the game for physical operations, making powerful AI agents accessible through a no-code builder. Discover how voice and chat agents are helping logistics companies proactively manage everything from HOS compliance to driver coaching, improving safety by up to…",
-   "published": "2026-10-15T20:16:46+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583263",
-   "title": "Is Your Trailer Leasing EXPOSURE Covered?",
-   "url": "https://www.freightwaves.com/news/is-your-trailer-leasing-exposure-covered",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Freight brokers stepping into trailer leasing face significant new liabilities beyond just arranging transportation. From critical maintenance issues to relying on inadequate insurance, the risks are substantial. Learn why dedicated coverage and robust processes are essential to protect your…",
-   "published": "2026-10-15T20:16:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15837502",
-   "title": "Trimble's potential T&L unit sale urges fleets to consider vendor changes",
-   "url": "https://www.ccjdigital.com/technology/business-operations/article/15837502/experts-offer-tips-for-fleets-considering-a-tms-switch",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Network optimization has become all-important in helping transportation and logistics companies manage what Trimble President and CEO Rob Painter called “the spicy market that we find ourselves in.” The industry needs technology now more than ever, Painter recently told media at the company’s…",
-   "published": "2026-10-15T19:42:45+00:00"
   }
  ]
 }
