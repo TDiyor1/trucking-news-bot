@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-19T12:00:37+00:00",
+ "updated": "2026-10-19T12:30:31+00:00",
  "items": [
+  {
+   "id": "https://theloadstar.com/?p=326936",
+   "title": "Solar power a shining example of export progress across sub-Saharan Africa",
+   "url": "https://theloadstar.com/solar-power-a-shining-example-of-export-progress-across-sub-saharan-africa/",
+   "source": "The Loadstar",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Solar energy is becoming increasingly important for bolstering sub-Saharan Africa’s trading potential, with supply chain executives telling The Loadstar that Kenya and Nigeria are two of the fastest-growing markets for the technology. By the end of the first quarter, Nigeria had climbed into the…",
+   "published": "2026-10-19T12:07:23+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583449",
+   "title": "Box truck carrier’s pivots show new fleets must know costs",
+   "url": "https://www.freightwaves.com/news/tla-group-box-truck-business-costs",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "Telly Arnold founded TLA Group LLC, a Houston-based carrier that has run non-CDL box trucks for about three years. In that time the company has rented a truck, co-owned one, financed its own, hauled final-mile appliance deliveries and moved over the road.",
+   "published": "2026-10-19T12:00:00+00:00"
+  },
   {
    "id": "https://theloadstar.com/?p=326887",
    "title": "Shippers eye transloading to ease truck constraints at US-Mexico border",
@@ -1097,34 +1125,6 @@
    ],
    "excerpt": "By Daniil Davydoff Following the U.S. parcel delivery market can feel like tracking a race. Tactical moves to increase network capacity, build facilities, and launch tools, as well as strategic changes in leadership and operating models, dominate assessments of which carriers are gaining or losing…",
    "published": "2026-10-15T13:59:56+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/california-diesel-prices-remain-above-8-per-gallon-as-truckers-call-for-re/833092/",
-   "title": "California diesel prices remain above $8 per gallon as truckers call for relief",
-   "url": "https://www.supplychaindive.com/news/california-diesel-prices-remain-above-8-per-gallon-as-truckers-call-for-re/833092/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Elevated costs could extend well into next year, an energy expert tells Trucking Dive.",
-   "published": "2026-10-15T13:45:10+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583140",
-   "title": "The Heavy-Duty Oil Standard Is Changing In January, What It Means For Your Fleet, Your Costs, And Your Equipment",
-   "url": "https://www.freightwaves.com/news/the-heavy-duty-oil-standard-is-changing-in-january-what-it-means-for-your-fleet-your-costs-and-your-equipment",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "If your trucks have been running the same heavy-duty diesel engine oil since roughly 2017, whether you manage a hundred-truck fleet, run a small operation of a few units, or own the one truck you drive yourself, that oil is about to be replaced by something new, because the American Petroleum…",
-   "published": "2026-10-15T13:28:30+00:00"
   }
  ]
 }
