@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T19:52:28+00:00",
+ "updated": "2026-10-19T19:59:56+00:00",
  "items": [
   {
    "id": "https://www.dat.com/blog/?p=27674",
@@ -15,6 +15,20 @@
    ],
    "excerpt": "Flatbed spot linehaul rates paid to carriers averaged $2.65 per mile last week, minus fuel, down 0.1%, or less than a cent per mile, from the week before. Rates climbed 29.3%, or $0.60 per mile, year over year and held 26.3%, or $0.55 per mile, above the nine-year seasonal average of $2.10 per…",
    "published": "2026-10-19T19:48:23+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583566",
+   "title": "New Mexico jury awards $47M in tanker truck crash lawsuit",
+   "url": "https://www.freightwaves.com/news/new-mexico-jury-awards-47m-in-tanker-truck-crash-lawsuit",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "A New Mexico jury has awarded $47 million to a pick up truck driver and his mother in a lawsuit against Pilot Thomas Logistics LLC and Maxum Petroleum Operating Company stemming from a 2022 head-on collision involving a commercial tanker truck. The verdict followed a jury trial in the First…",
+   "published": "2026-10-19T19:42:56+00:00"
   },
   {
    "id": "https://www.dat.com/blog/?p=27671",
@@ -1127,20 +1141,6 @@
    ],
    "excerpt": "There will be a little more than 2,400 new truck parking spaces built over the next few years as a result of funding provided to various projects under the Nationally Significant Multimodal Freight & Highway Projects (INFRA) program. “A targeted objective of this funding opportunity is to directly…",
    "published": "2026-10-15T21:00:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583261",
-   "title": "Freight Visibility Gets a Second Set of Eyes",
-   "url": "https://www.freightwaves.com/news/freight-visibility-gets-a-second-set-of-eyes",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "freight visibility meant knowing where a given truck was, but the industry has only gotten more complex as it has digitized. On a recent episode of FreightWaves’ What the Truck?!? , host Malcolm Harris pressed Andrew Wimer, Associate General Manager, Transportation Management at Descartes , on how…",
-   "published": "2026-10-15T20:54:07+00:00"
   }
  ]
 }
