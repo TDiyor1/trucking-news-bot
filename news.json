@@ -1,6 +1,22 @@
 {
- "updated": "2026-10-19T20:30:27+00:00",
+ "updated": "2026-10-19T21:00:37+00:00",
  "items": [
+  {
+   "id": "https://www.dat.com/blog/?p=27677",
+   "title": "Reefer Report: Rates edge higher as load posts cool",
+   "url": "https://www.dat.com/blog/reefer-report-rates-edge-higher-as-load-posts-cool",
+   "source": "DAT iQ",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Diesel"
+   ],
+   "excerpt": "Reefer spot linehaul rates paid to carriers averaged $2.76 per mile last week, minus fuel, up 0.5%, or $0.01 per mile, from the week before. Rates climbed 32.7%, or $0.68 per mile, year over year and held 28.8%, or $0.62 per mile, above the nine-year seasonal average of $2.14 per mile, well into…",
+   "published": "2026-10-19T20:31:10+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=583572",
    "title": "Volvo folds powertrain repairs into its service contract",
@@ -1127,20 +1143,6 @@
    ],
    "excerpt": "The Federal Motor Carrier Safety Administration on Thursday officially announced the implementation of its reformed DataQs requirements unveiled earlier this year . Those changes, as reported , tied states’ adherence to the requirements to their eligibility to receive Motor Carrier Safety…",
    "published": "2026-10-15T21:19:07+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583235",
-   "title": "First look: J.B. Hunt’s Q3 earnings",
-   "url": "https://www.freightwaves.com/news/first-look-j-b-hunt-q3-earnings",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "J.B. Hunt Transport Services’ third quarter slightly surpassed analysts’ lowered expectations following the company’s earnings warning issued in September. J.B. Hunt ( NASDAQ: JBHT ) reported third-quarter revenue of $3.68 billion Thursday after the market closed.",
-   "published": "2026-10-15T21:17:54+00:00"
   }
  ]
 }
