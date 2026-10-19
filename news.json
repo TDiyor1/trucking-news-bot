@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-19T15:58:13+00:00",
+ "updated": "2026-10-19T16:00:42+00:00",
  "items": [
+  {
+   "id": "https://www.truckingdive.com/news/how-a-california-carrier-is-repurposing-diesel-tractors-to-electric/832770/",
+   "title": "How a California carrier is repurposing diesel tractors to electric",
+   "url": "https://www.truckingdive.com/news/how-a-california-carrier-is-repurposing-diesel-tractors-to-electric/832770/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Ability Tri-Modal Transportation Services is incorporating swappable batteries that can be replaced within minutes, the carrier says.",
+   "published": "2026-10-19T15:55:00+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/unfi-leans-into-fuel-hedging-tech-to-manage-rising-costs/833153/",
+   "title": "UNFI leans into fuel hedging, tech to manage rising costs",
+   "url": "https://www.truckingdive.com/news/unfi-leans-into-fuel-hedging-tech-to-manage-rising-costs/833153/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "With diesel costs at record highs, the company told investors locked-in fuel prices and efforts to reduce unnecessary miles were helping.",
+   "published": "2026-10-19T15:52:00+00:00"
+  },
   {
    "id": "https://www.dcvelocity.com/supply-chain/new-research-on-omnichannel-fulfillment-shows-ai-becoming-a-strategic-enabler",
    "title": "New research on omnichannel fulfillment shows AI becoming a “strategic enabler”",
@@ -1093,35 +1121,6 @@
    "tags": [],
    "excerpt": "Drivers have complained about headlight glare for years. Now, federal regulators are looking at what needs to change.",
    "published": "2026-10-15T16:55:49+00:00"
-  },
-  {
-   "id": "https://joc.com/article/europe-risks-becoming-a-corpse-in-steel-sector-experts-6306388",
-   "title": "Europe risks becoming a 'corpse' in steel sector: experts",
-   "url": "https://joc.com/article/europe-risks-becoming-a-corpse-in-steel-sector-experts-6306388",
-   "source": "JOC",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "The demise of Europe’s steel industry would lead to the collapse of the associated logistics sector that supports it, participants at the Port of Antwerp-Bruges Breakbulk Summit were told this week.",
-   "published": "2026-10-15T15:56:18+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583220",
-   "title": "Alabama association chief Colson named new head of ATA",
-   "url": "https://www.freightwaves.com/news/alabama-association-chief-colson-named-new-head-of-ata",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "The American Trucking Associations has turned to one of its affiliates and plucked the head of the Alabama Trucking Association to be the national group’s next president and CEO, effective December 1. Mark Colson has been named to head the ATA, which was jolted by the sudden departure of Chris…",
-   "published": "2026-10-15T15:42:07+00:00"
   }
  ]
 }
