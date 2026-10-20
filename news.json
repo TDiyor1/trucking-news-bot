@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-20T12:00:38+00:00",
+ "updated": "2026-10-20T12:30:46+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/us-sales-sanctioned-tankers-oil",
+   "title": "U.S. authorizes sales of sanctioned oil tankers",
+   "url": "https://www.ttnews.com/articles/us-sales-sanctioned-tankers-oil",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "The Trump administration is authorizing the sale of sanctioned oil tankers in an effort to allow the vessels to start legitimately shipping crude.",
+   "published": "2026-10-20T12:00:00+00:00"
+  },
   {
    "id": "https://theloadstar.com/?p=327013",
    "title": "Dray Dog-CargoWise link-up will automate port bookings for drayage",
@@ -15,6 +29,20 @@
    ],
    "excerpt": "WiseTech Global has integrated its CargoWise Landside transport management systems (TMS) with marine terminal appointment software provider Dray Dog, enabling US drayage operators to automate port bookings and reduce manual data entry. The integration connects Dray Dog with CargoWise’s Trinium,…",
    "published": "2026-10-20T11:47:05+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583437",
+   "title": "Daimler Is Building Autonomy Into The Truck At The Factory, And Leaving The Software Choice Open",
+   "url": "https://www.freightwaves.com/news/daimler-is-building-autonomy-into-the-truck-at-the-factory-and-leaving-the-software-choice-open",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "One of the quieter but more consequential points to come out of a recent candid session with Daimler Truck leadership had nothing to do with financing or freight rates and everything to do with how the trucks themselves are being built right now, because the company made clear that it is already…",
+   "published": "2026-10-20T11:44:00+00:00"
   },
   {
    "id": "https://theloadstar.com/?p=327011",
@@ -32,6 +60,18 @@
    ],
    "excerpt": "Airlines are strengthening freighter links between Asia, Europe, and the Americas for winter, adding transatlantic flights, connections to Latin American manufacturing and distribution hubs, and capacity serving Asia’s technology exports. Air Canada Cargo’s new 767-30F services to Amsterdam,…",
    "published": "2026-10-20T11:34:54+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583453",
+   "title": "The 2026 Elections Will Reshape Trucking Labor Policy No Matter Which Party Wins",
+   "url": "https://www.freightwaves.com/news/the-2026-elections-will-reshape-trucking-labor-policy-no-matter-which-party-wins",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "For most of the last two decades, trucking could read the politics of its workforce fights along a familiar line, with one party broadly friendly to the independent contractor model and the other broadly skeptical of it, but according to the policy and legal experts who briefed an American Trucking…",
+   "published": "2026-10-20T11:24:00+00:00"
   },
   {
    "id": "https://www.ccjdigital.com/15837937",
@@ -1106,46 +1146,6 @@
    ],
    "excerpt": "Brent crude fell 0.6% to $105.26 per barrel. Oil prices continued to stay elevated as global oil supply remains under pressure without a deal between the U.S. and Iran to end the Iran war.",
    "published": "2026-10-16T12:22:55+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583312",
-   "title": "J.B. Hunt experiences growing pains in Q3",
-   "url": "https://www.freightwaves.com/news/j-b-hunt-experiences-growing-pains-in-q3",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "J.B. Hunt Transport Services’ third quarter may prove to be a speed bump on the road to recovery. The company previously flagged significant cost pressures, some growth-related, heading into the Thursday print. To meet demand, some of its business units offered sign-on bonuses and increase driver…",
-   "published": "2026-10-16T12:20:27+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15837632",
-   "title": "NMFTA is trucking's defense against cyber risks",
-   "url": "https://www.ccjdigital.com/technology/cybersecurity/article/15837632/nmfta-cybersecurity-resources-for-trucking-companies",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Melanie Padron is vice president of strategic growth at IT ArchiTeks, a provider of IT and cybersecurity solutions to organizations across the transportation industry and others. She sat on a panel about AI and cybersecurity that I moderated at the Trimble Insight conference at the end of…",
-   "published": "2026-10-16T11:24:42+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583296",
-   "title": "Jury hits Wyoming logistics broker with $9.4M fraud verdict",
-   "url": "https://www.freightwaves.com/news/jury-hits-wyoming-logistics-broker-with-9-4m-fraud-verdict",
-   "source": "FreightWaves",
-   "audience": [
-    "Broker"
-   ],
-   "tags": [
-    "Fraud"
-   ],
-   "excerpt": "A California jury has awarded nearly $9.4 million to a medical supply distributor after finding that a Wyoming-based logistics broker and its managing member made fraudulent representations that led to a failed $9.5 million shipment of medical gloves. The Los Angeles County Superior Court jury…",
-   "published": "2026-10-16T11:00:00+00:00"
   }
  ]
 }
