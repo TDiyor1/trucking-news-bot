@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-20T16:25:38+00:00",
+ "updated": "2026-10-20T16:30:33+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=583630",
+   "title": "Benchmark diesel price up as market takes a short breather",
+   "url": "https://www.freightwaves.com/news/benchmark-diesel-price-up-as-market-takes-a-short-breather",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "After months of volatility, the diesel market going into Tuesday appeared to have calmed down, at least for now. The day also featured the release of the weekly benchmark diesel price from the Department of Energy/Energy Information Administration that is used for most fuel surcharges.",
+   "published": "2026-10-20T16:10:29+00:00"
+  },
   {
    "id": "https://www.truckingdive.com/news/diesel-price-volatility-is-truckings-top-issue-in-2026-atri/833310/",
    "title": "Diesel price volatility is trucking’s top issue in 2026: ATRI",
@@ -1128,18 +1142,6 @@
    "tags": [],
    "excerpt": "More than 40 kilograms of cocaine traveled from California to Florida aboard a commercial truck without the carrier’s knowledge. Investigators intercepted the shipment as suspects began unpacking a pallet containing the drugs. Florida Attorney General James Uthmeier announced October 13 that…",
    "published": "2026-10-16T17:43:14+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583369",
-   "title": "ATRI gets a new head: TeamOne’s Siplon",
-   "url": "https://www.freightwaves.com/news/atri-gets-a-new-head-teamones-siplon",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "The American Trucking Associations wrapped up a busy week Friday as it prepares for its annual conference beginning Sunday, with the American Transportation Research Institute, ATA’s not-for-profit research organization, naming a new head the day after ATA announced a new chief of the entire…",
-   "published": "2026-10-16T17:10:32+00:00"
   }
  ]
 }
