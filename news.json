@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-20T11:30:28+00:00",
+ "updated": "2026-10-20T12:00:38+00:00",
  "items": [
+  {
+   "id": "https://theloadstar.com/?p=327013",
+   "title": "Dray Dog-CargoWise link-up will automate port bookings for drayage",
+   "url": "https://theloadstar.com/dray-dog-cargowise-link-up-will-automate-port-bookings-for-drayage/",
+   "source": "The Loadstar",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "WiseTech Global has integrated its CargoWise Landside transport management systems (TMS) with marine terminal appointment software provider Dray Dog, enabling US drayage operators to automate port bookings and reduce manual data entry. The integration connects Dray Dog with CargoWise’s Trinium,…",
+   "published": "2026-10-20T11:47:05+00:00"
+  },
+  {
+   "id": "https://theloadstar.com/?p=327011",
+   "title": "Airlines strengthen winter freighter links, as forwarders face capacity shuffle",
+   "url": "https://theloadstar.com/airlines-strengthen-winter-freighter-links-as-forwarders-face-capacity-shuffle/",
+   "source": "The Loadstar",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs",
+    "Capacity"
+   ],
+   "excerpt": "Airlines are strengthening freighter links between Asia, Europe, and the Americas for winter, adding transatlantic flights, connections to Latin American manufacturing and distribution hubs, and capacity serving Asia’s technology exports. Air Canada Cargo’s new 767-30F services to Amsterdam,…",
+   "published": "2026-10-20T11:34:54+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/15837937",
    "title": "Popular terminal tractors recalled for fire risk",
@@ -1114,35 +1146,6 @@
    ],
    "excerpt": "A California jury has awarded nearly $9.4 million to a medical supply distributor after finding that a Wyoming-based logistics broker and its managing member made fraudulent representations that led to a failed $9.5 million shipment of medical gloves. The Los Angeles County Superior Court jury…",
    "published": "2026-10-16T11:00:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15837645",
-   "title": "Penske reaches agreement to go private",
-   "url": "https://www.ccjdigital.com/business/mergers-acquisitions/article/15837645/penske-automotive-group-to-be-taken-private",
-   "source": "CCJ",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Trucking news and briefs for Friday, Oct. 16, 2026: Penske Automotive Group going private Penske Automotive Group has agreed to be taken private by Motown Acquisition Corp. in a deal valued at approximately $16.3 billion, the company announced Thursday.",
-   "published": "2026-10-16T05:07:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15837658",
-   "title": "Nussbaum Transportation CEO stepping down next year",
-   "url": "https://www.ccjdigital.com/ccj-top-250/article/15837658/nussbaum-transportation-ceo-brent-nussbaum-to-step-down",
-   "source": "CCJ",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "After a 45-year career that began in the company’s maintenance shop, Brent Nussbaum has announced Thursday he will step down as chief executive officer of Nussbaum Transportation ( CCJ Top 250 , No. 145) on Jan. 1, 2027, to become the company's executive chairman.",
-   "published": "2026-10-16T04:49:00+00:00"
   }
  ]
 }
