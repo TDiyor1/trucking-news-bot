@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-20T21:00:39+00:00",
+ "updated": "2026-10-20T21:19:06+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104366",
+   "title": "More Mexican freight, fewer Mexican drivers: An opening for owner-operators?",
+   "url": "https://landline.media/more-mexican-freight-fewer-mexican-drivers-an-opening-for-owner-operators/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [],
+   "excerpt": "Shippers are changing how they move Mexican freight, creating potential opportunities for carriers based well beyond the border.",
+   "published": "2026-10-20T21:15:27+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/trump-suit-canada-tariffs",
+   "title": "Trump faces suit over 50% Canada tariffs",
+   "url": "https://www.ttnews.com/articles/trump-suit-canada-tariffs",
+   "source": "Transport Topics",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "The Trump administration is being sued over the imposition of 50% tariffs on an array of Canadian goods.",
+   "published": "2026-10-20T20:50:15+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=583682",
    "title": "PACCAR builds a fleet app platform into Kenworth, Peterbilt",
@@ -1119,35 +1147,6 @@
    ],
    "excerpt": "The trucking industry has coped with so-called chameleon motor carriers, brokers or freight forwarders that quickly reopen under new names.",
    "published": "2026-10-16T20:43:55+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/diesel-costs-squeeze-trucking",
-   "title": "Diesel costs squeeze trucking ahead of peak shipping season",
-   "url": "https://www.ttnews.com/articles/diesel-costs-squeeze-trucking",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "The trucking industry is navigating major fuel cost pressures heading into the holiday shipping season, but the severity remains uneven.",
-   "published": "2026-10-16T20:00:20+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583142",
-   "title": "Evos raises $9M to build AI operators for industrial businesses",
-   "url": "https://www.freightwaves.com/news/evos-raises-9m-to-build-ai-operators-for-industrial-businesses",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "AI startup Evos raised $9 million in pre-seed funding to develop autonomous software operators for small and midsized industrial businesses, including freight brokerages, the company announced Wednesday. This comes as the company looks to automate routine work without requiring businesses to…",
-   "published": "2026-10-16T19:55:52+00:00"
   }
  ]
 }
