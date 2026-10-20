@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-20T16:00:35+00:00",
+ "updated": "2026-10-20T16:25:38+00:00",
  "items": [
+  {
+   "id": "https://www.truckingdive.com/news/diesel-price-volatility-is-truckings-top-issue-in-2026-atri/833310/",
+   "title": "Diesel price volatility is trucking’s top issue in 2026: ATRI",
+   "url": "https://www.truckingdive.com/news/diesel-price-volatility-is-truckings-top-issue-in-2026-atri/833310/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "While worries about the economy are starting to subside, newer issues like rising fuel costs and a driver shortage are becoming more pertinent for industry leaders.",
+   "published": "2026-10-20T16:01:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=583615",
    "title": "How new capacity is raising rates in chaotic ocean market",
@@ -1126,23 +1140,6 @@
    "tags": [],
    "excerpt": "The American Trucking Associations wrapped up a busy week Friday as it prepares for its annual conference beginning Sunday, with the American Transportation Research Institute, ATA’s not-for-profit research organization, naming a new head the day after ATA announced a new chief of the entire…",
    "published": "2026-10-16T17:10:32+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583219",
-   "title": "Carrier Logistics, LSP44 announce partnership to automate LTL shipment identification",
-   "url": "https://www.freightwaves.com/news/carrier-logistics-lsp44-announce-partnership-to-automate-ltl-shipment-identification",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Tech"
-   ],
-   "excerpt": "Carrier Logistics and LSP44 have partnered to develop an AI-powered API that can identify less-than-truckload shipments when a shipper or third-party logistics provider does not have the correct tracking number, targeting a source of manual work for carrier customer service teams.",
-   "published": "2026-10-16T16:08:59+00:00"
   }
  ]
 }
