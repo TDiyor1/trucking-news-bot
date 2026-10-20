@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-20T19:00:35+00:00",
+ "updated": "2026-10-20T19:25:53+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=583670",
+   "title": "Partner of Choice: Why the Best Shipper-Carrier Relationships Now Go Beyond Shipper of Choice",
+   "url": "https://www.freightwaves.com/news/partner-of-choice-why-the-best-shipper-carrier-relationships-now-go-beyond-shipper-of-choice",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "With tender rejections running about 2.5 times last year and contract rates reset roughly 18% higher, SONAR’s latest sitrep explains what shippers should expect a higher-priced carrier relationship to deliver. Partner of choice is a shipper-carrier relationship in which both sides invest in each…",
+   "published": "2026-10-20T18:53:46+00:00"
+  },
   {
    "id": "https://landline.media/?p=104363",
    "title": "Road rage could cost drivers more than a ticket",
@@ -1132,20 +1147,6 @@
    ],
    "excerpt": "The IRS has weighed in to clarify further what it will mean if truckers use red-dyed diesel for on-highway use as allowed by an Oct. 6 executive order.",
    "published": "2026-10-16T18:36:46+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104333",
-   "title": "Shell Rotella revs up its heavy-duty oil lineup",
-   "url": "https://landline.media/shell-rotella-revs-up-its-heavy-duty-oil-lineup/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Shell Rotella introduced a new lineup of heavy-duty engine oils designed to deliver advanced protection for new engine designs.",
-   "published": "2026-10-16T18:35:10+00:00"
   }
  ]
 }
