@@ -1,6 +1,35 @@
 {
- "updated": "2026-10-20T14:30:32+00:00",
+ "updated": "2026-10-20T15:00:41+00:00",
  "items": [
+  {
+   "id": "https://www.truckingdive.com/news/sagepoint-logistics-eyes-expansion-by-doubling-size-of-rng-fleet/832445/",
+   "title": "Sagepoint Logistics eyes expansion by doubling size of RNG fleet",
+   "url": "https://www.truckingdive.com/news/sagepoint-logistics-eyes-expansion-by-doubling-size-of-rng-fleet/832445/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "The carrier’s parent company, Sagepoint Energy, produces its own renewable natural gas. RNG traditionally can be $1.50 less per gallon than diesel, an industry group said.",
+   "published": "2026-10-20T14:30:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583600",
+   "title": "Freight broker Fura’s latest deal adds $30M in revenue",
+   "url": "https://www.freightwaves.com/news/freight-broker-furas-latest-deal-adds-30m-in-revenue",
+   "source": "FreightWaves",
+   "audience": [
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Tech"
+   ],
+   "excerpt": "Freight broker Fura announced it has acquired truckload brokerage Road Dog Logistics, adding approximately $30 million in revenue to Fura’s platform. This is Frisco, Texas-based Fura’s eighth acquisition, meaningfully expanding its over $100-million AI-powered platform.",
+   "published": "2026-10-20T14:21:03+00:00"
+  },
   {
    "id": "https://www.supplychaindive.com/news/how-whataburgers-csco-diversified-suppliers-to-curb-inflation-and-fought/833435/",
    "title": "How Whataburger’s CSCO diversified suppliers to curb inflation — and fought fires along the way",
@@ -1110,35 +1139,6 @@
    "tags": [],
    "excerpt": "The carrier said higher driver expenses, medical claims and insurance premiums weighed on the business unit during the quarter.",
    "published": "2026-10-16T15:24:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583377",
-   "title": "Intermodal rail better by 10% in latest count",
-   "url": "https://www.freightwaves.com/news/intermodal-rail-better-by-10-in-latest-count",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Weekly traffic on U.S.railroads was 534,256 carloads and intermodal units for the week ending Oct. 10, up 7.2 percent compared with the same week a year ago. Carload commodities totaled 232,004 carloads, up 3.4 percent, according to Association of American Railroads data, while intermodal volume…",
-   "published": "2026-10-16T14:31:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/dyed-diesel-relief-states",
-   "title": "Dyed diesel relief leaves carriers with state-by-state rules",
-   "url": "https://www.ttnews.com/articles/dyed-diesel-relief-states",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Governors across the country are temporarily easing dyed diesel restrictions and suspending fuel taxes as diesel prices remain elevated over year-ago levels.",
-   "published": "2026-10-16T14:22:10+00:00"
   }
  ]
 }
