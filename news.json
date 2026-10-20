@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-20T13:00:34+00:00",
+ "updated": "2026-10-20T13:30:32+00:00",
  "items": [
+  {
+   "id": "https://joc.com/article/breakbulk-trade-strength-comes-despite-green-fuel-uncertainty-6308992",
+   "title": "Breakbulk trade strength comes despite green fuel uncertainty",
+   "url": "https://joc.com/article/breakbulk-trade-strength-comes-despite-green-fuel-uncertainty-6308992",
+   "source": "JOC",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Economic Indicators that pointed to a soft year for the breakbulk market in 2026 have been overcome by busy US carriers, attendees at the Port of Antwerp-Bruges Breakbulk Summit were told.",
+   "published": "2026-10-20T13:05:16+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/us-sales-sanctioned-tankers-oil",
    "title": "U.S. authorizes sales of sanctioned oil tankers",
@@ -1132,20 +1146,6 @@
    ],
    "excerpt": "Our team traveled to Moldova to meet the people who book American freight and to investigate reports of freight fraud linked to the country.",
    "published": "2026-10-16T13:00:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/oil-prices-supply-pressure",
-   "title": "Oil prices stable as world supply remains under pressure",
-   "url": "https://www.ttnews.com/articles/oil-prices-supply-pressure",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Brent crude fell 0.6% to $105.26 per barrel. Oil prices continued to stay elevated as global oil supply remains under pressure without a deal between the U.S. and Iran to end the Iran war.",
-   "published": "2026-10-16T12:22:55+00:00"
   }
  ]
 }
