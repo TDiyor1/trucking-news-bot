@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-20T13:30:32+00:00",
+ "updated": "2026-10-20T14:00:36+00:00",
  "items": [
+  {
+   "id": "https://theloadstar.com/?p=326999",
+   "title": "US Customs wants more data and earlier filing for low-value imports",
+   "url": "https://theloadstar.com/us-customs-wants-more-data-and-earlier-filing-for-low-value-imports/",
+   "source": "The Loadstar",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "The US Customs & Border Protection Agency (CBP) wants more data and earlier filing of imports valued at $2,500 or less. The compliance deadline for such imports arriving by mail has been pushed back three months, however, which prompted speculation that Washington wants to avoid further consumer…",
+   "published": "2026-10-20T14:00:03+00:00"
+  },
   {
    "id": "https://joc.com/article/breakbulk-trade-strength-comes-despite-green-fuel-uncertainty-6308992",
    "title": "Breakbulk trade strength comes despite green fuel uncertainty",
@@ -1129,23 +1144,6 @@
    ],
    "excerpt": "The Port of Long Beach moved 997,177 twenty-foot-equivalent units in September, its busiest month in 115 years and a 25% increase from September 2025, port officials said Thursday. The total surpassed the port’s previous monthly record of 987,191 TEUs, set in October 2024.",
    "published": "2026-10-16T13:09:32+00:00"
-  },
-  {
-   "id": "https://www.freightcaviar.com/stories/dispatched-from-moldova",
-   "title": "🎣 Dispatched From Moldova",
-   "url": "https://www.freightcaviar.com/stories/dispatched-from-moldova",
-   "source": "Freight Caviar",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Fraud",
-    "Ports/Rail"
-   ],
-   "excerpt": "Our team traveled to Moldova to meet the people who book American freight and to investigate reports of freight fraud linked to the country.",
-   "published": "2026-10-16T13:00:00+00:00"
   }
  ]
 }
