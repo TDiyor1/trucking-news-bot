@@ -1,6 +1,32 @@
 {
- "updated": "2026-10-20T18:30:30+00:00",
+ "updated": "2026-10-20T18:55:54+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104363",
+   "title": "Road rage could cost drivers more than a ticket",
+   "url": "https://landline.media/road-rage-could-cost-drivers-more-than-a-ticket/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "Road rage can bring more than a traffic ticket. New laws and another bill target aggressive driving, illegal passing and dangerous speeding.",
+   "published": "2026-10-20T18:52:44+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104359",
+   "title": "Dash cam used to track down trucker",
+   "url": "https://landline.media/dash-cam-used-to-track-down-trucker/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "A truck allegedly fled the scene of a crash before local authorities found the driver with an assist from another truck’s dash cam.",
+   "published": "2026-10-20T18:49:33+00:00"
+  },
   {
    "id": "https://landline.media/?p=104356",
    "title": "Siphons and a lookout: Alleged diesel theft crew busted",
@@ -1120,32 +1146,6 @@
    "tags": [],
    "excerpt": "Shell Rotella introduced a new lineup of heavy-duty engine oils designed to deliver advanced protection for new engine designs.",
    "published": "2026-10-16T18:35:10+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104330",
-   "title": "Thousands of truck parking spots coming to 12 states",
-   "url": "https://landline.media/thousands-of-truck-parking-spots-coming-to-12-states/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Fourteen truck parking expansion projects will deliver more than 2,400 new spaces across the country. Find out if any of the projects fall on your route.",
-   "published": "2026-10-16T18:33:05+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/atri-taps-logistics-transportation-exec-to-lead-organization/833244/",
-   "title": "ATRI taps logistics, transportation exec to lead organization",
-   "url": "https://www.truckingdive.com/news/atri-taps-logistics-transportation-exec-to-lead-organization/833244/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "TeamOne Logistics CEO Page Siplon will join the research group in November.",
-   "published": "2026-10-16T18:33:00+00:00"
   }
  ]
 }
