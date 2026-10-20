@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-20T16:30:33+00:00",
+ "updated": "2026-10-20T16:55:44+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=583635",
+   "title": "Heartland Express sees earnings turnaround in Q3",
+   "url": "https://www.freightwaves.com/news/heartland-express-sees-earnings-turnaround-in-q3",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Rates",
+    "Diesel"
+   ],
+   "excerpt": "Truckload carrier Heartland Express booked its first net profit since 2023 without the help of outsized gains from equipment and terminal sales. The North Liberty, Iowa-based company reported third-quarter revenue of $179.5 million, a 9% year-over-year decline and below the $191.4 million consensus…",
+   "published": "2026-10-20T16:32:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=583630",
    "title": "Benchmark diesel price up as market takes a short breather",
@@ -1130,18 +1145,6 @@
    "tags": [],
    "excerpt": "One less cost increase for truckers: Maryland is putting planned toll hikes on hold. Here’s how long the reprieve will last.",
    "published": "2026-10-16T17:55:36+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583029",
-   "title": "25 charged after drug ring used unsuspecting truckers to haul cocaine from California to Florida",
-   "url": "https://www.freightwaves.com/news/25-charged-after-drug-ring-used-unsuspecting-truckers-to-haul-cocaine-from-california-to-florida",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "More than 40 kilograms of cocaine traveled from California to Florida aboard a commercial truck without the carrier’s knowledge. Investigators intercepted the shipment as suspects began unpacking a pallet containing the drugs. Florida Attorney General James Uthmeier announced October 13 that…",
-   "published": "2026-10-16T17:43:14+00:00"
   }
  ]
 }
