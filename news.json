@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-20T18:00:33+00:00",
+ "updated": "2026-10-20T18:25:51+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104356",
+   "title": "Siphons and a lookout: Alleged diesel theft crew busted",
+   "url": "https://landline.media/siphons-and-a-lookout-alleged-diesel-theft-crew-busted/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Authorities in Southern California have been tracking a group of diesel thieves since August. Now, they face criminal charges.",
+   "published": "2026-10-20T18:05:36+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/how-ai-agents-get-results",
    "title": "How AI agents can go from hype to results",
@@ -1132,21 +1146,6 @@
    "tags": [],
    "excerpt": "TeamOne Logistics CEO Page Siplon will join the research group in November.",
    "published": "2026-10-16T18:33:00+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104327",
-   "title": "Oregon makes changes to simplify weight/mile tax collection",
-   "url": "https://landline.media/oregon-makes-changes-to-simplify-weight-mile-tax-collection/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "Oregon is making some changes to how they collect weight/mile tax from truckers. The state DOT says it will make it easier on everyone.",
-   "published": "2026-10-16T17:57:21+00:00"
   }
  ]
 }
