@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-20T20:30:27+00:00",
+ "updated": "2026-10-20T21:00:39+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=583682",
+   "title": "PACCAR builds a fleet app platform into Kenworth, Peterbilt",
+   "url": "https://www.freightwaves.com/news/paccar-connect-kenworth-peterbilt-launch",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "PACCAR will put a factory-installed touchscreen and fleet app platform called PACCAR Connect in Kenworth and Peterbilt Class 8 trucks beginning in early 2027. The company announced the system Monday at the American Trucking Associations’ Management Conference & Exhibition in Charlotte, North…",
+   "published": "2026-10-20T20:35:38+00:00"
+  },
   {
    "id": "https://www.dcvelocity.com/tech-infrastructure/e-commerce/nrf-says-holiday-season-spending-will-rise-4-2-over-2025",
    "title": "NRF says holiday season spending will rise 4.2% over 2025",
@@ -1136,18 +1148,6 @@
    ],
    "excerpt": "AI startup Evos raised $9 million in pre-seed funding to develop autonomous software operators for small and midsized industrial businesses, including freight brokerages, the company announced Wednesday. This comes as the company looks to automate routine work without requiring businesses to…",
    "published": "2026-10-16T19:55:52+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583372",
-   "title": "Tesla staffs up Nevada Semi plant as fleet orders stack up",
-   "url": "https://www.freightwaves.com/news/tesla-semi-nevada-hiring",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Tesla had 103 job openings with Semi in the title posted at its Sparks, Nevada, truck plant as of Oct. 16, according to Tesla’s careers site . The listings come three weeks after the plant started high-volume Semi production on Sept. 24. The hiring is for a 1.7-million-square-foot factory designed…",
-   "published": "2026-10-16T19:52:19+00:00"
   }
  ]
 }
