@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-21T22:36:36+00:00",
+ "updated": "2026-10-21T23:00:35+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/15838123",
+   "title": "A 'perfect storm' drives trailer demand",
+   "url": "https://www.ccjdigital.com/economic-trends/article/15838123/trailer-demands-perfect-storm-hits-2027-order-season",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "U.S. heavy-duty trailer orders signal a strong start to the 2027 order season. FTR data reported September net orders reaching 43,059 units, the most since December 2022. It’s a 78% jump from August and a 385% increase from September 2025 . ACT Research’s estimate put September net orders at 42,700…",
+   "published": "2026-10-21T22:50:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=583729",
    "title": "First look: Knight-Swift’s Q3 beats expectations",
@@ -1124,20 +1136,6 @@
    "tags": [],
    "excerpt": "Pennsylvania lawmakers want to let local police use speed radar. Bills set limits on tickets, but questions about safety and revenue remain.",
    "published": "2026-10-19T17:06:33+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104342",
-   "title": "Freightliner recall warns of fuel leaks, engine stalls",
-   "url": "https://landline.media/freightliner-recall-warns-of-fuel-leaks-engine-stalls/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "A fuel hose defect could leave Freightliner owners facing leaks or stalled engines. Check the affected models and warning signs.",
-   "published": "2026-10-19T17:04:18+00:00"
   }
  ]
 }
