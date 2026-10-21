@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-21T19:00:36+00:00",
+ "updated": "2026-10-21T19:05:17+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104380",
+   "title": "Fuel prices lead trucking concerns as industry seeks relief",
+   "url": "https://landline.media/fuel-prices-lead-trucking-concerns-as-industry-seeks-relief/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Federal and state officials have tried to address inflated fuel prices. What would the trucking industry like to see done?",
+   "published": "2026-10-21T19:05:00+00:00"
+  },
   {
    "id": "https://landline.media/?p=104377",
    "title": "New Jersey targets truck route traps and low bridges",
@@ -1123,18 +1137,6 @@
    ],
    "excerpt": "",
    "published": "2026-10-19T15:40:32+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15837764",
-   "title": "'Hey Peterbilt!': Paccar Connect brings consumer-like digital experience to the cab",
-   "url": "https://www.ccjdigital.com/trucks/on-board-technology/article/15837764/hey-peterbilt-paccar-connect-brings-consumerlike-digital-experience-to-the-cab",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Paccar is rolling out its new Paccar Connect to Kenworth and Peterbilt Class 8 trucks starting in early 2027. The new interface allows touchscreen access to HVAC and audio controls, Apple CarPlay and the truck’s exterior cameras, proprietary Paccar applications as well as third-party integration…",
-   "published": "2026-10-19T15:15:00+00:00"
   }
  ]
 }
