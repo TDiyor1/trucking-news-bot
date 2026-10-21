@@ -1,6 +1,33 @@
 {
- "updated": "2026-10-21T13:30:32+00:00",
+ "updated": "2026-10-21T14:00:39+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=583714",
+   "title": "CSX eliminates more than 100 management positions",
+   "url": "https://www.freightwaves.com/news/csx-eliminates-more-than-100-management-positions",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "CSX has eliminated 109 operations management positions as part of a restructuring of its engineering functions. The organizational changes were first outlined this past spring, a CSX (NASDAQ: CSX ) spokesman said in an email to FreightWaves. The cuts “are intended to establish a more effective…",
+   "published": "2026-10-21T13:41:19+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583704",
+   "title": "Stord acquires e-commerce competitor AMS Fulfillment in large deal",
+   "url": "https://www.freightwaves.com/news/stord-acquires-e-commerce-competitor-ams-fulfillment-in-large-deal",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [],
+   "excerpt": "Fast-growing e–commerce logistics provider Stord has made the largest acquisition since its founding 11 years ago, acquiring rival AMS Fulfillment, which processes online orders for more than 150 beauty, wellness and direct-to-consumer brands. Transaction terms were not disclosed, but Stord said in…",
+   "published": "2026-10-21T12:59:08+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/trading-cards-stolen-truck",
    "title": "Trading cards worth $963,000 stolen from truck in California",
@@ -1112,38 +1139,6 @@
    ],
    "excerpt": "BeyondTrucks announced its new Compatibility Engine for its AI-powered transportation management system. The new feature ensures the driver, trailer and tractor are properly matched to the load prior to dispatch to lower the chance of a rejected load, compliance violation or safety incident.",
    "published": "2026-10-18T20:12:31+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583417",
-   "title": "California trucking owner pleads guilty in $2.1M identity theft scheme",
-   "url": "https://www.freightwaves.com/news/california-trucking-owner-pleads-guilty-in-2-1m-identity-theft-scheme",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Fraud"
-   ],
-   "excerpt": "A California trucking company owner pleaded guilty to a $2.1 million fraud scheme involving nearly 100 stolen identities. Hasan Korkmaz, 45, of Las Vegas, operated San Diego Logistics Group Inc. in Santee, California. Federal prosecutors detailed how he processed fraudulent credit card transactions…",
-   "published": "2026-10-18T17:37:19+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15837605",
-   "title": "Fuel surcharges push truckload rates higher as shipment volumes edge higher",
-   "url": "https://www.ccjdigital.com/economic-trends/article/15837605/record-fuel-surcharges-hit-trucking-as-demand-recovers",
-   "source": "CCJ",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Diesel"
-   ],
-   "excerpt": "While freight demand continues to inch back, fuel surcharges drove truckload rates higher in September. The Cass Freight Index’s shipments component rose 2.3% month over month and 1.9% year over year in September, the second straight annual gain after a 3.5-year downturn — the longest on record.…",
-   "published": "2026-10-18T16:27:09+00:00"
   }
  ]
 }
