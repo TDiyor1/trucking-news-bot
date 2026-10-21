@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-21T22:06:33+00:00",
+ "updated": "2026-10-21T22:18:02+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=583729",
+   "title": "First look: Knight-Swift’s Q3 beats expectations",
+   "url": "https://www.freightwaves.com/news/first-look-knight-swifts-q3-beats-expectations",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Knight-Swift Transportation beat third-quarter expectations Wednesday after the market closed. Knight-Swift ( NYSE: KNX ) reported third-quarter adjusted earnings per share of 83 cents, 51 cents higher than the year-ago quarter and 7 cents better than the consensus estimate.",
+   "published": "2026-10-21T21:39:32+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/tesla-earnings-q3-2026",
    "title": "Tesla profit tops estimates as cash flow stays positive",
@@ -1124,21 +1138,6 @@
    "tags": [],
    "excerpt": "A fuel hose defect could leave Freightliner owners facing leaks or stalled engines. Check the affected models and warning signs.",
    "published": "2026-10-19T17:04:18+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15837739",
-   "title": "New Mack, Volvo service contracts bundle maintenance, powertrain repairs into predictable payments",
-   "url": "https://www.ccjdigital.com/maintenance/maintenance/article/15837739/asdfa",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tariffs",
-    "Ports/Rail"
-   ],
-   "excerpt": "Volvo Trucks North America and Mack Trucks Monday at the American Trucking Associations’ (ATA) 2026 Management Conference & Exhibition rolled out comprehensive new service contracts designed to combine preventive maintenance and powertrain protection into predictable monthly payments.",
-   "published": "2026-10-19T17:00:00+00:00"
   }
  ]
 }
