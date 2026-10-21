@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-21T17:05:02+00:00",
+ "updated": "2026-10-21T17:30:32+00:00",
  "items": [
+  {
+   "id": "https://theloadstar.com/?p=327133",
+   "title": "Follow the money or follow the flag? Politics clouds port investment",
+   "url": "https://theloadstar.com/follow-the-money-or-follow-the-flag-politics-clouds-port-investment/",
+   "source": "The Loadstar",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "In the seven years since TOC Americas last took place in Cartagena, global laden container volumes have slipped about 10% below where they would have been without the multiple disruptions that have hit the industry since 2018, according to Dinesh Sharma, director at Drewry Maritime Advisors.…",
+   "published": "2026-10-21T17:15:38+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=583743",
    "title": "New York short line wins $11.2 million federal rail grant",
@@ -1124,21 +1138,6 @@
    ],
    "excerpt": "Telly Arnold founded TLA Group LLC, a Houston-based carrier that has run non-CDL box trucks for about three years. In that time the company has rented a truck, co-owned one, financed its own, hauled final-mile appliance deliveries and moved over the road.",
    "published": "2026-10-19T12:00:00+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=326887",
-   "title": "Shippers eye transloading to ease truck constraints at US-Mexico border",
-   "url": "https://theloadstar.com/shippers-eye-transloading-to-ease-truck-constraints-at-us-mexico-border/",
-   "source": "The Loadstar",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs",
-    "Capacity"
-   ],
-   "excerpt": "Pressures at the US’s southern border, from rising volumes and diminished trucking capacity, are causing shippers to evaluate transloading. According to Uber Freight, this is turning from an emergency solution into a structural network element. Uncertainty about the future of Mexico’s free-trade…",
-   "published": "2026-10-19T10:44:40+00:00"
   }
  ]
 }
