@@ -1,6 +1,32 @@
 {
- "updated": "2026-10-21T10:30:33+00:00",
+ "updated": "2026-10-21T11:00:44+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/15838061",
+   "title": "Toyota hits milestone with 8-minute hydrogen refueling for heavy-duty truck",
+   "url": "https://www.ccjdigital.com/alternative-power/hydrogen-fuel-cell/article/15838061/toyota-hydrogen-trucks-hit-refueling-milestone-before-2027-launch",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Toyota Motor North America is advancing its heavy-duty hydrogen truck operations with new fueling infrastructure in California and successful high-speed refueling tests. The automaker's Hydrogen Headquarters (H2HQ) division recently installed two mobile hydrogen fueling devices at its North…",
+   "published": "2026-10-21T10:52:42+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/15838056",
+   "title": "Don't underestimate AI's role in trucking's recovery",
+   "url": "https://www.ccjdigital.com/economic-trends/freight-demand/article/15838056/ais-critical-role-in-trucking-sector-recovery-explained",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "It is difficult to overstate the importance of the artificial intelligence investment boom on the U.S. economy, and trucking by extension. Data centers and all they require—new infrastructure, construction, manufacturing and electrical equipment—have had a profound effect on the nation’s GDP in…",
+   "published": "2026-10-21T10:37:56+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/15838043",
    "title": "Truck tonnage improved in September following consecutive monthly declines",
@@ -39,6 +65,20 @@
    "tags": [],
    "excerpt": "Shippers are changing how they move Mexican freight, creating potential opportunities for carriers based well beyond the border.",
    "published": "2026-10-20T21:15:27+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/15838005",
+   "title": "Judge clears the way for Paccar MX-13 class action to go to trial",
+   "url": "https://www.ccjdigital.com/trucks/class-7-8/article/15838005/judge-allows-epa-2021-mx13-engine-lawsuit-against-paccar-to-move-forward",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "A Washington judge has cleared the way for buyers of trucks with EPA 2021 model year (MY) MX-13 engines to proceed to trial with a class-action suit against Paccar. Thirty-one customers who say they purchased Kenworth or Peterbilt trucks with the EPA 2021 MX-13 diesel engine filed an amended claim…",
+   "published": "2026-10-20T21:02:50+00:00"
   },
   {
    "id": "https://www.ttnews.com/articles/trump-suit-canada-tariffs",
@@ -1101,52 +1141,6 @@
    ],
    "excerpt": "The Freightliner Cascadia sleeper tractor is outfitted with Hexagon Agility’s back-of-cab and side-mount CNG fuel systems with a combined capacity equivalent to 265 gallons of diesel.",
    "published": "2026-10-18T12:53:55+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583291",
-   "title": "Borderlands Mexico: US trucking crackdown raises concerns over freight disruptions",
-   "url": "https://www.freightwaves.com/news/borderlands-mexico-us-trucking-crackdown-raises-concerns-over-freight-disruptions",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade. This week in Borderlands Mexico: US trucking crackdown raises concerns over freight disruptions; M2 Global Logistics launches in Houston; and Cutter & Buck opens new…",
-   "published": "2026-10-18T11:00:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/take-control-your-fleet-fuel-costs",
-   "title": "Take control of your fleet fuel costs",
-   "url": "https://www.ttnews.com/articles/take-control-your-fleet-fuel-costs",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Explore the everyday fuel challenges facing carriers and how better-connected data can help reduce waste, protect margins and support smarter decisions on every route today.",
-   "published": "2026-10-18T04:00:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583359",
-   "title": "No signs of truckload capacity recovering",
-   "url": "https://www.freightwaves.com/news/no-signs-of-truckload-capacity-recovering",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Rates",
-    "Capacity"
-   ],
-   "excerpt": "Chart of the Week: Accepted SONAR Tender Volume Index, SONAR Tender Rejection Index SONAR : ASTVI.USA, STRI.USA The truckload market is heading into the holidays with almost no slack. The Accepted SONAR Truckload Volume Index (ASTVI), which measures only the loads carriers accept, has fallen more…",
-   "published": "2026-10-18T00:30:00+00:00"
   }
  ]
 }
