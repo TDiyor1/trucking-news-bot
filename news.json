@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-21T19:30:30+00:00",
+ "updated": "2026-10-21T19:35:19+00:00",
  "items": [
+  {
+   "id": "https://www.dcvelocity.com/transportation/rail/autonomous-freight-railcar-builder-to-provide-two-cars-for-missouri-short-line",
+   "title": "Autonomous freight railcar builder to provide two cars for Missouri short line",
+   "url": "https://www.dcvelocity.com/transportation/rail/autonomous-freight-railcar-builder-to-provide-two-cars-for-missouri-short-line",
+   "source": "DC Velocity",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech",
+    "Ports/Rail"
+   ],
+   "excerpt": "Autonomous freight railcar builder Intramotev this week said it will provide its technology for a federally funded project to run robotic locomotives on Missouri’s Columbia Terminal Railroad (COLT). Specifically, Saint Louis, Missouri-based Intramotev will serve as the technology partner on a $16.2…",
+   "published": "2026-10-21T19:33:22+00:00"
+  },
   {
    "id": "https://www.dcvelocity.com/supply-chain/other-services/supply-chain-security/cargo-thieves-target-high-value-ai-computer-hardware",
    "title": "Cargo thieves target high-value AI computer hardware",
@@ -1125,20 +1140,6 @@
    ],
    "excerpt": "Ability Tri-Modal Transportation Services is incorporating swappable batteries that can be replaced within minutes, the carrier says.",
    "published": "2026-10-19T15:55:00+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/unfi-leans-into-fuel-hedging-tech-to-manage-rising-costs/833153/",
-   "title": "UNFI leans into fuel hedging, tech to manage rising costs",
-   "url": "https://www.truckingdive.com/news/unfi-leans-into-fuel-hedging-tech-to-manage-rising-costs/833153/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "With diesel costs at record highs, the company told investors locked-in fuel prices and efforts to reduce unnecessary miles were helping.",
-   "published": "2026-10-19T15:52:00+00:00"
   }
  ]
 }
