@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-21T05:00:30+00:00",
+ "updated": "2026-10-21T05:30:29+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/15838043",
+   "title": "Truck tonnage improved in September following consecutive monthly declines",
+   "url": "https://www.ccjdigital.com/economic-trends/article/15838043/truck-tonnage-improved-in-september-following-consecutive-monthly-declines",
+   "source": "CCJ",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Trucking news and briefs for Wednesday, Oct. 21, 2026: Truck tonnage improved to close out third quarter Trucking activity in the United States increased 0.8% in September after falling in the previous two months, according to the American Trucking Associations’ advanced seasonally adjusted…",
+   "published": "2026-10-21T05:28:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=583658",
    "title": "Nearly $1M in Pokémon and sports cards vanish from FedEx truck, driver discovers missing lock",
@@ -96,6 +110,21 @@
    ],
    "excerpt": "Hiring at the truck manufacturer’s main production facility follows a rebound in demand in 2026 after the longest freight market recession in industry memory.",
    "published": "2026-10-20T19:16:43+00:00"
+  },
+  {
+   "id": "https://theloadstar.com/?p=327048",
+   "title": "Washington has $2.34bn for rail – which freight bottlenecks get fixed?",
+   "url": "https://theloadstar.com/washington-has-2-34bn-for-rail-which-freight-bottlenecks-get-fixed/",
+   "source": "The Loadstar",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Regulation",
+    "Ports/Rail"
+   ],
+   "excerpt": "In a nutshell: A new federal grant round targets short lines, bridges and a petrochemical port, the small pieces of track that can govern much larger freight flows. For shippers, however, a project selection is still a long way from an extra train path.",
+   "published": "2026-10-20T19:14:52+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=583670",
@@ -1118,32 +1147,6 @@
    ],
    "excerpt": "Chart of the Week: Accepted SONAR Tender Volume Index, SONAR Tender Rejection Index SONAR : ASTVI.USA, STRI.USA The truckload market is heading into the holidays with almost no slack. The Accepted SONAR Truckload Volume Index (ASTVI), which measures only the loads carriers accept, has fallen more…",
    "published": "2026-10-18T00:30:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583423",
-   "title": "What Daimler’s Finance And Global Chiefs Revealed About Diesel, Driverless Trucks, And The Future Of The Industry",
-   "url": "https://www.freightwaves.com/news/what-daimlers-finance-and-global-chiefs-revealed-about-diesel-driverless-trucks-and-the-future-of-the-industry",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "On a rainy Saturday morning in Charlotte, inside the brand new North American headquarters of Daimler Truck Financial Services, four of the company’s senior leaders traded the usual press-conference script for something closer to a fireside chat, and over the better part of an hour they said more…",
-   "published": "2026-10-17T17:32:16+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583411",
-   "title": "BREAKING: Texas judge upholds nuclear verdict against C.H. Robinson",
-   "url": "https://www.freightwaves.com/news/breaking-texas-judge-upholds-nuclear-verdict-against-c-h-robinson",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "The more than $600 million judgment in a Texas court case against C.H. Robinson has been affirmed by the judge that heard the case. Judge Dianne Jones of Dallas County Court on Friday affirmed the July verdict of $604,025,000 handed down in July against C.H.",
-   "published": "2026-10-17T00:15:48+00:00"
   }
  ]
 }
