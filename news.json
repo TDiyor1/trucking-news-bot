@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T16:04:59+00:00",
+ "updated": "2026-10-21T16:30:31+00:00",
  "items": [
   {
    "id": "https://www.freightwaves.com/?p=583743",
@@ -14,6 +14,20 @@
    ],
    "excerpt": "Ontario Midland Railroad has secured an $11.2 million federal grant to rehabilitate approximately 10 miles of track in Wayne County, New York, improving infrastructure that supports the region’s agricultural and manufacturing shippers. The Wayne County Mainline Safety and Reliability Project will…",
    "published": "2026-10-21T15:45:29+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/tanker-russia-diesel-sail",
+   "title": "Tanker from Russia loaded with diesel to sail Oct. 22",
+   "url": "https://www.ttnews.com/articles/tanker-russia-diesel-sail",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "In a phone call with Trump earlier this month, Putin agreed to relax diesel-export restrictions and send more fuel to the global market, including the U.S.",
+   "published": "2026-10-21T15:01:23+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=583734",
@@ -1125,21 +1139,6 @@
    ],
    "excerpt": "Pressures at the US’s southern border, from rising volumes and diminished trucking capacity, are causing shippers to evaluate transloading. According to Uber Freight, this is turning from an emergency solution into a structural network element. Uncertainty about the future of Mexico’s free-trade…",
    "published": "2026-10-19T10:44:40+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/spons/unlocking-the-autonomous-supply-chain-why-execution-data-has-to-feed-the-p/833263/",
-   "title": "Unlocking the autonomous supply chain: Why execution data has to feed the plan",
-   "url": "https://www.supplychaindive.com/spons/unlocking-the-autonomous-supply-chain-why-execution-data-has-to-feed-the-p/833263/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Ditch the war room. Build a supply chain that learns and adapts autonomously.",
-   "published": "2026-10-19T09:00:00+00:00"
   }
  ]
 }
