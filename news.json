@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-21T12:30:30+00:00",
+ "updated": "2026-10-21T13:00:38+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/trading-cards-stolen-truck",
+   "title": "Trading cards worth $963,000 stolen from truck in California",
+   "url": "https://www.ttnews.com/articles/trading-cards-stolen-truck",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Fraud"
+   ],
+   "excerpt": "The truck was broken into Oct. 13 near Professional Sports Authenticator, which authenticates trading cards, the Santa Ana Police Department said.",
+   "published": "2026-10-21T12:39:53+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=583691",
    "title": "Highway pitches shared standards as freight fraud shifts",
@@ -1129,18 +1144,6 @@
    ],
    "excerpt": "While freight demand continues to inch back, fuel surcharges drove truckload rates higher in September. The Cass Freight Index’s shipments component rose 2.3% month over month and 1.9% year over year in September, the second straight annual gain after a 3.5-year downturn — the longest on record.…",
    "published": "2026-10-18T16:27:09+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15837759",
-   "title": "FlowBelow redesigns Trailer AeroSlider System",
-   "url": "https://www.ccjdigital.com/products/article/15837759/redesigned-trailer-aeroslider-by-flowbelow-cuts-fleet-fuel-costs",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "FlowBelow introduced a redesigned version of its Trailer AeroSlider System, an aerodynamic add-on for trailers that the company claims reduces fuel consumption by 3 gallons for every 1,000 miles traveled when also equipped with trailer wheel covers. The AeroSlider alone accounts for just more than…",
-   "published": "2026-10-18T14:39:17+00:00"
   }
  ]
 }
