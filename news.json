@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-21T23:00:35+00:00",
+ "updated": "2026-10-21T23:30:30+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=583820",
+   "title": "The Data Your Truck Sends Home Is Becoming Your New Credit Score, And Your Insurance Rate Too",
+   "url": "https://www.freightwaves.com/news/the-data-your-truck-sends-home-is-becoming-your-new-credit-score-and-your-insurance-rate-too",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "Somewhere in your truck right now, a connected system is quietly recording how it is driven, how hard it works, where it goes, and how healthy its engine is, and that stream of data is no longer just a maintenance convenience, it is becoming one of the most important numbers in your business,…",
+   "published": "2026-10-21T23:11:33+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/15838123",
    "title": "A 'perfect storm' drives trailer demand",
@@ -1122,20 +1136,6 @@
    "tags": [],
    "excerpt": "The story of a trucker who helped stop an Amber Alert suspect has been making the rounds on social media. Here are the facts.",
    "published": "2026-10-19T17:09:58+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104345",
-   "title": "No local police radar. Pennsylvania could change that",
-   "url": "https://landline.media/no-local-police-radar-pennsylvania-could-change-that/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Pennsylvania lawmakers want to let local police use speed radar. Bills set limits on tickets, but questions about safety and revenue remain.",
-   "published": "2026-10-19T17:06:33+00:00"
   }
  ]
 }
