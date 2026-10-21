@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-21T15:00:38+00:00",
+ "updated": "2026-10-21T15:30:38+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=583734",
+   "title": "Phillips Connect moves trailer sensor alerts into the yard",
+   "url": "https://www.freightwaves.com/news/phillips-connect-insights-trailersignal-launch",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Phillips Connect launched two smart trailer products Sunday at the American Trucking Associations’ Management Conference & Exhibition in Charlotte, North Carolina. Insights reads trailer sensor data to diagnose tire and lighting problems. TrailerSignal, a light on the trailer nose, shows green when…",
+   "published": "2026-10-21T14:57:54+00:00"
+  },
   {
    "id": "https://www.truckingdive.com/news/incoming-ata-president-says-role-is-the-greatest-honor-of-a-lifetime/833432/",
    "title": "Incoming ATA president says role is ‘the greatest honor of a lifetime’",
@@ -58,6 +70,21 @@
    ],
    "excerpt": "CSX has eliminated 109 operations management positions as part of a restructuring of its engineering functions. The organizational changes were first outlined this past spring, a CSX (NASDAQ: CSX ) spokesman said in an email to FreightWaves. The cuts “are intended to establish a more effective…",
    "published": "2026-10-21T13:41:19+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583735",
+   "title": "Autonomous railcar technology earns $16M federal grant",
+   "url": "https://www.freightwaves.com/news/autonomous-railcar-technology-earns-16m-federal-grant",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech",
+    "Ports/Rail"
+   ],
+   "excerpt": "Intramotev will deploy two autonomous freight railcars on Missouri’s Columbia Terminal Railroad as part of a project supported by a $16.2 million federal grant awarded to the City of Columbia. The Federal Railroad Administration selected the city for funding under its Consolidated Rail…",
+   "published": "2026-10-21T13:01:00+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=583704",
@@ -1113,34 +1140,6 @@
    ],
    "excerpt": "As AI agents shortlist products for shoppers, incomplete data can mean lost sales.",
    "published": "2026-10-19T09:00:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15837716",
-   "title": "Fleet owner guilty of $2M credit card fraud, ID theft scheme",
-   "url": "https://www.ccjdigital.com/regulations/article/15837716/fleet-owner-pleads-guilty-in-credit-card-fraud-id-theft-scheme",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Fraud"
-   ],
-   "excerpt": "Trucking news and briefs for Monday, Oct. 19, 2026: Trucking company owner guilty in $2M theft, ID fraud scheme Hasan Korkmaz, the owner and operator of Santee, California-based San Diego Logistics Group Inc., pleaded guilty in federal court on Oct. 15 to all 18 counts of an indictment charging him…",
-   "published": "2026-10-19T05:08:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/footage-fleet-focus",
-   "title": "From footage to fleet focus",
-   "url": "https://www.ttnews.com/articles/footage-fleet-focus",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "When a collision occurs, pulling footage comes too late. True safety lies in leveraging AI to catch underlying driver habits—hard braking, tailgating, and minor distractions—before incidents happen. Discover how AI-powered unified video transforms reactive footage into proactive prevention to…",
-   "published": "2026-10-19T04:00:00+00:00"
   }
  ]
 }
