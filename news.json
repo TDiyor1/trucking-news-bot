@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-21T11:00:44+00:00",
+ "updated": "2026-10-21T11:30:31+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=583691",
+   "title": "Highway pitches shared standards as freight fraud shifts",
+   "url": "https://www.freightwaves.com/news/highway-shared-standards-freight-fraud",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Fraud"
+   ],
+   "excerpt": "Cargo thieves have learned to work the space between a broker and a carrier. They impersonate carriers, intercept load data and redirect shipments. Michael Caney, chief commercial officer of Highway, says no single vendor can close those gaps, and that freight needs shared standards for the data…",
+   "published": "2026-10-21T11:00:00+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/15838061",
    "title": "Toyota hits milestone with 8-minute hydrogen refueling for heavy-duty truck",
@@ -1126,21 +1141,6 @@
    "tags": [],
    "excerpt": "FlowBelow introduced a redesigned version of its Trailer AeroSlider System, an aerodynamic add-on for trailers that the company claims reduces fuel consumption by 3 gallons for every 1,000 miles traveled when also equipped with trailer wheel covers. The AeroSlider alone accounts for just more than…",
    "published": "2026-10-18T14:39:17+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/hexagon-agility-natural-gas",
-   "title": "Hexagon Agility showcases longhaul natural gas truck",
-   "url": "https://www.ttnews.com/articles/hexagon-agility-natural-gas",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel",
-    "Capacity"
-   ],
-   "excerpt": "The Freightliner Cascadia sleeper tractor is outfitted with Hexagon Agility’s back-of-cab and side-mount CNG fuel systems with a combined capacity equivalent to 265 gallons of diesel.",
-   "published": "2026-10-18T12:53:55+00:00"
   }
  ]
 }
