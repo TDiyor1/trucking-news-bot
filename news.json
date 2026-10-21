@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-21T20:35:20+00:00",
+ "updated": "2026-10-21T21:00:36+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/tesla-earnings-q3-2026",
+   "title": "Tesla profit tops estimates as cash flow stays positive",
+   "url": "https://www.ttnews.com/articles/tesla-earnings-q3-2026",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Tesla's third-quarter profit beat estimates, potentially assuaging concerns about the EV maker’s increased investment into new areas such as robots and AI.",
+   "published": "2026-10-21T20:37:17+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/us-mexico-talks-metals-tariffs",
    "title": "U.S.-Mexico trade talks cool over metals",
@@ -1125,21 +1139,6 @@
    ],
    "excerpt": "Volvo Trucks North America and Mack Trucks Monday at the American Trucking Associations’ (ATA) 2026 Management Conference & Exhibition rolled out comprehensive new service contracts designed to combine preventive maintenance and powertrain protection into predictable monthly payments.",
    "published": "2026-10-19T17:00:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583513",
-   "title": "Trans-Pacific facing new booking risks as reliability sinks",
-   "url": "https://www.freightwaves.com/news/trans-pacific-facing-new-booking-risks-as-reliability-sinks",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Capacity"
-   ],
-   "excerpt": "Shippers moving cargo from Asia to North America face tighter vessel capacity and greater difficulty securing bookings in the weeks ahead, while deteriorating service reliability threatens delivery schedules across major east-west trades, according to WiseTech Global’s October Ocean Freight Risk…",
-   "published": "2026-10-19T16:41:18+00:00"
   }
  ]
 }
