@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-21T18:57:13+00:00",
+ "updated": "2026-10-21T19:00:36+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104377",
+   "title": "New Jersey targets truck route traps and low bridges",
+   "url": "https://landline.media/new-jersey-targets-truck-route-traps-and-low-bridges/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "New Jersey lawmakers are pushing bills to clear up truck route rules, keep rigs away from low bridges and crack down on overweight trucks.",
+   "published": "2026-10-21T18:58:54+00:00"
+  },
   {
    "id": "https://landline.media/?p=104374",
    "title": "How often does Satan show up to oppose toll increases?",
@@ -1121,20 +1135,6 @@
    "tags": [],
    "excerpt": "Paccar is rolling out its new Paccar Connect to Kenworth and Peterbilt Class 8 trucks starting in early 2027. The new interface allows touchscreen access to HVAC and audio controls, Apple CarPlay and the truck’s exterior cameras, proprietary Paccar applications as well as third-party integration…",
    "published": "2026-10-19T15:15:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583491",
-   "title": "Werner Enterprises issues Q3 profit warning",
-   "url": "https://www.freightwaves.com/news/werner-enterprises-issues-q3-profit-warning",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Werner Enterprises issued adjusted earnings-per-share guidance of 15 to 16 cents for the third quarter on Monday, which was significantly below the current consensus estimate of 36 cents. The company flagged 18 cents in cumulative cost headwinds from elevated diesel fuel prices, higher driver…",
-   "published": "2026-10-19T14:54:37+00:00"
   }
  ]
 }
