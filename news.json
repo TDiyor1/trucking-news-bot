@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-21T17:35:06+00:00",
+ "updated": "2026-10-21T17:59:05+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=583750",
+   "title": "New trucking bankruptcies expose mounting debt and shrinking fleets",
+   "url": "https://www.freightwaves.com/news/new-trucking-bankruptcies-expose-mounting-debt-and-shrinking-fleets",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Capacity"
+   ],
+   "excerpt": "Financial distress continues to affect trucking companies across the U.S., with at least 16 carriers filing for bankruptcy protection between Sept. 18 and Oct. 21. According to a FreightWaves review of federal bankruptcy records, the filings span multiple freight segments, including general…",
+   "published": "2026-10-21T17:16:15+00:00"
+  },
   {
    "id": "https://theloadstar.com/?p=327133",
    "title": "Follow the money or follow the flag? Politics clouds port investment",
@@ -1124,20 +1138,6 @@
    ],
    "excerpt": "Solar energy is becoming increasingly important for bolstering sub-Saharan Africa’s trading potential, with supply chain executives telling The Loadstar that Kenya and Nigeria are two of the fastest-growing markets for the technology. By the end of the first quarter, Nigeria had climbed into the…",
    "published": "2026-10-19T12:07:23+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583449",
-   "title": "Box truck carrier’s pivots show new fleets must know costs",
-   "url": "https://www.freightwaves.com/news/tla-group-box-truck-business-costs",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "Telly Arnold founded TLA Group LLC, a Houston-based carrier that has run non-CDL box trucks for about three years. In that time the company has rented a truck, co-owned one, financed its own, hauled final-mile appliance deliveries and moved over the road.",
-   "published": "2026-10-19T12:00:00+00:00"
   }
  ]
 }
