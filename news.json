@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-21T16:00:34+00:00",
+ "updated": "2026-10-21T16:04:59+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=583743",
+   "title": "New York short line wins $11.2 million federal rail grant",
+   "url": "https://www.freightwaves.com/news/new-york-short-line-wins-11-2-million-federal-rail-grant",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Ontario Midland Railroad has secured an $11.2 million federal grant to rehabilitate approximately 10 miles of track in Wayne County, New York, improving infrastructure that supports the region’s agricultural and manufacturing shippers. The Wayne County Mainline Safety and Reliability Project will…",
+   "published": "2026-10-21T15:45:29+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=583734",
    "title": "Phillips Connect moves trailer sensor alerts into the yard",
@@ -1125,20 +1139,6 @@
     "Tech"
    ],
    "excerpt": "Ditch the war room. Build a supply chain that learns and adapts autonomously.",
-   "published": "2026-10-19T09:00:00+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/spons/the-biggest-risk-in-agentic-commerce-isnt-easy-to-see-its-invisibility/832344/",
-   "title": "The biggest risk in agentic commerce isn’t easy to see. It’s invisibility.",
-   "url": "https://www.supplychaindive.com/spons/the-biggest-risk-in-agentic-commerce-isnt-easy-to-see-its-invisibility/832344/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "As AI agents shortlist products for shoppers, incomplete data can mean lost sales.",
    "published": "2026-10-19T09:00:00+00:00"
   }
  ]
