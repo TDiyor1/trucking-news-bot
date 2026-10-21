@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T14:00:39+00:00",
+ "updated": "2026-10-21T14:30:38+00:00",
  "items": [
   {
    "id": "https://www.freightwaves.com/?p=583714",
@@ -263,6 +263,21 @@
    "tags": [],
    "excerpt": "A truck allegedly fled the scene of a crash before local authorities found the driver with an assist from another truck’s dash cam.",
    "published": "2026-10-20T18:49:33+00:00"
+  },
+  {
+   "id": "https://www.supplychaindive.com/news/trumps-50-canada-tariffs-challenged-in-court/833495/",
+   "title": "Trump’s 50% Canada tariffs challenged in court",
+   "url": "https://www.supplychaindive.com/news/trumps-50-canada-tariffs-challenged-in-court/833495/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "A lawsuit filed Tuesday with the Court of International Trade alleges the president exceeded his power in using a nearly 100-year-old statute to impose tariffs.",
+   "published": "2026-10-20T18:18:00+00:00"
   },
   {
    "id": "https://landline.media/?p=104356",
@@ -1125,20 +1140,6 @@
    ],
    "excerpt": "Artificial intelligence video safety systems are transforming how motor carriers manage risk, but reliance on automated detection without human verification is quietly creating legal liabilities for fleets. Speaking at the American Trucking Associations’ Management Conference & Exhibition, trucking…",
    "published": "2026-10-18T20:26:06+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15837767",
-   "title": "BeyondTrucks new Compatibility Engine ensures proper assignments for drivers, equipment",
-   "url": "https://www.ccjdigital.com/technology/trip-planning/article/15837767/beyondtrucks-new-compatibility-engine-ensures-proper-assignments-for-drivers-equipment",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "BeyondTrucks announced its new Compatibility Engine for its AI-powered transportation management system. The new feature ensures the driver, trailer and tractor are properly matched to the load prior to dispatch to lower the chance of a rejected load, compliance violation or safety incident.",
-   "published": "2026-10-18T20:12:31+00:00"
   }
  ]
 }
