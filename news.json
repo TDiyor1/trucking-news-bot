@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-22T15:00:42+00:00",
+ "updated": "2026-10-22T15:30:30+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=583879",
+   "title": "First look: Union Pacific earnings",
+   "url": "https://www.freightwaves.com/news/first-look-union-pacific-earnings-4",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Diesel",
+    "Ports/Rail"
+   ],
+   "excerpt": "Union Pacific reported a 16% increase in third-quarter profit Thursday as higher freight volumes, pricing gains and fuel surcharges lifted revenue, with intermodal traffic leading the railroad’s growth. The Omaha-based railroad (NYSE: UNP ) earned $2.08 billion, or $3.49 per diluted share, compared…",
+   "published": "2026-10-22T14:46:03+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=583863",
    "title": "First look: Norfolk Southern earnings",
@@ -1118,20 +1133,6 @@
    ],
    "excerpt": "Reefer spot linehaul rates paid to carriers averaged $2.76 per mile last week, minus fuel, up 0.5%, or $0.01 per mile, from the week before. Rates climbed 32.7%, or $0.68 per mile, year over year and held 28.8%, or $0.62 per mile, above the nine-year seasonal average of $2.14 per mile, well into…",
    "published": "2026-10-19T20:31:10+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583572",
-   "title": "Volvo folds powertrain repairs into its service contract",
-   "url": "https://www.freightwaves.com/news/volvo-silver-service-contract-powertrain",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Volvo Trucks North America launched the Silver Service Contract on Monday at the American Trucking Associations’ Management Conference & Exhibition in Charlotte, North Carolina. The plan adds repair coverage for the engine, aftertreatment system, transmission, and clutch to the connected preventive…",
-   "published": "2026-10-19T19:52:46+00:00"
   }
  ]
 }
