@@ -1,6 +1,19 @@
 {
- "updated": "2026-10-22T00:30:29+00:00",
+ "updated": "2026-10-22T00:53:00+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=583828",
+   "title": "Tesla Semi enters volume production as 2027 rollout approaches",
+   "url": "https://www.freightwaves.com/news/tesla-semi-enters-volume-production-as-2027-rollout-approaches",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [],
+   "excerpt": "Tesla has begun volume production of its electric Class 8 Semi truck at its Nevada factory , a major milestone as the company prepares to expand commercial deliveries in the U.S. and enter the European market in 2027. The Austin, Texas-based electric vehicle manufacturer confirmed the production…",
+   "published": "2026-10-22T00:16:11+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=583823",
    "title": "CEO’s letter boasts of lots of arrows pointing up at Triumph Financial",
@@ -1122,20 +1135,6 @@
    ],
    "excerpt": "The 40-year veteran of the maritime industry will become COO of the Shipping Association of New York and New Jersey, overseeing day-to-day implementation of the local labor agreement between marine terminals and longshore workers.",
    "published": "2026-10-19T17:32:15+00:00"
-  },
-  {
-   "id": "https://www.dcvelocity.com/transportation/trucking/spiraling-diesel-prices-drive-deep-financial-consequences-for-fleets-with-older-trucks",
-   "title": "Spiraling diesel prices drive deep financial consequences for fleets with older trucks",
-   "url": "https://www.dcvelocity.com/transportation/trucking/spiraling-diesel-prices-drive-deep-financial-consequences-for-fleets-with-older-trucks",
-   "source": "DC Velocity",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "As diesel prices pass $6.40 per gallon, the climbing price pressure is forcing difficult decisions for fleet operators, making it prohibitively expensive for them to continue running older-model trucks to haul heavy freight, according to a study from data analytics and asset performance firm Fleet…",
-   "published": "2026-10-19T17:31:29+00:00"
   }
  ]
 }
