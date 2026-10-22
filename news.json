@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T10:29:37+00:00",
+ "updated": "2026-10-22T10:30:31+00:00",
  "items": [
   {
    "id": "https://www.ccjdigital.com/15838159",
@@ -389,6 +389,21 @@
    ],
    "excerpt": "Chief Financial Officer Jennifer Hamann will retire in early 2027, Union Pacific (NYSE: UNP ) has announced. Hamann, who joined Union Pacific in 1992, was named CFO in January 2020. She had previously held leadership roles in a broad range of areas, including finance, human resources, marketing and…",
    "published": "2026-10-21T14:18:45+00:00"
+  },
+  {
+   "id": "https://www.supplychaindive.com/news/extended-peak-season-drives-high-dwell-times-at-san-pedro-bay-ports/833584/",
+   "title": "Extended peak season drives high dwell times at San Pedro Bay Ports",
+   "url": "https://www.supplychaindive.com/news/extended-peak-season-drives-high-dwell-times-at-san-pedro-bay-ports/833584/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The Pacific Merchant Shipping Association said record volumes in September pushed up the time cargo remained idle, both for rail and truck transport.",
+   "published": "2026-10-21T14:17:43+00:00"
   },
   {
    "id": "https://www.ttnews.com/articles/us-tap-national-diesel-reserve-prices-soar",
@@ -1118,23 +1133,6 @@
    ],
    "excerpt": "This year’s study of the top issues facing trucking undertaken by the American Transportation Research Institute (ATRI) had a number one concern that didn’t even crack the top 10 in the prior two years: fuel prices . That issue was number one in the responses submitted by drivers and number two for…",
    "published": "2026-10-19T17:40:45+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583518",
-   "title": "No. 2 container line studying US-UK route for nuclear ships",
-   "url": "https://www.freightwaves.com/news/no-2-container-line-studying-us-uk-route-for-nuclear-ships",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Regulation",
-    "Capacity",
-    "Ports/Rail"
-   ],
-   "excerpt": "A.P. Moller-Maersk is participating in industry studies examining what would be required for nuclear-powered container ships to make routine port calls , with the work centered on regulation, safety, security and port operations rather than an immediate vessel-ordering program.",
-   "published": "2026-10-19T17:37:31+00:00"
   }
  ]
 }
