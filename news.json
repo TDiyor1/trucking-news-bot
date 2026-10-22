@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-22T16:30:31+00:00",
+ "updated": "2026-10-22T16:51:01+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=583620",
+   "title": "CBP seizes $2.5M in meth hidden in tomatillo truck at Otay Mesa; driver’s visa canceled",
+   "url": "https://www.freightwaves.com/news/cbp-seizes-2-5m-in-meth-hidden-in-tomatillo-truck-at-otay-mesa-drivers-visa-canceled",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tariffs",
+    "Ports/Rail"
+   ],
+   "excerpt": "A tractor-trailer carrying fresh tomatillos arrived at California’s Otay Mesa port of entry from Mexico on October 14. The commercial shipment had a delivery destination in the United States. During an inspection, U.S. Customs and Border Protection officers discovered nearly 1,600 pounds of…",
+   "published": "2026-10-22T16:24:13+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=583899",
    "title": "US trailer orders soar 385% as Class 8 truck market sends mixed signals",
@@ -1114,20 +1129,6 @@
    "tags": [],
    "excerpt": "For most of the last two decades, trucking could read the politics of its workforce fights along a familiar line, with one party broadly friendly to the independent contractor model and the other broadly skeptical of it, but according to the policy and legal experts who briefed an American Trucking…",
    "published": "2026-10-20T11:24:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15837937",
-   "title": "Popular terminal tractors recalled for fire risk",
-   "url": "https://www.ccjdigital.com/maintenance/article/15837937/kalmar-ottawa-terminal-tractors-recalled-for-fire-risk",
-   "source": "CCJ",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Trucking news and briefs for Tuesday, Oct. 20, 2026: Kalmar Ottawa terminal tractors recalled over fire risk Kalmar Solutions LLC is recalling more than 16,000 terminal tractors and is advising owners to park them outside and away from structures until the vehicles are repaired.",
-   "published": "2026-10-20T05:05:00+00:00"
   }
  ]
 }
