@@ -1,6 +1,22 @@
 {
- "updated": "2026-10-22T15:30:30+00:00",
+ "updated": "2026-10-22T15:50:57+00:00",
  "items": [
+  {
+   "id": "https://www.truckingdive.com/news/knight-swift-reports-breakout-q3-profits/833685/",
+   "title": "Knight-Swift reports breakout Q3 profits",
+   "url": "https://www.truckingdive.com/news/knight-swift-reports-breakout-q3-profits/833685/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "Its truckload segment performance surged in the quarter, aided by improved pricing and one-way service, the company reported Wednesday.",
+   "published": "2026-10-22T15:27:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=583879",
    "title": "First look: Union Pacific earnings",
@@ -1117,22 +1133,6 @@
    ],
    "excerpt": "Industry insiders say the Nov. 3 ballot measure would give the union a new way to marshal popular support against future investment by Los Angeles marine terminals in projects that could include automation.",
    "published": "2026-10-19T21:32:14+00:00"
-  },
-  {
-   "id": "https://www.dat.com/blog/?p=27677",
-   "title": "Reefer Report: Rates edge higher as load posts cool",
-   "url": "https://www.dat.com/blog/reefer-report-rates-edge-higher-as-load-posts-cool",
-   "source": "DAT iQ",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Diesel"
-   ],
-   "excerpt": "Reefer spot linehaul rates paid to carriers averaged $2.76 per mile last week, minus fuel, up 0.5%, or $0.01 per mile, from the week before. Rates climbed 32.7%, or $0.68 per mile, year over year and held 28.8%, or $0.62 per mile, above the nine-year seasonal average of $2.14 per mile, well into…",
-   "published": "2026-10-19T20:31:10+00:00"
   }
  ]
 }
