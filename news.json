@@ -1,6 +1,30 @@
 {
- "updated": "2026-10-22T16:00:34+00:00",
+ "updated": "2026-10-22T16:21:00+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=583899",
+   "title": "US trailer orders soar 385% as Class 8 truck market sends mixed signals",
+   "url": "https://www.freightwaves.com/news/us-trailer-orders-soar-385-as-class-8-truck-market-sends-mixed-signals",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "U.S. trailer orders surged in September to their highest level in nearly four years, while FTR Transportation Intelligence and ACT Research reported conflicting trends in North American Class 8 truck orders. The mixed signals come as fleets navigate regulatory uncertainty , rising equipment costs…",
+   "published": "2026-10-22T15:42:56+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583897",
+   "title": "UPS automates 4 additional facilities ahead of peak shipping season",
+   "url": "https://www.freightwaves.com/news/ups-automates-4-additional-facilities-ahead-of-peak-shipping-season",
+   "source": "FreightWaves",
+   "audience": [
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "United Parcel Service has completed the conversion of four more conventional package sortation centers into automated facilities just in time for the busy holiday shipping season. New or enhanced automated facilities are now operating in Denver, St. Paul, Minnesota; Syracuse, New York; and…",
+   "published": "2026-10-22T15:38:17+00:00"
+  },
   {
    "id": "https://www.truckingdive.com/news/knight-swift-reports-breakout-q3-profits/833685/",
    "title": "Knight-Swift reports breakout Q3 profits",
@@ -1104,35 +1128,6 @@
    "tags": [],
    "excerpt": "Trucking news and briefs for Tuesday, Oct. 20, 2026: Kalmar Ottawa terminal tractors recalled over fire risk Kalmar Solutions LLC is recalling more than 16,000 terminal tractors and is advising owners to park them outside and away from structures until the vehicles are repaired.",
    "published": "2026-10-20T05:05:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583529",
-   "title": "Failed CDL exams, $3,000 payments and Bluetooth cheating scheme lead to federal charges",
-   "url": "https://www.freightwaves.com/news/failed-cdl-exams-3000-payments-and-bluetooth-cheating-scheme-lead-to-federal-charges",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "A Massachusetts man who repeatedly failed commercial driving exams now faces federal charges involving a Bluetooth cheating scheme . Investigators accuse Rudy Romero Nolasco, 42, of receiving answers through a concealed earpiece during his commercial learner’s permit examination.",
-   "published": "2026-10-19T22:14:33+00:00"
-  },
-  {
-   "id": "https://joc.com/article/la-ballot-measure-seen-as-new-ilwu-attempt-to-block-port-automation-6308728",
-   "title": "LA ballot measure seen as new ILWU attempt to block port automation",
-   "url": "https://joc.com/article/la-ballot-measure-seen-as-new-ilwu-attempt-to-block-port-automation-6308728",
-   "source": "JOC",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Industry insiders say the Nov. 3 ballot measure would give the union a new way to marshal popular support against future investment by Los Angeles marine terminals in projects that could include automation.",
-   "published": "2026-10-19T21:32:14+00:00"
   }
  ]
 }
