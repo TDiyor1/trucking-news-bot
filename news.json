@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-22T17:21:06+00:00",
+ "updated": "2026-10-22T17:30:35+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104397",
+   "title": "Pennsylvania eyes a fix for a local bridge funding gap",
+   "url": "https://landline.media/pennsylvania-eyes-a-fix-for-a-local-bridge-funding-gap/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Pennsylvania lawmakers want to clear up funding rules that may leave municipal bridge repairs on hold while transportation money goes unused.",
+   "published": "2026-10-22T17:25:29+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104394",
+   "title": "Nine days into trial, FedEx settles fatal crash case",
+   "url": "https://landline.media/nine-days-into-trial-fedex-settles-fatal-crash-case/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "FedEx denied liability in a fatal crash case, then settled mid-trial. What led to the courtroom showdown with $250 million on the table?",
+   "published": "2026-10-22T17:22:24+00:00"
+  },
   {
    "id": "https://landline.media/?p=104391",
    "title": "Theft by deception continues to drive high-value losses",
@@ -1100,35 +1128,6 @@
    ],
    "excerpt": "Economic Indicators that pointed to a soft year for the breakbulk market in 2026 have been overcome by busy US carriers, attendees at the Port of Antwerp-Bruges Breakbulk Summit were told.",
    "published": "2026-10-20T13:05:16+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/us-sales-sanctioned-tankers-oil",
-   "title": "U.S. authorizes sales of sanctioned oil tankers",
-   "url": "https://www.ttnews.com/articles/us-sales-sanctioned-tankers-oil",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "The Trump administration is authorizing the sale of sanctioned oil tankers in an effort to allow the vessels to start legitimately shipping crude.",
-   "published": "2026-10-20T12:00:00+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=327013",
-   "title": "Dray Dog-CargoWise link-up will automate port bookings for drayage",
-   "url": "https://theloadstar.com/dray-dog-cargowise-link-up-will-automate-port-bookings-for-drayage/",
-   "source": "The Loadstar",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "WiseTech Global has integrated its CargoWise Landside transport management systems (TMS) with marine terminal appointment software provider Dray Dog, enabling US drayage operators to automate port bookings and reduce manual data entry. The integration connects Dray Dog with CargoWise’s Trinium,…",
-   "published": "2026-10-20T11:47:05+00:00"
   }
  ]
 }
