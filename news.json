@@ -1,6 +1,24 @@
 {
- "updated": "2026-10-22T18:51:33+00:00",
+ "updated": "2026-10-22T19:00:39+00:00",
  "items": [
+  {
+   "id": "https://joc.com/article/canadas-port-saint-john-receives-public-private-funding-for-capacity-boost-6310210",
+   "title": "Canada’s Port Saint John receives public, private funding for capacity boost",
+   "url": "https://joc.com/article/canadas-port-saint-john-receives-public-private-funding-for-capacity-boost-6310210",
+   "source": "JOC",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs",
+    "Capacity",
+    "Ports/Rail"
+   ],
+   "excerpt": "The announcement of US$330 million in funding from Ottawa, the province of New Brunswick and a local railroad operator comes as Canada continues to seek diversification among trading partners.",
+   "published": "2026-10-22T18:57:15+00:00"
+  },
   {
    "id": "https://www.dcvelocity.com/editorial/featured/dual-fuel-fleet-tops-500",
    "title": "Dual-fuel fleet tops 500",
@@ -1116,21 +1134,6 @@
    ],
    "excerpt": "The burger chain has worked to diversify its partner network, as well as tackle the rising cost of beef and diesel fuel.",
    "published": "2026-10-20T14:16:00+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=326999",
-   "title": "US Customs wants more data and earlier filing for low-value imports",
-   "url": "https://theloadstar.com/us-customs-wants-more-data-and-earlier-filing-for-low-value-imports/",
-   "source": "The Loadstar",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "The US Customs & Border Protection Agency (CBP) wants more data and earlier filing of imports valued at $2,500 or less. The compliance deadline for such imports arriving by mail has been pushed back three months, however, which prompted speculation that Washington wants to avoid further consumer…",
-   "published": "2026-10-20T14:00:03+00:00"
   }
  ]
 }
