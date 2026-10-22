@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T19:00:39+00:00",
+ "updated": "2026-10-22T19:21:13+00:00",
  "items": [
   {
    "id": "https://joc.com/article/canadas-port-saint-john-receives-public-private-funding-for-capacity-boost-6310210",
@@ -20,6 +20,21 @@
    "published": "2026-10-22T18:57:15+00:00"
   },
   {
+   "id": "https://www.ccjdigital.com/15838211",
+   "title": "Startup turns human expertise into autonomous work for freight companies",
+   "url": "https://www.ccjdigital.com/technology/artificial-intelligence/article/15838211/evos-autonomous-freight-software-learns-from-your-team",
+   "source": "CCJ",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Many of the well-known trucking technology companies in the market have recently been rolling out AI agents, autonomous software systems powered by large language models that aim to reduce manual human oversight and create greater operational efficiency by automating complex digital workflows.…",
+   "published": "2026-10-22T18:56:40+00:00"
+  },
+  {
    "id": "https://www.dcvelocity.com/editorial/featured/dual-fuel-fleet-tops-500",
    "title": "Dual-fuel fleet tops 500",
    "url": "https://www.dcvelocity.com/editorial/featured/dual-fuel-fleet-tops-500",
@@ -33,6 +48,24 @@
    ],
    "excerpt": "More than 500 dual-fuel containerships and vehicle carriers are operating worldwide, with total investment in dual-fuel ships delivered and on order surpassing $200 billion, according to the latest World Shipping Council (WSC) Dual-Fuel Fleet Dashboard , released today.",
    "published": "2026-10-22T18:49:07+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583967",
+   "title": "Norfolk Southern profits rise on higher volume and revenue",
+   "url": "https://www.freightwaves.com/news/norfolk-southern-profits-rise-on-higher-volume-and-revenue",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Diesel",
+    "Ports/Rail"
+   ],
+   "excerpt": "Norfolk Southern’s third-quarter profits rose as higher volume and rates, and fuel surcharges, produced record revenue. “Our third quarter was strong with steady execution, making notable improvements to our network while delivering solid results,” Chief Executive Mark George said on the railroad’s…",
+   "published": "2026-10-22T18:47:51+00:00"
   },
   {
    "id": "https://www.dat.com/blog/?p=27682",
@@ -236,6 +269,20 @@
    ],
    "excerpt": "Knight-Swift Transportation is benefitting from its high exposure to one-way truckload, the portion of the market experiencing the largest gains from the regulatory-fueled capacity shakeout. The carrier said Wednesday, in conjunction with its better-than-expected third-quarter report , that its…",
    "published": "2026-10-22T13:31:37+00:00"
+  },
+  {
+   "id": "https://www.supplychaindive.com/news/hydro-flask-maker-aims-tariff-refunds-at-inventory-packaging/833631/",
+   "title": "Hydro Flask maker aims tariff refunds at inventory, packaging",
+   "url": "https://www.supplychaindive.com/news/hydro-flask-maker-aims-tariff-refunds-at-inventory-packaging/833631/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "Helen of Troy plans to spend a portion of its expected $80.5 million refund to clean stock and refresh packaging design.",
+   "published": "2026-10-22T12:09:00+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=583794",
@@ -1091,49 +1138,6 @@
    ],
    "excerpt": "Container shipping lines are pushing freight rates higher even as a gradual return to the Red Sea promises to release capacity into a softening market, as competing forces shape ocean freight heading into 2027. The recovery in Suez Canal routings is unfolding despite persistent security risks in…",
    "published": "2026-10-20T14:58:59+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/sagepoint-logistics-eyes-expansion-by-doubling-size-of-rng-fleet/832445/",
-   "title": "Sagepoint Logistics eyes expansion by doubling size of RNG fleet",
-   "url": "https://www.truckingdive.com/news/sagepoint-logistics-eyes-expansion-by-doubling-size-of-rng-fleet/832445/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "The carrier’s parent company, Sagepoint Energy, produces its own renewable natural gas. RNG traditionally can be $1.50 less per gallon than diesel, an industry group said.",
-   "published": "2026-10-20T14:30:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583600",
-   "title": "Freight broker Fura’s latest deal adds $30M in revenue",
-   "url": "https://www.freightwaves.com/news/freight-broker-furas-latest-deal-adds-30m-in-revenue",
-   "source": "FreightWaves",
-   "audience": [
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Tech"
-   ],
-   "excerpt": "Freight broker Fura announced it has acquired truckload brokerage Road Dog Logistics, adding approximately $30 million in revenue to Fura’s platform. This is Frisco, Texas-based Fura’s eighth acquisition, meaningfully expanding its over $100-million AI-powered platform.",
-   "published": "2026-10-20T14:21:03+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/how-whataburgers-csco-diversified-suppliers-to-curb-inflation-and-fought/833435/",
-   "title": "How Whataburger’s CSCO diversified suppliers to curb inflation — and fought fires along the way",
-   "url": "https://www.supplychaindive.com/news/how-whataburgers-csco-diversified-suppliers-to-curb-inflation-and-fought/833435/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "The burger chain has worked to diversify its partner network, as well as tackle the rising cost of beef and diesel fuel.",
-   "published": "2026-10-20T14:16:00+00:00"
   }
  ]
 }
