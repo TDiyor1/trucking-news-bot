@@ -1,4 +1,56 @@
 {
  "last_digest": "2026-10-22",
- "queue": []
+ "queue": [
+  {
+   "id": "https://www.freightwaves.com/?p=583846",
+   "title": "CSX profit jumps on volume and revenue growth",
+   "url": "https://www.freightwaves.com/news/csx-profit-jumps-on-volume-and-revenue-growth",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Diesel",
+    "Ports/Rail"
+   ],
+   "excerpt": "CSX’s third-quarter profits increased due to a combination of volume growth, higher fuel surcharge revenue, and efficiency gains, the railroad said. Operating income increased 44%, to $1.57 billion, while revenue increased 12%, to a record $4.02 billion, the company said Wednesday.",
+   "published": "2026-10-22T10:00:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583832",
+   "title": "Knight-Swift again eyes big rate increases as new bid season nears",
+   "url": "https://www.freightwaves.com/news/knight-swift-again-eyes-big-rate-increases-as-new-bid-season-nears",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Capacity"
+   ],
+   "excerpt": "Knight-Swift Transportation is benefitting from its high exposure to one-way truckload, the portion of the market experiencing the largest gains from the regulatory-fueled capacity shakeout. The carrier said Wednesday, in conjunction with its better-than-expected third-quarter report , that its…",
+   "published": "2026-10-22T13:31:37+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583863",
+   "title": "First look: Norfolk Southern earnings",
+   "url": "https://www.freightwaves.com/news/first-look-norfolk-southern-earnings-4",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Diesel",
+    "Ports/Rail"
+   ],
+   "excerpt": "Norfolk Southern reported higher third-quarter earnings and record revenue Thursday as freight volume grew and fuel surcharges increased, although expenses consumed a larger share of revenue. The railroad (NYSE: NSC ) said revenue rose 14%, to $3.5 billion, on a 3% increase in volume.",
+   "published": "2026-10-22T14:09:01+00:00"
+  }
+ ]
 }

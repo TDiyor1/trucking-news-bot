@@ -1,6 +1,54 @@
 {
- "updated": "2026-10-22T14:00:36+00:00",
+ "updated": "2026-10-22T14:30:35+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=583863",
+   "title": "First look: Norfolk Southern earnings",
+   "url": "https://www.freightwaves.com/news/first-look-norfolk-southern-earnings-4",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Diesel",
+    "Ports/Rail"
+   ],
+   "excerpt": "Norfolk Southern reported higher third-quarter earnings and record revenue Thursday as freight volume grew and fuel surcharges increased, although expenses consumed a larger share of revenue. The railroad (NYSE: NSC ) said revenue rose 14%, to $3.5 billion, on a 3% increase in volume.",
+   "published": "2026-10-22T14:09:01+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583844",
+   "title": "First look: almost all strong numbers in Ryder’s third quarter earnings",
+   "url": "https://www.freightwaves.com/news/first-look-almost-all-strong-numbers-in-ryders-third-quarter-earnings",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "It was a solid third quarter for Ryder, with improvement in just about every metric compared to the third quarter of 2025. The numbers have been good enough that Ryder (NYSE: R) raised its full-year outlook for 2026. With three quarters in the books, there’s only so much higher it can go.",
+   "published": "2026-10-22T13:42:38+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583832",
+   "title": "Knight-Swift again eyes big rate increases as new bid season nears",
+   "url": "https://www.freightwaves.com/news/knight-swift-again-eyes-big-rate-increases-as-new-bid-season-nears",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Capacity"
+   ],
+   "excerpt": "Knight-Swift Transportation is benefitting from its high exposure to one-way truckload, the portion of the market experiencing the largest gains from the regulatory-fueled capacity shakeout. The carrier said Wednesday, in conjunction with its better-than-expected third-quarter report , that its…",
+   "published": "2026-10-22T13:31:37+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=583794",
    "title": "Einride’s autonomous trucks to learn from Nvidia’s Alpamayo",
@@ -40,6 +88,23 @@
    "tags": [],
    "excerpt": "Cleo estimates that late and incomplete deliveries cost U.S. and Canadian consumer packaged goods (CPG) and food and beverage manufacturers about $100 billion a year. The supply chain software company released the figure Tuesday in a report on on-time, in-full (OTIF) performance.",
    "published": "2026-10-22T11:00:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583846",
+   "title": "CSX profit jumps on volume and revenue growth",
+   "url": "https://www.freightwaves.com/news/csx-profit-jumps-on-volume-and-revenue-growth",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Diesel",
+    "Ports/Rail"
+   ],
+   "excerpt": "CSX’s third-quarter profits increased due to a combination of volume growth, higher fuel surcharge revenue, and efficiency gains, the railroad said. Operating income increased 44%, to $1.57 billion, while revenue increased 12%, to a record $4.02 billion, the company said Wednesday.",
+   "published": "2026-10-22T10:00:00+00:00"
   },
   {
    "id": "https://www.ccjdigital.com/15838159",
@@ -1067,66 +1132,6 @@
    "tags": [],
    "excerpt": "Volvo Trucks North America launched the Silver Service Contract on Monday at the American Trucking Associations’ Management Conference & Exhibition in Charlotte, North Carolina. The plan adds repair coverage for the engine, aftertreatment system, transmission, and clutch to the connected preventive…",
    "published": "2026-10-19T19:52:46+00:00"
-  },
-  {
-   "id": "https://www.dat.com/blog/?p=27674",
-   "title": "Flatbed Report: The only load-to-truck ratio to rise",
-   "url": "https://www.dat.com/blog/flatbed-report-the-only-load-to-truck-ratio-to-rise",
-   "source": "DAT iQ",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Flatbed spot linehaul rates paid to carriers averaged $2.65 per mile last week, minus fuel, down 0.1%, or less than a cent per mile, from the week before. Rates climbed 29.3%, or $0.60 per mile, year over year and held 26.3%, or $0.55 per mile, above the nine-year seasonal average of $2.10 per…",
-   "published": "2026-10-19T19:48:23+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583566",
-   "title": "New Mexico jury awards $47M in tanker truck crash lawsuit",
-   "url": "https://www.freightwaves.com/news/new-mexico-jury-awards-47m-in-tanker-truck-crash-lawsuit",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "A New Mexico jury has awarded $47 million to a pick up truck driver and his mother in a lawsuit against Pilot Thomas Logistics LLC and Maxum Petroleum Operating Company stemming from a 2022 head-on collision involving a commercial tanker truck. The verdict followed a jury trial in the First…",
-   "published": "2026-10-19T19:42:56+00:00"
-  },
-  {
-   "id": "https://www.dat.com/blog/?p=27671",
-   "title": "Dry Van Report: Rates hold as load posts cool and capacity stays thin",
-   "url": "https://www.dat.com/blog/dry-van-report-rates-hold-as-load-posts-cool-and-capacity-stays-thin",
-   "source": "DAT iQ",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Diesel",
-    "Capacity"
-   ],
-   "excerpt": "Dry van spot linehaul rates paid to carriers averaged $2.26 per mile last week, minus fuel, down 0.1%, or less than a cent per mile, from the week before. Rates ran 34.5%, or $0.58 per mile, year over year and held 23.8%, or $0.43 per mile, above the nine-year seasonal average of $1.83 per mile, in…",
-   "published": "2026-10-19T19:32:04+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583460",
-   "title": "CBP seizes $30.4M in meth hidden in commercial salt load at Laredo World Trade Bridge",
-   "url": "https://www.freightwaves.com/news/cbp-seizes-30-4m-in-meth-hidden-in-commercial-salt-load-at-laredo-world-trade-bridge",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "U.S. Customs and Border Protection officers discovered nearly $30.4 million in suspected methamphetamine inside a commercial salt shipment in Texas. The October 12 seizure occurred at Laredo’s World Trade Bridge along the U.S.-Mexico border. Officers recovered 3,395.91 pounds of suspected…",
-   "published": "2026-10-19T19:11:57+00:00"
   }
  ]
 }
