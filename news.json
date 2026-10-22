@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-22T20:32:44+00:00",
+ "updated": "2026-10-22T20:51:19+00:00",
  "items": [
+  {
+   "id": "https://www.dat.com/blog/?p=27685",
+   "title": "Reefer Produce Report: California coast lanes into New York gain 13% to 17% as Imperial freight jumps 72%",
+   "url": "https://www.dat.com/blog/reefer-produce-report-california-coast-lanes-into-new-york-gain-13-to-17-as-imperial-freight-jumps-72",
+   "source": "DAT iQ",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "National refrigerated produce volume rose 7% last week and fell 3% from a year earlier, led by a 9% gain in South Texas crossings and a 72% jump in the Imperial and Coachella section. California volume rose 5%, while Washington slipped 5%. The rates in this report are USDA open-market (spot) rates…",
+   "published": "2026-10-22T20:47:05+00:00"
+  },
   {
    "id": "https://joc.com/article/dot-grant-for-rail-upgrade-boosts-prospects-for-port-of-coos-bay-expansion-6310237",
    "title": "DOT grant for rail upgrade boosts prospects for Port of Coos Bay expansion",
@@ -1124,20 +1139,6 @@
    ],
    "excerpt": "Authorities in Southern California have been tracking a group of diesel thieves since August. Now, they face criminal charges.",
    "published": "2026-10-20T18:05:36+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/how-ai-agents-get-results",
-   "title": "How AI agents can go from hype to results",
-   "url": "https://www.ttnews.com/articles/how-ai-agents-get-results",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "AI agents can take on substantial business processes, but reliable automation requires carefully designed controls.",
-   "published": "2026-10-20T17:45:00+00:00"
   }
  ]
 }
