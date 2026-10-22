@@ -1,6 +1,32 @@
 {
- "updated": "2026-10-22T11:00:39+00:00",
+ "updated": "2026-10-22T11:30:32+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/15838176",
+   "title": "Heartland Express wipes out Smith Transport debt, returns to profitability",
+   "url": "https://www.ccjdigital.com/ccj-top-250/article/15838176/heartland-express-q3-2026-earnings-net-income-reaches-1m",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Capacity"
+   ],
+   "excerpt": "Ongoing capacity reductions across the trucking industry are finally bearing fruit for Heartland Express ( CCJ Top 250 , No. 28), helping the carrier swing back to positive net income for the third quarter of 2026. While the North Liberty-based carrier reported operating revenue of $179.5 million…",
+   "published": "2026-10-22T11:09:29+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583805",
+   "title": "Late, short deliveries cost food and CPG makers $100 billion",
+   "url": "https://www.freightwaves.com/news/cleo-otif-failures-cost-cpg-100-billion",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [],
+   "excerpt": "Cleo estimates that late and incomplete deliveries cost U.S. and Canadian consumer packaged goods (CPG) and food and beverage manufacturers about $100 billion a year. The supply chain software company released the figure Tuesday in a report on on-time, in-full (OTIF) performance.",
+   "published": "2026-10-22T11:00:00+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/15838159",
    "title": "Railroad HOS relief extended by FMCSA",
@@ -1104,35 +1130,6 @@
    ],
    "excerpt": "Air Canada on Monday announced the expansion of its freighter network for the upcoming winter season, adding new service from its Toronto global hub to Amsterdam, Monterrey, Mexico, and Panama City, Panama. The additions provide customers with dedicated, large-pallet capacity on key transatlantic…",
    "published": "2026-10-19T19:08:52+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104351",
-   "title": "All 50 states now using DataQ process that promises to be fairer",
-   "url": "https://landline.media/all-50-states-now-using-dataq-process-that-promises-to-be-fairer/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "Has FMCSA finally leveled the playing field for truckers and motor carriers who believe they aren’t guilty of a violation?",
-   "published": "2026-10-19T18:31:49+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583520",
-   "title": "Pump price is trucking’s #1 concern: ATRI survey",
-   "url": "https://www.freightwaves.com/news/pump-price-is-truckings-1-concern-atri-survey",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "This year’s study of the top issues facing trucking undertaken by the American Transportation Research Institute (ATRI) had a number one concern that didn’t even crack the top 10 in the prior two years: fuel prices . That issue was number one in the responses submitted by drivers and number two for…",
-   "published": "2026-10-19T17:40:45+00:00"
   }
  ]
 }
