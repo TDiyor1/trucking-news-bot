@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-22T21:00:35+00:00",
+ "updated": "2026-10-22T21:30:38+00:00",
  "items": [
+  {
+   "id": "https://www.dcvelocity.com/transportation/maritime-ocean/ports/aapa-says-ports-could-draw-power-from-dock-side-nuclear-reactors",
+   "title": "AAPA says ports could draw power from dock-side nuclear reactors",
+   "url": "https://www.dcvelocity.com/transportation/maritime-ocean/ports/aapa-says-ports-could-draw-power-from-dock-side-nuclear-reactors",
+   "source": "DC Velocity",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The American Association of Port Authorities (AAPA) is throwing its weight behind White House efforts to build nuclear reactors at maritime ports, saying the small modular reactors (SMRs) could provide a source of power for cranes through the night. \"We are witnessing an undeniable momentum for…",
+   "published": "2026-10-22T21:05:57+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/us-asia-crude-shipments-low",
+   "title": "U.S.-Asia crude shipments face freight shock",
+   "url": "https://www.ttnews.com/articles/us-asia-crude-shipments-low",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "U.S. crude oil exports to Asia are set to hit multiyear lows after the Iran war pushed the cost to lease a tanker for the journey to a record of almost $80 million.",
+   "published": "2026-10-22T21:00:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583986",
+   "title": "Daimler Truck sues former fleet manager over alleged $3.8M embezzlement",
+   "url": "https://www.freightwaves.com/news/daimler-truck-sues-former-fleet-manager-over-alleged-3-8m-embezzlement",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [],
+   "excerpt": "Daimler Truck North America has filed a lawsuit against a former employee and his wife, accusing them of embezzling nearly $3.8 million from the commercial truck manufacturer over a five year period. The lawsuit, filed Oct. 12 in Washington County Circuit Court in Oregon, names former Daimler…",
+   "published": "2026-10-22T20:59:41+00:00"
+  },
   {
    "id": "https://www.dat.com/blog/?p=27685",
    "title": "Reefer Produce Report: California coast lanes into New York gain 13% to 17% as Imperial freight jumps 72%",
@@ -1098,47 +1140,6 @@
    ],
    "excerpt": "Road rage can bring more than a traffic ticket. New laws and another bill target aggressive driving, illegal passing and dangerous speeding.",
    "published": "2026-10-20T18:52:44+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104359",
-   "title": "Dash cam used to track down trucker",
-   "url": "https://landline.media/dash-cam-used-to-track-down-trucker/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "A truck allegedly fled the scene of a crash before local authorities found the driver with an assist from another truck’s dash cam.",
-   "published": "2026-10-20T18:49:33+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/trumps-50-canada-tariffs-challenged-in-court/833495/",
-   "title": "Trump’s 50% Canada tariffs challenged in court",
-   "url": "https://www.supplychaindive.com/news/trumps-50-canada-tariffs-challenged-in-court/833495/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "A lawsuit filed Tuesday with the Court of International Trade alleges the president exceeded his power in using a nearly 100-year-old statute to impose tariffs.",
-   "published": "2026-10-20T18:18:00+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104356",
-   "title": "Siphons and a lookout: Alleged diesel theft crew busted",
-   "url": "https://landline.media/siphons-and-a-lookout-alleged-diesel-theft-crew-busted/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Authorities in Southern California have been tracking a group of diesel thieves since August. Now, they face criminal charges.",
-   "published": "2026-10-20T18:05:36+00:00"
   }
  ]
 }
