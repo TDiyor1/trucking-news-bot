@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-22T06:00:32+00:00",
+ "updated": "2026-10-22T06:05:24+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/15838159",
+   "title": "Railroad HOS relief extended by FMCSA",
+   "url": "https://www.ccjdigital.com/regulations/article/15838159/railroad-hos-relief-extended-by-fmcsa",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation",
+    "Ports/Rail"
+   ],
+   "excerpt": "Trucking news and briefs for Thursday, Oct. 22, 2026: Railroad companies get more HOS relief The Federal Motor Carrier Safety Administration this week announced it is renewing and modifying an exemption granted to the Association of American Railroads and the American Short Line and Regional…",
+   "published": "2026-10-22T05:58:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=583828",
    "title": "Tesla Semi enters volume production as 2027 rollout approaches",
@@ -1120,21 +1135,6 @@
    ],
    "excerpt": "A.P. Moller-Maersk is participating in industry studies examining what would be required for nuclear-powered container ships to make routine port calls , with the work centered on regulation, safety, security and port operations rather than an immediate vessel-ordering program.",
    "published": "2026-10-19T17:37:31+00:00"
-  },
-  {
-   "id": "https://joc.com/article/ny-nj-port-employers-name-john-atkins-to-leadership-role-6308617",
-   "title": "NY-NJ port employers name John Atkins to leadership role",
-   "url": "https://joc.com/article/ny-nj-port-employers-name-john-atkins-to-leadership-role-6308617",
-   "source": "JOC",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "The 40-year veteran of the maritime industry will become COO of the Shipping Association of New York and New Jersey, overseeing day-to-day implementation of the local labor agreement between marine terminals and longshore workers.",
-   "published": "2026-10-19T17:32:15+00:00"
   }
  ]
 }
