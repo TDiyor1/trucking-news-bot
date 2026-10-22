@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-22T12:30:33+00:00",
+ "updated": "2026-10-22T13:00:42+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=583794",
+   "title": "Einride’s autonomous trucks to learn from Nvidia’s Alpamayo",
+   "url": "https://www.freightwaves.com/news/einride-nvidia-alpamayo-autonomous-trucks",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Einride will test Nvidia’s Alpamayo, a reasoning-based AI driving model, inside the Einride Driver, its autonomous driving system, the company said Wednesday. The Swedish company plans to adapt the model to its own vehicles, routes, and operating data, with a live road evaluation planned for the…",
+   "published": "2026-10-22T12:00:00+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/15838176",
    "title": "Heartland Express wipes out Smith Transport debt, returns to profitability",
@@ -1113,23 +1127,6 @@
    ],
    "excerpt": "U.S. Customs and Border Protection officers discovered nearly $30.4 million in suspected methamphetamine inside a commercial salt shipment in Texas. The October 12 seizure occurred at Laredo’s World Trade Bridge along the U.S.-Mexico border. Officers recovered 3,395.91 pounds of suspected…",
    "published": "2026-10-19T19:11:57+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583544",
-   "title": "Air Canada adds freighter destinations for winter season",
-   "url": "https://www.freightwaves.com/news/air-canada-adds-freighter-destinations-for-winter-season",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs",
-    "Capacity"
-   ],
-   "excerpt": "Air Canada on Monday announced the expansion of its freighter network for the upcoming winter season, adding new service from its Toronto global hub to Amsterdam, Monterrey, Mexico, and Panama City, Panama. The additions provide customers with dedicated, large-pallet capacity on key transatlantic…",
-   "published": "2026-10-19T19:08:52+00:00"
   }
  ]
 }
