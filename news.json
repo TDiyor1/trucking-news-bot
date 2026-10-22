@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-21T23:30:30+00:00",
+ "updated": "2026-10-22T00:00:37+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=583823",
+   "title": "CEO’s letter boasts of lots of arrows pointing up at Triumph Financial",
+   "url": "https://www.freightwaves.com/news/ceos-letter-boasts-of-lots-of-arrows-pointing-up-at-triumph-financial",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "It was hard not to read the quarterly letter to shareholders by Aaron Graft, the CEO of Triumph Financial, and not get a sense that he was taking the first few steps into a victory lap. Triumph’s message to investors for years has been consistent, and it has been amplified every three months in…",
+   "published": "2026-10-21T23:29:46+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=583820",
    "title": "The Data Your Truck Sends Home Is Becoming Your New Credit Score, And Your Insurance Rate Too",
@@ -1122,20 +1136,6 @@
    ],
    "excerpt": "As diesel prices pass $6.40 per gallon, the climbing price pressure is forcing difficult decisions for fleet operators, making it prohibitively expensive for them to continue running older-model trucks to haul heavy freight, according to a study from data analytics and asset performance firm Fleet…",
    "published": "2026-10-19T17:31:29+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104348",
-   "title": "Road Rumor: Trucker helps rescue 2-year-old during Amber Alert",
-   "url": "https://landline.media/road-rumor-trucker-helps-rescue-2-year-old-during-amber-alert/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "The story of a trucker who helped stop an Amber Alert suspect has been making the rounds on social media. Here are the facts.",
-   "published": "2026-10-19T17:09:58+00:00"
   }
  ]
 }
