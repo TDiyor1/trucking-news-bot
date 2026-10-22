@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-22T17:06:09+00:00",
+ "updated": "2026-10-22T17:21:06+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104391",
+   "title": "Theft by deception continues to drive high-value losses",
+   "url": "https://landline.media/theft-by-deception-continues-to-drive-high-value-losses/",
+   "source": "Land Line",
+   "audience": [
+    "Broker"
+   ],
+   "tags": [
+    "Fraud"
+   ],
+   "excerpt": "Thieves are getting smarter when it comes to cargo theft. Here is the high-value item they’re targeting and how they get their hands on it.",
+   "published": "2026-10-22T17:18:27+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104388",
+   "title": "Diesel prices stay at record levels, diesel relief rolls on",
+   "url": "https://landline.media/diesel-prices-stay-at-record-levels-diesel-relief-rolls-on/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Diesel prices have eased from their peak, but fuel bills still sting. Here’s the latest on relief efforts and their limits.",
+   "published": "2026-10-22T17:15:32+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=583620",
    "title": "CBP seizes $2.5M in meth hidden in tomatillo truck at Otay Mesa; driver’s visa canceled",
@@ -87,6 +115,21 @@
    ],
    "excerpt": "Norfolk Southern reported higher third-quarter earnings and record revenue Thursday as freight volume grew and fuel surcharges increased, although expenses consumed a larger share of revenue. The railroad (NYSE: NSC ) said revenue rose 14%, to $3.5 billion, on a 3% increase in volume.",
    "published": "2026-10-22T14:09:01+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583919",
+   "title": "Commodity markets whip up railfreight gains",
+   "url": "https://www.freightwaves.com/news/commodity-markets-whip-up-railfreight-gains",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Industrial output help U.S. railroads steel themselves against increasing demand and show some mettle amid uncertain economic conditions. For the week ending Oct. 17, total U.S. weekly rail traffic was 540,135 carloads and intermodal units, up 8.5% from the same week a year ago, according to the…",
+   "published": "2026-10-22T14:00:00+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=583844",
@@ -1086,49 +1129,6 @@
    ],
    "excerpt": "WiseTech Global has integrated its CargoWise Landside transport management systems (TMS) with marine terminal appointment software provider Dray Dog, enabling US drayage operators to automate port bookings and reduce manual data entry. The integration connects Dray Dog with CargoWise’s Trinium,…",
    "published": "2026-10-20T11:47:05+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583437",
-   "title": "Daimler Is Building Autonomy Into The Truck At The Factory, And Leaving The Software Choice Open",
-   "url": "https://www.freightwaves.com/news/daimler-is-building-autonomy-into-the-truck-at-the-factory-and-leaving-the-software-choice-open",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "One of the quieter but more consequential points to come out of a recent candid session with Daimler Truck leadership had nothing to do with financing or freight rates and everything to do with how the trucks themselves are being built right now, because the company made clear that it is already…",
-   "published": "2026-10-20T11:44:00+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=327011",
-   "title": "Airlines strengthen winter freighter links, as forwarders face capacity shuffle",
-   "url": "https://theloadstar.com/airlines-strengthen-winter-freighter-links-as-forwarders-face-capacity-shuffle/",
-   "source": "The Loadstar",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs",
-    "Capacity"
-   ],
-   "excerpt": "Airlines are strengthening freighter links between Asia, Europe, and the Americas for winter, adding transatlantic flights, connections to Latin American manufacturing and distribution hubs, and capacity serving Asia’s technology exports. Air Canada Cargo’s new 767-30F services to Amsterdam,…",
-   "published": "2026-10-20T11:34:54+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583453",
-   "title": "The 2026 Elections Will Reshape Trucking Labor Policy No Matter Which Party Wins",
-   "url": "https://www.freightwaves.com/news/the-2026-elections-will-reshape-trucking-labor-policy-no-matter-which-party-wins",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "For most of the last two decades, trucking could read the politics of its workforce fights along a familiar line, with one party broadly friendly to the independent contractor model and the other broadly skeptical of it, but according to the policy and legal experts who briefed an American Trucking…",
-   "published": "2026-10-20T11:24:00+00:00"
   }
  ]
 }
