@@ -1,6 +1,35 @@
 {
- "updated": "2026-10-22T19:30:31+00:00",
+ "updated": "2026-10-22T19:51:17+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=583896",
+   "title": "F3 preview: AI, autonomous trucking and freight technology take center stage",
+   "url": "https://www.freightwaves.com/news/f3-preview-ai-autonomous-trucking-and-freight-technology-take-center-stage",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "FreightWaves’ F3: Future of Freight Festival returns to Chattanooga next week, with sessions on AI adoption, autonomous trucking and the technologies reshaping freight operations taking center stage. The event, held Oct. 27-28 at The Signal at Chattanooga Choo Choo, will feature keynote…",
+   "published": "2026-10-22T19:02:37+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583878",
+   "title": "Feds charge driver in alleged $12M cargo theft scheme built on hijacked carrier identities",
+   "url": "https://www.freightwaves.com/news/feds-charge-driver-in-alleged-12m-cargo-theft-scheme-built-on-hijacked-carrier-identities",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Fraud"
+   ],
+   "excerpt": "Federal prosecutors have uncovered an alleged cargo theft conspiracy involving at least 24 freight shipments and millions in stolen merchandise. Investigators say suspects took control of established trucking companies and used their identities to secure legitimate freight contracts.",
+   "published": "2026-10-22T19:01:12+00:00"
+  },
   {
    "id": "https://joc.com/article/canadas-port-saint-john-receives-public-private-funding-for-capacity-boost-6310210",
    "title": "Canada’s Port Saint John receives public, private funding for capacity boost",
@@ -80,6 +109,21 @@
    ],
    "excerpt": "Summary: Sharing your DAT login with a coworker, or installing a browser extension that pulls data out of DAT for you, might look like a quick way to stretch a subscription. Both are prohibited under DAT’s Terms and Conditions and Acceptable Use Policy (or your agreement with DAT).",
    "published": "2026-10-22T18:45:39+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=583975",
+   "title": "Union Pacific posts record third-quarter revenue and profits",
+   "url": "https://www.freightwaves.com/news/union-pacific-posts-record-third-quarter-revenue-and-profits",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel",
+    "Ports/Rail"
+   ],
+   "excerpt": "Union Pacific reported record third-quarter revenue and profits as higher volume , pricing, and efficiency gains more than offset the impact of rising fuel prices and inflation. “Union Pacific’s third-quarter results demonstrate our ability to safely deliver the service we sold our customers while…",
+   "published": "2026-10-22T18:07:00+00:00"
   },
   {
    "id": "https://landline.media/?p=104397",
@@ -1094,50 +1138,6 @@
    ],
    "excerpt": "Truckload carrier Heartland Express booked its first net profit since 2023 without the help of outsized gains from equipment and terminal sales. The North Liberty, Iowa-based company reported third-quarter revenue of $179.5 million, a 9% year-over-year decline and below the $191.4 million consensus…",
    "published": "2026-10-20T16:32:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583630",
-   "title": "Benchmark diesel price up as market takes a short breather",
-   "url": "https://www.freightwaves.com/news/benchmark-diesel-price-up-as-market-takes-a-short-breather",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "After months of volatility, the diesel market going into Tuesday appeared to have calmed down, at least for now. The day also featured the release of the weekly benchmark diesel price from the Department of Energy/Energy Information Administration that is used for most fuel surcharges.",
-   "published": "2026-10-20T16:10:29+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/diesel-price-volatility-is-truckings-top-issue-in-2026-atri/833310/",
-   "title": "Diesel price volatility is trucking’s top issue in 2026: ATRI",
-   "url": "https://www.truckingdive.com/news/diesel-price-volatility-is-truckings-top-issue-in-2026-atri/833310/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "While worries about the economy are starting to subside, newer issues like rising fuel costs and a driver shortage are becoming more pertinent for industry leaders.",
-   "published": "2026-10-20T16:01:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583615",
-   "title": "How new capacity is raising rates in chaotic ocean market",
-   "url": "https://www.freightwaves.com/news/how-new-capacity-is-raising-rates-in-chaotic-ocean-market",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Rates",
-    "Capacity",
-    "Ports/Rail"
-   ],
-   "excerpt": "Container shipping lines are pushing freight rates higher even as a gradual return to the Red Sea promises to release capacity into a softening market, as competing forces shape ocean freight heading into 2027. The recovery in Suez Canal routings is unfolding despite persistent security risks in…",
-   "published": "2026-10-20T14:58:59+00:00"
   }
  ]
 }
