@@ -1,6 +1,19 @@
 {
- "updated": "2026-10-23T16:22:30+00:00",
+ "updated": "2026-10-23T16:30:40+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584021",
+   "title": "5 US manufacturing projects bring more than $1.6B in investments",
+   "url": "https://www.freightwaves.com/news/5-us-manufacturing-projects-bring-more-than-1-6b-in-investments",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [],
+   "excerpt": "Five manufacturers have announced new or expanded U.S. production facilities representing more than $1.6 billion in investments. The investments highlighted continued spending on domestic manufacturing , transportation equipment and consumer goods. The projects, located in Texas, Illinois, Georgia,…",
+   "published": "2026-10-23T16:03:04+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/mack-adds-270-staff-pa",
    "title": "Mack adds 270 staff at production plant in Pennsylvania",
@@ -1126,21 +1139,6 @@
    ],
    "excerpt": "The truck was broken into Oct. 13 near Professional Sports Authenticator, which authenticates trading cards, the Santa Ana Police Department said.",
    "published": "2026-10-21T12:39:53+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583691",
-   "title": "Highway pitches shared standards as freight fraud shifts",
-   "url": "https://www.freightwaves.com/news/highway-shared-standards-freight-fraud",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Fraud"
-   ],
-   "excerpt": "Cargo thieves have learned to work the space between a broker and a carrier. They impersonate carriers, intercept load data and redirect shipments. Michael Caney, chief commercial officer of Highway, says no single vendor can close those gaps, and that freight needs shared standards for the data…",
-   "published": "2026-10-21T11:00:00+00:00"
   }
  ]
 }
