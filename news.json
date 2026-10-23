@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-23T14:30:33+00:00",
+ "updated": "2026-10-23T14:52:23+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584005",
+   "title": "Russian diesel tanker heads for U.S. following Trump-Putin deal",
+   "url": "https://www.freightwaves.com/news/russian-diesel-tanker-heads-for-u-s-following-trump-putin-deal",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel",
+    "Tariffs",
+    "Ports/Rail"
+   ],
+   "excerpt": "A tanker carrying 40,000 metric tons of Russian diesel is heading for New York under a new U.S.-Russia supply agreement , marking a reopening of a trade curtailed by Washington’s 2022 ban on Russian oil and petroleum imports. The Malta-flagged Agioi Fanendes loaded ultra-low-sulfur diesel at…",
+   "published": "2026-10-23T14:37:51+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584002",
+   "title": "NLRB ordered Amazon to bargain with Staten Island workers; it’s now in federal court",
+   "url": "https://www.freightwaves.com/news/nlrb-ordered-amazon-to-bargain-with-staten-island-workers-its-now-in-federal-court",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [],
+   "excerpt": "Four and a half years after a grassroots union was voted in by workers at an Amazon warehouse in Staten Island, New York, the battles in court over Amazon’s pushback against the vote continues. At issue in the latest set of filings in the Fifth Circuit is a National Labor Relations Board decision…",
+   "published": "2026-10-23T14:28:07+00:00"
+  },
   {
    "id": "https://www.truckingdive.com/news/heartland-express-q3-turnaround-aided-by-capacity-driven-price-improvements/833704/",
    "title": "Heartland Express Q3 turnaround aided by capacity-driven price improvements",
@@ -1110,31 +1138,6 @@
    "tags": [],
    "excerpt": "Trucking news and briefs for Wednesday, Oct. 21, 2026: Truck tonnage improved to close out third quarter Trucking activity in the United States increased 0.8% in September after falling in the previous two months, according to the American Trucking Associations’ advanced seasonally adjusted…",
    "published": "2026-10-21T05:28:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583658",
-   "title": "Nearly $1M in Pokémon and sports cards vanish from FedEx truck, driver discovers missing lock",
-   "url": "https://www.freightwaves.com/news/nearly-1m-in-pokemon-and-sports-cards-vanish-from-fedex-truck-driver-discovers-missing-lock",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Nearly $1 million in Pokémon, sports and other trading cards disappeared from a FedEx truck in Santa Ana, California. The driver discovered the missing cargo October 13 outside a Professional Sports Authenticator (PSA) facility. Two pallets had vanished, and someone had removed additional packages…",
-   "published": "2026-10-21T01:08:08+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104366",
-   "title": "More Mexican freight, fewer Mexican drivers: An opening for owner-operators?",
-   "url": "https://landline.media/more-mexican-freight-fewer-mexican-drivers-an-opening-for-owner-operators/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [],
-   "excerpt": "Shippers are changing how they move Mexican freight, creating potential opportunities for carriers based well beyond the border.",
-   "published": "2026-10-20T21:15:27+00:00"
   }
  ]
 }
