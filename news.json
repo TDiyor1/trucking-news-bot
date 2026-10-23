@@ -1,6 +1,22 @@
 {
- "updated": "2026-10-23T16:00:44+00:00",
+ "updated": "2026-10-23T16:22:30+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/mack-adds-270-staff-pa",
+   "title": "Mack adds 270 staff at production plant in Pennsylvania",
+   "url": "https://www.ttnews.com/articles/mack-adds-270-staff-pa",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "The production line additions are the latest example of an industrywide trend predicated on rising demand for trucks and the ongoing freight market recovery.",
+   "published": "2026-10-23T15:34:36+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584009",
    "title": "Airbus sees 46% freighter increase by 2045 amid stable air cargo growth",
@@ -1125,18 +1141,6 @@
    ],
    "excerpt": "Cargo thieves have learned to work the space between a broker and a carrier. They impersonate carriers, intercept load data and redirect shipments. Michael Caney, chief commercial officer of Highway, says no single vendor can close those gaps, and that freight needs shared standards for the data…",
    "published": "2026-10-21T11:00:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15838061",
-   "title": "Toyota hits milestone with 8-minute hydrogen refueling for heavy-duty truck",
-   "url": "https://www.ccjdigital.com/alternative-power/hydrogen-fuel-cell/article/15838061/toyota-hydrogen-trucks-hit-refueling-milestone-before-2027-launch",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Toyota Motor North America is advancing its heavy-duty hydrogen truck operations with new fueling infrastructure in California and successful high-speed refueling tests. The automaker's Hydrogen Headquarters (H2HQ) division recently installed two mobile hydrogen fueling devices at its North…",
-   "published": "2026-10-21T10:52:42+00:00"
   }
  ]
 }
