@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-23T16:52:27+00:00",
+ "updated": "2026-10-23T17:00:37+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584026",
+   "title": "Cost pressures sink Marten Transport’s Q3",
+   "url": "https://www.freightwaves.com/news/cost-pressures-sink-marten-transports-q3",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Shares of refrigerated carrier Marten Transport were down 7% in midday trading on Friday, following a disappointing third-quarter report. Despite improving supply-demand fundamentals, a runup in fuel and health insurance costs, among other items, were a drag in the period.",
+   "published": "2026-10-23T16:28:25+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584021",
    "title": "5 US manufacturing projects bring more than $1.6B in investments",
@@ -1124,21 +1136,6 @@
    "tags": [],
    "excerpt": "Fast-growing e–commerce logistics provider Stord has made the largest acquisition since its founding 11 years ago, acquiring rival AMS Fulfillment, which processes online orders for more than 150 beauty, wellness and direct-to-consumer brands. Transaction terms were not disclosed, but Stord said in…",
    "published": "2026-10-21T12:59:08+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/trading-cards-stolen-truck",
-   "title": "Trading cards worth $963,000 stolen from truck in California",
-   "url": "https://www.ttnews.com/articles/trading-cards-stolen-truck",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Fraud"
-   ],
-   "excerpt": "The truck was broken into Oct. 13 near Professional Sports Authenticator, which authenticates trading cards, the Santa Ana Police Department said.",
-   "published": "2026-10-21T12:39:53+00:00"
   }
  ]
 }
