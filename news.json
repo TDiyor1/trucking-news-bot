@@ -1,6 +1,19 @@
 {
- "updated": "2026-10-23T15:22:18+00:00",
+ "updated": "2026-10-23T15:30:31+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584009",
+   "title": "Airbus sees 46% freighter increase by 2045 amid stable air cargo growth",
+   "url": "https://www.freightwaves.com/news/airbus-sees-46-freighter-increase-by-2045-amid-stable-air-cargo-growth",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [],
+   "excerpt": "There wasn’t much change in Airbus’ latest 20-year forecast for air cargo. The manufacturer, which plans to begin delivering an all-new A350 freighter in about a year, estimated annual cargo traffic growth would tick down a tenth of a point compared to last year’s report, but that the industry…",
+   "published": "2026-10-23T14:54:15+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584005",
    "title": "Russian diesel tanker heads for U.S. following Trump-Putin deal",
@@ -1124,20 +1137,6 @@
    ],
    "excerpt": "It is difficult to overstate the importance of the artificial intelligence investment boom on the U.S. economy, and trucking by extension. Data centers and all they require—new infrastructure, construction, manufacturing and electrical equipment—have had a profound effect on the nation’s GDP in…",
    "published": "2026-10-21T10:37:56+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15838043",
-   "title": "Truck tonnage improved in September following consecutive monthly declines",
-   "url": "https://www.ccjdigital.com/economic-trends/article/15838043/truck-tonnage-improved-in-september-following-consecutive-monthly-declines",
-   "source": "CCJ",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Trucking news and briefs for Wednesday, Oct. 21, 2026: Truck tonnage improved to close out third quarter Trucking activity in the United States increased 0.8% in September after falling in the previous two months, according to the American Trucking Associations’ advanced seasonally adjusted…",
-   "published": "2026-10-21T05:28:00+00:00"
   }
  ]
 }
