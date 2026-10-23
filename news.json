@@ -1,6 +1,23 @@
 {
- "updated": "2026-10-23T19:22:39+00:00",
+ "updated": "2026-10-23T19:30:32+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584069",
+   "title": "New Drewry data shows import demand boosting trans-Pacific rates",
+   "url": "https://www.freightwaves.com/news/new-drewry-data-shows-import-demand-boosting-trans-pacific-rates",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Rates",
+    "Capacity",
+    "Ports/Rail"
+   ],
+   "excerpt": "Drewry’s World Container Index rose 2% to $4,585 per 40-foot container, supported by higher rates on trans-Pacific and Asia-Europe routes as strong U.S. import demand and carrier capacity cuts bolstered pricing. Shanghai-to-Los Angeles rates increased 2% to $8,007 per 40-foot container, while…",
+   "published": "2026-10-23T18:55:28+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584062",
    "title": "Roadrunner announces Canada outbound service",
@@ -1127,20 +1144,6 @@
    ],
    "excerpt": "Ontario Midland Railroad has secured an $11.2 million federal grant to rehabilitate approximately 10 miles of track in Wayne County, New York, improving infrastructure that supports the region’s agricultural and manufacturing shippers. The Wayne County Mainline Safety and Reliability Project will…",
    "published": "2026-10-21T15:45:29+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/tanker-russia-diesel-sail",
-   "title": "Tanker from Russia loaded with diesel to sail Oct. 22",
-   "url": "https://www.ttnews.com/articles/tanker-russia-diesel-sail",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "In a phone call with Trump earlier this month, Putin agreed to relax diesel-export restrictions and send more fuel to the global market, including the U.S.",
-   "published": "2026-10-21T15:01:23+00:00"
   }
  ]
 }
