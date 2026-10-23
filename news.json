@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-23T11:00:36+00:00",
+ "updated": "2026-10-23T11:30:29+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=583991",
+   "title": "Workforce gaps keep supply chain AI stuck in pilot mode",
+   "url": "https://www.freightwaves.com/news/ascm-dsci-supply-chain-ai-workforce-readiness",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Rates",
+    "Tech"
+   ],
+   "excerpt": "Freight technology vendors are selling AI agents that can benchmark rates and award freight under rules a customer sets. A new survey finds most supply chain organizations still limit AI to generating insights, and the first obstacle the research names is their own workforce.",
+   "published": "2026-10-23T11:00:00+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/15838241",
    "title": "Knight-Swift says truckload recovery is finally here",
@@ -1119,22 +1134,6 @@
    "tags": [],
    "excerpt": "PACCAR will put a factory-installed touchscreen and fleet app platform called PACCAR Connect in Kenworth and Peterbilt Class 8 trucks beginning in early 2027. The company announced the system Monday at the American Trucking Associations’ Management Conference & Exhibition in Charlotte, North…",
    "published": "2026-10-20T20:35:38+00:00"
-  },
-  {
-   "id": "https://www.dcvelocity.com/tech-infrastructure/e-commerce/nrf-says-holiday-season-spending-will-rise-4-2-over-2025",
-   "title": "NRF says holiday season spending will rise 4.2% over 2025",
-   "url": "https://www.dcvelocity.com/tech-infrastructure/e-commerce/nrf-says-holiday-season-spending-will-rise-4-2-over-2025",
-   "source": "DC Velocity",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Retail sales in November and December will grow 4.2% over 2025 as consumers remain resilient despite higher gas prices, persistent inflation, higher interest rates, and elevated consumer debt, according to a forecast from the National Retail Federation (NRF).",
-   "published": "2026-10-20T19:48:12+00:00"
   }
  ]
 }
