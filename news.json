@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T15:30:31+00:00",
+ "updated": "2026-10-23T15:52:24+00:00",
  "items": [
   {
    "id": "https://www.freightwaves.com/?p=584009",
@@ -55,6 +55,20 @@
    ],
    "excerpt": "The carrier reversed an operating loss for the quarter from 2025 with $1 million in net income.",
    "published": "2026-10-23T14:20:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584017",
+   "title": "A new PNW container port? $205M for Oregon rail project",
+   "url": "https://www.freightwaves.com/news/a-new-pnw-container-port-205m-for-oregon-rail-project",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The Port of Coos Bay has secured nearly $205 million in federal funding to upgrade its rail line, advancing a proposed Oregon container terminal that would rely on trains to move cargo between ships and inland markets. The $204.8 million award, announced Oct. 19 by Oregon Sens.",
+   "published": "2026-10-23T13:37:00+00:00"
   },
   {
    "id": "https://www.ttnews.com/articles/ryder-earnings-q3-2026",
@@ -1123,20 +1137,6 @@
    "tags": [],
    "excerpt": "Toyota Motor North America is advancing its heavy-duty hydrogen truck operations with new fueling infrastructure in California and successful high-speed refueling tests. The automaker's Hydrogen Headquarters (H2HQ) division recently installed two mobile hydrogen fueling devices at its North…",
    "published": "2026-10-21T10:52:42+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15838056",
-   "title": "Don't underestimate AI's role in trucking's recovery",
-   "url": "https://www.ccjdigital.com/economic-trends/freight-demand/article/15838056/ais-critical-role-in-trucking-sector-recovery-explained",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "It is difficult to overstate the importance of the artificial intelligence investment boom on the U.S. economy, and trucking by extension. Data centers and all they require—new infrastructure, construction, manufacturing and electrical equipment—have had a profound effect on the nation’s GDP in…",
-   "published": "2026-10-21T10:37:56+00:00"
   }
  ]
 }
