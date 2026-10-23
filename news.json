@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-23T05:00:35+00:00",
+ "updated": "2026-10-23T05:30:28+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/15838264",
+   "title": "FMCSA adds ethanol, heating oil to nationwide fuel-haul HOS waiver",
+   "url": "https://www.ccjdigital.com/regulations/article/15838264/fmcsa-adds-ethanol-heating-oil-to-nationwide-fuelhaul-hos-waiver",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel",
+    "Regulation"
+   ],
+   "excerpt": "Trucking news and briefs for Friday, Oct. 23, 2026: Ethanol, heating fuel added to FMCSA’s nationwide HOS waiver The Federal Motor Carrier Safety Administration has amended its 90-day hours-of-service waiver that gives certain interstate fuel haulers more flexibility.",
+   "published": "2026-10-23T05:00:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=583998",
    "title": "Ryder fleet facing possible growth need as EPA ‘27 nears",
@@ -1123,21 +1138,6 @@
    ],
    "excerpt": "In a nutshell: A new federal grant round targets short lines, bridges and a petrochemical port, the small pieces of track that can govern much larger freight flows. For shippers, however, a project selection is still a long way from an extra train path.",
    "published": "2026-10-20T19:14:52+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583670",
-   "title": "Partner of Choice: Why the Best Shipper-Carrier Relationships Now Go Beyond Shipper of Choice",
-   "url": "https://www.freightwaves.com/news/partner-of-choice-why-the-best-shipper-carrier-relationships-now-go-beyond-shipper-of-choice",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "With tender rejections running about 2.5 times last year and contract rates reset roughly 18% higher, SONAR’s latest sitrep explains what shippers should expect a higher-priced carrier relationship to deliver. Partner of choice is a shipper-carrier relationship in which both sides invest in each…",
-   "published": "2026-10-20T18:53:46+00:00"
   }
  ]
 }
