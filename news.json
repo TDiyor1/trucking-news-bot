@@ -1,6 +1,65 @@
 {
- "updated": "2026-10-23T18:00:34+00:00",
+ "updated": "2026-10-23T18:22:41+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104423",
+   "title": "Attorney gets jail time for role in staged crash scam targeting trucks",
+   "url": "https://landline.media/attorney-gets-jail-time-for-role-in-staged-crash-scam-targeting-trucks/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Fraud"
+   ],
+   "excerpt": "An attorney reportedly collected more than $350,000 for his role in Operation Sideswipe, a scheme to collect payouts from trucking companies.",
+   "published": "2026-10-23T18:10:58+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104419",
+   "title": "Railroads receive HOS exemption for ‘unplanned events’",
+   "url": "https://landline.media/railroads-receive-hos-exemption-for-unplanned-events/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation",
+    "Ports/Rail"
+   ],
+   "excerpt": "More than 200 motor carriers will be allowed to operate under an hours-of-service exemption requested by railroad associations.",
+   "published": "2026-10-23T18:08:45+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104407",
+   "title": "More haulers get breathing room under fuel emergency",
+   "url": "https://landline.media/more-haulers-get-breathing-room-under-fuel-emergency/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "FMCSA has updated its fuel emergency waiver. More haulers qualify for hours-of-service relief, but conditions apply.",
+   "published": "2026-10-23T18:04:30+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/usdot-disaster-repair-34-states",
+   "title": "USDOT makes disaster repair aid available to 34 states",
+   "url": "https://www.ttnews.com/articles/usdot-disaster-repair-34-states",
+   "source": "Transport Topics",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "USDOT made $1.6 billion in funds available to 34 states to repair roads and bridges after major storms, severe rainfall and other natural disasters.",
+   "published": "2026-10-23T18:00:00+00:00"
+  },
   {
    "id": "https://landline.media/?p=104415",
    "title": "Trucker’s concealed carry case ends. Can Congress deliver a fix?",
@@ -1080,65 +1139,6 @@
    "tags": [],
    "excerpt": "Mark Colson said his priorities are to win members’ trust and grow the organization.",
    "published": "2026-10-21T14:50:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583720",
-   "title": "Union Pacific CFO to retire",
-   "url": "https://www.freightwaves.com/news/union-pacific-cfo-to-retire",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Chief Financial Officer Jennifer Hamann will retire in early 2027, Union Pacific (NYSE: UNP ) has announced. Hamann, who joined Union Pacific in 1992, was named CFO in January 2020. She had previously held leadership roles in a broad range of areas, including finance, human resources, marketing and…",
-   "published": "2026-10-21T14:18:45+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/extended-peak-season-drives-high-dwell-times-at-san-pedro-bay-ports/833584/",
-   "title": "Extended peak season drives high dwell times at San Pedro Bay Ports",
-   "url": "https://www.supplychaindive.com/news/extended-peak-season-drives-high-dwell-times-at-san-pedro-bay-ports/833584/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "The Pacific Merchant Shipping Association said record volumes in September pushed up the time cargo remained idle, both for rail and truck transport.",
-   "published": "2026-10-21T14:17:43+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/us-tap-national-diesel-reserve-prices-soar",
-   "title": "U.S. to tap national diesel reserve as prices soar",
-   "url": "https://www.ttnews.com/articles/us-tap-national-diesel-reserve-prices-soar",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "The Energy Department plans to loan 315,000 barrels from the 1 million barrel Northeast Home Heating Oil Reserve, according to a statement Oct. 21.",
-   "published": "2026-10-21T14:12:40+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583714",
-   "title": "CSX eliminates more than 100 management positions",
-   "url": "https://www.freightwaves.com/news/csx-eliminates-more-than-100-management-positions",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "CSX has eliminated 109 operations management positions as part of a restructuring of its engineering functions. The organizational changes were first outlined this past spring, a CSX (NASDAQ: CSX ) spokesman said in an email to FreightWaves. The cuts “are intended to establish a more effective…",
-   "published": "2026-10-21T13:41:19+00:00"
   }
  ]
 }
