@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-23T21:33:33+00:00",
+ "updated": "2026-10-23T22:00:36+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/ai-alerts-win-skeptical-drivers",
+   "title": "AI alerts help win over skeptical drivers, fleet execs say",
+   "url": "https://www.ttnews.com/articles/ai-alerts-win-skeptical-drivers",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Werner executive Austin Henderson recalled a meeting in which a truck driver who once was skeptical of AI admitted that an AI-enabled distracted-driving alert saved his life.",
+   "published": "2026-10-23T21:00:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584069",
    "title": "New Drewry data shows import demand boosting trans-Pacific rates",
@@ -1130,20 +1144,6 @@
    ],
    "excerpt": "In the seven years since TOC Americas last took place in Cartagena, global laden container volumes have slipped about 10% below where they would have been without the multiple disruptions that have hit the industry since 2018, according to Dinesh Sharma, director at Drewry Maritime Advisors.…",
    "published": "2026-10-21T17:15:38+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583743",
-   "title": "New York short line wins $11.2 million federal rail grant",
-   "url": "https://www.freightwaves.com/news/new-york-short-line-wins-11-2-million-federal-rail-grant",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Ontario Midland Railroad has secured an $11.2 million federal grant to rehabilitate approximately 10 miles of track in Wayne County, New York, improving infrastructure that supports the region’s agricultural and manufacturing shippers. The Wayne County Mainline Safety and Reliability Project will…",
-   "published": "2026-10-21T15:45:29+00:00"
   }
  ]
 }
