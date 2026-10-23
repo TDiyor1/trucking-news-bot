@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-23T10:00:39+00:00",
+ "updated": "2026-10-23T10:30:27+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=583809",
+   "title": "Why one zero-emission truck dealer wants big rigs to wait",
+   "url": "https://www.freightwaves.com/news/range-zero-emissions-medium-duty-electric-trucks",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Johannes Ariens sells hydrogen semis, and he thinks the push to clean up trucking is aimed too high. Incentive programs and the broader industry are fixated on Class 7 and 8 tractors, said Ariens, CEO of Range Zero Emissions, in an interview with FreightWaves.",
+   "published": "2026-10-23T10:00:00+00:00"
+  },
   {
    "id": "https://theloadstar.com/?p=327227",
    "title": "Zero Hedge: Major US banks detecting unauthorized AI agents accessing customer accounts",
@@ -1123,20 +1135,6 @@
    ],
    "excerpt": "Cargo theft has changed dramatically since 2020, becoming more international, sophisticated and difficult to counter, experts said at MCE.",
    "published": "2026-10-20T19:30:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/vtna-add-500-staff-new-river",
-   "title": "VTNA to add up to 500 staff at New River Valley plant",
-   "url": "https://www.ttnews.com/articles/vtna-add-500-staff-new-river",
-   "source": "Transport Topics",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Hiring at the truck manufacturer’s main production facility follows a rebound in demand in 2026 after the longest freight market recession in industry memory.",
-   "published": "2026-10-20T19:16:43+00:00"
   }
  ]
 }
