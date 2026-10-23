@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-23T17:30:28+00:00",
+ "updated": "2026-10-23T17:50:31+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104415",
+   "title": "Trucker’s concealed carry case ends. Can Congress deliver a fix?",
+   "url": "https://landline.media/truckers-concealed-carry-case-ends-can-congress-deliver-a-fix/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "Your concealed carry permit may not travel as far as your final destination. A trucker’s legal challenge ends, but the problem remains.",
+   "published": "2026-10-23T17:36:41+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104410",
+   "title": "Missouri DOT announces speed limit changes along rural interstates",
+   "url": "https://landline.media/missouri-dot-announces-speed-limit-changes-along-rural-interstates/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "Missouri is raising speed limits in certain rural areas along four interstates. Find out where they’re going up and when they take effect.",
+   "published": "2026-10-23T17:34:24+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584026",
    "title": "Cost pressures sink Marten Transport’s Q3",
@@ -1109,33 +1139,6 @@
    ],
    "excerpt": "CSX has eliminated 109 operations management positions as part of a restructuring of its engineering functions. The organizational changes were first outlined this past spring, a CSX (NASDAQ: CSX ) spokesman said in an email to FreightWaves. The cuts “are intended to establish a more effective…",
    "published": "2026-10-21T13:41:19+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583735",
-   "title": "Autonomous railcar technology earns $16M federal grant",
-   "url": "https://www.freightwaves.com/news/autonomous-railcar-technology-earns-16m-federal-grant",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech",
-    "Ports/Rail"
-   ],
-   "excerpt": "Intramotev will deploy two autonomous freight railcars on Missouri’s Columbia Terminal Railroad as part of a project supported by a $16.2 million federal grant awarded to the City of Columbia. The Federal Railroad Administration selected the city for funding under its Consolidated Rail…",
-   "published": "2026-10-21T13:01:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583704",
-   "title": "Stord acquires e-commerce competitor AMS Fulfillment in large deal",
-   "url": "https://www.freightwaves.com/news/stord-acquires-e-commerce-competitor-ams-fulfillment-in-large-deal",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [],
-   "excerpt": "Fast-growing e–commerce logistics provider Stord has made the largest acquisition since its founding 11 years ago, acquiring rival AMS Fulfillment, which processes online orders for more than 150 beauty, wellness and direct-to-consumer brands. Transaction terms were not disclosed, but Stord said in…",
-   "published": "2026-10-21T12:59:08+00:00"
   }
  ]
 }
