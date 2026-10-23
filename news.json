@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-23T14:00:40+00:00",
+ "updated": "2026-10-23T14:30:33+00:00",
  "items": [
+  {
+   "id": "https://www.truckingdive.com/news/heartland-express-q3-turnaround-aided-by-capacity-driven-price-improvements/833704/",
+   "title": "Heartland Express Q3 turnaround aided by capacity-driven price improvements",
+   "url": "https://www.truckingdive.com/news/heartland-express-q3-turnaround-aided-by-capacity-driven-price-improvements/833704/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Capacity"
+   ],
+   "excerpt": "The carrier reversed an operating loss for the quarter from 2025 with $1 million in net income.",
+   "published": "2026-10-23T14:20:00+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/ryder-earnings-q3-2026",
    "title": "Ryder to boost tractor rental fleet by 10% in Q4",
@@ -1121,20 +1135,6 @@
    "tags": [],
    "excerpt": "Shippers are changing how they move Mexican freight, creating potential opportunities for carriers based well beyond the border.",
    "published": "2026-10-20T21:15:27+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15838005",
-   "title": "Judge clears the way for Paccar MX-13 class action to go to trial",
-   "url": "https://www.ccjdigital.com/trucks/class-7-8/article/15838005/judge-allows-epa-2021-mx13-engine-lawsuit-against-paccar-to-move-forward",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "A Washington judge has cleared the way for buyers of trucks with EPA 2021 model year (MY) MX-13 engines to proceed to trial with a class-action suit against Paccar. Thirty-one customers who say they purchased Kenworth or Peterbilt trucks with the EPA 2021 MX-13 diesel engine filed an amended claim…",
-   "published": "2026-10-20T21:02:50+00:00"
   }
  ]
 }
