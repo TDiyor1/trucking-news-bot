@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-23T13:30:29+00:00",
+ "updated": "2026-10-23T14:00:40+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/ryder-earnings-q3-2026",
+   "title": "Ryder to boost tractor rental fleet by 10% in Q4",
+   "url": "https://www.ttnews.com/articles/ryder-earnings-q3-2026",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "Ryder is increasing its tractor rental fleet by 10% in the fourth quarter of 2026 compared with the third quarter as a result of the freight market upturn.",
+   "published": "2026-10-23T13:30:00+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/oil-prices-levels-may",
    "title": "Oil prices hit levels not seen since May",
@@ -1121,21 +1135,6 @@
    ],
    "excerpt": "A Washington judge has cleared the way for buyers of trucks with EPA 2021 model year (MY) MX-13 engines to proceed to trial with a class-action suit against Paccar. Thirty-one customers who say they purchased Kenworth or Peterbilt trucks with the EPA 2021 MX-13 diesel engine filed an amended claim…",
    "published": "2026-10-20T21:02:50+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/trump-suit-canada-tariffs",
-   "title": "Trump faces suit over 50% Canada tariffs",
-   "url": "https://www.ttnews.com/articles/trump-suit-canada-tariffs",
-   "source": "Transport Topics",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "The Trump administration is being sued over the imposition of 50% tariffs on an array of Canadian goods.",
-   "published": "2026-10-20T20:50:15+00:00"
   }
  ]
 }
