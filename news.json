@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T18:22:41+00:00",
+ "updated": "2026-10-23T18:30:31+00:00",
  "items": [
   {
    "id": "https://landline.media/?p=104423",
@@ -30,6 +30,18 @@
    ],
    "excerpt": "More than 200 motor carriers will be allowed to operate under an hours-of-service exemption requested by railroad associations.",
    "published": "2026-10-23T18:08:45+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584058",
+   "title": "Wabtec earnings rise on higher freight and transit sales",
+   "url": "https://www.freightwaves.com/news/wabtec-earnings-rise-on-higher-freight-and-transit-sales",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Wabtec reported higher third-quarter revenue and earnings and raised its outlook as the company’s freight and transit equipment backlogs grew. Operating income increased 27%, to $625 million, as revenue grew 8%, to $3.12 billion, the company said Wednesday.",
+   "published": "2026-10-23T18:06:23+00:00"
   },
   {
    "id": "https://landline.media/?p=104407",
@@ -1125,20 +1137,6 @@
    "tags": [],
    "excerpt": "Phillips Connect launched two smart trailer products Sunday at the American Trucking Associations’ Management Conference & Exhibition in Charlotte, North Carolina. Insights reads trailer sensor data to diagnose tire and lighting problems. TrailerSignal, a light on the trailer nose, shows green when…",
    "published": "2026-10-21T14:57:54+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/incoming-ata-president-says-role-is-the-greatest-honor-of-a-lifetime/833432/",
-   "title": "Incoming ATA president says role is ‘the greatest honor of a lifetime’",
-   "url": "https://www.truckingdive.com/news/incoming-ata-president-says-role-is-the-greatest-honor-of-a-lifetime/833432/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Mark Colson said his priorities are to win members’ trust and grow the organization.",
-   "published": "2026-10-21T14:50:00+00:00"
   }
  ]
 }
