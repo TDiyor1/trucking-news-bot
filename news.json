@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-23T12:30:29+00:00",
+ "updated": "2026-10-23T12:51:45+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/oil-prices-levels-may",
+   "title": "Oil prices hit levels not seen since May",
+   "url": "https://www.ttnews.com/articles/oil-prices-levels-may",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Brent crude rose 1.6% to $114.92 a barrel, and the national average for a gallon of regular gas rose 2 cents to $4.29 on Oct. 23, compared with $3.07 a year ago.",
+   "published": "2026-10-23T12:06:57+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=583991",
    "title": "Workforce gaps keep supply chain AI stuck in pilot mode",
@@ -1122,18 +1136,6 @@
    ],
    "excerpt": "The Trump administration is being sued over the imposition of 50% tariffs on an array of Canadian goods.",
    "published": "2026-10-20T20:50:15+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583682",
-   "title": "PACCAR builds a fleet app platform into Kenworth, Peterbilt",
-   "url": "https://www.freightwaves.com/news/paccar-connect-kenworth-peterbilt-launch",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "PACCAR will put a factory-installed touchscreen and fleet app platform called PACCAR Connect in Kenworth and Peterbilt Class 8 trucks beginning in early 2027. The company announced the system Monday at the American Trucking Associations’ Management Conference & Exhibition in Charlotte, North…",
-   "published": "2026-10-20T20:35:38+00:00"
   }
  ]
 }
