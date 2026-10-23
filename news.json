@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T22:03:36+00:00",
+ "updated": "2026-10-23T22:30:31+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/ai-alerts-win-skeptical-drivers",
@@ -47,6 +47,21 @@
    ],
    "excerpt": "Less-than-truckload carrier Roadrunner announced a new outbound Canada-to-U.S. service on Friday. It also announced a 5.9% general rate increase, which will be effective on Nov. 2. Roadrunner’s ( OTC: RRTS ) new service connects shippers across Canada to approximately 40 major metro markets in the…",
    "published": "2026-10-23T18:31:28+00:00"
+  },
+  {
+   "id": "https://www.supplychaindive.com/news/trump-tweaks-canada-tariffs-removing-certain-goods-while-adding-others/833895/",
+   "title": "Trump tweaks Canada tariffs, removing certain goods while adding others",
+   "url": "https://www.supplychaindive.com/news/trump-tweaks-canada-tariffs-removing-certain-goods-while-adding-others/833895/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "Plywood and certain packaging materials are among the products that will no longer face the 50% tariff, effective Oct. 30.",
+   "published": "2026-10-23T18:24:00+00:00"
   },
   {
    "id": "https://landline.media/?p=104423",
@@ -272,6 +287,21 @@
    ],
    "excerpt": "Ryder is increasing its tractor rental fleet by 10% in the fourth quarter of 2026 compared with the third quarter as a result of the freight market upturn.",
    "published": "2026-10-23T13:30:00+00:00"
+  },
+  {
+   "id": "https://www.supplychaindive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833840/",
+   "title": "Trump eschews tariffs for trade talks on wind turbine imports",
+   "url": "https://www.supplychaindive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833840/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "Following a Section 232 probe, the president tasked cabinet officials to engage in negotiations and report on their progress within 180 days.",
+   "published": "2026-10-23T12:11:00+00:00"
   },
   {
    "id": "https://www.ttnews.com/articles/oil-prices-levels-may",
@@ -1116,34 +1146,6 @@
    "tags": [],
    "excerpt": "Freightos founder Zvi Schreiber’s campaign to change the company’s leadership is heading to a contested shareholder vote, escalating a dispute over the digital freight-booking platform’s strategy, financial performance and long-term prospects. The company’s board has agreed to put Schreiber’s…",
    "published": "2026-10-21T18:15:33+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583750",
-   "title": "New trucking bankruptcies expose mounting debt and shrinking fleets",
-   "url": "https://www.freightwaves.com/news/new-trucking-bankruptcies-expose-mounting-debt-and-shrinking-fleets",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Capacity"
-   ],
-   "excerpt": "Financial distress continues to affect trucking companies across the U.S., with at least 16 carriers filing for bankruptcy protection between Sept. 18 and Oct. 21. According to a FreightWaves review of federal bankruptcy records, the filings span multiple freight segments, including general…",
-   "published": "2026-10-21T17:16:15+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=327133",
-   "title": "Follow the money or follow the flag? Politics clouds port investment",
-   "url": "https://theloadstar.com/follow-the-money-or-follow-the-flag-politics-clouds-port-investment/",
-   "source": "The Loadstar",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "In the seven years since TOC Americas last took place in Cartagena, global laden container volumes have slipped about 10% below where they would have been without the multiple disruptions that have hit the industry since 2018, according to Dinesh Sharma, director at Drewry Maritime Advisors.…",
-   "published": "2026-10-21T17:15:38+00:00"
   }
  ]
 }
