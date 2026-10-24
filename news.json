@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-24T23:00:33+00:00",
+ "updated": "2026-10-24T23:20:58+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/15837766",
+   "title": "The little engines that could: 3 OEMs stand ready to meet EPA's strictest ever NOx limits",
+   "url": "https://www.ccjdigital.com/trucks/class-7-8/article/15837766/truck-makers-prep-0035gram-nox-engines-for-2027-epa-standards",
+   "source": "CCJ",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "With the trucking industry bracing for the Environmental Protection Agency’s stringent 2027 emissions regulations , sister companies Volvo Trucks North America and Mack Trucks, along with International Motors, find themselves in a unique position: owners of true 0.035-gram nitrogen oxide (NOx)…",
+   "published": "2026-10-24T23:05:00+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/ai-alerts-win-skeptical-drivers",
    "title": "AI alerts help win over skeptical drivers, fleet execs say",
@@ -1132,20 +1147,6 @@
    "tags": [],
    "excerpt": "The first response in the RICO case initiated by a group of carriers against giant 3PLs C.H. Robinson and TQL has been filed by the latter, and it has two key arguments. TQL, in a series of three individual motions filed Monday in the U.S. District Court for the Eastern District of Texas, is…",
    "published": "2026-10-21T18:16:39+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583536",
-   "title": "Freightos founder takes board fight to shareholder vote",
-   "url": "https://www.freightwaves.com/news/freightos-founder-takes-board-fight-to-shareholder-vote",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Freightos founder Zvi Schreiber’s campaign to change the company’s leadership is heading to a contested shareholder vote, escalating a dispute over the digital freight-booking platform’s strategy, financial performance and long-term prospects. The company’s board has agreed to put Schreiber’s…",
-   "published": "2026-10-21T18:15:33+00:00"
   }
  ]
 }
