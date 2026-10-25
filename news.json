@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-25T00:51:02+00:00",
+ "updated": "2026-10-25T01:00:34+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584029",
+   "title": "Truckload contract rate increases riding steady above 10%",
+   "url": "https://www.freightwaves.com/news/truckload-contract-rate-increases-riding-steady-above-10",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "Chart of the Week: Contract Rate Change Direction Index – USA SONAR : CRCD.USA Shippers who have reset truckload contracts over the past several months are paying about 13% more than the rates they replaced. That is the reading from SONAR’s new Contract Rate Change Direction index (CRCD.USA), which…",
+   "published": "2026-10-25T00:30:00+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/15837766",
    "title": "The little engines that could: 3 OEMs stand ready to meet EPA's strictest ever NOx limits",
@@ -1134,19 +1149,6 @@
    ],
    "excerpt": "FMCSA Administrator Derek Barrs expanded the waiver to provide motor carriers with more flexibility when transporting fuel to offset global supply disruptions, higher demand and rising costs.",
    "published": "2026-10-21T18:24:53+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583771",
-   "title": "TQL’s RICO response: rips carriers’ ‘poor business practices’",
-   "url": "https://www.freightwaves.com/news/tqls-rico-response-rips-carriers-poor-business-practices",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "The first response in the RICO case initiated by a group of carriers against giant 3PLs C.H. Robinson and TQL has been filed by the latter, and it has two key arguments. TQL, in a series of three individual motions filed Monday in the U.S. District Court for the Eastern District of Texas, is…",
-   "published": "2026-10-21T18:16:39+00:00"
   }
  ]
 }
