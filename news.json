@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-25T11:00:33+00:00",
+ "updated": "2026-10-25T11:30:30+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584078",
+   "title": "Borderlands Mexico: Avocado imports generate $641M for US trucking, warehousing",
+   "url": "https://www.freightwaves.com/news/borderlands-mexico-avocado-imports-generate-641m-for-us-trucking-warehousing",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade. This week in Borderlands Mexico: Avocado imports generate $641M for US trucking, warehousing; GLS US expands parcel delivery network to Texas border market and Jetco expands…",
+   "published": "2026-10-25T11:00:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584029",
    "title": "Truckload contract rate increases riding steady above 10%",
@@ -1135,20 +1149,6 @@
    "tags": [],
    "excerpt": "It’s spooky season; the time of ghosts, witches, pumpkins and … ever-so-eerie fog. Fall brings peak fog-forming weather as temperatures shift, and the Federal Highway Administration estimates that fog causes more than 38,000 crashes and more than 600 deaths each year.",
    "published": "2026-10-21T18:31:26+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/fmcsa-heating-oil-fuel-waiver",
-   "title": "FMCSA adds ethanol, heating oil to fuel hauler waiver",
-   "url": "https://www.ttnews.com/articles/fmcsa-heating-oil-fuel-waiver",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "FMCSA Administrator Derek Barrs expanded the waiver to provide motor carriers with more flexibility when transporting fuel to offset global supply disruptions, higher demand and rising costs.",
-   "published": "2026-10-21T18:24:53+00:00"
   }
  ]
 }
