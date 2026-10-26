@@ -1,6 +1,22 @@
 {
- "updated": "2026-10-26T22:36:54+00:00",
+ "updated": "2026-10-26T23:00:36+00:00",
  "items": [
+  {
+   "id": "https://www.dat.com/blog/?p=27694",
+   "title": "Reefer Report: Produce volume rebounds as spot rates ease",
+   "url": "https://www.dat.com/blog/reefer-report-produce-volume-rebounds-as-spot-rates-ease",
+   "source": "DAT iQ",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Diesel"
+   ],
+   "excerpt": "Reefer spot linehaul rates paid to carriers averaged $2.73 per mile last week, minus fuel, down 0.9%, or $0.02 per mile, from the week before. Rates climbed 31.4%, or $0.65 per mile, year over year and held 28.6%, or $0.61 per mile, above the nine-year seasonal average of $2.12 per mile, near the…",
+   "published": "2026-10-26T22:39:36+00:00"
+  },
   {
    "id": "https://www.dat.com/blog/?p=27691",
    "title": "Flatbed Report: Tightest board eases as truck posts climb",
@@ -1138,20 +1154,6 @@
    "tags": [],
    "excerpt": "Pennsylvania lawmakers want to clear up funding rules that may leave municipal bridge repairs on hold while transportation money goes unused.",
    "published": "2026-10-22T17:25:29+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104394",
-   "title": "Nine days into trial, FedEx settles fatal crash case",
-   "url": "https://landline.media/nine-days-into-trial-fedex-settles-fatal-crash-case/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "FedEx denied liability in a fatal crash case, then settled mid-trial. What led to the courtroom showdown with $250 million on the table?",
-   "published": "2026-10-22T17:22:24+00:00"
   }
  ]
 }
