@@ -1,6 +1,33 @@
 {
- "updated": "2026-10-26T20:30:31+00:00",
+ "updated": "2026-10-26T20:40:35+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/15975471",
+   "title": "Midwest freight project highlights role of RNG in lowering supply chain emissions",
+   "url": "https://www.ccjdigital.com/alternative-power/natural-gas/article/15975471/sustainable-freight-pti-graphic-packaging-deploy-rng-fleet",
+   "source": "CCJ",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [],
+   "excerpt": "A fleet of eight renewable natural gas-powered trucks is helping Graphic Packaging International tackle its supply chain emissions while maintaining the reliability of daily runs between Chicago and Kalamazoo. Paper Transport is working with Graphic Packaging International, a global leader in…",
+   "published": "2026-10-26T20:31:09+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/pilot-tesla-2-truck-charging",
+   "title": "Pilot, Tesla open first 2 heavy-duty truck charging sites",
+   "url": "https://www.ttnews.com/articles/pilot-tesla-2-truck-charging",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Pilot and Tesla opened heavy-duty electric truck charging sites at travel centers in Georgia and California in October.",
+   "published": "2026-10-26T20:30:00+00:00"
+  },
   {
    "id": "https://landline.media/?p=104444",
    "title": "Safe miles, higher premiums: Report highlights hidden costs of trucking litigation",
@@ -1117,37 +1144,6 @@
    "tags": [],
    "excerpt": "United Parcel Service has completed the conversion of four more conventional package sortation centers into automated facilities just in time for the busy holiday shipping season. New or enhanced automated facilities are now operating in Denver, St. Paul, Minnesota; Syracuse, New York; and…",
    "published": "2026-10-22T15:38:17+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/knight-swift-reports-breakout-q3-profits/833685/",
-   "title": "Knight-Swift reports breakout Q3 profits",
-   "url": "https://www.truckingdive.com/news/knight-swift-reports-breakout-q3-profits/833685/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Its truckload segment performance surged in the quarter, aided by improved pricing and one-way service, the company reported Wednesday.",
-   "published": "2026-10-22T15:27:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583879",
-   "title": "First look: Union Pacific earnings",
-   "url": "https://www.freightwaves.com/news/first-look-union-pacific-earnings-4",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Diesel",
-    "Ports/Rail"
-   ],
-   "excerpt": "Union Pacific reported a 16% increase in third-quarter profit Thursday as higher freight volumes, pricing gains and fuel surcharges lifted revenue, with intermodal traffic leading the railroad’s growth. The Omaha-based railroad (NYSE: UNP ) earned $2.08 billion, or $3.49 per diluted share, compared…",
-   "published": "2026-10-22T14:46:03+00:00"
   }
  ]
 }
