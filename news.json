@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-26T14:00:39+00:00",
+ "updated": "2026-10-26T14:11:40+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/cabotage-elp-california",
+   "title": "Cabotage, ELP violations targeted in California truck checks",
+   "url": "https://www.ttnews.com/articles/cabotage-elp-california",
+   "source": "Transport Topics",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "The joint operations targeting truckers at a California state Route 86 checkpoint during August and September were announced by Customs and Border Protection.",
+   "published": "2026-10-26T14:08:49+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/how-diesel-is-powering-yesways-gains/833753/",
+   "title": "How diesel is powering Yesway’s gains",
+   "url": "https://www.truckingdive.com/news/how-diesel-is-powering-yesways-gains/833753/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Diesel accounts for more than a third of the fuel the company sells at its stores, thanks in part to its focus on operating in areas with a lot of truck traffic.",
+   "published": "2026-10-26T13:58:00+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/aurora-targets-30000-driverless-trucks-5b-revenue-in-2030/833800/",
+   "title": "Aurora targets 30,000 driverless trucks, $5B revenue in 2030",
+   "url": "https://www.truckingdive.com/news/aurora-targets-30000-driverless-trucks-5b-revenue-in-2030/833800/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "\"It’s a realistic number,\" CFO David Maday said. \"I know it sounds like a lot.\"",
+   "published": "2026-10-26T13:58:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584132",
+   "title": "FedEx taps AutoZone executive to be finance chief",
+   "url": "https://www.freightwaves.com/news/fedex-taps-autozone-executive-to-be-finance-chief",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [],
+   "excerpt": "FedEx Corp. announced Monday the appointment of AutoZone executive Jamere Jackson as chief financial officer, effective Nov. 30. He succeeds Claude Russ, who has served as interim CFO since June 1 after the departure of John Dietrich. Jackson most recently led finance and store development at…",
+   "published": "2026-10-26T13:49:09+00:00"
+  },
   {
    "id": "https://theloadstar.com/?p=327347",
    "title": "US delays port fees for Chinese ships again – now until 9 January",
@@ -1097,66 +1152,6 @@
    ],
    "excerpt": "U.S. and Mexican trade negotiators have hit an impasse over tariffs on steel and aluminum, dashing earlier optimism for an imminent deal.",
    "published": "2026-10-21T20:00:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/irs-dyed-diesel-penalties",
-   "title": "IRS waives dyed diesel penalties, but taxes remain",
-   "url": "https://www.ttnews.com/articles/irs-dyed-diesel-penalties",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "The IRS announced Oct. 14 that no penalties would be imposed on dyed diesel sold and used to drive on highways nationwide from Oct. 1 through Dec. 31.",
-   "published": "2026-10-21T19:55:54+00:00"
-  },
-  {
-   "id": "https://www.dcvelocity.com/logistics/warehousing/demand-slumps-for-portside-warehouse-space-cushman-wakefield-says",
-   "title": "Demand slumps for portside warehouse space, Cushman & Wakefield says",
-   "url": "https://www.dcvelocity.com/logistics/warehousing/demand-slumps-for-portside-warehouse-space-cushman-wakefield-says",
-   "source": "DC Velocity",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Rates",
-    "Ports/Rail"
-   ],
-   "excerpt": "Despite strong U.S. container import volumes, warehouse vacancy rates near seaports rose 20 basis points to 7.7% through July, up from year-end 2025 and above the national rate of 6.8%, according to Cushman & Wakefield. The reasons for the empty warehouse space include shifting distribution…",
-   "published": "2026-10-21T19:35:30+00:00"
-  },
-  {
-   "id": "https://www.dcvelocity.com/transportation/rail/autonomous-freight-railcar-builder-to-provide-two-cars-for-missouri-short-line",
-   "title": "Autonomous freight railcar builder to provide two cars for Missouri short line",
-   "url": "https://www.dcvelocity.com/transportation/rail/autonomous-freight-railcar-builder-to-provide-two-cars-for-missouri-short-line",
-   "source": "DC Velocity",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech",
-    "Ports/Rail"
-   ],
-   "excerpt": "Autonomous freight railcar builder Intramotev this week said it will provide its technology for a federally funded project to run robotic locomotives on Missouri’s Columbia Terminal Railroad (COLT). Specifically, Saint Louis, Missouri-based Intramotev will serve as the technology partner on a $16.2…",
-   "published": "2026-10-21T19:33:22+00:00"
-  },
-  {
-   "id": "https://www.dcvelocity.com/supply-chain/other-services/supply-chain-security/cargo-thieves-target-high-value-ai-computer-hardware",
-   "title": "Cargo thieves target high-value AI computer hardware",
-   "url": "https://www.dcvelocity.com/supply-chain/other-services/supply-chain-security/cargo-thieves-target-high-value-ai-computer-hardware",
-   "source": "DC Velocity",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Fraud",
-    "Tech"
-   ],
-   "excerpt": "The artificial intelligence arms race has created a new target for cargo thieves, who have stolen more than $150 million in AI equipment this year, according to supply chain visibility provider Overhaul. Overhaul’s AI Infrastructure Intel Report also found a 34% increase in the theft of data center…",
-   "published": "2026-10-21T19:21:44+00:00"
   }
  ]
 }
