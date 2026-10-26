@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T15:47:14+00:00",
+ "updated": "2026-10-26T16:00:42+00:00",
  "items": [
   {
    "id": "https://joc.com/article/up-resumes-intermodal-container-fleet-expansion-6312193",
@@ -15,6 +15,20 @@
    ],
    "excerpt": "Union Pacific Railroad’s purchase of 500 new domestic containers breaks a three-year industry equipment freeze and diverges from the approach of private asset-owning intermodal providers.",
    "published": "2026-10-26T15:44:20+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584144",
+   "title": "AI air freight drives Kuehne+Nagel profit increase",
+   "url": "https://www.freightwaves.com/news/ai-air-freight-drives-kuehnenagel-profit-increase",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Earnings and volume gains, led by AI-related air freight demand and ongoing cost controls, spurred strong third-quarter results for Kuehne+Nagel, beating analysts’ estimates for profit and volumes. Revenue increased 22% to $8.97 billion and pre-tax earnings were $527 million, up 53% year over year,…",
+   "published": "2026-10-26T15:26:44+00:00"
   },
   {
    "id": "https://www.supplychaindive.com/news/ups-plans-59-rate-increase-on-dec-21/872751/",
@@ -1143,20 +1157,6 @@
    "tags": [],
    "excerpt": "It was hard not to read the quarterly letter to shareholders by Aaron Graft, the CEO of Triumph Financial, and not get a sense that he was taking the first few steps into a victory lap. Triumph’s message to investors for years has been consistent, and it has been amplified every three months in…",
    "published": "2026-10-21T23:29:46+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583820",
-   "title": "The Data Your Truck Sends Home Is Becoming Your New Credit Score, And Your Insurance Rate Too",
-   "url": "https://www.freightwaves.com/news/the-data-your-truck-sends-home-is-becoming-your-new-credit-score-and-your-insurance-rate-too",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Somewhere in your truck right now, a connected system is quietly recording how it is driven, how hard it works, where it goes, and how healthy its engine is, and that stream of data is no longer just a maintenance convenience, it is becoming one of the most important numbers in your business,…",
-   "published": "2026-10-21T23:11:33+00:00"
   }
  ]
 }
