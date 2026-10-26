@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-26T16:40:34+00:00",
+ "updated": "2026-10-26T17:00:36+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104432",
+   "title": "Another motor carrier seeks exemption from steady-burning light rule",
+   "url": "https://landline.media/another-motor-carrier-seeks-exemption-from-steady-burning-light-rule/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "Currently, 13 motor carriers possess exemptions from a rule that requires lighting devices to be steady-burning. Another company wants on that list.",
+   "published": "2026-10-26T16:41:00+00:00"
+  },
   {
    "id": "https://www.dcvelocity.com/technology/artificial-intelligence/enterprises-are-adopting-ai-faster-than-theyre-optimizing-processes-for-it",
    "title": "Enterprises are adopting AI faster than they’re optimizing processes for it",
@@ -1141,23 +1155,6 @@
    "tags": [],
    "excerpt": "Cleo estimates that late and incomplete deliveries cost U.S. and Canadian consumer packaged goods (CPG) and food and beverage manufacturers about $100 billion a year. The supply chain software company released the figure Tuesday in a report on on-time, in-full (OTIF) performance.",
    "published": "2026-10-22T11:00:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583846",
-   "title": "CSX profit jumps on volume and revenue growth",
-   "url": "https://www.freightwaves.com/news/csx-profit-jumps-on-volume-and-revenue-growth",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Diesel",
-    "Ports/Rail"
-   ],
-   "excerpt": "CSX’s third-quarter profits increased due to a combination of volume growth, higher fuel surcharge revenue, and efficiency gains, the railroad said. Operating income increased 44%, to $1.57 billion, while revenue increased 12%, to a record $4.02 billion, the company said Wednesday.",
-   "published": "2026-10-22T10:00:00+00:00"
   }
  ]
 }
