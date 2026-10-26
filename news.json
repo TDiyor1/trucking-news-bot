@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-26T15:06:50+00:00",
+ "updated": "2026-10-26T15:40:12+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584144",
+   "title": "AI air freight drives Kuehne+Nagel profit increase",
+   "url": "https://www.freightwaves.com/news/ai-air-freight-drives-kuehnenagel-profit-increase",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Earnings and volume gains, led by AI-related air freight demand and ongoing cost controls, spurred strong third-quarter results for Kuehne+Nagel, beating analysts’ estimates for profit and volumes. Revenue increased 22% to $8.97 billion and pre-tax earnings were $527 million, up 53% year over year,…",
+   "published": "2026-10-26T15:26:44+00:00"
+  },
+  {
+   "id": "https://www.supplychaindive.com/news/ups-plans-59-rate-increase-on-dec-21/872751/",
+   "title": "UPS plans 5.9% rate increase on Dec. 21",
+   "url": "https://www.supplychaindive.com/news/ups-plans-59-rate-increase-on-dec-21/872751/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "The carrier's average rate bump will match FedEx's upcoming increase, but UPS also has additional changes in store.",
+   "published": "2026-10-26T15:10:00+00:00"
+  },
   {
    "id": "https://www.supplychaindive.com/news/csx-sees-rail-conversion-opportunities-from-battered-trucking-market/833858/",
    "title": "CSX sees rail conversion opportunities from battered trucking market",
@@ -1128,32 +1156,6 @@
    ],
    "excerpt": "Somewhere in your truck right now, a connected system is quietly recording how it is driven, how hard it works, where it goes, and how healthy its engine is, and that stream of data is no longer just a maintenance convenience, it is becoming one of the most important numbers in your business,…",
    "published": "2026-10-21T23:11:33+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15838123",
-   "title": "A 'perfect storm' drives trailer demand",
-   "url": "https://www.ccjdigital.com/economic-trends/article/15838123/trailer-demands-perfect-storm-hits-2027-order-season",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "U.S. heavy-duty trailer orders signal a strong start to the 2027 order season. FTR data reported September net orders reaching 43,059 units, the most since December 2022. It’s a 78% jump from August and a 385% increase from September 2025 . ACT Research’s estimate put September net orders at 42,700…",
-   "published": "2026-10-21T22:50:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583729",
-   "title": "First look: Knight-Swift’s Q3 beats expectations",
-   "url": "https://www.freightwaves.com/news/first-look-knight-swifts-q3-beats-expectations",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Knight-Swift Transportation beat third-quarter expectations Wednesday after the market closed. Knight-Swift ( NYSE: KNX ) reported third-quarter adjusted earnings per share of 83 cents, 51 cents higher than the year-ago quarter and 7 cents better than the consensus estimate.",
-   "published": "2026-10-21T21:39:32+00:00"
   }
  ]
 }
