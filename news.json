@@ -1,6 +1,22 @@
 {
- "updated": "2026-10-26T12:00:35+00:00",
+ "updated": "2026-10-26T12:30:32+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584121",
+   "title": "New ‘conundrum’: Asia-US, Europe ocean rates diverge",
+   "url": "https://www.freightwaves.com/news/new-conundrum-asia-us-europe-ocean-rates-diverge",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Ports/Rail"
+   ],
+   "excerpt": "Trans-Pacific container spot rates were largely unchanged last week, signaling the market has peaked and is likely to soften through the remainder of 2026, according to analyst Xeneta. Average spot rates from Asia to the U.S. West Coast edged up 0.2% in the week ending Oct.",
+   "published": "2026-10-26T11:59:46+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584086",
    "title": "How Shaw backhauls turn old carpet tile into new opportunity",
@@ -1140,20 +1156,6 @@
    ],
    "excerpt": "Federal and state officials have tried to address inflated fuel prices. What would the trucking industry like to see done?",
    "published": "2026-10-21T19:05:00+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104377",
-   "title": "New Jersey targets truck route traps and low bridges",
-   "url": "https://landline.media/new-jersey-targets-truck-route-traps-and-low-bridges/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "New Jersey lawmakers are pushing bills to clear up truck route rules, keep rigs away from low bridges and crack down on overweight trucks.",
-   "published": "2026-10-21T18:58:54+00:00"
   }
  ]
 }
