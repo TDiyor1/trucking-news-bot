@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-26T20:40:35+00:00",
+ "updated": "2026-10-26T21:00:56+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/15975473",
+   "title": "Kenworth is dropping a massive touchscreen into its redesigned truck cab",
+   "url": "https://www.ccjdigital.com/trucks/class-7-8/article/15975473/kenworths-redesigned-interior-get-a-15inch-touchscreen",
+   "source": "CCJ",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Kenworth is giving its heavy truck lineup a big tech and comfort upgrade, headlined by a redesigned interior featuring a 15-inch touchscreen. The 15-inch horizontal high-definition touchscreen display, the largest in the industry, is positioned for easy reach with a supporting handhold for…",
+   "published": "2026-10-26T20:41:48+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/15975471",
    "title": "Midwest freight project highlights role of RNG in lowering supply chain emissions",
@@ -1132,18 +1146,6 @@
    "tags": [],
    "excerpt": "U.S. trailer orders surged in September to their highest level in nearly four years, while FTR Transportation Intelligence and ACT Research reported conflicting trends in North American Class 8 truck orders. The mixed signals come as fleets navigate regulatory uncertainty , rising equipment costs…",
    "published": "2026-10-22T15:42:56+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583897",
-   "title": "UPS automates 4 additional facilities ahead of peak shipping season",
-   "url": "https://www.freightwaves.com/news/ups-automates-4-additional-facilities-ahead-of-peak-shipping-season",
-   "source": "FreightWaves",
-   "audience": [
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "United Parcel Service has completed the conversion of four more conventional package sortation centers into automated facilities just in time for the busy holiday shipping season. New or enhanced automated facilities are now operating in Denver, St. Paul, Minnesota; Syracuse, New York; and…",
-   "published": "2026-10-22T15:38:17+00:00"
   }
  ]
 }
