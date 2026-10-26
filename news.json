@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-26T17:40:25+00:00",
+ "updated": "2026-10-26T18:00:40+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/georgia-extends-fuel-tax-break",
+   "title": "Georgia extends motor fuel tax break ahead of Thanksgiving",
+   "url": "https://www.ttnews.com/articles/georgia-extends-fuel-tax-break",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "The suspension of Georgia’s current per-gallon motor fuel excise tax of 37.3 cents for diesel and 33.3 cents for gasoline extends through Nov. 30.",
+   "published": "2026-10-26T17:51:48+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104438",
+   "title": "Builders of trucking history enter hall of fame",
+   "url": "https://landline.media/builders-of-trucking-history-enter-hall-of-fame/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "From a homemade chassis to a household name in trucking, this year’s Hall of Fame inductees started small and thought big.",
+   "published": "2026-10-26T17:44:35+00:00"
+  },
   {
    "id": "https://landline.media/?p=104435",
    "title": "Fuel tax breaks promise savings. But do truckers really win?",
@@ -1126,37 +1154,6 @@
    ],
    "excerpt": "Industrial output help U.S. railroads steel themselves against increasing demand and show some mettle amid uncertain economic conditions. For the week ending Oct. 17, total U.S. weekly rail traffic was 540,135 carloads and intermodal units, up 8.5% from the same week a year ago, according to the…",
    "published": "2026-10-22T14:00:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583844",
-   "title": "First look: almost all strong numbers in Ryder’s third quarter earnings",
-   "url": "https://www.freightwaves.com/news/first-look-almost-all-strong-numbers-in-ryders-third-quarter-earnings",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "It was a solid third quarter for Ryder, with improvement in just about every metric compared to the third quarter of 2025. The numbers have been good enough that Ryder (NYSE: R) raised its full-year outlook for 2026. With three quarters in the books, there’s only so much higher it can go.",
-   "published": "2026-10-22T13:42:38+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583832",
-   "title": "Knight-Swift again eyes big rate increases as new bid season nears",
-   "url": "https://www.freightwaves.com/news/knight-swift-again-eyes-big-rate-increases-as-new-bid-season-nears",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Capacity"
-   ],
-   "excerpt": "Knight-Swift Transportation is benefitting from its high exposure to one-way truckload, the portion of the market experiencing the largest gains from the regulatory-fueled capacity shakeout. The carrier said Wednesday, in conjunction with its better-than-expected third-quarter report , that its…",
-   "published": "2026-10-22T13:31:37+00:00"
   }
  ]
 }
