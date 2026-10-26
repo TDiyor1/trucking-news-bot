@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-26T23:30:27+00:00",
+ "updated": "2026-10-26T23:36:44+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584193",
+   "title": "FMCSA’s Elison addresses Motus again, still no date on full repair",
+   "url": "https://www.freightwaves.com/news/fmcsas-elison-addresses-motus-again-still-no-date-on-full-repair",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "Chattanooga–It hasn’t been that long–about six weeks–since Jesse Elison spoke to a FreightWaves event and addressed the issue of the beleaguered new Motus registration system. The deputy administrator of the Federal Motor Carrier Safety Administration had another FreightWaves platform Tuesday at…",
+   "published": "2026-10-26T22:58:08+00:00"
+  },
   {
    "id": "https://www.dat.com/blog/?p=27694",
    "title": "Reefer Report: Produce volume rebounds as spot rates ease",
@@ -1140,20 +1155,6 @@
    ],
    "excerpt": "Union Pacific reported record third-quarter revenue and profits as higher volume , pricing, and efficiency gains more than offset the impact of rising fuel prices and inflation. “Union Pacific’s third-quarter results demonstrate our ability to safely deliver the service we sold our customers while…",
    "published": "2026-10-22T18:07:00+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104397",
-   "title": "Pennsylvania eyes a fix for a local bridge funding gap",
-   "url": "https://landline.media/pennsylvania-eyes-a-fix-for-a-local-bridge-funding-gap/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Pennsylvania lawmakers want to clear up funding rules that may leave municipal bridge repairs on hold while transportation money goes unused.",
-   "published": "2026-10-22T17:25:29+00:00"
   }
  ]
 }
