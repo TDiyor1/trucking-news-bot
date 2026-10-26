@@ -1,6 +1,35 @@
 {
- "updated": "2026-10-26T16:30:30+00:00",
+ "updated": "2026-10-26T16:40:34+00:00",
  "items": [
+  {
+   "id": "https://www.dcvelocity.com/technology/artificial-intelligence/enterprises-are-adopting-ai-faster-than-theyre-optimizing-processes-for-it",
+   "title": "Enterprises are adopting AI faster than they’re optimizing processes for it",
+   "url": "https://www.dcvelocity.com/technology/artificial-intelligence/enterprises-are-adopting-ai-faster-than-theyre-optimizing-processes-for-it",
+   "source": "DC Velocity",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Enterprises are adopting artificial intelligence much faster than they are redesigning operations to realize AI’s full business value, according to an Everest Group research report released by Lean Solutions Group. The research finds that 69% of organizations have moved beyond isolated AI use…",
+   "published": "2026-10-26T16:35:49+00:00"
+  },
+  {
+   "id": "https://www.dcvelocity.com/transportation/trucking/autonomous-trucks/charger-logistics-plans-to-buy-up-to-500-autonomous-trucks",
+   "title": "Charger Logistics plans to buy up to 500 autonomous trucks",
+   "url": "https://www.dcvelocity.com/transportation/trucking/autonomous-trucks/charger-logistics-plans-to-buy-up-to-500-autonomous-trucks",
+   "source": "DC Velocity",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tariffs",
+    "Tech"
+   ],
+   "excerpt": "The Ontario, Canada-based truck transportation provider Charger Logistics intends to purchase up to 500 autonomous trucks controlled by technology from self-driving platform provider Aurora, the companies said today. The agreement builds upon Charger’s existing contract with Aurora signed in July,…",
+   "published": "2026-10-26T16:29:35+00:00"
+  },
   {
    "id": "https://joc.com/article/up-resumes-intermodal-container-fleet-expansion-6312193",
    "title": "UP resumes intermodal container fleet expansion",
@@ -1129,34 +1158,6 @@
    ],
    "excerpt": "CSX’s third-quarter profits increased due to a combination of volume growth, higher fuel surcharge revenue, and efficiency gains, the railroad said. Operating income increased 44%, to $1.57 billion, while revenue increased 12%, to a record $4.02 billion, the company said Wednesday.",
    "published": "2026-10-22T10:00:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15838159",
-   "title": "Railroad HOS relief extended by FMCSA",
-   "url": "https://www.ccjdigital.com/regulations/article/15838159/railroad-hos-relief-extended-by-fmcsa",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation",
-    "Ports/Rail"
-   ],
-   "excerpt": "Trucking news and briefs for Thursday, Oct. 22, 2026: Railroad companies get more HOS relief The Federal Motor Carrier Safety Administration this week announced it is renewing and modifying an exemption granted to the Association of American Railroads and the American Short Line and Regional…",
-   "published": "2026-10-22T05:58:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583828",
-   "title": "Tesla Semi enters volume production as 2027 rollout approaches",
-   "url": "https://www.freightwaves.com/news/tesla-semi-enters-volume-production-as-2027-rollout-approaches",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [],
-   "excerpt": "Tesla has begun volume production of its electric Class 8 Semi truck at its Nevada factory , a major milestone as the company prepares to expand commercial deliveries in the U.S. and enter the European market in 2027. The Austin, Texas-based electric vehicle manufacturer confirmed the production…",
-   "published": "2026-10-22T00:16:11+00:00"
   }
  ]
 }
