@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-26T19:10:50+00:00",
+ "updated": "2026-10-26T19:30:51+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104444",
+   "title": "Safe miles, higher premiums: Report highlights hidden costs of trucking litigation",
+   "url": "https://landline.media/safe-miles-higher-premiums-report-highlights-hidden-costs-of-trucking-litigation/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "You don’t have to be in a crash to pay for it. A new report connects costly trucking litigation to rising insurance bills.",
+   "published": "2026-10-26T19:16:38+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/georgia-extends-fuel-tax-break",
    "title": "Georgia extends motor fuel tax break ahead of Thanksgiving",
@@ -1136,23 +1148,6 @@
    ],
    "excerpt": "Union Pacific reported a 16% increase in third-quarter profit Thursday as higher freight volumes, pricing gains and fuel surcharges lifted revenue, with intermodal traffic leading the railroad’s growth. The Omaha-based railroad (NYSE: UNP ) earned $2.08 billion, or $3.49 per diluted share, compared…",
    "published": "2026-10-22T14:46:03+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583863",
-   "title": "First look: Norfolk Southern earnings",
-   "url": "https://www.freightwaves.com/news/first-look-norfolk-southern-earnings-4",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Diesel",
-    "Ports/Rail"
-   ],
-   "excerpt": "Norfolk Southern reported higher third-quarter earnings and record revenue Thursday as freight volume grew and fuel surcharges increased, although expenses consumed a larger share of revenue. The railroad (NYSE: NSC ) said revenue rose 14%, to $3.5 billion, on a 3% increase in volume.",
-   "published": "2026-10-22T14:09:01+00:00"
   }
  ]
 }
