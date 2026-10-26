@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-26T13:00:36+00:00",
+ "updated": "2026-10-26T13:30:35+00:00",
  "items": [
+  {
+   "id": "https://theloadstar.com/?p=327347",
+   "title": "US delays port fees for Chinese ships again – now until 9 January",
+   "url": "https://theloadstar.com/us-delays-port-fees-for-chinese-ships-again-now-until-9-january/",
+   "source": "The Loadstar",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "After all the hooting, it seems the US is keen to again delay implementation of planned port fees for China-linked vessels, with the US Trade Representative (USTR) requesting the delay to give Washington and Beijing more time to negotiate. The USTR asked that the measure intended to penalise…",
+   "published": "2026-10-26T13:27:24+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584121",
    "title": "New ‘conundrum’: Asia-US, Europe ocean rates diverge",
@@ -1142,20 +1157,6 @@
    ],
    "excerpt": "The artificial intelligence arms race has created a new target for cargo thieves, who have stolen more than $150 million in AI equipment this year, according to supply chain visibility provider Overhaul. Overhaul’s AI Infrastructure Intel Report also found a 34% increase in the theft of data center…",
    "published": "2026-10-21T19:21:44+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104380",
-   "title": "Fuel prices lead trucking concerns as industry seeks relief",
-   "url": "https://landline.media/fuel-prices-lead-trucking-concerns-as-industry-seeks-relief/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Federal and state officials have tried to address inflated fuel prices. What would the trucking industry like to see done?",
-   "published": "2026-10-21T19:05:00+00:00"
   }
  ]
 }
