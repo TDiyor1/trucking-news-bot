@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-26T10:30:33+00:00",
+ "updated": "2026-10-26T11:00:35+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/15838338",
+   "title": "Higher truckload rates lift Marten's Q3 earnings, but diesel pulls it back",
+   "url": "https://www.ccjdigital.com/business/article/15838338/marten-transport-q3-2026-profit-rises-307-amid-fuel-and-health-insurance-costs",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Rates",
+    "Diesel"
+   ],
+   "excerpt": "Marten Transport ( CCJ Top 250 , No. 40) grew third-quarter net income by 30.7% year over year, but soaring diesel prices and rising health insurance costs offset a sharp rise in truckload rates. Randolph L. Marten, chairman of the board and chief executive officer, said the freight market is in…",
+   "published": "2026-10-26T10:43:02+00:00"
+  },
   {
    "id": "https://www.supplychaindive.com/spons/promises-vs-reality-closing-the-ai-adoption-gap-in-transportation/833070/",
    "title": "Promises vs. reality: Closing the AI adoption gap in transportation",
@@ -1135,20 +1150,6 @@
    "tags": [],
    "excerpt": "States want drivers to clear snow and ice before hitting the road. Truckers say the real challenge is finding a safe place to do it.",
    "published": "2026-10-21T18:48:23+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15838130",
-   "title": "Fuel, safety and drivers take center stage at ATA’s Management Conference",
-   "url": "https://www.ccjdigital.com/trucks/class-7-8/article/15838130/how-the-right-truck-can-solve-a-lot-of-truckings-problems",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "I’ve spent the last few days at ATA’s Management Conference & Exhibition in Charlotte, and nearly every conversation I had with customers came back to three topics: fuel, safety and drivers. The American Transportation Research Institute (ATRI) ranks the trucking industry’s top concerns every year.…",
-   "published": "2026-10-21T18:35:05+00:00"
   }
  ]
 }
