@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-26T09:00:35+00:00",
+ "updated": "2026-10-26T09:30:31+00:00",
  "items": [
+  {
+   "id": "https://www.supplychaindive.com/spons/promises-vs-reality-closing-the-ai-adoption-gap-in-transportation/833070/",
+   "title": "Promises vs. reality: Closing the AI adoption gap in transportation",
+   "url": "https://www.supplychaindive.com/spons/promises-vs-reality-closing-the-ai-adoption-gap-in-transportation/833070/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "As teams see AI perform reliably, trust and their willingness to give it more responsibility grow.",
+   "published": "2026-10-26T09:00:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584078",
    "title": "Borderlands Mexico: Avocado imports generate $641M for US trucking, warehousing",
@@ -1135,20 +1149,6 @@
    ],
    "excerpt": "I’ve spent the last few days at ATA’s Management Conference & Exhibition in Charlotte, and nearly every conversation I had with customers came back to three topics: fuel, safety and drivers. The American Transportation Research Institute (ATRI) ranks the trucking industry’s top concerns every year.…",
    "published": "2026-10-21T18:35:05+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15837855",
-   "title": "Ionization technology aims to reduce fog-related vehicle accidents",
-   "url": "https://www.ccjdigital.com/technology/article/15837855/fog-removal-technology-aims-to-prevent-road-crashes",
-   "source": "CCJ",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "It’s spooky season; the time of ghosts, witches, pumpkins and … ever-so-eerie fog. Fall brings peak fog-forming weather as temperatures shift, and the Federal Highway Administration estimates that fog causes more than 38,000 crashes and more than 600 deaths each year.",
-   "published": "2026-10-21T18:31:26+00:00"
   }
  ]
 }
