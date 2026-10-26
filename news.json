@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T16:00:42+00:00",
+ "updated": "2026-10-26T16:20:42+00:00",
  "items": [
   {
    "id": "https://joc.com/article/up-resumes-intermodal-container-fleet-expansion-6312193",
@@ -43,6 +43,20 @@
    ],
    "excerpt": "The carrier's average rate bump will match FedEx's upcoming increase, but UPS also has additional changes in store.",
    "published": "2026-10-26T15:10:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584149",
+   "title": "DSV 3Q profit rises 19.5% as Schenker integration lifts earnings",
+   "url": "https://www.freightwaves.com/news/dsv-3q-profit-rises-19-5-as-schenker-integration-lifts-earnings",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "DSV reported a 19.5% increase in third-quarter operating profit before special items, as cost synergies from its Schenker acquisition and stronger results in air and sea, and contract logistics outweighed weakness in trucking. The world’s biggest forwarder (DSV.CO), based in Denmark, posted pre-tax…",
+   "published": "2026-10-26T14:41:00+00:00"
   },
   {
    "id": "https://www.supplychaindive.com/news/csx-sees-rail-conversion-opportunities-from-battered-trucking-market/833858/",
@@ -1143,20 +1157,6 @@
    "tags": [],
    "excerpt": "Tesla has begun volume production of its electric Class 8 Semi truck at its Nevada factory , a major milestone as the company prepares to expand commercial deliveries in the U.S. and enter the European market in 2027. The Austin, Texas-based electric vehicle manufacturer confirmed the production…",
    "published": "2026-10-22T00:16:11+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583823",
-   "title": "CEO’s letter boasts of lots of arrows pointing up at Triumph Financial",
-   "url": "https://www.freightwaves.com/news/ceos-letter-boasts-of-lots-of-arrows-pointing-up-at-triumph-financial",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "It was hard not to read the quarterly letter to shareholders by Aaron Graft, the CEO of Triumph Financial, and not get a sense that he was taking the first few steps into a victory lap. Triumph’s message to investors for years has been consistent, and it has been amplified every three months in…",
-   "published": "2026-10-21T23:29:46+00:00"
   }
  ]
 }
