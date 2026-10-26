@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T18:10:22+00:00",
+ "updated": "2026-10-26T18:30:33+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/georgia-extends-fuel-tax-break",
@@ -269,6 +269,20 @@
    ],
    "excerpt": "After all the hooting, it seems the US is keen to again delay implementation of planned port fees for China-linked vessels, with the US Trade Representative (USTR) requesting the delay to give Washington and Beijing more time to negotiate. The USTR asked that the measure intended to penalise…",
    "published": "2026-10-26T13:27:24+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584181",
+   "title": "Shipbuilding central to new US-Denmark maritime pact",
+   "url": "https://www.freightwaves.com/news/shipbuilding-central-to-new-us-denmark-maritime-pact",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "The United States and Denmark have signed a maritime cooperation agreement aimed at expanding the U.S. shipbuilding workforce, attracting Danish investment to American shipyards and accelerating vessel construction and repairs through advanced technology. U.S.",
+   "published": "2026-10-26T12:45:00+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=584121",
@@ -1139,21 +1153,6 @@
    ],
    "excerpt": "Norfolk Southern reported higher third-quarter earnings and record revenue Thursday as freight volume grew and fuel surcharges increased, although expenses consumed a larger share of revenue. The railroad (NYSE: NSC ) said revenue rose 14%, to $3.5 billion, on a 3% increase in volume.",
    "published": "2026-10-22T14:09:01+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583919",
-   "title": "Commodity markets whip up railfreight gains",
-   "url": "https://www.freightwaves.com/news/commodity-markets-whip-up-railfreight-gains",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Industrial output help U.S. railroads steel themselves against increasing demand and show some mettle amid uncertain economic conditions. For the week ending Oct. 17, total U.S. weekly rail traffic was 540,135 carloads and intermodal units, up 8.5% from the same week a year ago, according to the…",
-   "published": "2026-10-22T14:00:00+00:00"
   }
  ]
 }
