@@ -1,6 +1,23 @@
 {
- "updated": "2026-10-26T22:00:47+00:00",
+ "updated": "2026-10-26T22:06:57+00:00",
  "items": [
+  {
+   "id": "https://www.dat.com/blog/?p=27688",
+   "title": "Dry Van Report: Spot rates slip as load posts cool, but tight capacity holds them up",
+   "url": "https://www.dat.com/blog/dry-van-report-spot-rates-slip-as-load-posts-cool-but-tight-capacity-holds-them-up",
+   "source": "DAT iQ",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Diesel",
+    "Capacity"
+   ],
+   "excerpt": "Dry van spot linehaul rates paid to carriers averaged $2.24 per mile last week, minus fuel, down 0.7%, or $0.02 per mile, from the week before. Rates climbed 32.8%, or $0.55 per mile, year over year and held 23.5%, or $0.42 per mile, above the nine-year seasonal average of $1.82 per mile, in the…",
+   "published": "2026-10-26T22:01:52+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/15975473",
    "title": "Kenworth is dropping a massive touchscreen into its redesigned truck cab",
@@ -1134,18 +1151,6 @@
    ],
    "excerpt": "A tractor-trailer carrying fresh tomatillos arrived at California’s Otay Mesa port of entry from Mexico on October 14. The commercial shipment had a delivery destination in the United States. During an inspection, U.S. Customs and Border Protection officers discovered nearly 1,600 pounds of…",
    "published": "2026-10-22T16:24:13+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583899",
-   "title": "US trailer orders soar 385% as Class 8 truck market sends mixed signals",
-   "url": "https://www.freightwaves.com/news/us-trailer-orders-soar-385-as-class-8-truck-market-sends-mixed-signals",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "U.S. trailer orders surged in September to their highest level in nearly four years, while FTR Transportation Intelligence and ACT Research reported conflicting trends in North American Class 8 truck orders. The mixed signals come as fleets navigate regulatory uncertainty , rising equipment costs…",
-   "published": "2026-10-22T15:42:56+00:00"
   }
  ]
 }
