@@ -1,6 +1,35 @@
 {
- "updated": "2026-10-27T15:18:02+00:00",
+ "updated": "2026-10-27T15:30:36+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584083",
+   "title": "Band24 seeks early testers for satellite-connected asset tracker ahead of Nov. 13 deadline",
+   "url": "https://www.freightwaves.com/news/band24-seeks-early-testers-for-satellite-connected-asset-tracker-ahead-of-nov-13-deadline",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Asset-tracking company Band24 is seeking businesses to test Terra, a new tracker combining Bluetooth, cellular and satellite connectivity, ahead of a Nov. 13 deadline for its early-access program. The device is designed to help logistics operators maintain visibility into trailers, shipping…",
+   "published": "2026-10-27T14:57:32+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584220",
+   "title": "Miami airport to deploy shared logistics platform for cargo community",
+   "url": "https://www.freightwaves.com/news/miami-airport-to-deploy-shared-logistics-platform-for-cargo-community",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "MIAMI BEACH — Miami International Airport has signed with Kalé Logistics Systems to set up the world’s first AI-based air cargo community system designed to streamline data exchange and communication between supply chain stakeholders on a centralized platform, with the goal of eliminating…",
+   "published": "2026-10-27T14:51:49+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584214",
    "title": "Federal guidance on carrier selection not around the corner: TIA’s Burroughs",
@@ -1116,33 +1145,6 @@
    ],
    "excerpt": "The American Association of Port Authorities (AAPA) is throwing its weight behind White House efforts to build nuclear reactors at maritime ports, saying the small modular reactors (SMRs) could provide a source of power for cranes through the night. \"We are witnessing an undeniable momentum for…",
    "published": "2026-10-22T21:05:57+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/us-asia-crude-shipments-low",
-   "title": "U.S.-Asia crude shipments face freight shock",
-   "url": "https://www.ttnews.com/articles/us-asia-crude-shipments-low",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "U.S. crude oil exports to Asia are set to hit multiyear lows after the Iran war pushed the cost to lease a tanker for the journey to a record of almost $80 million.",
-   "published": "2026-10-22T21:00:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583986",
-   "title": "Daimler Truck sues former fleet manager over alleged $3.8M embezzlement",
-   "url": "https://www.freightwaves.com/news/daimler-truck-sues-former-fleet-manager-over-alleged-3-8m-embezzlement",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [],
-   "excerpt": "Daimler Truck North America has filed a lawsuit against a former employee and his wife, accusing them of embezzling nearly $3.8 million from the commercial truck manufacturer over a five year period. The lawsuit, filed Oct. 12 in Washington County Circuit Court in Oregon, names former Daimler…",
-   "published": "2026-10-22T20:59:41+00:00"
   }
  ]
 }
