@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-27T21:00:35+00:00",
+ "updated": "2026-10-27T21:30:35+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/15975351",
+   "title": "How 1 million ELD fraudsters broke the trucking industry, and how to save it",
+   "url": "https://www.ccjdigital.com/perspectives/article/15975351/how-1-million-eld-fraudsters-broke-the-trucking-industry-and-how-to-save-it",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Fraud",
+    "Tech"
+   ],
+   "excerpt": "The compliant carrier finishes last? Fleet owner and third-generation trucker Zach Meiborg explains in this editorial and graphics how unchecked ELD cheating has led to two different trucking markets. Zach Meiborg Widespread electronic logging device fraud has split the trucking industry in two,…",
+   "published": "2026-10-27T21:04:08+00:00"
+  },
   {
    "id": "https://joc.com/article/roadrunner-adds-canada-to-us-ltl-service-to-speed-goods-across-border-6312813",
    "title": "Roadrunner adds Canada-to-US LTL service to speed goods across border",
@@ -1135,18 +1150,6 @@
    ],
    "excerpt": "Missouri is raising speed limits in certain rural areas along four interstates. Find out where they’re going up and when they take effect.",
    "published": "2026-10-23T17:34:24+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584026",
-   "title": "Cost pressures sink Marten Transport’s Q3",
-   "url": "https://www.freightwaves.com/news/cost-pressures-sink-marten-transports-q3",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Shares of refrigerated carrier Marten Transport were down 7% in midday trading on Friday, following a disappointing third-quarter report. Despite improving supply-demand fundamentals, a runup in fuel and health insurance costs, among other items, were a drag in the period.",
-   "published": "2026-10-23T16:28:25+00:00"
   }
  ]
 }
