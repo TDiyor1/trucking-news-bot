@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-27T18:48:33+00:00",
+ "updated": "2026-10-27T19:01:47+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584300",
+   "title": "Diesel Is Breaking Records While Gasoline Stays Cheap, And The Reason Is Not What Most Truckers Think",
+   "url": "https://www.freightwaves.com/news/diesel-is-breaking-records-while-gasoline-stays-cheap-and-the-reason-is-not-what-most-truckers-think",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "For the better part of eight months the price of diesel has climbed to levels that gasoline has not come close to matching, and for a carrier whose single largest variable cost is the fuel in the tank, that split is not a curiosity but a direct hit to the bottom line, which is why a recent F3…",
+   "published": "2026-10-27T18:33:56+00:00"
+  },
   {
    "id": "https://joc.com/article/new-mexico-flooding-snarls-bnsfs-intermodal-network-6312780",
    "title": "New Mexico flooding snarls BNSF's intermodal network",
@@ -1132,22 +1146,6 @@
    "tags": [],
    "excerpt": "There wasn’t much change in Airbus’ latest 20-year forecast for air cargo. The manufacturer, which plans to begin delivering an all-new A350 freighter in about a year, estimated annual cargo traffic growth would tick down a tenth of a point compared to last year’s report, but that the industry…",
    "published": "2026-10-23T14:54:15+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584005",
-   "title": "Russian diesel tanker heads for U.S. following Trump-Putin deal",
-   "url": "https://www.freightwaves.com/news/russian-diesel-tanker-heads-for-u-s-following-trump-putin-deal",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel",
-    "Tariffs",
-    "Ports/Rail"
-   ],
-   "excerpt": "A tanker carrying 40,000 metric tons of Russian diesel is heading for New York under a new U.S.-Russia supply agreement , marking a reopening of a trade curtailed by Washington’s 2022 ban on Russian oil and petroleum imports. The Malta-flagged Agioi Fanendes loaded ultra-low-sulfur diesel at…",
-   "published": "2026-10-23T14:37:51+00:00"
   }
  ]
 }
