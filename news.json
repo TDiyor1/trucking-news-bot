@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-27T17:48:18+00:00",
+ "updated": "2026-10-27T18:00:40+00:00",
  "items": [
+  {
+   "id": "https://www.supplychaindive.com/news/kroger-taps-rfid-computer-vision-data-to-boost-inventory-management/872819/",
+   "title": "Kroger taps RFID, computer vision data to boost inventory management",
+   "url": "https://www.supplychaindive.com/news/kroger-taps-rfid-computer-vision-data-to-boost-inventory-management/872819/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The grocery chain is providing machine learning insights to suppliers to improve availability while piloting radio frequency identification at 1,500 store bakeries.",
+   "published": "2026-10-27T17:49:36+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584273",
    "title": "Merchants Fleet adds 113 FleetShare vehicles in Puerto Rico",
@@ -1130,20 +1144,6 @@
    ],
    "excerpt": "The Port of Coos Bay has secured nearly $205 million in federal funding to upgrade its rail line, advancing a proposed Oregon container terminal that would rely on trains to move cargo between ships and inland markets. The $204.8 million award, announced Oct. 19 by Oregon Sens.",
    "published": "2026-10-23T13:37:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/ryder-earnings-q3-2026",
-   "title": "Ryder to boost tractor rental fleet by 10% in Q4",
-   "url": "https://www.ttnews.com/articles/ryder-earnings-q3-2026",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Ryder is increasing its tractor rental fleet by 10% in the fourth quarter of 2026 compared with the third quarter as a result of the freight market upturn.",
-   "published": "2026-10-23T13:30:00+00:00"
   }
  ]
 }
