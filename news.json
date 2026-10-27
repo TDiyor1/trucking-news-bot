@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-27T18:00:40+00:00",
+ "updated": "2026-10-27T18:18:21+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104459",
+   "title": "Seven carriers have learner’s permit exemptions. Will FMCSA make it eight?",
+   "url": "https://landline.media/seven-carriers-have-learners-permit-exemptions-will-fmcsa-make-it-eight/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "PAM Transport suggested that denial of the exemption would create financial hardships for trained drivers and the potential degradation of skills.",
+   "published": "2026-10-27T18:17:09+00:00"
+  },
   {
    "id": "https://www.supplychaindive.com/news/kroger-taps-rfid-computer-vision-data-to-boost-inventory-management/872819/",
    "title": "Kroger taps RFID, computer vision data to boost inventory management",
@@ -1130,20 +1144,6 @@
    ],
    "excerpt": "The carrier reversed an operating loss for the quarter from 2025 with $1 million in net income.",
    "published": "2026-10-23T14:20:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584017",
-   "title": "A new PNW container port? $205M for Oregon rail project",
-   "url": "https://www.freightwaves.com/news/a-new-pnw-container-port-205m-for-oregon-rail-project",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "The Port of Coos Bay has secured nearly $205 million in federal funding to upgrade its rail line, advancing a proposed Oregon container terminal that would rely on trains to move cargo between ships and inland markets. The $204.8 million award, announced Oct. 19 by Oregon Sens.",
-   "published": "2026-10-23T13:37:00+00:00"
   }
  ]
 }
