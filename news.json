@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-27T18:30:32+00:00",
+ "updated": "2026-10-27T18:38:50+00:00",
  "items": [
+  {
+   "id": "https://joc.com/article/new-mexico-flooding-snarls-bnsfs-intermodal-network-6312780",
+   "title": "New Mexico flooding snarls BNSF's intermodal network",
+   "url": "https://joc.com/article/new-mexico-flooding-snarls-bnsfs-intermodal-network-6312780",
+   "source": "JOC",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tariffs",
+    "Ports/Rail"
+   ],
+   "excerpt": "A “once-in-generation” flood near Laguna, New Mexico, that began on Saturday will have a substantial short-term impact on all shippers, including intermodal.",
+   "published": "2026-10-27T18:33:14+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584065",
+   "title": "Millions in stolen freight reveal a weakness criminals keep exploiting",
+   "url": "https://www.freightwaves.com/news/millions-in-stolen-freight-reveal-a-weakness-criminals-keep-exploiting",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Fraud"
+   ],
+   "excerpt": "Recent freight fraud investigations have exposed millions of dollars in cargo losses across the United States. Federal prosecutors recently charged a driver in an alleged $12 million cargo theft conspiracy involving established trucking companies. A California trucking owner pleaded guilty in a…",
+   "published": "2026-10-27T18:20:53+00:00"
+  },
   {
    "id": "https://landline.media/?p=104459",
    "title": "Seven carriers have learner’s permit exemptions. Will FMCSA make it eight?",
@@ -1118,32 +1148,6 @@
    ],
    "excerpt": "A tanker carrying 40,000 metric tons of Russian diesel is heading for New York under a new U.S.-Russia supply agreement , marking a reopening of a trade curtailed by Washington’s 2022 ban on Russian oil and petroleum imports. The Malta-flagged Agioi Fanendes loaded ultra-low-sulfur diesel at…",
    "published": "2026-10-23T14:37:51+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584002",
-   "title": "NLRB ordered Amazon to bargain with Staten Island workers; it’s now in federal court",
-   "url": "https://www.freightwaves.com/news/nlrb-ordered-amazon-to-bargain-with-staten-island-workers-its-now-in-federal-court",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [],
-   "excerpt": "Four and a half years after a grassroots union was voted in by workers at an Amazon warehouse in Staten Island, New York, the battles in court over Amazon’s pushback against the vote continues. At issue in the latest set of filings in the Fifth Circuit is a National Labor Relations Board decision…",
-   "published": "2026-10-23T14:28:07+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/heartland-express-q3-turnaround-aided-by-capacity-driven-price-improvements/833704/",
-   "title": "Heartland Express Q3 turnaround aided by capacity-driven price improvements",
-   "url": "https://www.truckingdive.com/news/heartland-express-q3-turnaround-aided-by-capacity-driven-price-improvements/833704/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Capacity"
-   ],
-   "excerpt": "The carrier reversed an operating loss for the quarter from 2025 with $1 million in net income.",
-   "published": "2026-10-23T14:20:00+00:00"
   }
  ]
 }
