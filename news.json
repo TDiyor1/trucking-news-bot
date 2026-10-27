@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-27T13:30:32+00:00",
+ "updated": "2026-10-27T14:00:36+00:00",
  "items": [
+  {
+   "id": "https://www.truckingdive.com/news/atri-the-top-underutilized-telematics-that-can-benefit-truckers/832616/",
+   "title": "ATRI: The top underutilized telematics that can benefit truckers",
+   "url": "https://www.truckingdive.com/news/atri-the-top-underutilized-telematics-that-can-benefit-truckers/832616/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Nearly one in three carriers don’t integrate telematics data with their TMS, increasing the risk of unexpected downtime.",
+   "published": "2026-10-27T13:27:00+00:00"
+  },
   {
    "id": "https://theloadstar.com/?p=327387",
    "title": "Tariff anouncements cause cargo chaos for box terminals, says TiL",
@@ -1131,20 +1145,6 @@
    ],
    "excerpt": "A $205 million upgrade of the Coos Bay Rail Line to link with Union Pacific for inland service opens the door for the potential construction of the Pacific Coast Intermodal Port that would be capable of handling 13,000-TEU vessels.",
    "published": "2026-10-22T20:30:15+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583896",
-   "title": "F3 preview: AI, autonomous trucking and freight technology take center stage",
-   "url": "https://www.freightwaves.com/news/f3-preview-ai-autonomous-trucking-and-freight-technology-take-center-stage",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "FreightWaves’ F3: Future of Freight Festival returns to Chattanooga next week, with sessions on AI adoption, autonomous trucking and the technologies reshaping freight operations taking center stage. The event, held Oct. 27-28 at The Signal at Chattanooga Choo Choo, will feature keynote…",
-   "published": "2026-10-22T19:02:37+00:00"
   }
  ]
 }

@@ -1,4 +1,19 @@
 {
  "last_digest": "2026-10-27",
- "queue": []
+ "queue": [
+  {
+   "id": "https://www.truckingdive.com/news/atri-the-top-underutilized-telematics-that-can-benefit-truckers/832616/",
+   "title": "ATRI: The top underutilized telematics that can benefit truckers",
+   "url": "https://www.truckingdive.com/news/atri-the-top-underutilized-telematics-that-can-benefit-truckers/832616/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Nearly one in three carriers don’t integrate telematics data with their TMS, increasing the risk of unexpected downtime.",
+   "published": "2026-10-27T13:27:00+00:00"
+  }
+ ]
 }
