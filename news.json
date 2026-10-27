@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-27T05:30:29+00:00",
+ "updated": "2026-10-27T06:00:34+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/15975468",
+   "title": "Attorney sentenced for role in staged-crash scheme targeting trucks",
+   "url": "https://www.ccjdigital.com/regulations/article/15975468/attorney-sentenced-for-role-in-stagedcrash-scheme-targeting-trucks",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Fraud"
+   ],
+   "excerpt": "Trucking news and briefs for Tuesday, Oct. 27, 2026: Attorney sentenced for role in New Orleans staged-crash scheme Danny Patrick Keating Jr., 57 of New Orleans, was sentenced on Oct. 15 for his role in a staged-accident scheme targeting tractor-trailers and their insurers around the New Orleans…",
+   "published": "2026-10-27T05:54:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584193",
    "title": "FMCSA’s Elison addresses Motus again, still no date on full repair",
@@ -1140,21 +1154,6 @@
    ],
    "excerpt": "Summary: Sharing your DAT login with a coworker, or installing a browser extension that pulls data out of DAT for you, might look like a quick way to stretch a subscription. Both are prohibited under DAT’s Terms and Conditions and Acceptable Use Policy (or your agreement with DAT).",
    "published": "2026-10-22T18:45:39+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583975",
-   "title": "Union Pacific posts record third-quarter revenue and profits",
-   "url": "https://www.freightwaves.com/news/union-pacific-posts-record-third-quarter-revenue-and-profits",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel",
-    "Ports/Rail"
-   ],
-   "excerpt": "Union Pacific reported record third-quarter revenue and profits as higher volume , pricing, and efficiency gains more than offset the impact of rising fuel prices and inflation. “Union Pacific’s third-quarter results demonstrate our ability to safely deliver the service we sold our customers while…",
-   "published": "2026-10-22T18:07:00+00:00"
   }
  ]
 }
