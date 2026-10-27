@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-27T19:30:30+00:00",
+ "updated": "2026-10-27T19:52:10+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584305",
+   "title": "Mexico truckers reach deal for talks after strike disrupts 19 states",
+   "url": "https://www.freightwaves.com/news/mexico-truckers-reach-deal-for-talks-after-strike-disrupts-19-states",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "Mexican trucking organizations reached an agreement with federal officials Tuesday to begin negotiations aimed at resolving a nationwide strike that disrupted highways across 19 states, The agreement between Mexico’s Interior Ministry (Segob) and trucking groups, including the National Chamber of…",
+   "published": "2026-10-27T19:17:32+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584300",
    "title": "Diesel Is Breaking Records While Gasoline Stays Cheap, And The Reason Is Not What Most Truckers Think",
@@ -1133,19 +1148,6 @@
    ],
    "excerpt": "The production line additions are the latest example of an industrywide trend predicated on rising demand for trucks and the ongoing freight market recovery.",
    "published": "2026-10-23T15:34:36+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584009",
-   "title": "Airbus sees 46% freighter increase by 2045 amid stable air cargo growth",
-   "url": "https://www.freightwaves.com/news/airbus-sees-46-freighter-increase-by-2045-amid-stable-air-cargo-growth",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [],
-   "excerpt": "There wasn’t much change in Airbus’ latest 20-year forecast for air cargo. The manufacturer, which plans to begin delivering an all-new A350 freighter in about a year, estimated annual cargo traffic growth would tick down a tenth of a point compared to last year’s report, but that the industry…",
-   "published": "2026-10-23T14:54:15+00:00"
   }
  ]
 }
