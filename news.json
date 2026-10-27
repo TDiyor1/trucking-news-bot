@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-27T17:00:38+00:00",
+ "updated": "2026-10-27T17:18:15+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104455",
+   "title": "Consumers feeling the downstream effects of rising diesel costs",
+   "url": "https://landline.media/consumers-feeling-the-downstream-effects-of-rising-diesel-costs/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Increased fuel prices are leading analysts to conclude that this could be the most expensive holiday season ever.",
+   "published": "2026-10-27T17:14:34+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584252",
    "title": "The Case For Renting The Box And Buying The Truck",
@@ -1133,20 +1147,6 @@
    ],
    "excerpt": "Following a Section 232 probe, the president tasked cabinet officials to engage in negotiations and report on their progress within 180 days.",
    "published": "2026-10-23T12:11:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/oil-prices-levels-may",
-   "title": "Oil prices hit levels not seen since May",
-   "url": "https://www.ttnews.com/articles/oil-prices-levels-may",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Brent crude rose 1.6% to $114.92 a barrel, and the national average for a gallon of regular gas rose 2 cents to $4.29 on Oct. 23, compared with $3.07 a year ago.",
-   "published": "2026-10-23T12:06:57+00:00"
   }
  ]
 }
