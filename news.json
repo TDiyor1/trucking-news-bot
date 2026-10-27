@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T16:00:55+00:00",
+ "updated": "2026-10-27T16:18:12+00:00",
  "items": [
   {
    "id": "https://landline.media/?p=104452",
@@ -14,6 +14,22 @@
    ],
    "excerpt": "Interstate 80 in California has been the site of a pair of crashes involving Tesla vehicles that were reportedly operating in Full Self-Driving mode.",
    "published": "2026-10-27T15:58:06+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584247",
+   "title": "Knight-Swift CEO says CDL crackdown could fuel lasting trucking recovery",
+   "url": "https://www.freightwaves.com/news/knight-swift-ceo-says-cdl-crackdown-could-fuel-lasting-trucking-recovery",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation",
+    "Fraud"
+   ],
+   "excerpt": "JACKSONVILLE, Florida — Knight-Swift Transportation has reduced its approved brokerage carrier pool by approximately 70% over the past two years as the trucking giant tightens carrier vetting standards amid growing concerns over cargo theft , highway safety and potential broker liability .",
+   "published": "2026-10-27T15:57:36+00:00"
   },
   {
    "id": "https://landline.media/?p=104449",
@@ -158,6 +174,21 @@
    "published": "2026-10-27T12:39:28+00:00"
   },
   {
+   "id": "https://www.supplychaindive.com/news/audi-investing-4b-to-build-its-first-us-plant-in-georgia/872866/",
+   "title": "Audi investing $4B to build its first US plant in Georgia",
+   "url": "https://www.supplychaindive.com/news/audi-investing-4b-to-build-its-first-us-plant-in-georgia/872866/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Capacity"
+   ],
+   "excerpt": "The factory will have a production capacity of up to 200,000 vehicles a year, with construction slated to begin in 2027 and the first vehicles built in the early 2030s.",
+   "published": "2026-10-27T11:31:00+00:00"
+  },
+  {
    "id": "https://www.freightwaves.com/?p=584091",
    "title": "Police recover $54K in Hot Wheels after BNSF freight train burglary in California",
    "url": "https://www.freightwaves.com/news/police-recover-54k-in-hot-wheels-after-bnsf-freight-train-burglary-in-california",
@@ -213,6 +244,20 @@
    ],
    "excerpt": "Trucking news and briefs for Tuesday, Oct. 27, 2026: Attorney sentenced for role in New Orleans staged-crash scheme Danny Patrick Keating Jr., 57 of New Orleans, was sentenced on Oct. 15 for his role in a staged-accident scheme targeting tractor-trailers and their insurers around the New Orleans…",
    "published": "2026-10-27T05:54:00+00:00"
+  },
+  {
+   "id": "https://www.supplychaindive.com/spons/supply-chain-ai-has-an-execution-problem/872776/",
+   "title": "Supply Chain AI Has an Execution Problem",
+   "url": "https://www.supplychaindive.com/spons/supply-chain-ai-has-an-execution-problem/872776/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "AI is everywhere in supply chain software now—but does it actually improve decisions? Here's why language models need a decision engine underneath, and the test every planner should run before trusting an AI recommendation.",
+   "published": "2026-10-27T03:00:00+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=584193",
@@ -1105,46 +1150,6 @@
    ],
    "excerpt": "Freight technology vendors are selling AI agents that can benchmark rates and award freight under rules a customer sets. A new survey finds most supply chain organizations still limit AI to generating insights, and the first obstacle the research names is their own workforce.",
    "published": "2026-10-23T11:00:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15838241",
-   "title": "Knight-Swift says truckload recovery is finally here",
-   "url": "https://www.ccjdigital.com/business/article/15838241/knightswift-q3-2026-truckload-margins-rebound-on-tight-capacity",
-   "source": "CCJ",
-   "audience": [
-    "Broker"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Knight-Swift Transportation ( CCJ Top 250 , No. 3) management expressed a strong outlook for peak season as third-quarter results reflected a recovery in truckload margins. During the company’s earnings call Wednesday, CEO Adam Miller said improvement in core truckload margins is “finally…",
-   "published": "2026-10-23T10:50:32+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583809",
-   "title": "Why one zero-emission truck dealer wants big rigs to wait",
-   "url": "https://www.freightwaves.com/news/range-zero-emissions-medium-duty-electric-trucks",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Johannes Ariens sells hydrogen semis, and he thinks the push to clean up trucking is aimed too high. Incentive programs and the broader industry are fixated on Class 7 and 8 tractors, said Ariens, CEO of Range Zero Emissions, in an interview with FreightWaves.",
-   "published": "2026-10-23T10:00:00+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=327227",
-   "title": "Zero Hedge: Major US banks detecting unauthorized AI agents accessing customer accounts",
-   "url": "https://theloadstar.com/zero-hedge-major-us-banks-detecting-unauthorized-ai-agents-accessing-customer-accounts/",
-   "source": "The Loadstar",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "ZERO HEDGE reports: America’s largest banks are scrambling to defend themselves against a new and rapidly evolving security threat: artificial intelligence agents gaining access to customer accounts, sometimes behaving in ways that appear to go beyond what their human users originally authorized,…",
-   "published": "2026-10-23T09:48:19+00:00"
   }
  ]
 }
