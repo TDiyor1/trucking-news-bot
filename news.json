@@ -1,6 +1,32 @@
 {
- "updated": "2026-10-27T11:00:37+00:00",
+ "updated": "2026-10-27T11:30:35+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/15975494",
+   "title": "More loads, tighter cash: Why trucking growth can be a financial trap",
+   "url": "https://www.ccjdigital.com/business/growth-strategies/article/15975494/trucking-cash-flow-management-overcoming-growth-challenges",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "More loads. More trucks. More customers. Those are all signs that a trucking company is growing. But growth can bring an unexpected challenge: The more business a carrier takes on, the more cash it may need to keep that business moving. Fuel has to be purchased. Drivers have to be paid.",
+   "published": "2026-10-27T11:11:30+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584183",
+   "title": "Spartan’s operators went from AI skeptics to agent builders",
+   "url": "https://www.freightwaves.com/news/spartan-carrier-alvys-foundry-ai-agents",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "When Spartan Carrier Group founder and CEO Carlos M. Llanes Jr. started digging into artificial intelligence two years ago, his team did not buy it. Today the Fort Worth, Texas-based carrier’s vice president of operations is learning to build AI agents himself.",
+   "published": "2026-10-27T11:00:00+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/15975468",
    "title": "Attorney sentenced for role in staged-crash scheme targeting trucks",
@@ -1122,38 +1148,6 @@
    ],
    "excerpt": "More than 500 dual-fuel containerships and vehicle carriers are operating worldwide, with total investment in dual-fuel ships delivered and on order surpassing $200 billion, according to the latest World Shipping Council (WSC) Dual-Fuel Fleet Dashboard , released today.",
    "published": "2026-10-22T18:49:07+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583967",
-   "title": "Norfolk Southern profits rise on higher volume and revenue",
-   "url": "https://www.freightwaves.com/news/norfolk-southern-profits-rise-on-higher-volume-and-revenue",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Diesel",
-    "Ports/Rail"
-   ],
-   "excerpt": "Norfolk Southern’s third-quarter profits rose as higher volume and rates, and fuel surcharges, produced record revenue. “Our third quarter was strong with steady execution, making notable improvements to our network while delivering solid results,” Chief Executive Mark George said on the railroad’s…",
-   "published": "2026-10-22T18:47:51+00:00"
-  },
-  {
-   "id": "https://www.dat.com/blog/?p=27682",
-   "title": "Why DAT doesn’t allow login sharing or data-scraping extensions",
-   "url": "https://www.dat.com/blog/why-dat-doesnt-allow-login-sharing-or-data-scraping-extensions",
-   "source": "DAT iQ",
-   "audience": [
-    "Broker"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Summary: Sharing your DAT login with a coworker, or installing a browser extension that pulls data out of DAT for you, might look like a quick way to stretch a subscription. Both are prohibited under DAT’s Terms and Conditions and Acceptable Use Policy (or your agreement with DAT).",
-   "published": "2026-10-22T18:45:39+00:00"
   }
  ]
 }
