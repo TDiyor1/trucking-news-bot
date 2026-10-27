@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-27T15:48:08+00:00",
+ "updated": "2026-10-27T16:00:37+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104452",
+   "title": "Tesla ‘Full Self-Driving’ crashes pile up in California",
+   "url": "https://landline.media/tesla-full-self-driving-crashes-pile-up-in-california/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Interstate 80 in California has been the site of a pair of crashes involving Tesla vehicles that were reportedly operating in Full Self-Driving mode.",
+   "published": "2026-10-27T15:58:06+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104449",
+   "title": "Are Northeast speed limits too slow for real-world traffic?",
+   "url": "https://landline.media/are-northeast-speed-limits-too-slow-for-real-world-traffic/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "New Hampshire, New Jersey and New York are taking different approaches to speed limits. See what’s proposed, what’s at stake and what’s next.",
+   "published": "2026-10-27T15:55:54+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584221",
    "title": "2027 FreightTech 25 winners announced at F3",
@@ -1117,33 +1145,6 @@
    ],
    "excerpt": "ZERO HEDGE reports: America’s largest banks are scrambling to defend themselves against a new and rapidly evolving security threat: artificial intelligence agents gaining access to customer accounts, sometimes behaving in ways that appear to go beyond what their human users originally authorized,…",
    "published": "2026-10-23T09:48:19+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15838264",
-   "title": "FMCSA adds ethanol, heating oil to nationwide fuel-haul HOS waiver",
-   "url": "https://www.ccjdigital.com/regulations/article/15838264/fmcsa-adds-ethanol-heating-oil-to-nationwide-fuelhaul-hos-waiver",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel",
-    "Regulation"
-   ],
-   "excerpt": "Trucking news and briefs for Friday, Oct. 23, 2026: Ethanol, heating fuel added to FMCSA’s nationwide HOS waiver The Federal Motor Carrier Safety Administration has amended its 90-day hours-of-service waiver that gives certain interstate fuel haulers more flexibility.",
-   "published": "2026-10-23T05:00:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583998",
-   "title": "Ryder fleet facing possible growth need as EPA ‘27 nears",
-   "url": "https://www.freightwaves.com/news/ryder-fleet-facing-possible-growth-need-as-epa-27-nears",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "With the EPA ‘27 engine rules impacting nitrogen oxide (NoX) emissions in heavy duty vehicles getting closer every day, the new rules will have a major impact on anybody who buys new vehicles…like Ryder. Ryder’s (NYSE: R) third quarter earnings released early Thursday were solid enough that it…",
-   "published": "2026-10-22T21:47:50+00:00"
   }
  ]
 }
