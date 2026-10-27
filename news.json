@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-27T20:23:45+00:00",
+ "updated": "2026-10-27T20:30:31+00:00",
  "items": [
+  {
+   "id": "https://joc.com/article/roadrunner-adds-canada-to-us-ltl-service-to-speed-goods-across-border-6312813",
+   "title": "Roadrunner adds Canada-to-US LTL service to speed goods across border",
+   "url": "https://joc.com/article/roadrunner-adds-canada-to-us-ltl-service-to-speed-goods-across-border-6312813",
+   "source": "JOC",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "The long-haul LTL carrier says shippers on both sides of the US-Canada border need more speed and flexibility as tariffs disrupt supply chains.",
+   "published": "2026-10-27T20:23:14+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/15975576",
    "title": "Used truck inventory tightens as prices rise",
@@ -1132,19 +1147,6 @@
    "tags": [],
    "excerpt": "Shares of refrigerated carrier Marten Transport were down 7% in midday trading on Friday, following a disappointing third-quarter report. Despite improving supply-demand fundamentals, a runup in fuel and health insurance costs, among other items, were a drag in the period.",
    "published": "2026-10-23T16:28:25+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584021",
-   "title": "5 US manufacturing projects bring more than $1.6B in investments",
-   "url": "https://www.freightwaves.com/news/5-us-manufacturing-projects-bring-more-than-1-6b-in-investments",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [],
-   "excerpt": "Five manufacturers have announced new or expanded U.S. production facilities representing more than $1.6 billion in investments. The investments highlighted continued spending on domestic manufacturing , transportation equipment and consumer goods. The projects, located in Texas, Illinois, Georgia,…",
-   "published": "2026-10-23T16:03:04+00:00"
   }
  ]
 }
