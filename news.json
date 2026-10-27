@@ -1,6 +1,35 @@
 {
- "updated": "2026-10-27T12:30:31+00:00",
+ "updated": "2026-10-27T13:00:40+00:00",
  "items": [
+  {
+   "id": "https://theloadstar.com/?p=327387",
+   "title": "Tariff anouncements cause cargo chaos for box terminals, says TiL",
+   "url": "https://theloadstar.com/tariff-anouncements-cause-cargo-chaos-for-box-terminals-says-til/",
+   "source": "The Loadstar",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tariffs",
+    "Ports/Rail"
+   ],
+   "excerpt": "Sudden tariff announcements, not tariff levels themselves, trigger costly cargo surges that terminals cannot absorb, delegates at TOC Americas in Cartagena were told. Rather than destroying container trade, said TiL Group’s director for terminal investments in North America, Tom van Eynde, tariffs…",
+   "published": "2026-10-27T12:48:00+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/oil-prices-fears-over-costs",
+   "title": "Oil prices remain elevated on fears over costs across economy",
+   "url": "https://www.ttnews.com/articles/oil-prices-fears-over-costs",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Brent crude ticked down 78 cents to $109.96 a barrel. Diesel was going for $6.35 on Oct. 27, an increase of about 74% compared with this time last year.",
+   "published": "2026-10-27T12:39:28+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584091",
    "title": "Police recover $54K in Hot Wheels after BNSF freight train burglary in California",
@@ -1117,39 +1146,6 @@
    ],
    "excerpt": "Federal prosecutors have uncovered an alleged cargo theft conspiracy involving at least 24 freight shipments and millions in stolen merchandise. Investigators say suspects took control of established trucking companies and used their identities to secure legitimate freight contracts.",
    "published": "2026-10-22T19:01:12+00:00"
-  },
-  {
-   "id": "https://joc.com/article/canadas-port-saint-john-receives-public-private-funding-for-capacity-boost-6310210",
-   "title": "Canada’s Port Saint John receives public, private funding for capacity boost",
-   "url": "https://joc.com/article/canadas-port-saint-john-receives-public-private-funding-for-capacity-boost-6310210",
-   "source": "JOC",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs",
-    "Capacity",
-    "Ports/Rail"
-   ],
-   "excerpt": "The announcement of US$330 million in funding from Ottawa, the province of New Brunswick and a local railroad operator comes as Canada continues to seek diversification among trading partners.",
-   "published": "2026-10-22T18:57:15+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15838211",
-   "title": "Startup turns human expertise into autonomous work for freight companies",
-   "url": "https://www.ccjdigital.com/technology/artificial-intelligence/article/15838211/evos-autonomous-freight-software-learns-from-your-team",
-   "source": "CCJ",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Many of the well-known trucking technology companies in the market have recently been rolling out AI agents, autonomous software systems powered by large language models that aim to reduce manual human oversight and create greater operational efficiency by automating complex digital workflows.…",
-   "published": "2026-10-22T18:56:40+00:00"
   }
  ]
 }
