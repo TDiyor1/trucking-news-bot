@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-27T16:30:30+00:00",
+ "updated": "2026-10-27T16:48:13+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584252",
+   "title": "The Case For Renting The Box And Buying The Truck",
+   "url": "https://www.freightwaves.com/news/the-case-for-renting-the-box-and-buying-the-truck",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "For a small carrier, the choice of whether to own a trailer, finance one, run power only, or rent by the day looks like a simple equipment question, but it is really a business decision with a cost structure attached to every option, and getting that math wrong is one of the quietest and most…",
+   "published": "2026-10-27T16:21:34+00:00"
+  },
   {
    "id": "https://landline.media/?p=104452",
    "title": "Tesla ‘Full Self-Driving’ crashes pile up in California",
@@ -1135,21 +1147,6 @@
    ],
    "excerpt": "Brent crude rose 1.6% to $114.92 a barrel, and the national average for a gallon of regular gas rose 2 cents to $4.29 on Oct. 23, compared with $3.07 a year ago.",
    "published": "2026-10-23T12:06:57+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=583991",
-   "title": "Workforce gaps keep supply chain AI stuck in pilot mode",
-   "url": "https://www.freightwaves.com/news/ascm-dsci-supply-chain-ai-workforce-readiness",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Rates",
-    "Tech"
-   ],
-   "excerpt": "Freight technology vendors are selling AI agents that can benchmark rates and award freight under rules a customer sets. A new survey finds most supply chain organizations still limit AI to generating insights, and the first obstacle the research names is their own workforce.",
-   "published": "2026-10-23T11:00:00+00:00"
   }
  ]
 }
