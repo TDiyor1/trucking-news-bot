@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-27T14:00:36+00:00",
+ "updated": "2026-10-27T14:30:34+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584214",
+   "title": "Federal guidance on carrier selection not around the corner: TIA’s Burroughs",
+   "url": "https://www.freightwaves.com/news/federal-guidance-on-carrier-selection-not-around-the-corner-tias-burroughs",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Chattanooga–The Transportation Intermediaries Association (TIA) was quick out of the box earlier this year after two key court decisions that didn’t favor the brokerage community, asking the federal government for some sort of guidance for 3PLs: tell us what sort of carrier hiring practices would…",
+   "published": "2026-10-27T13:49:47+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/us-shipping-fee-truce-china",
+   "title": "U.S. plans 2-month extension to shipping-fee truce with China",
+   "url": "https://www.ttnews.com/articles/us-shipping-fee-truce-china",
+   "source": "Transport Topics",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "If approved, the Office of the United States Trade Representative’s proposal will prolong a bilateral truce that was set to expire in early November until Jan. 9.",
+   "published": "2026-10-27T13:46:08+00:00"
+  },
   {
    "id": "https://www.truckingdive.com/news/atri-the-top-underutilized-telematics-that-can-benefit-truckers/832616/",
    "title": "ATRI: The top underutilized telematics that can benefit truckers",
@@ -1115,36 +1143,6 @@
    "tags": [],
    "excerpt": "Daimler Truck North America has filed a lawsuit against a former employee and his wife, accusing them of embezzling nearly $3.8 million from the commercial truck manufacturer over a five year period. The lawsuit, filed Oct. 12 in Washington County Circuit Court in Oregon, names former Daimler…",
    "published": "2026-10-22T20:59:41+00:00"
-  },
-  {
-   "id": "https://www.dat.com/blog/?p=27685",
-   "title": "Reefer Produce Report: California coast lanes into New York gain 13% to 17% as Imperial freight jumps 72%",
-   "url": "https://www.dat.com/blog/reefer-produce-report-california-coast-lanes-into-new-york-gain-13-to-17-as-imperial-freight-jumps-72",
-   "source": "DAT iQ",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "National refrigerated produce volume rose 7% last week and fell 3% from a year earlier, led by a 9% gain in South Texas crossings and a 72% jump in the Imperial and Coachella section. California volume rose 5%, while Washington slipped 5%. The rates in this report are USDA open-market (spot) rates…",
-   "published": "2026-10-22T20:47:05+00:00"
-  },
-  {
-   "id": "https://joc.com/article/dot-grant-for-rail-upgrade-boosts-prospects-for-port-of-coos-bay-expansion-6310237",
-   "title": "DOT grant for rail upgrade boosts prospects for Port of Coos Bay expansion",
-   "url": "https://joc.com/article/dot-grant-for-rail-upgrade-boosts-prospects-for-port-of-coos-bay-expansion-6310237",
-   "source": "JOC",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Regulation",
-    "Ports/Rail"
-   ],
-   "excerpt": "A $205 million upgrade of the Coos Bay Rail Line to link with Union Pacific for inland service opens the door for the potential construction of the Pacific Coast Intermodal Port that would be capable of handling 13,000-TEU vessels.",
-   "published": "2026-10-22T20:30:15+00:00"
   }
  ]
 }
