@@ -1,6 +1,23 @@
 {
- "updated": "2026-10-27T12:00:35+00:00",
+ "updated": "2026-10-27T12:30:31+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584091",
+   "title": "Police recover $54K in Hot Wheels after BNSF freight train burglary in California",
+   "url": "https://www.freightwaves.com/news/police-recover-54k-in-hot-wheels-after-bnsf-freight-train-burglary-in-california",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Fraud",
+    "Ports/Rail"
+   ],
+   "excerpt": "Police recovered approximately $54,000 in stolen Hot Wheels merchandise following a freight train burglary in Colton, California. A witness called 911 around 3 a.m. Thursday, October 22, reporting suspicious activity near railroad tracks. Officers spotted a black Chevrolet Silverado leaving the…",
+   "published": "2026-10-27T11:30:13+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/15975494",
    "title": "More loads, tighter cash: Why trucking growth can be a financial trap",
@@ -1133,21 +1150,6 @@
    ],
    "excerpt": "Many of the well-known trucking technology companies in the market have recently been rolling out AI agents, autonomous software systems powered by large language models that aim to reduce manual human oversight and create greater operational efficiency by automating complex digital workflows.…",
    "published": "2026-10-22T18:56:40+00:00"
-  },
-  {
-   "id": "https://www.dcvelocity.com/editorial/featured/dual-fuel-fleet-tops-500",
-   "title": "Dual-fuel fleet tops 500",
-   "url": "https://www.dcvelocity.com/editorial/featured/dual-fuel-fleet-tops-500",
-   "source": "DC Velocity",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "More than 500 dual-fuel containerships and vehicle carriers are operating worldwide, with total investment in dual-fuel ships delivered and on order surpassing $200 billion, according to the latest World Shipping Council (WSC) Dual-Fuel Fleet Dashboard , released today.",
-   "published": "2026-10-22T18:49:07+00:00"
   }
  ]
 }
