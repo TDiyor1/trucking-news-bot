@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-28T16:53:56+00:00",
+ "updated": "2026-10-28T17:00:42+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/small-trucking-bankruptcies",
+   "title": "Small trucking companies file 221 bankruptcies in 2026",
+   "url": "https://www.ttnews.com/articles/small-trucking-bankruptcies",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Capacity"
+   ],
+   "excerpt": "About two-thirds of surveyed small carriers reported flat or declining revenue, while fuel, insurance and financing costs squeezed already thin margins.",
+   "published": "2026-10-28T15:46:50+00:00"
+  },
   {
    "id": "https://www.truckingdive.com/news/werner-revenue-jumps-23-as-fleet-efficiency-improves/872894/",
    "title": "Werner revenue jumps 23% as fleet efficiency improves",
@@ -1126,20 +1141,6 @@
    ],
    "excerpt": "After all the hooting, it seems the US is keen to again delay implementation of planned port fees for China-linked vessels, with the US Trade Representative (USTR) requesting the delay to give Washington and Beijing more time to negotiate. The USTR asked that the measure intended to penalise…",
    "published": "2026-10-26T13:27:24+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584181",
-   "title": "Shipbuilding central to new US-Denmark maritime pact",
-   "url": "https://www.freightwaves.com/news/shipbuilding-central-to-new-us-denmark-maritime-pact",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "The United States and Denmark have signed a maritime cooperation agreement aimed at expanding the U.S. shipbuilding workforce, attracting Danish investment to American shipyards and accelerating vessel construction and repairs through advanced technology. U.S.",
-   "published": "2026-10-26T12:45:00+00:00"
   }
  ]
 }
