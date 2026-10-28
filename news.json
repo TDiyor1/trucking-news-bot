@@ -1,6 +1,52 @@
 {
- "updated": "2026-10-28T15:00:37+00:00",
+ "updated": "2026-10-28T15:24:06+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584274",
+   "title": "Stolen shoes on eBay lead police to $1 million in missing BNSF train cargo",
+   "url": "https://www.freightwaves.com/news/stolen-shoes-on-ebay-lead-police-to-1-million-in-missing-bnsf-train-cargo",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Fraud",
+    "Ports/Rail"
+   ],
+   "excerpt": "Los Angeles police recovered approximately $1 million in stolen railroad cargo after tracing shoes advertised for sale on eBay. Investigators uncovered 35 pallets of BNSF Railroad property during an October 21 search of a local business. The merchandise included athletic footwear and backpacks from…",
+   "published": "2026-10-28T15:02:31+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/us-ships-avoid-hormuz",
+   "title": "U.S. tells ships to avoid unnecessary transits through Hormuz",
+   "url": "https://www.ttnews.com/articles/us-ships-avoid-hormuz",
+   "source": "Transport Topics",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "It remains unclear what prompted the advisory. The U.S. military last publicly issued a similar notice in mid-July, when it began its blockade of Iranian shipping.",
+   "published": "2026-10-28T14:54:29+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584394",
+   "title": "FMCSA removes 10,000-plus driver training providers amid safety push",
+   "url": "https://www.freightwaves.com/news/fmcsa-removes-10000-plus-driver-training-providers-amid-safety-push",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "JACKSONVILLE, Fla. — The Federal Motor Carrier Safety Administration has removed more than 10,000 commercial driver training providers from its federal registry since December 2025 and more than 100 noncompliant electronic logging devices from its approved list, according to the agency’s chief…",
+   "published": "2026-10-28T14:36:44+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584388",
    "title": "Backlog grows as 35,000 containers await rail service at LA–Long Beach",
@@ -1096,51 +1142,6 @@
    ],
    "excerpt": "A trucking trade association has launched a fresh legal assault against federal regulators, asking a federal appeals court to strike down a major motor carrier fee rule and halt what it calls the illegal sharing of truckers' sensitive personal data. The Small Business in Transportation Coalition…",
    "published": "2026-10-26T10:53:31+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15838338",
-   "title": "Higher truckload rates lift Marten's Q3 earnings, but diesel pulls it back",
-   "url": "https://www.ccjdigital.com/business/article/15838338/marten-transport-q3-2026-profit-rises-307-amid-fuel-and-health-insurance-costs",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Rates",
-    "Diesel"
-   ],
-   "excerpt": "Marten Transport ( CCJ Top 250 , No. 40) grew third-quarter net income by 30.7% year over year, but soaring diesel prices and rising health insurance costs offset a sharp rise in truckload rates. Randolph L. Marten, chairman of the board and chief executive officer, said the freight market is in…",
-   "published": "2026-10-26T10:43:02+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584138",
-   "title": "Canada port reaches new longshore union labor deal",
-   "url": "https://www.freightwaves.com/news/canada-port-reaches-new-longshore-union-labor-deal",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs",
-    "Ports/Rail"
-   ],
-   "excerpt": "Port employers and the International Longshoremen’s Association have reached a tentative labor agreement running through 2028, offering customers of the Canadian Atlantic gateway the prospect of a more predictable operating environment if the settlement is ratified.",
-   "published": "2026-10-26T10:02:00+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/spons/promises-vs-reality-closing-the-ai-adoption-gap-in-transportation/833070/",
-   "title": "Promises vs. reality: Closing the AI adoption gap in transportation",
-   "url": "https://www.supplychaindive.com/spons/promises-vs-reality-closing-the-ai-adoption-gap-in-transportation/833070/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "As teams see AI perform reliably, trust and their willingness to give it more responsibility grow.",
-   "published": "2026-10-26T09:00:00+00:00"
   }
  ]
 }
