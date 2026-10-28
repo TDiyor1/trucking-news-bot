@@ -1,6 +1,37 @@
 {
- "updated": "2026-10-28T03:30:29+00:00",
+ "updated": "2026-10-28T04:00:39+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584339",
+   "title": "Insurance claims adjustments tank Landstar’s otherwise strong Q3",
+   "url": "https://www.freightwaves.com/news/insurance-claims-adjustments-tank-landstars-otherwise-strong-q3",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Capacity"
+   ],
+   "excerpt": "Truckload broker Landstar System noted strong demand for its dry van and flatbed offerings on its third-quarter call with analysts on Tuesday. A tightened capacity backdrop and the buildout of data centers are shaping the favorable fundamentals. However, insurance claims activity clouded an…",
+   "published": "2026-10-28T03:22:42+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584346",
+   "title": "Port Houston container volumes jump 11% as imports surge in September",
+   "url": "https://www.freightwaves.com/news/port-houston-container-volumes-jump-11-as-imports-surge-in-september",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tariffs",
+    "Ports/Rail"
+   ],
+   "excerpt": "Port Houston recorded an 11% year-over-year increase in container volumes in September, fueled by stronger imports and improving export activity through its Bayport and Barbours Cut container terminals. The port handled 376,419 twenty-foot equivalent units (TEUs) during the month, compared with…",
+   "published": "2026-10-28T03:17:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584331",
    "title": "Werner Enterprises sees cost headwinds lingering into Q1",
@@ -1119,36 +1150,6 @@
    ],
    "excerpt": "FMCSA has updated its fuel emergency waiver. More haulers qualify for hours-of-service relief, but conditions apply.",
    "published": "2026-10-23T18:04:30+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/usdot-disaster-repair-34-states",
-   "title": "USDOT makes disaster repair aid available to 34 states",
-   "url": "https://www.ttnews.com/articles/usdot-disaster-repair-34-states",
-   "source": "Transport Topics",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "USDOT made $1.6 billion in funds available to 34 states to repair roads and bridges after major storms, severe rainfall and other natural disasters.",
-   "published": "2026-10-23T18:00:00+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104415",
-   "title": "Trucker’s concealed carry case ends. Can Congress deliver a fix?",
-   "url": "https://landline.media/truckers-concealed-carry-case-ends-can-congress-deliver-a-fix/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "Your concealed carry permit may not travel as far as your final destination. A trucker’s legal challenge ends, but the problem remains.",
-   "published": "2026-10-23T17:36:41+00:00"
   }
  ]
 }
