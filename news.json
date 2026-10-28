@@ -1,6 +1,33 @@
 {
- "updated": "2026-10-28T19:00:34+00:00",
+ "updated": "2026-10-28T19:30:37+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/werner-earnings-q3-2026",
+   "title": "Werner's Leathers expects accelerated capacity reductions",
+   "url": "https://www.ttnews.com/articles/werner-earnings-q3-2026",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Capacity"
+   ],
+   "excerpt": "Werner Enterprises CEO Derek Leathers expressed optimism Oct. 27 that trucking is entering an upcycle as industry capacity declines.",
+   "published": "2026-10-28T19:00:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584368",
+   "title": "How One Trucker Turned One Video A Day Into Billions Of Views, And What It Cost Him",
+   "url": "https://www.freightwaves.com/news/how-one-trucker-turned-one-video-a-day-into-billions-of-views-and-what-it-cost-him",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Larry Cothran did not set out to become what he now calls the number one trucking content creator in the world, he set out to post one video a day and then simply refused to stop, and that stubborn daily discipline, showing up on Facebook, Instagram, and YouTube every single day for more than three…",
+   "published": "2026-10-28T18:44:02+00:00"
+  },
   {
    "id": "https://joc.com/article/csx-tech-outage-halts-class-i-interchanges-disrupts-intermodal-freight-6313249",
    "title": "CSX tech outage halts Class I interchanges, disrupts intermodal freight",
@@ -1119,36 +1146,6 @@
    ],
    "excerpt": "Currently, 13 motor carriers possess exemptions from a rule that requires lighting devices to be steady-burning. Another company wants on that list.",
    "published": "2026-10-26T16:41:00+00:00"
-  },
-  {
-   "id": "https://www.dcvelocity.com/technology/transportation-it/transportation-load-planning-tms/soaring-diesel-prices-force-carriers-to-update-fuel-surcharges-weekly-instead-of-monthly",
-   "title": "Soaring diesel prices force carriers to update fuel surcharges weekly instead of monthly",
-   "url": "https://www.dcvelocity.com/technology/transportation-it/transportation-load-planning-tms/soaring-diesel-prices-force-carriers-to-update-fuel-surcharges-weekly-instead-of-monthly",
-   "source": "DC Velocity",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Diesel"
-   ],
-   "excerpt": "Diesel prices have been rising so fast that freight carriers need to update their fuel surcharge rates weekly instead of monthly, or else risk squeezing their profit margins , according to transportation management system (TMS) software provider Magnus Technologies.",
-   "published": "2026-10-26T16:37:49+00:00"
-  },
-  {
-   "id": "https://www.dcvelocity.com/technology/artificial-intelligence/enterprises-are-adopting-ai-faster-than-theyre-optimizing-processes-for-it",
-   "title": "Enterprises are adopting AI faster than they’re optimizing processes for it",
-   "url": "https://www.dcvelocity.com/technology/artificial-intelligence/enterprises-are-adopting-ai-faster-than-theyre-optimizing-processes-for-it",
-   "source": "DC Velocity",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Enterprises are adopting artificial intelligence much faster than they are redesigning operations to realize AI’s full business value, according to an Everest Group research report released by Lean Solutions Group. The research finds that 69% of organizations have moved beyond isolated AI use…",
-   "published": "2026-10-26T16:35:49+00:00"
   }
  ]
 }
