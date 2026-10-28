@@ -1,4 +1,35 @@
 {
  "last_digest": "2026-10-28",
- "queue": []
+ "queue": [
+  {
+   "id": "https://www.ttnews.com/articles/us-tariff-chinese-trailers",
+   "title": "U.S. to tariff Chinese trailers to aid domestic producers",
+   "url": "https://www.ttnews.com/articles/us-tariff-chinese-trailers",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "The Commerce Department is imposing tariffs of about 260% on “van-type trailers” were being “dumped” into the U.S. — imported at ultra cheap prices that make it difficult for domestic manufacturers to compete.",
+   "published": "2026-10-28T13:03:45+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/csx-sees-rail-conversion-opportunities-from-battered-trucking-market/872764/",
+   "title": "CSX sees rail conversion opportunities from battered trucking market",
+   "url": "https://www.truckingdive.com/news/csx-sees-rail-conversion-opportunities-from-battered-trucking-market/872764/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Rates",
+    "Ports/Rail"
+   ],
+   "excerpt": "The railroad is reviewing shipper truckload files to provide service and cost comparisons for intermodal opportunities.",
+   "published": "2026-10-28T13:12:00+00:00"
+  }
+ ]
 }

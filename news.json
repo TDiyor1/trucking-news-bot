@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-28T13:00:41+00:00",
+ "updated": "2026-10-28T13:30:35+00:00",
  "items": [
+  {
+   "id": "https://www.truckingdive.com/news/atri-to-study-truck-driver-health-carriers-medical-costs/833504/",
+   "title": "ATRI to study truck driver health, carriers’ medical costs",
+   "url": "https://www.truckingdive.com/news/atri-to-study-truck-driver-health-carriers-medical-costs/833504/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Online surveys seek to help the industry better understand drivers’ health and financial impacts.",
+   "published": "2026-10-28T13:17:00+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/csx-sees-rail-conversion-opportunities-from-battered-trucking-market/872764/",
+   "title": "CSX sees rail conversion opportunities from battered trucking market",
+   "url": "https://www.truckingdive.com/news/csx-sees-rail-conversion-opportunities-from-battered-trucking-market/872764/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Rates",
+    "Ports/Rail"
+   ],
+   "excerpt": "The railroad is reviewing shipper truckload files to provide service and cost comparisons for intermodal opportunities.",
+   "published": "2026-10-28T13:12:00+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/us-tariff-chinese-trailers",
+   "title": "U.S. to tariff Chinese trailers to aid domestic producers",
+   "url": "https://www.ttnews.com/articles/us-tariff-chinese-trailers",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "The Commerce Department is imposing tariffs of about 260% on “van-type trailers” were being “dumped” into the U.S. — imported at ultra cheap prices that make it difficult for domestic manufacturers to compete.",
+   "published": "2026-10-28T13:03:45+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584369",
    "title": "Frst look: almost all good news at C.H. Robinson in the third quarter",
@@ -1100,53 +1142,6 @@
    ],
    "excerpt": "With the trucking industry bracing for the Environmental Protection Agency’s stringent 2027 emissions regulations , sister companies Volvo Trucks North America and Mack Trucks, along with International Motors, find themselves in a unique position: owners of true 0.035-gram nitrogen oxide (NOx)…",
    "published": "2026-10-24T23:05:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/ai-alerts-win-skeptical-drivers",
-   "title": "AI alerts help win over skeptical drivers, fleet execs say",
-   "url": "https://www.ttnews.com/articles/ai-alerts-win-skeptical-drivers",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Werner executive Austin Henderson recalled a meeting in which a truck driver who once was skeptical of AI admitted that an AI-enabled distracted-driving alert saved his life.",
-   "published": "2026-10-23T21:00:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584069",
-   "title": "New Drewry data shows import demand boosting trans-Pacific rates",
-   "url": "https://www.freightwaves.com/news/new-drewry-data-shows-import-demand-boosting-trans-pacific-rates",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Rates",
-    "Capacity",
-    "Ports/Rail"
-   ],
-   "excerpt": "Drewry’s World Container Index rose 2% to $4,585 per 40-foot container, supported by higher rates on trans-Pacific and Asia-Europe routes as strong U.S. import demand and carrier capacity cuts bolstered pricing. Shanghai-to-Los Angeles rates increased 2% to $8,007 per 40-foot container, while…",
-   "published": "2026-10-23T18:55:28+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584062",
-   "title": "Roadrunner announces Canada outbound service",
-   "url": "https://www.freightwaves.com/news/roadrunner-announces-canada-outbound-service",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Rates",
-    "Tariffs"
-   ],
-   "excerpt": "Less-than-truckload carrier Roadrunner announced a new outbound Canada-to-U.S. service on Friday. It also announced a 5.9% general rate increase, which will be effective on Nov. 2. Roadrunner’s ( OTC: RRTS ) new service connects shippers across Canada to approximately 40 major metro markets in the…",
-   "published": "2026-10-23T18:31:28+00:00"
   }
  ]
 }
