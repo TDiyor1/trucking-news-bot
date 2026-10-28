@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-28T11:00:37+00:00",
+ "updated": "2026-10-28T11:31:05+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584340",
+   "title": "Jacobs, RXO’s creator, backs its acquisition by C.H. Robinson",
+   "url": "https://www.freightwaves.com/news/jacobs-rxos-creator-backs-its-acquisition-by-c-h-robinson",
+   "source": "FreightWaves",
+   "audience": [
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Chattanooga–The man who created RXO gave his public support to the 3PL’s acquisition by C.H. Robinson, saying you need “scale and density” to make it in the brokerage world. Brad Jacobs, who as CEO of XPO Logistics spun off RXO into a standalone publicly-traded 3PL, told the FreightWaves Future of…",
+   "published": "2026-10-28T11:00:00+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/15975623",
    "title": "Roehl offering $10K retention incentive for new hires",
@@ -1138,21 +1150,6 @@
    ],
    "excerpt": "An attorney reportedly collected more than $350,000 for his role in Operation Sideswipe, a scheme to collect payouts from trucking companies.",
    "published": "2026-10-23T18:10:58+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104419",
-   "title": "Railroads receive HOS exemption for ‘unplanned events’",
-   "url": "https://landline.media/railroads-receive-hos-exemption-for-unplanned-events/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation",
-    "Ports/Rail"
-   ],
-   "excerpt": "More than 200 motor carriers will be allowed to operate under an hours-of-service exemption requested by railroad associations.",
-   "published": "2026-10-23T18:08:45+00:00"
   }
  ]
 }
