@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-28T18:00:34+00:00",
+ "updated": "2026-10-28T18:24:03+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104464",
+   "title": "Smell diesel? Check if your Kenworth or Peterbilt is under recall",
+   "url": "https://landline.media/smell-diesel-check-if-your-kenworth-or-peterbilt-is-under-recall/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Daimler and Paccar now account for about three-quarters of the Cummins L9 engines recalled. Here’s what Paccar owners need to know.",
+   "published": "2026-10-28T18:23:55+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16050323",
    "title": "Despite clumsy rollout, FMCSA says Motus has blocked 'thousands' of bad actors from hitting the highway",
@@ -1131,20 +1145,6 @@
    ],
    "excerpt": "The joint operations targeting truckers at a California state Route 86 checkpoint during August and September were announced by Customs and Border Protection.",
    "published": "2026-10-26T14:08:49+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/how-diesel-is-powering-yesways-gains/833753/",
-   "title": "How diesel is powering Yesway’s gains",
-   "url": "https://www.truckingdive.com/news/how-diesel-is-powering-yesways-gains/833753/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Diesel accounts for more than a third of the fuel the company sells at its stores, thanks in part to its focus on operating in areas with a lot of truck traffic.",
-   "published": "2026-10-26T13:58:00+00:00"
   }
  ]
 }
