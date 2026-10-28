@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-28T17:00:42+00:00",
+ "updated": "2026-10-28T17:23:27+00:00",
  "items": [
+  {
+   "id": "https://joc.com/article/ilwu-local-threatens-strike-at-la-lb-ports-beginning-sunday-6313216",
+   "title": "ILWU local threatens strike at LA-LB ports beginning Sunday",
+   "url": "https://joc.com/article/ilwu-local-threatens-strike-at-la-lb-ports-beginning-sunday-6313216",
+   "source": "JOC",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The strike threat from unionized security personnel comes as the Southern California gateway is already experiencing congestion and rising rail container dwell times due to record or near-record container volumes this summer and fall.",
+   "published": "2026-10-28T17:13:14+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/16050250",
+   "title": "Capacity squeeze and regulatory crackdowns point to durable trucking recovery",
+   "url": "https://www.ccjdigital.com/economic-trends/freight-demand/article/16050250/fmcsa-crackdowns-cdl-revocations-reshape-trucking-capacity",
+   "source": "CCJ",
+   "audience": [
+    "Broker"
+   ],
+   "tags": [
+    "Capacity"
+   ],
+   "excerpt": "An unprecedented supply squeeze driven by regulatory crackdowns, mounting broker liability, and prolonged market attrition is laying the groundwork for a more stable and durable freight recovery, according to Knight-Swift Transportation ( CCJ Top 250 , No. 3) Chief Executive Adam Miller.",
+   "published": "2026-10-28T17:09:17+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/small-trucking-bankruptcies",
    "title": "Small trucking companies file 221 bankruptcies in 2026",
@@ -1114,33 +1142,6 @@
    ],
    "excerpt": "“It’s a realistic number,” CFO David Maday said of the fleet plans. “I know it sounds like a lot.”",
    "published": "2026-10-26T13:58:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584132",
-   "title": "FedEx taps AutoZone executive to be finance chief",
-   "url": "https://www.freightwaves.com/news/fedex-taps-autozone-executive-to-be-finance-chief",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [],
-   "excerpt": "FedEx Corp. announced Monday the appointment of AutoZone executive Jamere Jackson as chief financial officer, effective Nov. 30. He succeeds Claude Russ, who has served as interim CFO since June 1 after the departure of John Dietrich. Jackson most recently led finance and store development at…",
-   "published": "2026-10-26T13:49:09+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=327347",
-   "title": "US delays port fees for Chinese ships again – now until 9 January",
-   "url": "https://theloadstar.com/us-delays-port-fees-for-chinese-ships-again-now-until-9-january/",
-   "source": "The Loadstar",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "After all the hooting, it seems the US is keen to again delay implementation of planned port fees for China-linked vessels, with the US Trade Representative (USTR) requesting the delay to give Washington and Beijing more time to negotiate. The USTR asked that the measure intended to penalise…",
-   "published": "2026-10-26T13:27:24+00:00"
   }
  ]
 }
