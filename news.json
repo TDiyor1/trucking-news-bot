@@ -1,6 +1,35 @@
 {
- "updated": "2026-10-28T15:30:30+00:00",
+ "updated": "2026-10-28T15:53:54+00:00",
  "items": [
+  {
+   "id": "https://www.truckingdive.com/news/werner-revenue-jumps-23-as-fleet-efficiency-improves/872894/",
+   "title": "Werner revenue jumps 23% as fleet efficiency improves",
+   "url": "https://www.truckingdive.com/news/werner-revenue-jumps-23-as-fleet-efficiency-improves/872894/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "A larger truckload fleet combined with improved revenue-per-truck in its dedicated and one-way businesses helped the carrier reach $950 million in revenue.",
+   "published": "2026-10-28T15:43:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584418",
+   "title": "F3: FreightWaves announces Shipper of Choice winners",
+   "url": "https://www.freightwaves.com/news/f3-freightwaves-announces-shipper-of-choice-winners",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "FreightWaves announced the winners of its Shipper of Choice awards on Monday, Oct. 26, at the F3: Future of Freight Festival, recognizing companies that stand out for their relationships with freight carriers and their approach to shipping operations. Craig Fuller, founder and CEO of FreightWaves…",
+   "published": "2026-10-28T15:31:42+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584274",
    "title": "Stolen shoes on eBay lead police to $1 million in missing BNSF train cargo",
@@ -1114,34 +1143,6 @@
    ],
    "excerpt": "Trans-Pacific container spot rates were largely unchanged last week, signaling the market has peaked and is likely to soften through the remainder of 2026, according to analyst Xeneta. Average spot rates from Asia to the U.S. West Coast edged up 0.2% in the week ending Oct.",
    "published": "2026-10-26T11:59:46+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584086",
-   "title": "How Shaw backhauls turn old carpet tile into new opportunity",
-   "url": "https://www.freightwaves.com/news/shaw-carpet-tile-reverse-logistics-backhaul",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "When it’s time for commercial flooring to be replaced, renovation teams may be inclined to toss it in the dumpster along with other construction and demolition debris, but Shaw Industries wants its EcoWorx carpet tile back. The reverse logistics challenge Getting that product back to the company so…",
-   "published": "2026-10-26T11:00:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15975346",
-   "title": "Legal challenge targets 20% UCR fee increase and trucker data privacy violations",
-   "url": "https://www.ccjdigital.com/regulations/safety-compliance/article/15975346/fmcsa-2027-ucr-fee-rule-challenged-in-court",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "A trucking trade association has launched a fresh legal assault against federal regulators, asking a federal appeals court to strike down a major motor carrier fee rule and halt what it calls the illegal sharing of truckers' sensitive personal data. The Small Business in Transportation Coalition…",
-   "published": "2026-10-26T10:53:31+00:00"
   }
  ]
 }
