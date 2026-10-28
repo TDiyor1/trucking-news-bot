@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-28T00:30:30+00:00",
+ "updated": "2026-10-28T01:00:42+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584331",
+   "title": "Werner Enterprises sees cost headwinds lingering into Q1",
+   "url": "https://www.freightwaves.com/news/werner-enterprises-sees-cost-headwinds-lingering-into-q1",
+   "source": "FreightWaves",
+   "audience": [
+    "Broker"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "Executives from Werner Enterprises outlined a path to double-digit truckload margins, but said cost headwinds will likely limit progress over the next two quarters. Werner ( NASDAQ: WERN ) reported third-quarter adjusted earnings per share of 16 cents after the market closed on Tuesday.",
+   "published": "2026-10-28T00:10:03+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/15975351",
    "title": "How 1 million ELD fraudsters broke the trucking industry, and how to save it",
@@ -1135,21 +1149,6 @@
    ],
    "excerpt": "Your concealed carry permit may not travel as far as your final destination. A trucker’s legal challenge ends, but the problem remains.",
    "published": "2026-10-23T17:36:41+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104410",
-   "title": "Missouri DOT announces speed limit changes along rural interstates",
-   "url": "https://landline.media/missouri-dot-announces-speed-limit-changes-along-rural-interstates/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "Missouri is raising speed limits in certain rural areas along four interstates. Find out where they’re going up and when they take effect.",
-   "published": "2026-10-23T17:34:24+00:00"
   }
  ]
 }
