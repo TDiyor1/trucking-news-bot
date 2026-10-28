@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T22:30:28+00:00",
+ "updated": "2026-10-28T22:50:20+00:00",
  "items": [
   {
    "id": "https://www.freightwaves.com/?p=584492",
@@ -26,6 +26,22 @@
    "tags": [],
    "excerpt": "Strong financial numbers released between Tuesday and Wednesday by C.H. Robinson and Landstar were overshadowed on Wall Street by concern over one particular issue: insurance. Landstar kicked off the issue Tuesday afternoon with its third quarter earnings release that showed heavier than usual…",
    "published": "2026-10-28T21:40:55+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/16050311",
+   "title": "FMCSA will 'hold violators fully accountable' after ELD fraud scandal revealed",
+   "url": "https://www.ccjdigital.com/regulations/article/16050311/fmcsa-will-hold-violators-fully-accountable-for-eld-fraud",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation",
+    "Fraud",
+    "Tech"
+   ],
+   "excerpt": "The Federal Motor Carrier Safety Administration vowed action after a motor carrier confronted its investigators with firsthand evidence of electronic logging device fraud . A driver parked at police headquarters and had his hours reset on the spot. In a statement after the meeting with Illinois…",
+   "published": "2026-10-28T21:25:38+00:00"
   },
   {
    "id": "https://www.ccjdigital.com/16050342",
@@ -1142,20 +1158,6 @@
    "tags": [],
    "excerpt": "A fleet of eight renewable natural gas-powered trucks is helping Graphic Packaging International tackle its supply chain emissions while maintaining the reliability of daily runs between Chicago and Kalamazoo. Paper Transport is working with Graphic Packaging International, a global leader in…",
    "published": "2026-10-26T20:31:09+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/pilot-tesla-2-truck-charging",
-   "title": "Pilot, Tesla open first 2 heavy-duty truck charging sites",
-   "url": "https://www.ttnews.com/articles/pilot-tesla-2-truck-charging",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Pilot and Tesla opened heavy-duty electric truck charging sites at travel centers in Georgia and California in October.",
-   "published": "2026-10-26T20:30:00+00:00"
   }
  ]
 }
