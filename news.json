@@ -1,6 +1,32 @@
 {
- "updated": "2026-10-28T21:54:18+00:00",
+ "updated": "2026-10-28T22:00:35+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584492",
+   "title": "Aurora adds 500-truck Charger MOU toward 30,000-truck goal",
+   "url": "https://www.freightwaves.com/news/aurora-charger-logistics-500-driverless-trucks-mou",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Aurora Innovation signed a nonbinding memorandum of understanding Monday under which Charger Logistics intends to buy up to 500 Aurora Driver-powered trucks, with deliveries over 2027 and 2028. The deal builds on a contract Charger signed in July to start driverless hauls between Dallas and Laredo,…",
+   "published": "2026-10-28T21:50:06+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584490",
+   "title": "C.H Robinson and Landstar stock prices slammed; insurance costs a factor",
+   "url": "https://www.freightwaves.com/news/c-h-robinson-and-landstar-stock-prices-slammed-insurance-costs-a-factor",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Strong financial numbers released between Tuesday and Wednesday by C.H. Robinson and Landstar were overshadowed on Wall Street by concern over one particular issue: insurance. Landstar kicked off the issue Tuesday afternoon with its third quarter earnings release that showed heavier than usual…",
+   "published": "2026-10-28T21:40:55+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16050342",
    "title": "Werner sees multi-year freight upcycle ahead",
@@ -1130,32 +1156,6 @@
    ],
    "excerpt": "Pilot and Tesla opened heavy-duty electric truck charging sites at travel centers in Georgia and California in October.",
    "published": "2026-10-26T20:30:00+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104444",
-   "title": "Safe miles, higher premiums: Report highlights hidden costs of trucking litigation",
-   "url": "https://landline.media/safe-miles-higher-premiums-report-highlights-hidden-costs-of-trucking-litigation/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "You don’t have to be in a crash to pay for it. A new report connects costly trucking litigation to rising insurance bills.",
-   "published": "2026-10-26T19:16:38+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/georgia-extends-fuel-tax-break",
-   "title": "Georgia extends motor fuel tax break ahead of Thanksgiving",
-   "url": "https://www.ttnews.com/articles/georgia-extends-fuel-tax-break",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "The suspension of Georgia’s current per-gallon motor fuel excise tax of 37.3 cents for diesel and 33.3 cents for gasoline extends through Nov. 30.",
-   "published": "2026-10-26T17:51:48+00:00"
   }
  ]
 }
