@@ -1,6 +1,35 @@
 {
- "updated": "2026-10-28T13:30:35+00:00",
+ "updated": "2026-10-28T14:00:43+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584360",
+   "title": "Diesel prices may stay elevated into spring 2027, fuel executives warn",
+   "url": "https://www.freightwaves.com/news/diesel-prices-may-stay-elevated-into-spring-2027-fuel-executives-warn",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel",
+    "Capacity"
+   ],
+   "excerpt": "JACKSONVILLE, Fla. — U.S. trucking companies could face elevated diesel prices through at least spring 2027, according to energy and truck stop executives speaking Tuesday at the WEX OTR Summit . Geopolitical conflicts, refinery constraints and limited pipeline capacity continue to strain fuel…",
+   "published": "2026-10-28T13:30:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584381",
+   "title": "Forward Air saves ‘significant portion’ of major customer account",
+   "url": "https://www.freightwaves.com/news/forward-air-saves-significant-portion-of-major-customer-account",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Forward Air has entered a two-year agreement to retain “a significant portion of the services currently provided” to a customer that it had previously indicated it might lose . Prior reports from Forward said the contract logistics customer accounted for 10% of its annual revenue, or roughly $250…",
+   "published": "2026-10-28T13:29:49+00:00"
+  },
   {
    "id": "https://www.truckingdive.com/news/atri-to-study-truck-driver-health-carriers-medical-costs/833504/",
    "title": "ATRI to study truck driver health, carriers’ medical costs",
@@ -1112,36 +1141,6 @@
    ],
    "excerpt": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade. This week in Borderlands Mexico: Avocado imports generate $641M for US trucking, warehousing; GLS US expands parcel delivery network to Texas border market and Jetco expands…",
    "published": "2026-10-25T11:00:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584029",
-   "title": "Truckload contract rate increases riding steady above 10%",
-   "url": "https://www.freightwaves.com/news/truckload-contract-rate-increases-riding-steady-above-10",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Chart of the Week: Contract Rate Change Direction Index – USA SONAR : CRCD.USA Shippers who have reset truckload contracts over the past several months are paying about 13% more than the rates they replaced. That is the reading from SONAR’s new Contract Rate Change Direction index (CRCD.USA), which…",
-   "published": "2026-10-25T00:30:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15837766",
-   "title": "The little engines that could: 3 OEMs stand ready to meet EPA's strictest ever NOx limits",
-   "url": "https://www.ccjdigital.com/trucks/class-7-8/article/15837766/truck-makers-prep-0035gram-nox-engines-for-2027-epa-standards",
-   "source": "CCJ",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "With the trucking industry bracing for the Environmental Protection Agency’s stringent 2027 emissions regulations , sister companies Volvo Trucks North America and Mack Trucks, along with International Motors, find themselves in a unique position: owners of true 0.035-gram nitrogen oxide (NOx)…",
-   "published": "2026-10-24T23:05:00+00:00"
   }
  ]
 }
