@@ -1,6 +1,37 @@
 {
- "updated": "2026-10-28T21:00:36+00:00",
+ "updated": "2026-10-28T21:20:18+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16050342",
+   "title": "Werner sees multi-year freight upcycle ahead",
+   "url": "https://www.ccjdigital.com/ccj-top-250/article/16050342/werner-ceo-enforcement-capacity-cuts-have-just-begun",
+   "source": "CCJ",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Capacity"
+   ],
+   "excerpt": "Enforcement-driven capacity reductions are still in the early stages and will keep pushing freight rates higher into peak season, according to Werner Enterprises ( CCJ Top 250 , No. 14) executives. During the company’s earnings call Tuesday, Werner Chairman and CEO Derek Leathers said cost…",
+   "published": "2026-10-28T21:00:00+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/16050372",
+   "title": "Stoneridge, Kodiak AI partner to integrate MirrorEye camera mirrors into autonomous trucks",
+   "url": "https://www.ccjdigital.com/equipment-controls/autonomous/article/16050372/stoneridge-kodiak-ai-partner-for-autonomous-trucking-tech",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Camera mirror pioneer Stoneridge and autonomous trucking tech company Kodiak AI are collaborating to integrate Stoneridge's camera technology into autonomous commercial trucks. The partnership launches with the integration of Stoneridge’s MirrorEye Camera Monitor System (CMS) into newly deployed…",
+   "published": "2026-10-28T20:56:12+00:00"
+  },
   {
    "id": "https://www.truckingdive.com/news/old-dominion-revenue-jumps-13-as-density-increases/873020/",
    "title": "Old Dominion revenue jumps 13% as density increases",
@@ -252,6 +283,22 @@
    ],
    "excerpt": "A larger truckload fleet combined with improved revenue-per-truck in its dedicated and one-way businesses helped the carrier reach $950 million in revenue.",
    "published": "2026-10-28T15:43:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584475",
+   "title": "First look: CPKC earnings",
+   "url": "https://www.freightwaves.com/news/first-look-cpkc-earnings-2",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Diesel",
+    "Ports/Rail"
+   ],
+   "excerpt": "Canadian Pacific Kansas City reported a 16% increase in third-quarter core adjusted earnings per share Wednesday, as higher freight volumes and growth in grain and intermodal revenue helped offset rising fuel costs. Revenue rose to C$4.22 billion ($3.01 billion) in the three months ended Sept.",
+   "published": "2026-10-28T15:32:00+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=584418",
@@ -1109,48 +1156,6 @@
    ],
    "excerpt": "The suspension of Georgia’s current per-gallon motor fuel excise tax of 37.3 cents for diesel and 33.3 cents for gasoline extends through Nov. 30.",
    "published": "2026-10-26T17:51:48+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104438",
-   "title": "Builders of trucking history enter hall of fame",
-   "url": "https://landline.media/builders-of-trucking-history-enter-hall-of-fame/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "From a homemade chassis to a household name in trucking, this year’s Hall of Fame inductees started small and thought big.",
-   "published": "2026-10-26T17:44:35+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104435",
-   "title": "Fuel tax breaks promise savings. But do truckers really win?",
-   "url": "https://landline.media/fuel-tax-breaks-promise-savings-but-do-truckers-really-win/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Fuel tax breaks promise relief at the pump, but some skip diesel. See which states are cutting taxes and what truckers could save.",
-   "published": "2026-10-26T17:22:32+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/ltl-shippers-timely-responses",
-   "title": "LTL shippers increasingly want timely responses, proactiveness",
-   "url": "https://www.ttnews.com/articles/ltl-shippers-timely-responses",
-   "source": "Transport Topics",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Timely customer service responses and proactive communication are growing in importance for shippers in the LTL space as the freight market rebound continues.",
-   "published": "2026-10-26T17:20:00+00:00"
   }
  ]
 }
