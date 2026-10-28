@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-28T14:00:43+00:00",
+ "updated": "2026-10-28T14:30:33+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584388",
+   "title": "Backlog grows as 35,000 containers await rail service at LA–Long Beach",
+   "url": "https://www.freightwaves.com/news/backlog-grows-as-35000-containers-await-rail-service-at-la-long-beach",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Nearly 35,700 import containers were waiting for on-dock trains at the ports of Los Angeles and Long Beach this week, as record cargo volumes and reported railcar shortages slowed the movement of freight inland. Of the 35,688 containers awaiting rail service on Oct.",
+   "published": "2026-10-28T14:01:08+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584360",
    "title": "Diesel prices may stay elevated into spring 2027, fuel executives warn",
@@ -1127,20 +1141,6 @@
    ],
    "excerpt": "As teams see AI perform reliably, trust and their willingness to give it more responsibility grow.",
    "published": "2026-10-26T09:00:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584078",
-   "title": "Borderlands Mexico: Avocado imports generate $641M for US trucking, warehousing",
-   "url": "https://www.freightwaves.com/news/borderlands-mexico-avocado-imports-generate-641m-for-us-trucking-warehousing",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade. This week in Borderlands Mexico: Avocado imports generate $641M for US trucking, warehousing; GLS US expands parcel delivery network to Texas border market and Jetco expands…",
-   "published": "2026-10-25T11:00:00+00:00"
   }
  ]
 }
