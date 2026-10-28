@@ -1,6 +1,37 @@
 {
- "updated": "2026-10-28T18:24:03+00:00",
+ "updated": "2026-10-28T18:30:35+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104470",
+   "title": "Fuel, trucking costs could continue to rise",
+   "url": "https://landline.media/fuel-trucking-costs-could-continue-to-rise/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "Believe it or not, the freight market is in the midst of an upcycle. However, fuel and other elevated costs are still concerns. A new report breaks it down.",
+   "published": "2026-10-28T18:29:46+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104467",
+   "title": "New Jersey could go against the grain on truck weight limits",
+   "url": "https://landline.media/new-jersey-could-go-against-the-grain-on-truck-weight-limits/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "While many proposals focus on allowing heavier trucks, a New Jersey bill calls for a study on whether weight limits should come down.",
+   "published": "2026-10-28T18:27:35+00:00"
+  },
   {
    "id": "https://landline.media/?p=104464",
    "title": "Smell diesel? Check if your Kenworth or Peterbilt is under recall",
@@ -1115,36 +1146,6 @@
    "tags": [],
    "excerpt": "DSV reported a 19.5% increase in third-quarter operating profit before special items, as cost synergies from its Schenker acquisition and stronger results in air and sea, and contract logistics outweighed weakness in trucking. The world’s biggest forwarder (DSV.CO), based in Denmark, posted pre-tax…",
    "published": "2026-10-26T14:41:00+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/csx-sees-rail-conversion-opportunities-from-battered-trucking-market/833858/",
-   "title": "CSX sees rail conversion opportunities from battered trucking market",
-   "url": "https://www.supplychaindive.com/news/csx-sees-rail-conversion-opportunities-from-battered-trucking-market/833858/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Rates",
-    "Ports/Rail"
-   ],
-   "excerpt": "The railroad is reviewing shipper truckload files to provide service and cost comparisons for intermodal opportunities.",
-   "published": "2026-10-26T14:40:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/cabotage-elp-california",
-   "title": "Cabotage, ELP violations targeted in California truck checks",
-   "url": "https://www.ttnews.com/articles/cabotage-elp-california",
-   "source": "Transport Topics",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "The joint operations targeting truckers at a California state Route 86 checkpoint during August and September were announced by Customs and Border Protection.",
-   "published": "2026-10-26T14:08:49+00:00"
   }
  ]
 }
