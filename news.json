@@ -1,6 +1,51 @@
 {
- "updated": "2026-10-28T18:30:35+00:00",
+ "updated": "2026-10-28T18:47:22+00:00",
  "items": [
+  {
+   "id": "https://joc.com/article/csx-tech-outage-halts-class-i-interchanges-disrupts-intermodal-freight-6313249",
+   "title": "CSX tech outage halts Class I interchanges, disrupts intermodal freight",
+   "url": "https://joc.com/article/csx-tech-outage-halts-class-i-interchanges-disrupts-intermodal-freight-6313249",
+   "source": "JOC",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The railroad said some systems were gradually returning to service, but that significant operational restrictions remained due to the outage, which began Tuesday and was determined to not be a cyberattack.",
+   "published": "2026-10-28T18:38:15+00:00"
+  },
+  {
+   "id": "https://www.dcvelocity.com/transportation/maritime-ocean/ports/dot-awards-498-million-for-port-improvement-projects-in-19-states",
+   "title": "DOT awards $498 million for port improvement projects in 19 states",
+   "url": "https://www.dcvelocity.com/transportation/maritime-ocean/ports/dot-awards-498-million-for-port-improvement-projects-in-19-states",
+   "source": "DC Velocity",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation",
+    "Ports/Rail"
+   ],
+   "excerpt": "The U.S. Department of Transportation (DOT) on Tuesday announced the 35 projects that will receive funding for port infrastructure improvements, covering a total of $498 million in 19 states. The grant money was awarded through the Maritime Administration (MARAD)’s Port Infrastructure Development…",
+   "published": "2026-10-28T18:35:25+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104473",
+   "title": "Flurry of rules from FMCSA headed your way?",
+   "url": "https://landline.media/flurry-of-rules-from-fmcsa-headed-your-way/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "In March, FMCSA Administrator Derek Barrs teased that many rules were coming in 2026. Find out what’s coming.",
+   "published": "2026-10-28T18:31:23+00:00"
+  },
   {
    "id": "https://landline.media/?p=104470",
    "title": "Fuel, trucking costs could continue to rise",
@@ -45,6 +90,22 @@
    ],
    "excerpt": "Daimler and Paccar now account for about three-quarters of the Cummins L9 engines recalled. Here’s what Paccar owners need to know.",
    "published": "2026-10-28T18:23:55+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/federal-reserve-no-change",
+   "title": "Federal Reserve keeps rates unchanged despite high inflation",
+   "url": "https://www.ttnews.com/articles/federal-reserve-no-change",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "The Fed’s decision came just six days before a midterm election that has focused heavily on concerns around the cost of living and affordability.",
+   "published": "2026-10-28T18:15:54+00:00"
   },
   {
    "id": "https://www.ccjdigital.com/16050323",
@@ -237,6 +298,20 @@
    "tags": [],
    "excerpt": "Forward Air has entered a two-year agreement to retain “a significant portion of the services currently provided” to a customer that it had previously indicated it might lose . Prior reports from Forward said the contract logistics customer accounted for 10% of its annual revenue, or roughly $250…",
    "published": "2026-10-28T13:29:49+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584451",
+   "title": "Strike threat by port security workers at Los Angeles–Long Beach",
+   "url": "https://www.freightwaves.com/news/strike-threat-by-port-security-workers-at-los-angeles-long-beach",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "About 250 union watchmen at the ports of Los Angeles and Long Beach could strike as early as 5 p.m. Pacific time Sunday, Nov. 1, threatening cargo operations at the nation’s busiest container port complex if negotiators fail to reach a new labor agreement.",
+   "published": "2026-10-28T13:23:00+00:00"
   },
   {
    "id": "https://www.truckingdive.com/news/atri-to-study-truck-driver-health-carriers-medical-costs/833504/",
@@ -1074,78 +1149,6 @@
    ],
    "excerpt": "Enterprises are adopting artificial intelligence much faster than they are redesigning operations to realize AI’s full business value, according to an Everest Group research report released by Lean Solutions Group. The research finds that 69% of organizations have moved beyond isolated AI use…",
    "published": "2026-10-26T16:35:49+00:00"
-  },
-  {
-   "id": "https://www.dcvelocity.com/transportation/trucking/autonomous-trucks/charger-logistics-plans-to-buy-up-to-500-autonomous-trucks",
-   "title": "Charger Logistics plans to buy up to 500 autonomous trucks",
-   "url": "https://www.dcvelocity.com/transportation/trucking/autonomous-trucks/charger-logistics-plans-to-buy-up-to-500-autonomous-trucks",
-   "source": "DC Velocity",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tariffs",
-    "Tech"
-   ],
-   "excerpt": "The Ontario, Canada-based truck transportation provider Charger Logistics intends to purchase up to 500 autonomous trucks controlled by technology from self-driving platform provider Aurora, the companies said today. The agreement builds upon Charger’s existing contract with Aurora signed in July,…",
-   "published": "2026-10-26T16:29:35+00:00"
-  },
-  {
-   "id": "https://joc.com/article/up-resumes-intermodal-container-fleet-expansion-6312193",
-   "title": "UP resumes intermodal container fleet expansion",
-   "url": "https://joc.com/article/up-resumes-intermodal-container-fleet-expansion-6312193",
-   "source": "JOC",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Union Pacific Railroad’s purchase of 500 new domestic containers breaks a three-year industry equipment freeze and diverges from the approach of private asset-owning intermodal providers.",
-   "published": "2026-10-26T15:44:20+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584144",
-   "title": "AI air freight drives Kuehne+Nagel profit increase",
-   "url": "https://www.freightwaves.com/news/ai-air-freight-drives-kuehnenagel-profit-increase",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Earnings and volume gains, led by AI-related air freight demand and ongoing cost controls, spurred strong third-quarter results for Kuehne+Nagel, beating analysts’ estimates for profit and volumes. Revenue increased 22% to $8.97 billion and pre-tax earnings were $527 million, up 53% year over year,…",
-   "published": "2026-10-26T15:26:44+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/ups-plans-59-rate-increase-on-dec-21/872751/",
-   "title": "UPS plans 5.9% rate increase on Dec. 21",
-   "url": "https://www.supplychaindive.com/news/ups-plans-59-rate-increase-on-dec-21/872751/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "The carrier's average rate bump will match FedEx's upcoming increase, but UPS also has additional changes in store.",
-   "published": "2026-10-26T15:10:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584149",
-   "title": "DSV 3Q profit rises 19.5% as Schenker integration lifts earnings",
-   "url": "https://www.freightwaves.com/news/dsv-3q-profit-rises-19-5-as-schenker-integration-lifts-earnings",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "DSV reported a 19.5% increase in third-quarter operating profit before special items, as cost synergies from its Schenker acquisition and stronger results in air and sea, and contract logistics outweighed weakness in trucking. The world’s biggest forwarder (DSV.CO), based in Denmark, posted pre-tax…",
-   "published": "2026-10-26T14:41:00+00:00"
   }
  ]
 }
