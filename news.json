@@ -1,6 +1,37 @@
 {
- "updated": "2026-10-28T20:31:18+00:00",
+ "updated": "2026-10-28T21:00:36+00:00",
  "items": [
+  {
+   "id": "https://www.truckingdive.com/news/old-dominion-revenue-jumps-13-as-density-increases/873020/",
+   "title": "Old Dominion revenue jumps 13% as density increases",
+   "url": "https://www.truckingdive.com/news/old-dominion-revenue-jumps-13-as-density-increases/873020/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Capacity"
+   ],
+   "excerpt": "CEO Kevin Freeman said the company's reliability and truckload capacity constraints are helping it capture heavier LTL loads.",
+   "published": "2026-10-28T20:42:00+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/16050234",
+   "title": "Fleet leaders offer strategies for managing rising diesel costs",
+   "url": "https://www.ccjdigital.com/technology/trip-planning/article/16050234/fleet-fuel-management-cutting-costs-amid-price-volatility",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Carriers whose fuel surcharges reset based on the previous month’s average cost of diesel are absorbing the cost of fuel price increases, which reached $6.29 a gallon in September — the highest monthly average in the U.S. Energy Information Administration’s (EIA) weekly data going back to 1994,…",
+   "published": "2026-10-28T20:30:12+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/werner-earnings-q3-2026",
    "title": "Werner's Leathers expects accelerated capacity reductions",
@@ -1120,32 +1151,6 @@
    ],
    "excerpt": "Timely customer service responses and proactive communication are growing in importance for shippers in the LTL space as the freight market rebound continues.",
    "published": "2026-10-26T17:20:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584169",
-   "title": "U.S. Postal Service prepared for peak season surge",
-   "url": "https://www.freightwaves.com/news/u-s-postal-service-prepared-for-peak-season-surge",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "The U.S. Postal Service says it is ready for the holiday shipping rush and expects to improve upon its delivery performance during the 2025 peak season, when mail items and packages were delivered within 2.5 days on average compared to 2.8 days during the same period the prior year. Between Oct.",
-   "published": "2026-10-26T17:09:30+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104432",
-   "title": "Another motor carrier seeks exemption from steady-burning light rule",
-   "url": "https://landline.media/another-motor-carrier-seeks-exemption-from-steady-burning-light-rule/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "Currently, 13 motor carriers possess exemptions from a rule that requires lighting devices to be steady-burning. Another company wants on that list.",
-   "published": "2026-10-26T16:41:00+00:00"
   }
  ]
 }
