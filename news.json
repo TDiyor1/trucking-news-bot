@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T16:30:33+00:00",
+ "updated": "2026-10-28T16:53:56+00:00",
  "items": [
   {
    "id": "https://www.truckingdive.com/news/werner-revenue-jumps-23-as-fleet-efficiency-improves/872894/",
@@ -187,6 +187,19 @@
    ],
    "excerpt": "The freight industry has spent years and real money chasing fraud, piling up more tracking, more data, and more awareness than it has ever had, and the losses keep climbing anyway, which is the paradox Michael Caney, Chief Customer Officer at the carrier-identity platform Highway, set out to unpack…",
    "published": "2026-10-28T12:18:19+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584432",
+   "title": "Greenbrier profit falls as railcar demand weighs on sales",
+   "url": "https://www.freightwaves.com/news/greenbrier-profit-falls-as-railcar-demand-weighs-on-sales",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [],
+   "excerpt": "Greenbrier Cos. reported a sharp decline in quarterly profit and revenue as the freight-railcar manufacturer contended with weaker demand and facility-related costs. The Lake Oswego, Ore., company (NYSE: GBX ) saw an increase in its order backlog and growth in its leasing fleet amid improving…",
+   "published": "2026-10-28T11:16:00+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=584340",
@@ -1127,22 +1140,6 @@
    "tags": [],
    "excerpt": "The United States and Denmark have signed a maritime cooperation agreement aimed at expanding the U.S. shipbuilding workforce, attracting Danish investment to American shipyards and accelerating vessel construction and repairs through advanced technology. U.S.",
    "published": "2026-10-26T12:45:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584121",
-   "title": "New ‘conundrum’: Asia-US, Europe ocean rates diverge",
-   "url": "https://www.freightwaves.com/news/new-conundrum-asia-us-europe-ocean-rates-diverge",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Ports/Rail"
-   ],
-   "excerpt": "Trans-Pacific container spot rates were largely unchanged last week, signaling the market has peaked and is likely to soften through the remainder of 2026, according to analyst Xeneta. Average spot rates from Asia to the U.S. West Coast edged up 0.2% in the week ending Oct.",
-   "published": "2026-10-26T11:59:46+00:00"
   }
  ]
 }
