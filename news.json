@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-29T16:30:29+00:00",
+ "updated": "2026-10-29T16:55:50+00:00",
  "items": [
+  {
+   "id": "https://joc.com/article/scan-global-logistics-inks-deal-to-acquire-portland-based-forwarder-oia-global-6313810",
+   "title": "Scan Global Logistics inks deal to acquire Portland-based forwarder OIA Global",
+   "url": "https://joc.com/article/scan-global-logistics-inks-deal-to-acquire-portland-based-forwarder-oia-global-6313810",
+   "source": "JOC",
+   "audience": [
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "The integration of OIA into the Scan Global network will widen Scan's footprint in North America and Asia, enabling the combined company to offer more services including contract and project logistics, and customs brokerage.",
+   "published": "2026-10-29T16:44:19+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584549",
+   "title": "U.S. rail traffic up 7.8% as intermodal leads gainers",
+   "url": "https://www.freightwaves.com/news/u-s-rail-traffic-up-7-8-as-intermodal-leads-gainers",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Rates",
+    "Ports/Rail"
+   ],
+   "excerpt": "U.S. rail traffic increased 7.8% in the week ended Oct. 24 compared with the same week in 2025, as growth in intermodal shipments outpaced gains in carloads , Association of American Railroads data shows. Weekly intermodal volume, which includes containers and trailers, rose 11.3%, while carload…",
+   "published": "2026-10-29T16:31:48+00:00"
+  },
   {
    "id": "https://www.truckingdive.com/news/fed-holds-main-interest-rate-steady-accelerating-inflation-Warsh/873148/",
    "title": "Fed holds main interest rate steady despite accelerating inflation",
@@ -1125,35 +1155,6 @@
    "tags": [],
    "excerpt": "Chattanooga–The Transportation Intermediaries Association (TIA) was quick out of the box earlier this year after two key court decisions that didn’t favor the brokerage community, asking the federal government for some sort of guidance for 3PLs: tell us what sort of carrier hiring practices would…",
    "published": "2026-10-27T13:49:47+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/us-shipping-fee-truce-china",
-   "title": "U.S. plans 2-month extension to shipping-fee truce with China",
-   "url": "https://www.ttnews.com/articles/us-shipping-fee-truce-china",
-   "source": "Transport Topics",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "If approved, the Office of the United States Trade Representative’s proposal will prolong a bilateral truce that was set to expire in early November until Jan. 9.",
-   "published": "2026-10-27T13:46:08+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/atri-the-top-underutilized-telematics-that-can-benefit-truckers/832616/",
-   "title": "ATRI: The top underutilized telematics that can benefit truckers",
-   "url": "https://www.truckingdive.com/news/atri-the-top-underutilized-telematics-that-can-benefit-truckers/832616/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Nearly one in three carriers don’t integrate telematics data with their TMS, increasing the risk of unexpected downtime.",
-   "published": "2026-10-27T13:27:00+00:00"
   }
  ]
 }
