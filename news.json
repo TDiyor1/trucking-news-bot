@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-29T15:31:56+00:00",
+ "updated": "2026-10-29T15:56:07+00:00",
  "items": [
+  {
+   "id": "https://www.supplychaindive.com/news/fedex-drawing-parcel-focused-shippers-to-its-air-freight-services/873182/",
+   "title": "FedEx drawing parcel-focused shippers to its air freight services",
+   "url": "https://www.supplychaindive.com/news/fedex-drawing-parcel-focused-shippers-to-its-air-freight-services/873182/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Air freight demand from traditionally parcel-centric customers is rising as the carrier pushes for more business in high-value segments like AI and data centers.",
+   "published": "2026-10-29T15:36:00+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16050423",
    "title": "Group suing New York DMV for access to CDL data",
@@ -89,6 +104,21 @@
    ],
    "excerpt": "A fictitious warehouse pickup involving approximately $500,000 in SIG Sauer products led to two arrests in Southern California. The shipment contained firearm parts and accessories from SIG Sauer, a major manufacturer supplying civilian, law enforcement and military markets.",
    "published": "2026-10-29T12:20:34+00:00"
+  },
+  {
+   "id": "https://www.supplychaindive.com/news/trump-opts-for-trade-talks-over-tariffs-for-robotics-industrial-machinery/873166/",
+   "title": "Trump opts for trade talks over tariffs for robotics, industrial machinery",
+   "url": "https://www.supplychaindive.com/news/trump-opts-for-trade-talks-over-tariffs-for-robotics-industrial-machinery/873166/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "For the second time this month, the president directed cabinet officials to negotiate over imports deemed a threat to U.S. commerce and security by a Section 232 probe.",
+   "published": "2026-10-29T12:14:00+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=584500",
@@ -1123,34 +1153,6 @@
    ],
    "excerpt": "Sudden tariff announcements, not tariff levels themselves, trigger costly cargo surges that terminals cannot absorb, delegates at TOC Americas in Cartagena were told. Rather than destroying container trade, said TiL Group’s director for terminal investments in North America, Tom van Eynde, tariffs…",
    "published": "2026-10-27T12:48:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584200",
-   "title": "The Biggest Shift In Freight Liability Since Deregulation Is Here, And Few Are Ready For It",
-   "url": "https://www.freightwaves.com/news/the-biggest-shift-in-freight-liability-since-deregulation-is-here-and-few-are-ready-for-it",
-   "source": "FreightWaves",
-   "audience": [
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "The way courts decide who is responsible when a contracted truck ends up in a wreck is changing faster than most of the freight industry realizes, and the shift is not about one ruling or one eye-popping dollar figure, it is a whole direction of travel that keeps pulling responsibility up the chain…",
-   "published": "2026-10-27T12:44:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/oil-prices-fears-over-costs",
-   "title": "Oil prices remain elevated on fears over costs across economy",
-   "url": "https://www.ttnews.com/articles/oil-prices-fears-over-costs",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Brent crude ticked down 78 cents to $109.96 a barrel. Diesel was going for $6.35 on Oct. 27, an increase of about 74% compared with this time last year.",
-   "published": "2026-10-27T12:39:28+00:00"
   }
  ]
 }
