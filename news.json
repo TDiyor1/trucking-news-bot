@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T17:55:54+00:00",
+ "updated": "2026-10-29T18:00:38+00:00",
  "items": [
   {
    "id": "https://www.dat.com/blog/?p=27698",
@@ -16,6 +16,20 @@
    ],
    "excerpt": "National refrigerated produce volume rose 3% last week and fell 6% from a year earlier, led by a 16% gain in Mexico crossings through Texas and a 62% jump in the Imperial and Coachella section. California volume fell 8%, while Washington rose 3%. The rates in this report are USDA open-market (spot)…",
    "published": "2026-10-29T17:51:05+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584572",
+   "title": "Fresno carrier DTL to run 75 Kodiak driverless trucks",
+   "url": "https://www.freightwaves.com/news/kodiak-dtl-75-driverless-trucks",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Kodiak AI signed a binding agreement Wednesday to put its autonomous driving system in 75 trucks owned and operated by DTL Transport, a Fresno, California, carrier that runs cross-country team loads for grocers. The deal moves Kodiak’s Driver-as-a-Service model from Permian Basin sand hauling onto…",
+   "published": "2026-10-29T17:42:39+00:00"
   },
   {
    "id": "https://www.ttnews.com/articles/odfl-earnings-q3-2026",
@@ -1140,20 +1154,6 @@
    "tags": [],
    "excerpt": "For a small carrier, the choice of whether to own a trailer, finance one, run power only, or rent by the day looks like a simple equipment question, but it is really a business decision with a cost structure attached to every option, and getting that math wrong is one of the quietest and most…",
    "published": "2026-10-27T16:21:34+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104452",
-   "title": "Tesla ‘Full Self-Driving’ crashes pile up in California",
-   "url": "https://landline.media/tesla-full-self-driving-crashes-pile-up-in-california/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Interstate 80 in California has been the site of a pair of crashes involving Tesla vehicles that were reportedly operating in Full Self-Driving mode.",
-   "published": "2026-10-27T15:58:06+00:00"
   }
  ]
 }
