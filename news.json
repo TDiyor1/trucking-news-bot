@@ -1,6 +1,35 @@
 {
- "updated": "2026-10-29T12:30:33+00:00",
+ "updated": "2026-10-29T13:00:42+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584457",
+   "title": "$500,000 SIG Sauer shipment stolen in fictitious pickup, two arrested in California",
+   "url": "https://www.freightwaves.com/news/500000-sig-sauer-shipment-stolen-in-fictitious-pickup-two-arrested-in-california",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Fraud"
+   ],
+   "excerpt": "A fictitious warehouse pickup involving approximately $500,000 in SIG Sauer products led to two arrests in Southern California. The shipment contained firearm parts and accessories from SIG Sauer, a major manufacturer supplying civilian, law enforcement and military markets.",
+   "published": "2026-10-29T12:20:34+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584500",
+   "title": "XPO’s pricing, operating initiatives drive Q3 beat",
+   "url": "https://www.freightwaves.com/news/xpos-pricing-operating-initiatives-drive-q3-beat",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "XPO once again outperformed expectations, driven by higher volumes and stronger pricing that continue to amplify the impact of its operational efficiency initiatives. XPO ( NYSE: XPO ) reported third-quarter adjusted earnings per share of $1.70, which was 13 cents ahead of the consensus estimate…",
+   "published": "2026-10-29T12:11:31+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/aurora-earnings-q3-2026",
    "title": "Aurora will miss 2026 goal but remains on track for 2027",
@@ -1120,37 +1149,6 @@
    ],
    "excerpt": "AI is everywhere in supply chain software now—but does it actually improve decisions? Here's why language models need a decision engine underneath, and the test every planner should run before trusting an AI recommendation.",
    "published": "2026-10-27T03:00:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584193",
-   "title": "FMCSA’s Elison addresses Motus again, still no date on full repair",
-   "url": "https://www.freightwaves.com/news/fmcsas-elison-addresses-motus-again-still-no-date-on-full-repair",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "Chattanooga–It hasn’t been that long–about six weeks–since Jesse Elison spoke to a FreightWaves event and addressed the issue of the beleaguered new Motus registration system. The deputy administrator of the Federal Motor Carrier Safety Administration had another FreightWaves platform Tuesday at…",
-   "published": "2026-10-26T22:58:08+00:00"
-  },
-  {
-   "id": "https://www.dat.com/blog/?p=27694",
-   "title": "Reefer Report: Produce volume rebounds as spot rates ease",
-   "url": "https://www.dat.com/blog/reefer-report-produce-volume-rebounds-as-spot-rates-ease",
-   "source": "DAT iQ",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Diesel"
-   ],
-   "excerpt": "Reefer spot linehaul rates paid to carriers averaged $2.73 per mile last week, minus fuel, down 0.9%, or $0.02 per mile, from the week before. Rates climbed 31.4%, or $0.65 per mile, year over year and held 28.6%, or $0.61 per mile, above the nine-year seasonal average of $2.12 per mile, near the…",
-   "published": "2026-10-26T22:39:36+00:00"
   }
  ]
 }
