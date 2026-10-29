@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T18:30:31+00:00",
+ "updated": "2026-10-29T18:55:21+00:00",
  "items": [
   {
    "id": "https://joc.com/article/csx-service-slowly-returning-to-normal-after-it-outage-6313848",
@@ -15,6 +15,21 @@
    ],
    "excerpt": "The problem that began Tuesday evening was largely resolved by Thursday morning, with most of CSX's core customer-facing applications back online, the railroad said.",
    "published": "2026-10-29T18:17:32+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/knight-swift-contract-rates",
+   "title": "Knight-Swift CEO sees contract rates up mid-teens in 2027",
+   "url": "https://www.ttnews.com/articles/knight-swift-contract-rates",
+   "source": "Transport Topics",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "“When you look at the margin profile of the big truckers, it’s still not exceeding your weighted average cost of capital,\" said Knight-Swift Transportation CEO Adam Miller. \"And so we’re going to have to push that further.”",
+   "published": "2026-10-29T18:09:49+00:00"
   },
   {
    "id": "https://www.dat.com/blog/?p=27698",
@@ -1143,20 +1158,6 @@
    "tags": [],
    "excerpt": "Merchants Fleet has expanded FleetShare , its managed vehicle access program, to Puerto Rico, the company said on Oct. 20 . The operation went live Sept. 14 with 113 Merchants-managed vehicles supporting an unnamed global e-commerce company’s last-mile delivery operations on the island.",
    "published": "2026-10-27T17:29:39+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104455",
-   "title": "Consumers feeling the downstream effects of rising diesel costs",
-   "url": "https://landline.media/consumers-feeling-the-downstream-effects-of-rising-diesel-costs/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Increased fuel prices are leading analysts to conclude that this could be the most expensive holiday season ever.",
-   "published": "2026-10-27T17:14:34+00:00"
   }
  ]
 }
