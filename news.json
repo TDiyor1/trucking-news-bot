@@ -1,6 +1,22 @@
 {
- "updated": "2026-10-29T16:00:38+00:00",
+ "updated": "2026-10-29T16:25:45+00:00",
  "items": [
+  {
+   "id": "https://www.truckingdive.com/news/fed-holds-main-interest-rate-steady-accelerating-inflation-Warsh/873148/",
+   "title": "Fed holds main interest rate steady despite accelerating inflation",
+   "url": "https://www.truckingdive.com/news/fed-holds-main-interest-rate-steady-accelerating-inflation-Warsh/873148/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "Two policymakers on the Federal Open Market Committee dissented in favor of raising the federal funds rate by 0.25 percentage point.",
+   "published": "2026-10-29T16:04:00+00:00"
+  },
   {
    "id": "https://www.supplychaindive.com/news/fedex-drawing-parcel-focused-shippers-to-its-air-freight-services/873182/",
    "title": "FedEx drawing parcel-focused shippers to its air freight services",
@@ -1138,21 +1154,6 @@
    ],
    "excerpt": "Nearly one in three carriers don’t integrate telematics data with their TMS, increasing the risk of unexpected downtime.",
    "published": "2026-10-27T13:27:00+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=327387",
-   "title": "Tariff anouncements cause cargo chaos for box terminals, says TiL",
-   "url": "https://theloadstar.com/tariff-anouncements-cause-cargo-chaos-for-box-terminals-says-til/",
-   "source": "The Loadstar",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs",
-    "Ports/Rail"
-   ],
-   "excerpt": "Sudden tariff announcements, not tariff levels themselves, trigger costly cargo surges that terminals cannot absorb, delegates at TOC Americas in Cartagena were told. Rather than destroying container trade, said TiL Group’s director for terminal investments in North America, Tom van Eynde, tariffs…",
-   "published": "2026-10-27T12:48:00+00:00"
   }
  ]
 }
