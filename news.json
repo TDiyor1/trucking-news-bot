@@ -1,6 +1,49 @@
 {
- "updated": "2026-10-29T20:00:35+00:00",
+ "updated": "2026-10-29T20:26:14+00:00",
  "items": [
+  {
+   "id": "https://www.dcvelocity.com/transportation/rail/georgia-ports-authority-opens-134-million-gainesville-inland-port",
+   "title": "Georgia Ports Authority opens $134 million Gainesville Inland Port",
+   "url": "https://www.dcvelocity.com/transportation/rail/georgia-ports-authority-opens-134-million-gainesville-inland-port",
+   "source": "DC Velocity",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Georgia Ports Authority leaders this week opened its $134 million Gainesville Inland Port Georgia Ports Authority leaders this week opened its $134 million Gainesville Inland Port , saying the new terminal will allow customers to choose rail for greater affordability and heavier loads, or choose…",
+   "published": "2026-10-29T20:09:51+00:00"
+  },
+  {
+   "id": "https://www.dcvelocity.com/supply-chain/other-services/reverse-logistics/blue-yonder-46-of-people-who-shop-with-ai-have-returned-what-they-bought",
+   "title": "Blue Yonder: 46% of people who shop with AI have returned what they bought",
+   "url": "https://www.dcvelocity.com/supply-chain/other-services/reverse-logistics/blue-yonder-46-of-people-who-shop-with-ai-have-returned-what-they-bought",
+   "source": "DC Velocity",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Nearly half of Americans who use artificial intelligence to help them shop have later returned the AI-recommended item, a survey from supply chain software firm Blue Yonder has found. Online shoppers increasingly come in contact with an AI tool or assistant, such as a consumer chatbot.",
+   "published": "2026-10-29T20:07:51+00:00"
+  },
+  {
+   "id": "https://www.dcvelocity.com/finance-strategy/study-small-companies-struggle-to-pass-on-costs-of-fuel-and-tariffs-to-customers",
+   "title": "Study: small companies struggle to pass on costs of fuel and tariffs to customers",
+   "url": "https://www.dcvelocity.com/finance-strategy/study-small-companies-struggle-to-pass-on-costs-of-fuel-and-tariffs-to-customers",
+   "source": "DC Velocity",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "Tariff-exposed industries with significant fuel, freight, and industrial-energy requirements experienced the clearest pressure on profitability following tariff actions in 2025, even when their sales trends remained resilient, according to analysis by Abrigo , a provider of risk management and…",
+   "published": "2026-10-29T20:05:08+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/ports-west-coast-records",
    "title": "Ports of Los Angeles and Long Beach set all-time records",
@@ -15,6 +58,20 @@
    ],
    "excerpt": "Trucking companies serving the country’s major ports had to grapple with a national shift in volumes toward the West Coast in September.",
    "published": "2026-10-29T19:55:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584594",
+   "title": "FedEx cashes in on premium logistics services, fuel surcharges",
+   "url": "https://www.freightwaves.com/news/fedex-cashes-in-on-premium-logistics-services-fuel-surcharges",
+   "source": "FreightWaves",
+   "audience": [
+    "Broker"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "FedEx Corp. delivered strong third quarter results driven by higher volumes and pricing for premium B2B and B2C shipping services, but bullishness for peak holiday season demand was tempered by expectations for lower domestic margins amid a rise in transitory labor and outsourced trucking costs…",
+   "published": "2026-10-29T19:49:41+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=584590",
@@ -1104,64 +1161,6 @@
    ],
    "excerpt": "Executives from Werner Enterprises outlined a path to double-digit truckload margins, but said cost headwinds will likely limit progress over the next two quarters. Werner ( NASDAQ: WERN ) reported third-quarter adjusted earnings per share of 16 cents after the market closed on Tuesday.",
    "published": "2026-10-28T00:10:03+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15975351",
-   "title": "How 1 million ELD fraudsters broke the trucking industry, and how to save it",
-   "url": "https://www.ccjdigital.com/perspectives/article/15975351/how-1-million-eld-fraudsters-broke-the-trucking-industry-and-how-to-save-it",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Fraud",
-    "Tech"
-   ],
-   "excerpt": "The compliant carrier finishes last? Fleet owner and third-generation trucker Zach Meiborg explains in this editorial and graphics how unchecked ELD cheating has led to two different trucking markets. Zach Meiborg Widespread electronic logging device fraud has split the trucking industry in two,…",
-   "published": "2026-10-27T21:04:08+00:00"
-  },
-  {
-   "id": "https://joc.com/article/roadrunner-adds-canada-to-us-ltl-service-to-speed-goods-across-border-6312813",
-   "title": "Roadrunner adds Canada-to-US LTL service to speed goods across border",
-   "url": "https://joc.com/article/roadrunner-adds-canada-to-us-ltl-service-to-speed-goods-across-border-6312813",
-   "source": "JOC",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "The long-haul LTL carrier says shippers on both sides of the US-Canada border need more speed and flexibility as tariffs disrupt supply chains.",
-   "published": "2026-10-27T20:23:14+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15975576",
-   "title": "Used truck inventory tightens as prices rise",
-   "url": "https://www.ccjdigital.com/trucks/used-trucks/article/15975576/tight-supply-props-up-used-truck-values",
-   "source": "CCJ",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [],
-   "excerpt": "Used truck and trailer inventory kept shrinking in September while prices climbed, according to September data from Sandhills Global, J.D. Power and Price Digests . In the overall market, truck inventory of used day cab and sleeper trucks fell 2.42% month over month and 36.03% year over year in…",
-   "published": "2026-10-27T20:03:45+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584305",
-   "title": "Mexico truckers reach deal for talks after strike disrupts 19 states",
-   "url": "https://www.freightwaves.com/news/mexico-truckers-reach-deal-for-talks-after-strike-disrupts-19-states",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "Mexican trucking organizations reached an agreement with federal officials Tuesday to begin negotiations aimed at resolving a nationwide strike that disrupted highways across 19 states, The agreement between Mexico’s Interior Ministry (Segob) and trucking groups, including the National Chamber of…",
-   "published": "2026-10-27T19:17:32+00:00"
   }
  ]
 }
