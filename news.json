@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-29T12:00:34+00:00",
+ "updated": "2026-10-29T12:30:33+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/aurora-earnings-q3-2026",
+   "title": "Aurora will miss 2026 goal but remains on track for 2027",
+   "url": "https://www.ttnews.com/articles/aurora-earnings-q3-2026",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Autonomous trucking company Aurora Innovation expects to fall short of its production target for this year but said it’s on track to recover for 2027.",
+   "published": "2026-10-29T12:00:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584423",
    "title": "43% of shoppers plan to spend more this peak, Kenco finds",
@@ -1137,22 +1151,6 @@
    ],
    "excerpt": "Reefer spot linehaul rates paid to carriers averaged $2.73 per mile last week, minus fuel, down 0.9%, or $0.02 per mile, from the week before. Rates climbed 31.4%, or $0.65 per mile, year over year and held 28.6%, or $0.61 per mile, above the nine-year seasonal average of $2.12 per mile, near the…",
    "published": "2026-10-26T22:39:36+00:00"
-  },
-  {
-   "id": "https://www.dat.com/blog/?p=27691",
-   "title": "Flatbed Report: Tightest board eases as truck posts climb",
-   "url": "https://www.dat.com/blog/flatbed-report-tightest-board-eases-as-truck-posts-climb",
-   "source": "DAT iQ",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Diesel"
-   ],
-   "excerpt": "Flatbed spot linehaul rates paid to carriers averaged $2.63 per mile last week, minus fuel, down 0.9%, or $0.02 per mile, from the week before. Rates climbed 28.2%, or $0.58 per mile, year over year and held 25.8%, or $0.54 per mile, above the nine-year seasonal average of $2.09 per mile, near the…",
-   "published": "2026-10-26T22:29:30+00:00"
   }
  ]
 }
