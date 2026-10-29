@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-29T18:00:38+00:00",
+ "updated": "2026-10-29T18:25:53+00:00",
  "items": [
+  {
+   "id": "https://joc.com/article/csx-service-slowly-returning-to-normal-after-it-outage-6313848",
+   "title": "CSX service slowly returning to normal after IT outage",
+   "url": "https://joc.com/article/csx-service-slowly-returning-to-normal-after-it-outage-6313848",
+   "source": "JOC",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The problem that began Tuesday evening was largely resolved by Thursday morning, with most of CSX's core customer-facing applications back online, the railroad said.",
+   "published": "2026-10-29T18:17:32+00:00"
+  },
   {
    "id": "https://www.dat.com/blog/?p=27698",
    "title": "Reefer Produce Report: Produce rates run 27% to 51% above last year as California volume falls 8% and Texas jumps 16%",
@@ -1142,18 +1157,6 @@
    ],
    "excerpt": "Increased fuel prices are leading analysts to conclude that this could be the most expensive holiday season ever.",
    "published": "2026-10-27T17:14:34+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584252",
-   "title": "The Case For Renting The Box And Buying The Truck",
-   "url": "https://www.freightwaves.com/news/the-case-for-renting-the-box-and-buying-the-truck",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "For a small carrier, the choice of whether to own a trailer, finance one, run power only, or rent by the day looks like a simple equipment question, but it is really a business decision with a cost structure attached to every option, and getting that math wrong is one of the quietest and most…",
-   "published": "2026-10-27T16:21:34+00:00"
   }
  ]
 }
