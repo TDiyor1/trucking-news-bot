@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-29T20:34:43+00:00",
+ "updated": "2026-10-29T21:00:35+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584609",
+   "title": "How transportation leaders are turning AI and connected data into a competitive edge",
+   "url": "https://www.freightwaves.com/news/how-transportation-leaders-are-turning-ai-and-connected-data-into-a-competitive-edge",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "AI is gaining ground in transportation, but are companies actually turning that potential into results? As supply chains face constant disruption, rising expectations and growing pressure to make faster decisions, the gap between adopting new technology and putting it to work is becoming harder to…",
+   "published": "2026-10-29T20:39:40+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/16050523",
+   "title": "Roadway embedded safety system aims to increase carrier uptime & accelerate AV deployment",
+   "url": "https://www.ccjdigital.com/workforce/safety/article/16050523/inroad-safety-system-aims-to-prevent-crashes-enable-avs",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "An Ireland-based data infrastructure technology company that provides a roadway embedded safety platform for drivers and autonomous vehicles has entered the North American market with a Colorado-based U.S. business unit. Vectigo, a division of Dublin-based Vectigo Group Limited, is working with…",
+   "published": "2026-10-29T20:36:03+00:00"
+  },
   {
    "id": "https://www.dcvelocity.com/transportation/rail/georgia-ports-authority-opens-134-million-gainesville-inland-port",
    "title": "Georgia Ports Authority opens $134 million Gainesville Inland Port",
@@ -1132,35 +1160,6 @@
    ],
    "excerpt": "Truckload broker Landstar System noted strong demand for its dry van and flatbed offerings on its third-quarter call with analysts on Tuesday. A tightened capacity backdrop and the buildout of data centers are shaping the favorable fundamentals. However, insurance claims activity clouded an…",
    "published": "2026-10-28T03:22:42+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584346",
-   "title": "Port Houston container volumes jump 11% as imports surge in September",
-   "url": "https://www.freightwaves.com/news/port-houston-container-volumes-jump-11-as-imports-surge-in-september",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs",
-    "Ports/Rail"
-   ],
-   "excerpt": "Port Houston recorded an 11% year-over-year increase in container volumes in September, fueled by stronger imports and improving export activity through its Bayport and Barbours Cut container terminals. The port handled 376,419 twenty-foot equivalent units (TEUs) during the month, compared with…",
-   "published": "2026-10-28T03:17:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584331",
-   "title": "Werner Enterprises sees cost headwinds lingering into Q1",
-   "url": "https://www.freightwaves.com/news/werner-enterprises-sees-cost-headwinds-lingering-into-q1",
-   "source": "FreightWaves",
-   "audience": [
-    "Broker"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Executives from Werner Enterprises outlined a path to double-digit truckload margins, but said cost headwinds will likely limit progress over the next two quarters. Werner ( NASDAQ: WERN ) reported third-quarter adjusted earnings per share of 16 cents after the market closed on Tuesday.",
-   "published": "2026-10-28T00:10:03+00:00"
   }
  ]
 }
