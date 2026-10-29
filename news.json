@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-29T17:30:29+00:00",
+ "updated": "2026-10-29T17:55:54+00:00",
  "items": [
+  {
+   "id": "https://www.dat.com/blog/?p=27698",
+   "title": "Reefer Produce Report: Produce rates run 27% to 51% above last year as California volume falls 8% and Texas jumps 16%",
+   "url": "https://www.dat.com/blog/reefer-produce-report-produce-rates-run-27-to-51-above-last-year-as-california-volume-falls-8-and-texas-jumps-16",
+   "source": "DAT iQ",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Tariffs"
+   ],
+   "excerpt": "National refrigerated produce volume rose 3% last week and fell 6% from a year earlier, led by a 16% gain in Mexico crossings through Texas and a 62% jump in the Imperial and Coachella section. California volume fell 8%, while Washington rose 3%. The rates in this report are USDA open-market (spot)…",
+   "published": "2026-10-29T17:51:05+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/odfl-earnings-q3-2026",
+   "title": "High fuel, health costs to dent ODFL’s OR in Q4",
+   "url": "https://www.ttnews.com/articles/odfl-earnings-q3-2026",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Higher fuel costs and employee health and dental benefits are set to hurt Old Dominion Freight Line’s industry-leading operating ratio in Q4 2026.",
+   "published": "2026-10-29T17:42:00+00:00"
+  },
   {
    "id": "https://landline.media/?p=104478",
    "title": "More radar, more tickets? Pennsylvania weighs change",
@@ -1124,36 +1154,6 @@
    ],
    "excerpt": "Interstate 80 in California has been the site of a pair of crashes involving Tesla vehicles that were reportedly operating in Full Self-Driving mode.",
    "published": "2026-10-27T15:58:06+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584247",
-   "title": "Knight-Swift CEO says CDL crackdown could fuel lasting trucking recovery",
-   "url": "https://www.freightwaves.com/news/knight-swift-ceo-says-cdl-crackdown-could-fuel-lasting-trucking-recovery",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation",
-    "Fraud"
-   ],
-   "excerpt": "JACKSONVILLE, Florida — Knight-Swift Transportation has reduced its approved brokerage carrier pool by approximately 70% over the past two years as the trucking giant tightens carrier vetting standards amid growing concerns over cargo theft , highway safety and potential broker liability .",
-   "published": "2026-10-27T15:57:36+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104449",
-   "title": "Are Northeast speed limits too slow for real-world traffic?",
-   "url": "https://landline.media/are-northeast-speed-limits-too-slow-for-real-world-traffic/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "New Hampshire, New Jersey and New York are taking different approaches to speed limits. See what’s proposed, what’s at stake and what’s next.",
-   "published": "2026-10-27T15:55:54+00:00"
   }
  ]
 }
