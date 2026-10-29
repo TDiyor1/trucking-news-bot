@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-29T19:00:33+00:00",
+ "updated": "2026-10-29T19:25:59+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104488",
+   "title": "Aurora ramping up its driverless truck production",
+   "url": "https://landline.media/aurora-ramping-up-its-driverless-truck-production/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation",
+    "Tech"
+   ],
+   "excerpt": "The Truck Safety Coalition told FMCSA that granting Aurora’s exemption would be “regulatory malpractice.” Now, Aurora plans to expand rapidly.",
+   "published": "2026-10-29T19:06:00+00:00"
+  },
   {
    "id": "https://landline.media/?p=104485",
    "title": "Cab full of empties lands trucker in jail",
@@ -1147,21 +1162,6 @@
    ],
    "excerpt": "A “once-in-generation” flood near Laguna, New Mexico, that began on Saturday will have a substantial short-term impact on all shippers, including intermodal.",
    "published": "2026-10-27T18:33:14+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584065",
-   "title": "Millions in stolen freight reveal a weakness criminals keep exploiting",
-   "url": "https://www.freightwaves.com/news/millions-in-stolen-freight-reveal-a-weakness-criminals-keep-exploiting",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Fraud"
-   ],
-   "excerpt": "Recent freight fraud investigations have exposed millions of dollars in cargo losses across the United States. Federal prosecutors recently charged a driver in an alleged $12 million cargo theft conspiracy involving established trucking companies. A California trucking owner pleaded guilty in a…",
-   "published": "2026-10-27T18:20:53+00:00"
   }
  ]
 }
