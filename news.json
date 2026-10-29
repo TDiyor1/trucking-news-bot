@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-29T18:55:21+00:00",
+ "updated": "2026-10-29T18:56:01+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104485",
+   "title": "Cab full of empties lands trucker in jail",
+   "url": "https://landline.media/cab-full-of-empties-lands-trucker-in-jail/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "A trucker in New Hampshire was recently arrested and charged with DUI. What police found in his cab was shockingly dumb.",
+   "published": "2026-10-29T18:55:49+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104481",
+   "title": "Another proposal to address fuel costs. How much will this one help?",
+   "url": "https://landline.media/another-proposal-to-address-fuel-costs-how-much-will-this-one-help/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Several federal orders have been issued, but the relief desperately needed from record fuel costs is yet to surface.",
+   "published": "2026-10-29T18:52:23+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584581",
+   "title": "Why container rates are climbing despite cooling demand",
+   "url": "https://www.freightwaves.com/news/why-container-rates-are-climbing-despite-cooling-demand",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Rates",
+    "Ports/Rail"
+   ],
+   "excerpt": "Container freight rates climbed on major Asia-Europe and trans-Pacific routes last week despite signs of cooling demand, as congestion and canceled sailings supported prices. Carriers’ accelerating return to the Red Sea is reshaping shipping schedules, analyst and SONAR data contributor Freightos…",
+   "published": "2026-10-29T18:39:34+00:00"
+  },
   {
    "id": "https://joc.com/article/csx-service-slowly-returning-to-normal-after-it-outage-6313848",
    "title": "CSX service slowly returning to normal after IT outage",
@@ -1118,46 +1162,6 @@
    ],
    "excerpt": "Recent freight fraud investigations have exposed millions of dollars in cargo losses across the United States. Federal prosecutors recently charged a driver in an alleged $12 million cargo theft conspiracy involving established trucking companies. A California trucking owner pleaded guilty in a…",
    "published": "2026-10-27T18:20:53+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104459",
-   "title": "Seven carriers have learner’s permit exemptions. Will FMCSA make it eight?",
-   "url": "https://landline.media/seven-carriers-have-learners-permit-exemptions-will-fmcsa-make-it-eight/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "PAM Transport suggested that denial of the exemption would create financial hardships for trained drivers and the potential degradation of skills.",
-   "published": "2026-10-27T18:17:09+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/kroger-taps-rfid-computer-vision-data-to-boost-inventory-management/872819/",
-   "title": "Kroger taps RFID, computer vision data to boost inventory management",
-   "url": "https://www.supplychaindive.com/news/kroger-taps-rfid-computer-vision-data-to-boost-inventory-management/872819/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "The grocery chain is providing machine learning insights to suppliers to improve availability while piloting radio frequency identification at 1,500 store bakeries.",
-   "published": "2026-10-27T17:49:36+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584273",
-   "title": "Merchants Fleet adds 113 FleetShare vehicles in Puerto Rico",
-   "url": "https://www.freightwaves.com/news/merchants-fleet-fleetshare-puerto-rico",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Merchants Fleet has expanded FleetShare , its managed vehicle access program, to Puerto Rico, the company said on Oct. 20 . The operation went live Sept. 14 with 113 Merchants-managed vehicles supporting an unnamed global e-commerce company’s last-mile delivery operations on the island.",
-   "published": "2026-10-27T17:29:39+00:00"
   }
  ]
 }
