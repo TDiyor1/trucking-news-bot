@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-29T14:30:38+00:00",
+ "updated": "2026-10-29T15:00:43+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16050423",
+   "title": "Group suing New York DMV for access to CDL data",
+   "url": "https://www.ccjdigital.com/regulations/safety-compliance/article/16050423/ny-dmv-sued-over-withheld-cdl-data-for-foreign-nationals",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "A prominent public interest group has launched a fresh legal battle against the New York State Department of Motor Vehicles, accusing the agency of engaging in a \"master class in evasion\" after it withheld public records regarding commercial driver's licenses and foreign nationals.",
+   "published": "2026-10-29T14:43:50+00:00"
+  },
   {
    "id": "https://www.supplychaindive.com/news/fed-holds-main-interest-rate-steady-despite-accelerating-inflation/873147/",
    "title": "Fed holds main interest rate steady despite accelerating inflation",
@@ -16,6 +30,36 @@
    ],
    "excerpt": "Two policymakers on the Federal Open Market Committee dissented in favor of raising the federal funds rate by 0.25 percentage point.",
    "published": "2026-10-29T14:20:00+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/oil-prices-diplomatic-efforts",
+   "title": "Oil prices sink on fresh diplomatic efforts in Middle East",
+   "url": "https://www.ttnews.com/articles/oil-prices-diplomatic-efforts",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "The price for a barrel of Brent crude oil sank 2.1% to $109.26 as traders assessed fresh diplomatic efforts in the Middle East to avert a resumption of U.S. military strikes on Iran.",
+   "published": "2026-10-29T14:16:01+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584535",
+   "title": "9 alleged Sinaloa Cartel associates arrested in California train theft ring",
+   "url": "https://www.freightwaves.com/news/9-alleged-sinaloa-cartel-associates-arrested-in-california-train-theft-ring",
+   "source": "FreightWaves",
+   "audience": [
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs",
+    "Fraud",
+    "Ports/Rail"
+   ],
+   "excerpt": "Nine men allegedly connected to Mexico’s Sinaloa Cartel have been arrested in Southern California following a yearlong investigation into an organized cargo theft operation that targeted BNSF Railway trains and resulted in millions of dollars in stolen merchandise , authorities said.",
+   "published": "2026-10-29T14:09:44+00:00"
   },
   {
    "id": "https://www.ccjdigital.com/16050399",
@@ -1107,50 +1151,6 @@
    ],
    "excerpt": "Brent crude ticked down 78 cents to $109.96 a barrel. Diesel was going for $6.35 on Oct. 27, an increase of about 74% compared with this time last year.",
    "published": "2026-10-27T12:39:28+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/audi-investing-4b-to-build-its-first-us-plant-in-georgia/872866/",
-   "title": "Audi investing $4B to build its first US plant in Georgia",
-   "url": "https://www.supplychaindive.com/news/audi-investing-4b-to-build-its-first-us-plant-in-georgia/872866/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Capacity"
-   ],
-   "excerpt": "The factory will have a production capacity of up to 200,000 vehicles a year, with construction slated to begin in 2027 and the first vehicles built in the early 2030s.",
-   "published": "2026-10-27T11:31:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584091",
-   "title": "Police recover $54K in Hot Wheels after BNSF freight train burglary in California",
-   "url": "https://www.freightwaves.com/news/police-recover-54k-in-hot-wheels-after-bnsf-freight-train-burglary-in-california",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Fraud",
-    "Ports/Rail"
-   ],
-   "excerpt": "Police recovered approximately $54,000 in stolen Hot Wheels merchandise following a freight train burglary in Colton, California. A witness called 911 around 3 a.m. Thursday, October 22, reporting suspicious activity near railroad tracks. Officers spotted a black Chevrolet Silverado leaving the…",
-   "published": "2026-10-27T11:30:13+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15975494",
-   "title": "More loads, tighter cash: Why trucking growth can be a financial trap",
-   "url": "https://www.ccjdigital.com/business/growth-strategies/article/15975494/trucking-cash-flow-management-overcoming-growth-challenges",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "More loads. More trucks. More customers. Those are all signs that a trucking company is growing. But growth can bring an unexpected challenge: The more business a carrier takes on, the more cash it may need to keep that business moving. Fuel has to be purchased. Drivers have to be paid.",
-   "published": "2026-10-27T11:11:30+00:00"
   }
  ]
 }
