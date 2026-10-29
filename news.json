@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-29T17:00:38+00:00",
+ "updated": "2026-10-29T17:25:57+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104478",
+   "title": "More radar, more tickets? Pennsylvania weighs change",
+   "url": "https://landline.media/more-radar-more-tickets-pennsylvania-weighs-change/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "Local police could soon use speed radar in Pennsylvania. A bill sets limits on tickets and police revenue, but questions about fair enforcement remain.",
+   "published": "2026-10-29T17:23:21+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/xpo-q3-revenue-rises-12-as-focus-on-higher-margin-freight-pays-off/873129/",
+   "title": "XPO Q3 revenue rises 12% as focus on higher-margin freight pays off",
+   "url": "https://www.truckingdive.com/news/xpo-q3-revenue-rises-12-as-focus-on-higher-margin-freight-pays-off/873129/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Chairman and CEO Mario Harik said the LTL carrier has been seeking to grow its premium services and is testing new verticals, like healthcare and grocery consolidation.",
+   "published": "2026-10-29T17:15:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584561",
+   "title": "RXO’s earnings still coming out, had solid profitable quarter",
+   "url": "https://www.freightwaves.com/news/rxos-earnings-still-coming-out-had-solid-profitable-quarter",
+   "source": "FreightWaves",
+   "audience": [
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "RXO remains a publicly-traded company as it prepares to be acquired by C.H. Robinson , posting its earnings Thursday that showed mostly positive numbers in all key categories. Given the pending deal with C.H. Robinson, RXO (NYSE: RXO) did not hold an earnings call with analysts.",
+   "published": "2026-10-29T16:44:58+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584556",
+   "title": "Florida trucking CEO warns soaring diesel costs are squeezing carrier profits",
+   "url": "https://www.freightwaves.com/news/florida-trucking-ceo-warns-soaring-diesel-costs-are-squeezing-carrier-profits",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "JACKSONVILLE, Fla. — Rising diesel fuel prices are putting increasing financial pressure on Florida trucking companies, with fuel costs surpassing driver compensation as the largest operating expense for some fleets. Florida Trucking Association CEO Scott Perry said the combination of higher diesel…",
+   "published": "2026-10-29T16:44:38+00:00"
+  },
   {
    "id": "https://joc.com/article/scan-global-logistics-inks-deal-to-acquire-portland-based-forwarder-oia-global-6313810",
    "title": "Scan Global Logistics inks deal to acquire Portland-based forwarder OIA Global",
@@ -1099,62 +1154,6 @@
    "tags": [],
    "excerpt": "New Hampshire, New Jersey and New York are taking different approaches to speed limits. See what’s proposed, what’s at stake and what’s next.",
    "published": "2026-10-27T15:55:54+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584221",
-   "title": "2027 FreightTech 25 winners announced at F3",
-   "url": "https://www.freightwaves.com/news/2027-freighttech-25-winners-announced-at-f3",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "FreightWaves revealed the 2027 FreightTech 25 at the inaugural F3 Awards Dinner in Chattanooga, where all 100 FreightTech 100 winners were recognized as part of the 2027 FreightTech Awards, presented by Sope Creek . Kevin Nolan, Craig Fuller and Malcolm Harris closed the evening by announcing the…",
-   "published": "2026-10-27T15:22:43+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584083",
-   "title": "Band24 seeks early testers for satellite-connected asset tracker ahead of Nov. 13 deadline",
-   "url": "https://www.freightwaves.com/news/band24-seeks-early-testers-for-satellite-connected-asset-tracker-ahead-of-nov-13-deadline",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Asset-tracking company Band24 is seeking businesses to test Terra, a new tracker combining Bluetooth, cellular and satellite connectivity, ahead of a Nov. 13 deadline for its early-access program. The device is designed to help logistics operators maintain visibility into trailers, shipping…",
-   "published": "2026-10-27T14:57:32+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584220",
-   "title": "Miami airport to deploy shared logistics platform for cargo community",
-   "url": "https://www.freightwaves.com/news/miami-airport-to-deploy-shared-logistics-platform-for-cargo-community",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "MIAMI BEACH — Miami International Airport has signed with Kalé Logistics Systems to set up the world’s first AI-based air cargo community system designed to streamline data exchange and communication between supply chain stakeholders on a centralized platform, with the goal of eliminating…",
-   "published": "2026-10-27T14:51:49+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584214",
-   "title": "Federal guidance on carrier selection not around the corner: TIA’s Burroughs",
-   "url": "https://www.freightwaves.com/news/federal-guidance-on-carrier-selection-not-around-the-corner-tias-burroughs",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Chattanooga–The Transportation Intermediaries Association (TIA) was quick out of the box earlier this year after two key court decisions that didn’t favor the brokerage community, asking the federal government for some sort of guidance for 3PLs: tell us what sort of carrier hiring practices would…",
-   "published": "2026-10-27T13:49:47+00:00"
   }
  ]
 }
