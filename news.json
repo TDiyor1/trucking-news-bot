@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-29T13:30:30+00:00",
+ "updated": "2026-10-29T14:00:36+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16050399",
+   "title": "Diesel price pressures will linger into 2027, experts warn",
+   "url": "https://www.ccjdigital.com/business/outlook-and-benchmarking/article/16050399/diesel-price-pressures-will-linger-into-2027-experts-warn",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Motor carriers need to brace for prolonged diesel price volatility and elevated operating costs that stretch well into 2027, driven by refining constraints, geopolitical chokepoints and structural supply deficits, according to industry executives and analysts at the WEX OTR Summit in Ponte Vedra,…",
+   "published": "2026-10-29T13:47:22+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584457",
    "title": "$500,000 SIG Sauer shipment stolen in fictitious pickup, two arrested in California",
@@ -55,6 +69,20 @@
    "tags": [],
    "excerpt": "Kenco’s 2026 Peak Season Consumer Report found that 43% of the North American consumers it surveyed plan to spend more this peak season. That’s more than double the 20% who said so a year earlier. Another 39% expect to spend about the same, and 18% plan to spend less, down from 28% in 2025.",
    "published": "2026-10-29T11:00:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584523",
+   "title": "CPKC reports record revenue on strength of grain and intermodal traffic",
+   "url": "https://www.freightwaves.com/news/cpkc-reports-record-revenue-on-strength-of-grain-and-intermodal-traffic",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "CPKC reported stronger third-quarter operating income Wednesday, on record revenue and higher volumes. “Against a pretty dynamic backdrop , I’m pleased with what the team has delivered,” Chief Executive Keith Creel said on an earnings call after the close of markets.“We handled 6% more volume while…",
+   "published": "2026-10-29T10:03:00+00:00"
   },
   {
    "id": "https://www.ccjdigital.com/15975536",
@@ -1121,34 +1149,6 @@
    ],
    "excerpt": "When Spartan Carrier Group founder and CEO Carlos M. Llanes Jr. started digging into artificial intelligence two years ago, his team did not buy it. Today the Fort Worth, Texas-based carrier’s vice president of operations is learning to build AI agents himself.",
    "published": "2026-10-27T11:00:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15975468",
-   "title": "Attorney sentenced for role in staged-crash scheme targeting trucks",
-   "url": "https://www.ccjdigital.com/regulations/article/15975468/attorney-sentenced-for-role-in-stagedcrash-scheme-targeting-trucks",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Fraud"
-   ],
-   "excerpt": "Trucking news and briefs for Tuesday, Oct. 27, 2026: Attorney sentenced for role in New Orleans staged-crash scheme Danny Patrick Keating Jr., 57 of New Orleans, was sentenced on Oct. 15 for his role in a staged-accident scheme targeting tractor-trailers and their insurers around the New Orleans…",
-   "published": "2026-10-27T05:54:00+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/spons/supply-chain-ai-has-an-execution-problem/872776/",
-   "title": "Supply Chain AI Has an Execution Problem",
-   "url": "https://www.supplychaindive.com/spons/supply-chain-ai-has-an-execution-problem/872776/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "AI is everywhere in supply chain software now—but does it actually improve decisions? Here's why language models need a decision engine underneath, and the test every planner should run before trusting an AI recommendation.",
-   "published": "2026-10-27T03:00:00+00:00"
   }
  ]
 }

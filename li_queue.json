@@ -1,4 +1,33 @@
 {
  "last_digest": "2026-10-29",
- "queue": []
+ "queue": [
+  {
+   "id": "https://www.freightwaves.com/?p=584523",
+   "title": "CPKC reports record revenue on strength of grain and intermodal traffic",
+   "url": "https://www.freightwaves.com/news/cpkc-reports-record-revenue-on-strength-of-grain-and-intermodal-traffic",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "CPKC reported stronger third-quarter operating income Wednesday, on record revenue and higher volumes. “Against a pretty dynamic backdrop , I’m pleased with what the team has delivered,” Chief Executive Keith Creel said on an earnings call after the close of markets.“We handled 6% more volume while…",
+   "published": "2026-10-29T10:03:00+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/16050399",
+   "title": "Diesel price pressures will linger into 2027, experts warn",
+   "url": "https://www.ccjdigital.com/business/outlook-and-benchmarking/article/16050399/diesel-price-pressures-will-linger-into-2027-experts-warn",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Motor carriers need to brace for prolonged diesel price volatility and elevated operating costs that stretch well into 2027, driven by refining constraints, geopolitical chokepoints and structural supply deficits, according to industry executives and analysts at the WEX OTR Summit in Ponte Vedra,…",
+   "published": "2026-10-29T13:47:22+00:00"
+  }
+ ]
 }
