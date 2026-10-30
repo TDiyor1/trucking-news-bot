@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T16:21:27+00:00",
+ "updated": "2026-10-30T16:30:31+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/stopped-trucks-carry-hidden-risk",
@@ -14,6 +14,22 @@
    ],
    "excerpt": "A truck stopped on the highway shoulder is a hidden risk. KLLM Transport paired Fleetworthy Safety+ alerts with one rule: call every driver. Unauthorized stops fell to near zero.",
    "published": "2026-11-02T17:00:00+00:00"
+  },
+  {
+   "id": "https://www.dcvelocity.com/transportation/trucking/shipper-costs-hit-five-year-high-as-freight-demand-stalls",
+   "title": "Shipper costs hit five-year high as freight demand stalls",
+   "url": "https://www.dcvelocity.com/transportation/trucking/shipper-costs-hit-five-year-high-as-freight-demand-stalls",
+   "source": "DC Velocity",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Diesel",
+    "Capacity"
+   ],
+   "excerpt": "U.S. shippers continue to pay more to move freight even as shipment volumes remain largely unchanged, according to the latest U.S. Bank Freight Payment Index. Third-quarter shipper spending surged 32.1% from a year ago, marking the largest annual increase since 2021, primarily driven by tightened…",
+   "published": "2026-10-30T16:22:06+00:00"
   },
   {
    "id": "https://www.ttnews.com/articles/schneider-earnings-q3-2026",
@@ -1146,20 +1162,6 @@
    ],
    "excerpt": "While many proposals focus on allowing heavier trucks, a New Jersey bill calls for a study on whether weight limits should come down.",
    "published": "2026-10-28T18:27:35+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104464",
-   "title": "Smell diesel? Check if your Kenworth or Peterbilt is under recall",
-   "url": "https://landline.media/smell-diesel-check-if-your-kenworth-or-peterbilt-is-under-recall/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Daimler and Paccar now account for about three-quarters of the Cummins L9 engines recalled. Here’s what Paccar owners need to know.",
-   "published": "2026-10-28T18:23:55+00:00"
   }
  ]
 }
