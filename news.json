@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T20:30:29+00:00",
+ "updated": "2026-10-30T21:00:36+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/stopped-trucks-carry-hidden-risk",
@@ -14,6 +14,20 @@
    ],
    "excerpt": "A truck stopped on the highway shoulder is a hidden risk. KLLM Transport paired Fleetworthy Safety+ alerts with one rule: call every driver. Unauthorized stops fell to near zero.",
    "published": "2026-11-02T17:00:00+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/data-centers-consumers-are-keeping-trucking-demand-afloat/833904/",
+   "title": "Data centers, consumers are keeping trucking demand afloat",
+   "url": "https://www.truckingdive.com/news/data-centers-consumers-are-keeping-trucking-demand-afloat/833904/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "The industry's recent turnaround is unlike anything seen before, ATA's Bob Costello said, as demand growth is limited to a few key sectors.",
+   "published": "2026-10-30T20:52:00+00:00"
   },
   {
    "id": "https://joc.com/article/fedex-freight-shipments-drop-but-fuel-rates-boost-revenue-6315364",
@@ -1135,18 +1149,6 @@
    ],
    "excerpt": "Aurora Innovation signed a nonbinding memorandum of understanding Monday under which Charger Logistics intends to buy up to 500 Aurora Driver-powered trucks, with deliveries over 2027 and 2028. The deal builds on a contract Charger signed in July to start driverless hauls between Dallas and Laredo,…",
    "published": "2026-10-28T21:50:06+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584490",
-   "title": "C.H Robinson and Landstar stock prices slammed; insurance costs a factor",
-   "url": "https://www.freightwaves.com/news/c-h-robinson-and-landstar-stock-prices-slammed-insurance-costs-a-factor",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Strong financial numbers released between Tuesday and Wednesday by C.H. Robinson and Landstar were overshadowed on Wall Street by concern over one particular issue: insurance. Landstar kicked off the issue Tuesday afternoon with its third quarter earnings release that showed heavier than usual…",
-   "published": "2026-10-28T21:40:55+00:00"
   }
  ]
 }
