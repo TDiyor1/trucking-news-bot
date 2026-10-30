@@ -1,6 +1,35 @@
 {
- "updated": "2026-10-29T23:47:59+00:00",
+ "updated": "2026-10-30T00:00:38+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16050529",
+   "title": "'We cannot hold out long': Surprise Motus reclassification threatens small Illinois flatbedder",
+   "url": "https://www.ccjdigital.com/regulations/safety-compliance/article/16050529/we-cannot-hold-out-long-surprise-motus-reclassification-threatens-small-illinois-flatbedder",
+   "source": "CCJ",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "Vasile Sorocean, president of Carol Stream, Illinois-based Dynamic MD, found out Tuesday, Oct. 27, that his flatbed and step deck company was a hazmat carrier, too. Except that it wasn't. And it still isn't. But there it was, right there in Motus, the Federal Motor Carrier Safety Administration’s…",
+   "published": "2026-10-29T23:41:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584625",
+   "title": "Amazon battles freight inflation as shipping costs jump 11% in Q3",
+   "url": "https://www.freightwaves.com/news/amazon-battles-freight-inflation-as-shipping-costs-jump-11-in-q3",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Amazon reported record operating profitability in the third quarter on Thursday after the market closed, as the e-commerce giant continued expanding its delivery network and robotics investments amid higher transportation costs. CEO Andy Jassy said investments in same-day fulfillment facilities and…",
+   "published": "2026-10-29T23:26:52+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584619",
    "title": "First look: TFI Truckload sparkles, but OR at LTL slips",
@@ -1135,31 +1164,6 @@
    ],
    "excerpt": "The freight industry has spent years and real money chasing fraud, piling up more tracking, more data, and more awareness than it has ever had, and the losses keep climbing anyway, which is the paradox Michael Caney, Chief Customer Officer at the carrier-identity platform Highway, set out to unpack…",
    "published": "2026-10-28T12:18:19+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584432",
-   "title": "Greenbrier profit falls as railcar demand weighs on sales",
-   "url": "https://www.freightwaves.com/news/greenbrier-profit-falls-as-railcar-demand-weighs-on-sales",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [],
-   "excerpt": "Greenbrier Cos. reported a sharp decline in quarterly profit and revenue as the freight-railcar manufacturer contended with weaker demand and facility-related costs. The Lake Oswego, Ore., company (NYSE: GBX ) saw an increase in its order backlog and growth in its leasing fleet amid improving…",
-   "published": "2026-10-28T11:16:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584340",
-   "title": "Jacobs, RXO’s creator, backs its acquisition by C.H. Robinson",
-   "url": "https://www.freightwaves.com/news/jacobs-rxos-creator-backs-its-acquisition-by-c-h-robinson",
-   "source": "FreightWaves",
-   "audience": [
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Chattanooga–The man who created RXO gave his public support to the 3PL’s acquisition by C.H. Robinson, saying you need “scale and density” to make it in the brokerage world. Brad Jacobs, who as CEO of XPO Logistics spun off RXO into a standalone publicly-traded 3PL, told the FreightWaves Future of…",
-   "published": "2026-10-28T11:00:00+00:00"
   }
  ]
 }
