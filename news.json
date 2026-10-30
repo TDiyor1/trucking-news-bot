@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-30T14:30:35+00:00",
+ "updated": "2026-10-30T14:46:20+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/saia-earnings-q3-2026",
+   "title": "Saia expansion terminals deliver improved Q3 results",
+   "url": "https://www.ttnews.com/articles/saia-earnings-q3-2026",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "Less-than-truckload carrier Saia said performance improved at terminals added during its recent phase of expansion.",
+   "published": "2026-10-30T14:30:00+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/more-states-non-domiciled",
    "title": "More states halt non-domiciled CDL programs",
@@ -132,6 +146,20 @@
    ],
    "excerpt": "Artificial intelligence has turbocharged financial fraud, lowering technical barriers and fueled a 200% year-over-year surge in account-takeover (ATO) cases, according to William Fitzgerald, vice president of anti-financial crimes at WEX. Speaking at the WEX OTR Summit in Ponte Vedra, Fla., this…",
    "published": "2026-10-30T12:09:23+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584665",
+   "title": "New Georgia hub aims to take 26,000 containers off the road",
+   "url": "https://www.freightwaves.com/news/new-georgia-hub-aims-to-take-26000-containers-off-the-road",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Gov. Brian Kemp and Georgia Ports Authority officials celebrated the grand opening of the $134 million Gainesville Inland Port on Thursday, marking a new connection between Northeast Georgia’s manufacturing economy and international markets through the Port of Savannah.",
+   "published": "2026-10-30T11:20:00+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=584595",
@@ -1133,35 +1161,6 @@
    ],
    "excerpt": "An unprecedented supply squeeze driven by regulatory crackdowns, mounting broker liability, and prolonged market attrition is laying the groundwork for a more stable and durable freight recovery, according to Knight-Swift Transportation ( CCJ Top 250 , No. 3) Chief Executive Adam Miller.",
    "published": "2026-10-28T17:09:17+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/small-trucking-bankruptcies",
-   "title": "Small trucking companies file 221 bankruptcies in 2026",
-   "url": "https://www.ttnews.com/articles/small-trucking-bankruptcies",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Capacity"
-   ],
-   "excerpt": "About two-thirds of surveyed small carriers reported flat or declining revenue, while fuel, insurance and financing costs squeezed already thin margins.",
-   "published": "2026-10-28T15:46:50+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/werner-revenue-jumps-23-as-fleet-efficiency-improves/872894/",
-   "title": "Werner revenue jumps 23% as fleet efficiency improves",
-   "url": "https://www.truckingdive.com/news/werner-revenue-jumps-23-as-fleet-efficiency-improves/872894/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "A larger truckload fleet combined with improved revenue-per-truck in its dedicated and one-way businesses helped the carrier reach $950 million in revenue.",
-   "published": "2026-10-28T15:43:00+00:00"
   }
  ]
 }
