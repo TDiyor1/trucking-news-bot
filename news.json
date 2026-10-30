@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-30T00:48:04+00:00",
+ "updated": "2026-10-30T01:00:34+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584634",
+   "title": "FedEx Freight sees volumes stabilize, eyes Q4 margin improvement",
+   "url": "https://www.freightwaves.com/news/fedex-freight-sees-volumes-stabilize-eyes-q4-margin-improvement",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "The nation’s largest less-than-truckload carrier, FedEx Freight, said Thursday that volumes have continued to stabilize and that it expects to see stronger operating leverage next year as a standalone company. Its local, dedicated LTL sales teams are seeing business wins and driving a better…",
+   "published": "2026-10-30T00:44:55+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16050529",
    "title": "'We cannot hold out long': Surprise Motus reclassification threatens small Illinois flatbedder",
@@ -1149,21 +1164,6 @@
    "tags": [],
    "excerpt": "The third quarter at C.H. Robinson might be remembered for both the highs and the lows. It was the period when Lipe vs. Lupus Superior came down , and just days after the quarter ended, the giant 3PL announced the almost $6 billion acquisition of rival RXO (NYSE: RXO) .",
    "published": "2026-10-28T12:35:19+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584323",
-   "title": "The Companies That Write The Standards Will Own The Next Decade Of Freight",
-   "url": "https://www.freightwaves.com/news/the-companies-that-write-the-standards-will-own-the-next-decade-of-freight",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Fraud"
-   ],
-   "excerpt": "The freight industry has spent years and real money chasing fraud, piling up more tracking, more data, and more awareness than it has ever had, and the losses keep climbing anyway, which is the paradox Michael Caney, Chief Customer Officer at the carrier-identity platform Highway, set out to unpack…",
-   "published": "2026-10-28T12:18:19+00:00"
   }
  ]
 }
