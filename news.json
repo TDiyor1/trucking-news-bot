@@ -1,6 +1,19 @@
 {
- "updated": "2026-10-30T10:30:33+00:00",
+ "updated": "2026-10-30T11:00:38+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16050521",
+   "title": "Supreme Court's Montgomery ruling could give Landstar a $100 million tailwind",
+   "url": "https://www.ccjdigital.com/ccj-top-250/article/16050521/landstar-sees-agent-growth-from-montgomery-ruling",
+   "source": "CCJ",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "The Supreme Court’s Montgomery ruling is sending more small brokerages and owner-operators toward Landstar’s independent agent network, according to company executives. During the company’s third-quarter 2026 earnings conference call, Landstar ( CCJ Top 250 , No.",
+   "published": "2026-10-30T10:52:16+00:00"
+  },
   {
    "id": "https://theloadstar.com/?p=327562",
    "title": "250 watchmen, one picket line and half of America’s busiest port complex",
@@ -1148,21 +1161,6 @@
    "tags": [],
    "excerpt": "Online surveys seek to help the industry better understand drivers’ health and financial impacts.",
    "published": "2026-10-28T13:17:00+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/csx-sees-rail-conversion-opportunities-from-battered-trucking-market/872764/",
-   "title": "CSX sees rail conversion opportunities from battered trucking market",
-   "url": "https://www.truckingdive.com/news/csx-sees-rail-conversion-opportunities-from-battered-trucking-market/872764/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Rates",
-    "Ports/Rail"
-   ],
-   "excerpt": "The railroad is reviewing shipper truckload files to provide service and cost comparisons for intermodal opportunities.",
-   "published": "2026-10-28T13:12:00+00:00"
   }
  ]
 }
