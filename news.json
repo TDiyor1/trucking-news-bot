@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-30T14:00:36+00:00",
+ "updated": "2026-10-30T14:30:35+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/more-states-non-domiciled",
+   "title": "More states halt non-domiciled CDL programs",
+   "url": "https://www.ttnews.com/articles/more-states-non-domiciled",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "Louisiana and Wyoming have ceased issuing non-domiciled commercial driver licenses, while Ohio is ending its program and downgrading credentials.",
+   "published": "2026-10-30T14:24:10+00:00"
+  },
+  {
+   "id": "https://theloadstar.com/?p=327622",
+   "title": "Newbuildings head for Asia-Latin America trades as volumes boom",
+   "url": "https://theloadstar.com/newbuildings-head-for-asia-latin-america-trades-as-volumes-boom/",
+   "source": "The Loadstar",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "Deliveries in the past week have been primarily deployed to services between the Far East and Latin America, highlighting growing volumes on these trades. Alphaliner noted that Imabari Shipbuilding completed the 13,932 teu ONE Symphony that will be deployed on ONE’s Asia-WCSA AX3 service the…",
+   "published": "2026-10-30T14:10:23+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584660",
+   "title": "Aurora reaffirms it’s on track to produce more than 1000 trucks in 2027",
+   "url": "https://www.freightwaves.com/news/aurora-q3-2026-earnings",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Aurora Innovation cut its 2026 revenue forecast to about $9 million on Wednesday, down from the $14 million to $16 million reported in its second-quarter results , after a six-week manufacturing delay. The company reported third-quarter revenue of $3 million and an operating loss of $257 million.…",
+   "published": "2026-10-30T14:00:45+00:00"
+  },
   {
    "id": "https://theloadstar.com/?p=327589",
    "title": "A platform to challenge ‘death by a thousand [D&D] invoices’",
@@ -1120,54 +1162,6 @@
    ],
    "excerpt": "A larger truckload fleet combined with improved revenue-per-truck in its dedicated and one-way businesses helped the carrier reach $950 million in revenue.",
    "published": "2026-10-28T15:43:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584475",
-   "title": "First look: CPKC earnings",
-   "url": "https://www.freightwaves.com/news/first-look-cpkc-earnings-2",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Diesel",
-    "Ports/Rail"
-   ],
-   "excerpt": "Canadian Pacific Kansas City reported a 16% increase in third-quarter core adjusted earnings per share Wednesday, as higher freight volumes and growth in grain and intermodal revenue helped offset rising fuel costs. Revenue rose to C$4.22 billion ($3.01 billion) in the three months ended Sept.",
-   "published": "2026-10-28T15:32:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584418",
-   "title": "F3: FreightWaves announces Shipper of Choice winners",
-   "url": "https://www.freightwaves.com/news/f3-freightwaves-announces-shipper-of-choice-winners",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "FreightWaves announced the winners of its Shipper of Choice awards on Monday, Oct. 26, at the F3: Future of Freight Festival, recognizing companies that stand out for their relationships with freight carriers and their approach to shipping operations. Craig Fuller, founder and CEO of FreightWaves…",
-   "published": "2026-10-28T15:31:42+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584274",
-   "title": "Stolen shoes on eBay lead police to $1 million in missing BNSF train cargo",
-   "url": "https://www.freightwaves.com/news/stolen-shoes-on-ebay-lead-police-to-1-million-in-missing-bnsf-train-cargo",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Fraud",
-    "Ports/Rail"
-   ],
-   "excerpt": "Los Angeles police recovered approximately $1 million in stolen railroad cargo after tracing shoes advertised for sale on eBay. Investigators uncovered 35 pallets of BNSF Railroad property during an October 21 search of a local business. The merchandise included athletic footwear and backpacks from…",
-   "published": "2026-10-28T15:02:31+00:00"
   }
  ]
 }
