@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-30T10:00:34+00:00",
+ "updated": "2026-10-30T10:30:33+00:00",
  "items": [
+  {
+   "id": "https://theloadstar.com/?p=327562",
+   "title": "250 watchmen, one picket line and half of America’s busiest port complex",
+   "url": "https://theloadstar.com/250-watchmen-one-picket-line-and-half-of-americas-busiest-port-complex/",
+   "source": "The Loadstar",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "A threatened Sunday walkout at Los Angeles and Long Beach may be delayed until Wednesday. The real danger is the reach of a small union local, with 35,688 containers already waiting for rail service. It takes a special kind of labor dispute to put half a port complex at risk with a workforce…",
+   "published": "2026-10-30T10:26:57+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16050427",
    "title": "IMC Logistics hydrogen truck led Formula 1 drivers’ parade at COTA",
@@ -1149,21 +1163,6 @@
    ],
    "excerpt": "The railroad is reviewing shipper truckload files to provide service and cost comparisons for intermodal opportunities.",
    "published": "2026-10-28T13:12:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/us-tariff-chinese-trailers",
-   "title": "U.S. to tariff Chinese trailers to aid domestic producers",
-   "url": "https://www.ttnews.com/articles/us-tariff-chinese-trailers",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "The Commerce Department is imposing tariffs of about 260% on “van-type trailers” were being “dumped” into the U.S. — imported at ultra cheap prices that make it difficult for domestic manufacturers to compete.",
-   "published": "2026-10-28T13:03:45+00:00"
   }
  ]
 }
