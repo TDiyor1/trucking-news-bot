@@ -1,6 +1,32 @@
 {
- "updated": "2026-10-30T15:30:30+00:00",
+ "updated": "2026-10-30T15:51:25+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/stopped-trucks-carry-hidden-risk",
+   "title": "Stopped Trucks Carry Hidden Risk",
+   "url": "https://www.ttnews.com/articles/stopped-trucks-carry-hidden-risk",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "A truck stopped on the highway shoulder is a hidden risk. KLLM Transport paired Fleetworthy Safety+ alerts with one rule: call every driver. Unauthorized stops fell to near zero.",
+   "published": "2026-11-02T17:00:00+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/fedex-freight-q3-shipments-dip-slightly-following-spinoff/873256/",
+   "title": "FedEx Freight Q3 shipments dip slightly following spinoff",
+   "url": "https://www.truckingdive.com/news/fedex-freight-q3-shipments-dip-slightly-following-spinoff/873256/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Executives said business retention and ongoing transition processes were the carrier’s focus during its first four months as an independent company.",
+   "published": "2026-10-30T15:36:00+00:00"
+  },
   {
    "id": "https://www.supplychaindive.com/news/usda-fund-8-fertilizer-manufacturing-projects-totaling-1-billion/873311/",
    "title": "USDA to fund 8 fertilizer manufacturing projects totaling more than $1.3B",
@@ -1133,37 +1159,6 @@
    ],
    "excerpt": "The Fed’s decision came just six days before a midterm election that has focused heavily on concerns around the cost of living and affordability.",
    "published": "2026-10-28T18:15:54+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16050323",
-   "title": "Despite clumsy rollout, FMCSA says Motus has blocked 'thousands' of bad actors from hitting the highway",
-   "url": "https://www.ccjdigital.com/regulations/safety-compliance/article/16050323/fmcsa-motus-registration-portal-updates-glitches-fraud-crackdown",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation",
-    "Fraud"
-   ],
-   "excerpt": "Federal motor carrier regulators are leaning heavily on Motus , its modernized registration portal, to purge fraudulent Chameleon Carriers from the highway, even as the digital overhaul works through persistent technical growing pains . Addressing trucking executives Wednesday at the WEX OTR Summit…",
-   "published": "2026-10-28T17:30:41+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584414",
-   "title": "Old Dominion’s tonnage turns positive; recovery needs demand inflection",
-   "url": "https://www.freightwaves.com/news/old-dominions-tonnage-turns-positive-recovery-needs-demand-inflection",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Capacity"
-   ],
-   "excerpt": "Less-than-truckload carrier Old Dominion Freight Line saw tonnage turn positive for the first time in over two years during September. Executives from the company cited favorable market share opportunities on Wednesday, with customers exploring multiyear contracts and 3PLs seeking long-term…",
-   "published": "2026-10-28T17:22:04+00:00"
   }
  ]
 }
