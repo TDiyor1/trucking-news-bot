@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T17:30:27+00:00",
+ "updated": "2026-10-30T17:51:35+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/stopped-trucks-carry-hidden-risk",
@@ -14,6 +14,18 @@
    ],
    "excerpt": "A truck stopped on the highway shoulder is a hidden risk. KLLM Transport paired Fleetworthy Safety+ alerts with one rule: call every driver. Unauthorized stops fell to near zero.",
    "published": "2026-11-02T17:00:00+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104492",
+   "title": "Great Dane, Wabash recalls target defects that could drop or stop trailers",
+   "url": "https://landline.media/great-dane-wabash-recalls-target-defects-that-could-drop-or-stop-trailers/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Two trailer makers have issued recalls over defects that could put drivers at risk. Find out if your Wabash or Great Dane trailer is affected.",
+   "published": "2026-10-30T17:43:03+00:00"
   },
   {
    "id": "https://www.ttnews.com/articles/xpo-earnings-q3-2026",
@@ -1148,20 +1160,6 @@
    ],
    "excerpt": "The U.S. Department of Transportation (DOT) on Tuesday announced the 35 projects that will receive funding for port infrastructure improvements, covering a total of $498 million in 19 states. The grant money was awarded through the Maritime Administration (MARAD)’s Port Infrastructure Development…",
    "published": "2026-10-28T18:35:25+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104473",
-   "title": "Flurry of rules from FMCSA headed your way?",
-   "url": "https://landline.media/flurry-of-rules-from-fmcsa-headed-your-way/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "In March, FMCSA Administrator Derek Barrs teased that many rules were coming in 2026. Find out what’s coming.",
-   "published": "2026-10-28T18:31:23+00:00"
   }
  ]
 }
