@@ -1,6 +1,51 @@
 {
- "updated": "2026-10-30T13:00:37+00:00",
+ "updated": "2026-10-30T13:30:32+00:00",
  "items": [
+  {
+   "id": "https://theloadstar.com/?p=327589",
+   "title": "A platform to challenge ‘death by a thousand [D&D] invoices’",
+   "url": "https://theloadstar.com/a-platform-to-challenge-death-by-a-thousand-dd-invoices/",
+   "source": "The Loadstar",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Congestion today could mean a fresh wave of disputed detention and demurrage (D&D) charges tomorrow, according to Sara Dandan, founder of FourOneOne. She told The Loadstar disruption at ports, including growing backlogs of containers at Los Angeles and Long Beach, was likely to translate into extra…",
+   "published": "2026-10-30T13:22:44+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/ata-calls-on-members-to-shape-next-cycle-of-trucking-regulation/833900/",
+   "title": "ATA calls on members to shape next cycle of trucking, regulation",
+   "url": "https://www.truckingdive.com/news/ata-calls-on-members-to-shape-next-cycle-of-trucking-regulation/833900/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "While members’ views on issues vary, all carriers seek a “competitive, and ultimately sustainable trucking industry,” according to outgoing chairman Greg Hodgen.",
+   "published": "2026-10-30T13:19:00+00:00"
+  },
+  {
+   "id": "https://theloadstar.com/?p=327593",
+   "title": "Carriers’ November rate hikes ‘doomed’ say analysts, as demand goes flat",
+   "url": "https://theloadstar.com/carriers-november-rate-hikes-doomed-say-analysts-as-demand-goes-flat/",
+   "source": "The Loadstar",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Ports/Rail"
+   ],
+   "excerpt": "Container spot freight rates on the transpacific eastbound trade, as recorded by Drewry, saw its steepest one-week fall since June 2025 after this year’s protracted peak season came to an end. Drewry’s World Container Index (WCI) saw the spot rate on its Shanghai-Los Angeles decline 6% week on…",
+   "published": "2026-10-30T13:17:00+00:00"
+  },
   {
    "id": "https://www.freightcaviar.com/stories/eld-fraud-live-on-camera-fmcsa-investigation",
    "title": "🎣 FMCSA Watched It Happen",
@@ -1123,49 +1168,6 @@
    ],
    "excerpt": "Los Angeles police recovered approximately $1 million in stolen railroad cargo after tracing shoes advertised for sale on eBay. Investigators uncovered 35 pallets of BNSF Railroad property during an October 21 search of a local business. The merchandise included athletic footwear and backpacks from…",
    "published": "2026-10-28T15:02:31+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/us-ships-avoid-hormuz",
-   "title": "U.S. tells ships to avoid unnecessary transits through Hormuz",
-   "url": "https://www.ttnews.com/articles/us-ships-avoid-hormuz",
-   "source": "Transport Topics",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "It remains unclear what prompted the advisory. The U.S. military last publicly issued a similar notice in mid-July, when it began its blockade of Iranian shipping.",
-   "published": "2026-10-28T14:54:29+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584394",
-   "title": "FMCSA removes 10,000-plus driver training providers amid safety push",
-   "url": "https://www.freightwaves.com/news/fmcsa-removes-10000-plus-driver-training-providers-amid-safety-push",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "JACKSONVILLE, Fla. — The Federal Motor Carrier Safety Administration has removed more than 10,000 commercial driver training providers from its federal registry since December 2025 and more than 100 noncompliant electronic logging devices from its approved list, according to the agency’s chief…",
-   "published": "2026-10-28T14:36:44+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584388",
-   "title": "Backlog grows as 35,000 containers await rail service at LA–Long Beach",
-   "url": "https://www.freightwaves.com/news/backlog-grows-as-35000-containers-await-rail-service-at-la-long-beach",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Nearly 35,700 import containers were waiting for on-dock trains at the ports of Los Angeles and Long Beach this week, as record cargo volumes and reported railcar shortages slowed the movement of freight inland. Of the 35,688 containers awaiting rail service on Oct.",
-   "published": "2026-10-28T14:01:08+00:00"
   }
  ]
 }

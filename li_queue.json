@@ -1,4 +1,50 @@
 {
  "last_digest": "2026-10-30",
- "queue": []
+ "queue": [
+  {
+   "id": "https://theloadstar.com/?p=327593",
+   "title": "Carriers’ November rate hikes ‘doomed’ say analysts, as demand goes flat",
+   "url": "https://theloadstar.com/carriers-november-rate-hikes-doomed-say-analysts-as-demand-goes-flat/",
+   "source": "The Loadstar",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Ports/Rail"
+   ],
+   "excerpt": "Container spot freight rates on the transpacific eastbound trade, as recorded by Drewry, saw its steepest one-week fall since June 2025 after this year’s protracted peak season came to an end. Drewry’s World Container Index (WCI) saw the spot rate on its Shanghai-Los Angeles decline 6% week on…",
+   "published": "2026-10-30T13:17:00+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/ata-calls-on-members-to-shape-next-cycle-of-trucking-regulation/833900/",
+   "title": "ATA calls on members to shape next cycle of trucking, regulation",
+   "url": "https://www.truckingdive.com/news/ata-calls-on-members-to-shape-next-cycle-of-trucking-regulation/833900/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "While members’ views on issues vary, all carriers seek a “competitive, and ultimately sustainable trucking industry,” according to outgoing chairman Greg Hodgen.",
+   "published": "2026-10-30T13:19:00+00:00"
+  },
+  {
+   "id": "https://theloadstar.com/?p=327589",
+   "title": "A platform to challenge ‘death by a thousand [D&D] invoices’",
+   "url": "https://theloadstar.com/a-platform-to-challenge-death-by-a-thousand-dd-invoices/",
+   "source": "The Loadstar",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Congestion today could mean a fresh wave of disputed detention and demurrage (D&D) charges tomorrow, according to Sara Dandan, founder of FourOneOne. She told The Loadstar disruption at ports, including growing backlogs of containers at Los Angeles and Long Beach, was likely to translate into extra…",
+   "published": "2026-10-30T13:22:44+00:00"
+  }
+ ]
 }
