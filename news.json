@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T20:00:31+00:00",
+ "updated": "2026-10-30T20:30:29+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/stopped-trucks-carry-hidden-risk",
@@ -14,6 +14,20 @@
    ],
    "excerpt": "A truck stopped on the highway shoulder is a hidden risk. KLLM Transport paired Fleetworthy Safety+ alerts with one rule: call every driver. Unauthorized stops fell to near zero.",
    "published": "2026-11-02T17:00:00+00:00"
+  },
+  {
+   "id": "https://joc.com/article/fedex-freight-shipments-drop-but-fuel-rates-boost-revenue-6315364",
+   "title": "FedEx Freight shipments drop but fuel, rates boost revenue",
+   "url": "https://joc.com/article/fedex-freight-shipments-drop-but-fuel-rates-boost-revenue-6315364",
+   "source": "JOC",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "The largest US less-than-truckload carrier said shipments decreased 1.4% year over year for the four months through September, but it expects to gain business in new verticals.",
+   "published": "2026-10-30T19:59:16+00:00"
   },
   {
    "id": "https://www.ttnews.com/articles/fmcsa-hos-sms-updates-2026",
@@ -1133,22 +1147,6 @@
    "tags": [],
    "excerpt": "Strong financial numbers released between Tuesday and Wednesday by C.H. Robinson and Landstar were overshadowed on Wall Street by concern over one particular issue: insurance. Landstar kicked off the issue Tuesday afternoon with its third quarter earnings release that showed heavier than usual…",
    "published": "2026-10-28T21:40:55+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16050311",
-   "title": "FMCSA will 'hold violators fully accountable' after ELD fraud scandal revealed",
-   "url": "https://www.ccjdigital.com/regulations/article/16050311/fmcsa-will-hold-violators-fully-accountable-for-eld-fraud",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation",
-    "Fraud",
-    "Tech"
-   ],
-   "excerpt": "The Federal Motor Carrier Safety Administration vowed action after a motor carrier confronted its investigators with firsthand evidence of electronic logging device fraud . A driver parked at police headquarters and had his hours reset on the spot. In a statement after the meeting with Illinois…",
-   "published": "2026-10-28T21:25:38+00:00"
   }
  ]
 }
