@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-30T11:00:38+00:00",
+ "updated": "2026-10-30T11:30:30+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584595",
+   "title": "Venti brings driverless yard trucks to US yards",
+   "url": "https://www.freightwaves.com/news/venti-driverless-trucks-us-yards",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Venti Technologies’ driverless container trucks have worked PSA’s port in Singapore for nearly three years. Traffic there runs in one big loop, so the trucks never had to back up. U.S. rail yards are less forgiving. Venti says a Class I intermodal railroad plans to run more than 130 Venti trucks…",
+   "published": "2026-10-30T11:00:00+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16050521",
    "title": "Supreme Court's Montgomery ruling could give Landstar a $100 million tailwind",
@@ -1149,18 +1164,6 @@
    ],
    "excerpt": "About 250 union watchmen at the ports of Los Angeles and Long Beach could strike as early as 5 p.m. Pacific time Sunday, Nov. 1, threatening cargo operations at the nation’s busiest container port complex if negotiators fail to reach a new labor agreement.",
    "published": "2026-10-28T13:23:00+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/atri-to-study-truck-driver-health-carriers-medical-costs/833504/",
-   "title": "ATRI to study truck driver health, carriers’ medical costs",
-   "url": "https://www.truckingdive.com/news/atri-to-study-truck-driver-health-carriers-medical-costs/833504/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Online surveys seek to help the industry better understand drivers’ health and financial impacts.",
-   "published": "2026-10-28T13:17:00+00:00"
   }
  ]
 }
