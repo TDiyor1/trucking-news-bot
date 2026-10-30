@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-30T11:30:30+00:00",
+ "updated": "2026-10-30T12:00:39+00:00",
  "items": [
+  {
+   "id": "https://www.freightcaviar.com/stories/eld-fraud-live-on-camera-fmcsa-investigation",
+   "title": "🎣 FMCSA Watched It Happen",
+   "url": "https://www.freightcaviar.com/stories/eld-fraud-live-on-camera-fmcsa-investigation",
+   "source": "Freight Caviar",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "A truck driver reset his electronic driving logs in just 10 minutes while federal and state investigators watched.",
+   "published": "2026-10-30T13:00:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584595",
    "title": "Venti brings driverless yard trucks to US yards",
@@ -1150,20 +1164,6 @@
    "tags": [],
    "excerpt": "Forward Air has entered a two-year agreement to retain “a significant portion of the services currently provided” to a customer that it had previously indicated it might lose . Prior reports from Forward said the contract logistics customer accounted for 10% of its annual revenue, or roughly $250…",
    "published": "2026-10-28T13:29:49+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584451",
-   "title": "Strike threat by port security workers at Los Angeles–Long Beach",
-   "url": "https://www.freightwaves.com/news/strike-threat-by-port-security-workers-at-los-angeles-long-beach",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "About 250 union watchmen at the ports of Los Angeles and Long Beach could strike as early as 5 p.m. Pacific time Sunday, Nov. 1, threatening cargo operations at the nation’s busiest container port complex if negotiators fail to reach a new labor agreement.",
-   "published": "2026-10-28T13:23:00+00:00"
   }
  ]
 }
