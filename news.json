@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T18:21:38+00:00",
+ "updated": "2026-10-30T18:30:34+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/stopped-trucks-carry-hidden-risk",
@@ -14,6 +14,44 @@
    ],
    "excerpt": "A truck stopped on the highway shoulder is a hidden risk. KLLM Transport paired Fleetworthy Safety+ alerts with one rule: call every driver. Unauthorized stops fell to near zero.",
    "published": "2026-11-02T17:00:00+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104497",
+   "title": "Red-dyed diesel waiver: 31 states in, 19 to go",
+   "url": "https://landline.media/red-dyed-diesel-waiver-31-states-in-19-to-go/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Federal agencies have taken steps to address elevated fuel prices. One department is asking states to follow their lead.",
+   "published": "2026-10-30T18:22:23+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104495",
+   "title": "Delaware insurance law raises concerns for truckers",
+   "url": "https://landline.media/delaware-insurance-law-raises-concerns-for-truckers/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Delaware’s new law gives people more time to cancel some injury settlements. OOIDA warns the changes could raise insurance costs for truckers.",
+   "published": "2026-10-30T18:21:39+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584721",
+   "title": "Arkansas truck blitz nets 183 English violations, 44 arrests in 48 hours",
+   "url": "https://www.freightwaves.com/news/arkansas-truck-blitz-nets-183-english-violations-44-arrests-in-48-hours",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Arkansas Highway Police and federal law enforcement agencies conducted a sweeping 48-hour commercial vehicle enforcement operation that resulted in 183 English-language proficiency violations, 44 criminal arrests and more than 1,000 motor carrier safety violations.",
+   "published": "2026-10-30T18:06:57+00:00"
   },
   {
    "id": "https://landline.media/?p=104492",
@@ -1119,47 +1157,6 @@
    ],
    "excerpt": "Carriers whose fuel surcharges reset based on the previous month’s average cost of diesel are absorbing the cost of fuel price increases, which reached $6.29 a gallon in September — the highest monthly average in the U.S. Energy Information Administration’s (EIA) weekly data going back to 1994,…",
    "published": "2026-10-28T20:30:12+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/werner-earnings-q3-2026",
-   "title": "Werner's Leathers expects accelerated capacity reductions",
-   "url": "https://www.ttnews.com/articles/werner-earnings-q3-2026",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Capacity"
-   ],
-   "excerpt": "Werner Enterprises CEO Derek Leathers expressed optimism Oct. 27 that trucking is entering an upcycle as industry capacity declines.",
-   "published": "2026-10-28T19:00:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584368",
-   "title": "How One Trucker Turned One Video A Day Into Billions Of Views, And What It Cost Him",
-   "url": "https://www.freightwaves.com/news/how-one-trucker-turned-one-video-a-day-into-billions-of-views-and-what-it-cost-him",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Larry Cothran did not set out to become what he now calls the number one trucking content creator in the world, he set out to post one video a day and then simply refused to stop, and that stubborn daily discipline, showing up on Facebook, Instagram, and YouTube every single day for more than three…",
-   "published": "2026-10-28T18:44:02+00:00"
-  },
-  {
-   "id": "https://joc.com/article/csx-tech-outage-halts-class-i-interchanges-disrupts-intermodal-freight-6313249",
-   "title": "CSX tech outage halts Class I interchanges, disrupts intermodal freight",
-   "url": "https://joc.com/article/csx-tech-outage-halts-class-i-interchanges-disrupts-intermodal-freight-6313249",
-   "source": "JOC",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "The railroad said some systems were gradually returning to service, but that significant operational restrictions remained due to the outage, which began Tuesday and was determined to not be a cyberattack.",
-   "published": "2026-10-28T18:38:15+00:00"
   }
  ]
 }
