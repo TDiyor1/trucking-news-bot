@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T18:00:36+00:00",
+ "updated": "2026-10-30T18:21:38+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/stopped-trucks-carry-hidden-risk",
@@ -26,6 +26,23 @@
    "tags": [],
    "excerpt": "Two trailer makers have issued recalls over defects that could put drivers at risk. Find out if your Wabash or Great Dane trailer is affected.",
    "published": "2026-10-30T17:43:03+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584708",
+   "title": "Covenant Logistics CEO expects double-digit truckload rate hikes in 2027",
+   "url": "https://www.freightwaves.com/news/covenant-logistics-ceo-expects-double-digit-truckload-rate-hikes-in-2027",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Rates",
+    "Regulation",
+    "Capacity"
+   ],
+   "excerpt": "Covenant Logistics Group CEO David Parker expects truckload contract rates to increase by double digits in 2027 as trucking companies contend with rising operating expenses, tightening driver capacity and continued federal enforcement of safety regulations .",
+   "published": "2026-10-30T17:32:06+00:00"
   },
   {
    "id": "https://www.ttnews.com/articles/xpo-earnings-q3-2026",
@@ -1143,23 +1160,6 @@
    ],
    "excerpt": "The railroad said some systems were gradually returning to service, but that significant operational restrictions remained due to the outage, which began Tuesday and was determined to not be a cyberattack.",
    "published": "2026-10-28T18:38:15+00:00"
-  },
-  {
-   "id": "https://www.dcvelocity.com/transportation/maritime-ocean/ports/dot-awards-498-million-for-port-improvement-projects-in-19-states",
-   "title": "DOT awards $498 million for port improvement projects in 19 states",
-   "url": "https://www.dcvelocity.com/transportation/maritime-ocean/ports/dot-awards-498-million-for-port-improvement-projects-in-19-states",
-   "source": "DC Velocity",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation",
-    "Ports/Rail"
-   ],
-   "excerpt": "The U.S. Department of Transportation (DOT) on Tuesday announced the 35 projects that will receive funding for port infrastructure improvements, covering a total of $498 million in 19 states. The grant money was awarded through the Maritime Administration (MARAD)’s Port Infrastructure Development…",
-   "published": "2026-10-28T18:35:25+00:00"
   }
  ]
 }
