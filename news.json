@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T18:33:09+00:00",
+ "updated": "2026-10-30T18:49:50+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/stopped-trucks-carry-hidden-risk",
@@ -14,6 +14,32 @@
    ],
    "excerpt": "A truck stopped on the highway shoulder is a hidden risk. KLLM Transport paired Fleetworthy Safety+ alerts with one rule: call every driver. Unauthorized stops fell to near zero.",
    "published": "2026-11-02T17:00:00+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104506",
+   "title": "Truckers to FMCSA: Give me more control over the clock",
+   "url": "https://landline.media/truckers-to-fmcsa-give-me-more-control-over-the-clock/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "Truck drivers have been clamoring for more flexibility within the hours-of-service regulations for years. They may soon get their wish.",
+   "published": "2026-10-30T18:42:20+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104502",
+   "title": "Nearly 200 drivers sidelined for English-language proficiency violations",
+   "url": "https://landline.media/nearly-200-drivers-sidelined-for-english-language-proficiency-violations/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "State and federal agencies partner for enforcement blitz targeting unsafe and unqualified drivers. Find out how many violations they found.",
+   "published": "2026-10-30T18:37:24+00:00"
   },
   {
    "id": "https://landline.media/?p=104497",
@@ -1126,37 +1152,6 @@
    ],
    "excerpt": "Camera mirror pioneer Stoneridge and autonomous trucking tech company Kodiak AI are collaborating to integrate Stoneridge's camera technology into autonomous commercial trucks. The partnership launches with the integration of Stoneridge’s MirrorEye Camera Monitor System (CMS) into newly deployed…",
    "published": "2026-10-28T20:56:12+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/old-dominion-revenue-jumps-13-as-density-increases/873020/",
-   "title": "Old Dominion revenue jumps 13% as density increases",
-   "url": "https://www.truckingdive.com/news/old-dominion-revenue-jumps-13-as-density-increases/873020/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Capacity"
-   ],
-   "excerpt": "CEO Kevin Freeman said the company's reliability and truckload capacity constraints are helping it capture heavier LTL loads.",
-   "published": "2026-10-28T20:42:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16050234",
-   "title": "Fleet leaders offer strategies for managing rising diesel costs",
-   "url": "https://www.ccjdigital.com/technology/trip-planning/article/16050234/fleet-fuel-management-cutting-costs-amid-price-volatility",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Carriers whose fuel surcharges reset based on the previous month’s average cost of diesel are absorbing the cost of fuel price increases, which reached $6.29 a gallon in September — the highest monthly average in the U.S. Energy Information Administration’s (EIA) weekly data going back to 1994,…",
-   "published": "2026-10-28T20:30:12+00:00"
   }
  ]
 }
