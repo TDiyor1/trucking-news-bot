@@ -1,4 +1,19 @@
 {
  "last_digest": "2026-10-31",
- "queue": []
+ "queue": [
+  {
+   "id": "https://www.freightwaves.com/?p=584720",
+   "title": "Freight cycles are anything but regular",
+   "url": "https://www.freightwaves.com/news/freight-cycles-are-anything-but-regular",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "Chart of the Week: Cass Freight Shipments Index, Cass Truckload Linehaul Index – USA SONAR : CFIS.USA, CTLI.USA The domestic freight market has been on a long-running rollercoaster since the start of the century. The Cass Freight Shipments Index (CFIS) and the Cass Truckload Linehaul Index (CTLI)…",
+   "published": "2026-11-01T00:30:00+00:00"
+  }
+ ]
 }
