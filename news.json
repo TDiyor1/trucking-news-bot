@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T04:00:30+00:00",
+ "updated": "2026-11-02T04:30:30+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/stopped-trucks-carry-hidden-risk",
@@ -14,6 +14,21 @@
    ],
    "excerpt": "A truck stopped on the highway shoulder is a hidden risk. KLLM Transport paired Fleetworthy Safety+ alerts with one rule: call every driver. Unauthorized stops fell to near zero.",
    "published": "2026-11-02T17:00:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584758",
+   "title": "AIT Worldwide snaps up Australian forwarder involved in big tech buildout",
+   "url": "https://www.freightwaves.com/news/ait-worldwide-snaps-up-australian-forwarder-involved-in-big-tech-buildout",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "AIT Worldwide Logistics announced late Sunday night it has acquired Australian freight forwarder Connor Anderson International, giving the fast-growing Chicago-based freight forwarder a significant foothold in the Oceania market and the ability to capitalize on the boom in data center construction…",
+   "published": "2026-11-02T04:06:20+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=584750",
@@ -1136,20 +1151,6 @@
    ],
    "excerpt": "CPKC reported stronger third-quarter operating income Wednesday, on record revenue and higher volumes. “Against a pretty dynamic backdrop , I’m pleased with what the team has delivered,” Chief Executive Keith Creel said on an earnings call after the close of markets.“We handled 6% more volume while…",
    "published": "2026-10-29T10:03:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15975536",
-   "title": "NHTSA proposes driverless trucks be equipped with blue marker lights",
-   "url": "https://www.ccjdigital.com/equipment-controls/autonomous/article/15975536/nhtsa-proposes-cyan-marker-lamps-for-selfdriving-vehciles",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "Sting told Roxanne that she didn't have to \"put on the red light,\" but federal regulators are suggesting that driverless vehicles could put on a blue one. In a notice of proposed rulemaking, the National Highway Traffic Safety Administration (NHTSA) offered updates to Federal Motor Vehicle Safety…",
-   "published": "2026-10-29T08:44:00+00:00"
   }
  ]
 }
