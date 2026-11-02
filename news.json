@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T16:57:18+00:00",
+ "updated": "2026-11-02T17:00:23+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/stopped-trucks-carry-hidden-risk",
@@ -14,6 +14,32 @@
    ],
    "excerpt": "A truck stopped on the highway shoulder is a hidden risk. KLLM Transport paired Fleetworthy Safety+ alerts with one rule: call every driver. Unauthorized stops fell to near zero.",
    "published": "2026-11-02T17:00:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584800",
+   "title": "Grow Your Brokerage. Keep Profitability in Focus.",
+   "url": "https://www.freightwaves.com/news/grow-your-brokerage-keep-profitability-in-focus",
+   "source": "FreightWaves",
+   "audience": [
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "More customers. More loads. More decisions that affect your bottom line. As your brokerage grows, it becomes harder to know whether the additional volume is delivering the profit you expect. The New Rules of Freight Brokerage explores why margin discipline is becoming a competitive advantage, and…",
+   "published": "2026-11-02T16:43:38+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584795",
+   "title": "October’s 55.5 manufacturing PMI beats expectations",
+   "url": "https://www.freightwaves.com/news/octobers-55-5-manufacturing-pmi-beats-expectations",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "U.S. manufacturing activity remained in growth mode for a 10th straight month in October, with most key demand indicators remaining positive. The Monday update supported mostly positive demand commentary provided by public less-than-truckload carriers last week.",
+   "published": "2026-11-02T16:41:27+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=584778",
@@ -1123,34 +1149,6 @@
    ],
    "excerpt": "Higher fuel costs and employee health and dental benefits are set to hurt Old Dominion Freight Line’s industry-leading operating ratio in Q4 2026.",
    "published": "2026-10-29T17:42:00+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104478",
-   "title": "More radar, more tickets? Pennsylvania weighs change",
-   "url": "https://landline.media/more-radar-more-tickets-pennsylvania-weighs-change/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "Local police could soon use speed radar in Pennsylvania. A bill sets limits on tickets and police revenue, but questions about fair enforcement remain.",
-   "published": "2026-10-29T17:23:21+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/xpo-q3-revenue-rises-12-as-focus-on-higher-margin-freight-pays-off/873129/",
-   "title": "XPO Q3 revenue rises 12% as focus on higher-margin freight pays off",
-   "url": "https://www.truckingdive.com/news/xpo-q3-revenue-rises-12-as-focus-on-higher-margin-freight-pays-off/873129/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Chairman and CEO Mario Harik said the LTL carrier has been seeking to grow its premium services and is testing new verticals, like healthcare and grocery consolidation.",
-   "published": "2026-10-29T17:15:00+00:00"
   }
  ]
 }
