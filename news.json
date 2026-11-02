@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T06:00:43+00:00",
+ "updated": "2026-11-02T06:30:31+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/stopped-trucks-carry-hidden-risk",
@@ -14,6 +14,20 @@
    ],
    "excerpt": "A truck stopped on the highway shoulder is a hidden risk. KLLM Transport paired Fleetworthy Safety+ alerts with one rule: call every driver. Unauthorized stops fell to near zero.",
    "published": "2026-11-02T17:00:00+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/16125269",
+   "title": "Historic trucking company founders inducted into trucking hall of fame",
+   "url": "https://www.ccjdigital.com/companies/article/16125269/historic-trucking-company-founders-inducted-into-trucking-hall-of-fame",
+   "source": "CCJ",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Trucking news and briefs for Monday, Nov. 2, 2026: C.R. England, Groendyke, Peterbilt founders inducted into trucking HOF 2026 American Trucking and Industry Leader Hall of Fame inductees, left to right: Bryon Kelling, assistant director of marketing, accepting on behalf of Peterbilt; Dan England,…",
+   "published": "2026-11-02T06:01:00+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=584758",
@@ -1137,20 +1151,6 @@
    "tags": [],
    "excerpt": "Kenco’s 2026 Peak Season Consumer Report found that 43% of the North American consumers it surveyed plan to spend more this peak season. That’s more than double the 20% who said so a year earlier. Another 39% expect to spend about the same, and 18% plan to spend less, down from 28% in 2025.",
    "published": "2026-10-29T11:00:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584523",
-   "title": "CPKC reports record revenue on strength of grain and intermodal traffic",
-   "url": "https://www.freightwaves.com/news/cpkc-reports-record-revenue-on-strength-of-grain-and-intermodal-traffic",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "CPKC reported stronger third-quarter operating income Wednesday, on record revenue and higher volumes. “Against a pretty dynamic backdrop , I’m pleased with what the team has delivered,” Chief Executive Keith Creel said on an earnings call after the close of markets.“We handled 6% more volume while…",
-   "published": "2026-10-29T10:03:00+00:00"
   }
  ]
 }
