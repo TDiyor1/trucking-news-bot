@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-02T20:00:34+00:00",
+ "updated": "2026-11-02T20:27:19+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/trucking-awaits-congress-2026",
+   "title": "Trucking awaits Congress’ next move on highway funds",
+   "url": "https://www.ttnews.com/articles/trucking-awaits-congress-2026",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "The $36.8 billion funding lapse affects road, safety and bridge projects across the country as states and localities try to plan ahead.",
+   "published": "2026-11-02T20:15:07+00:00"
+  },
   {
    "id": "https://www.dat.com/blog/?p=27707",
    "title": "Reefer Report: Rates firm as truck posts shrink",
@@ -1131,20 +1146,6 @@
    ],
    "excerpt": "Georgia Ports Authority leaders this week opened its $134 million Gainesville Inland Port Georgia Ports Authority leaders this week opened its $134 million Gainesville Inland Port , saying the new terminal will allow customers to choose rail for greater affordability and heavier loads, or choose…",
    "published": "2026-10-29T20:09:51+00:00"
-  },
-  {
-   "id": "https://www.dcvelocity.com/supply-chain/other-services/reverse-logistics/blue-yonder-46-of-people-who-shop-with-ai-have-returned-what-they-bought",
-   "title": "Blue Yonder: 46% of people who shop with AI have returned what they bought",
-   "url": "https://www.dcvelocity.com/supply-chain/other-services/reverse-logistics/blue-yonder-46-of-people-who-shop-with-ai-have-returned-what-they-bought",
-   "source": "DC Velocity",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Nearly half of Americans who use artificial intelligence to help them shop have later returned the AI-recommended item, a survey from supply chain software firm Blue Yonder has found. Online shoppers increasingly come in contact with an AI tool or assistant, such as a consumer chatbot.",
-   "published": "2026-10-29T20:07:51+00:00"
   }
  ]
 }
