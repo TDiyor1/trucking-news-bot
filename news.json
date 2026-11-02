@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-02T21:42:31+00:00",
+ "updated": "2026-11-02T22:00:34+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584843",
+   "title": "Waiting on EPA ‘27 rule, Rush says it might not be soon",
+   "url": "https://www.freightwaves.com/news/waiting-on-epa-27-rule-rush-says-it-might-not-be-soon",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "With the trucking sector anticipating the release of the final rule by the Environmental Protection Agency on nitrogen oxide (NoX) standards–known colloquially as EPA ‘27–and what engines need to do to get there, one of the country’s biggest truck retailers took the issue head on its recent…",
+   "published": "2026-11-02T21:24:00+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/trucking-awaits-congress-2026",
    "title": "Trucking awaits Congress’ next move on highway funds",
@@ -217,6 +231,21 @@
    "tags": [],
    "excerpt": "Higher truck weights could mean fewer trips, but who pays for the added wear on roads and bridges? Here’s where states are changing the rules.",
    "published": "2026-11-02T18:01:50+00:00"
+  },
+  {
+   "id": "https://www.logisticsmgmt.com/article/manufacturing_expansion_continues_for_10th_straight_month_in_october_amid_tariff_price_and_geopolitical_concerns_reports_ism",
+   "title": "Manufacturing expansion continues for 10th straight month in October amid tariff, price and geopolitical concerns, reports ISM",
+   "url": "https://www.logisticsmgmt.com/article/manufacturing_expansion_continues_for_10th_straight_month_in_october_amid_tariff_price_and_geopolitical_concerns_reports_ism",
+   "source": "Logistics Management",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "Manufacturing output remained on the right side of growth in October, according to the new edition of the Manufacturing Report on Business, which was issued today by the Institute of Supply Management (ISM). The report’s benchmark reading, the PMI, at 55.5 (a reading of 50 or above indicates…",
+   "published": "2026-11-02T17:24:00+00:00"
   },
   {
    "id": "https://www.ttnews.com/articles/stopped-trucks-carry-hidden-risk",
@@ -1119,34 +1148,6 @@
    ],
    "excerpt": "Covenant Logistics Group reported a 19.2% year-over-year increase in third-quarter revenue Thursday, driven by strong growth in its managed freight segment . The Chattanooga, Tennessee-based carrier (NYSE: CVLG ) generated $353.9 million in total revenue for the quarter ended Sept.",
    "published": "2026-10-29T21:15:36+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584609",
-   "title": "How transportation leaders are turning AI and connected data into a competitive edge",
-   "url": "https://www.freightwaves.com/news/how-transportation-leaders-are-turning-ai-and-connected-data-into-a-competitive-edge",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "AI is gaining ground in transportation, but are companies actually turning that potential into results? As supply chains face constant disruption, rising expectations and growing pressure to make faster decisions, the gap between adopting new technology and putting it to work is becoming harder to…",
-   "published": "2026-10-29T20:39:40+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16050523",
-   "title": "Roadway embedded safety system aims to increase carrier uptime & accelerate AV deployment",
-   "url": "https://www.ccjdigital.com/workforce/safety/article/16050523/inroad-safety-system-aims-to-prevent-crashes-enable-avs",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "An Ireland-based data infrastructure technology company that provides a roadway embedded safety platform for drivers and autonomous vehicles has entered the North American market with a Colorado-based U.S. business unit. Vectigo, a division of Dublin-based Vectigo Group Limited, is working with…",
-   "published": "2026-10-29T20:36:03+00:00"
   }
  ]
 }
