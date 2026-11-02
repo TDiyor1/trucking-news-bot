@@ -1,6 +1,34 @@
 {
- "updated": "2026-11-02T19:30:39+00:00",
+ "updated": "2026-11-02T19:57:22+00:00",
  "items": [
+  {
+   "id": "https://www.dat.com/blog/?p=27707",
+   "title": "Reefer Report: Rates firm as truck posts shrink",
+   "url": "https://www.dat.com/blog/reefer-report-rates-firm-as-truck-posts-shrink",
+   "source": "DAT iQ",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Diesel"
+   ],
+   "excerpt": "Reefer spot linehaul rates paid to carriers averaged $2.71 per mile last week, minus fuel, up 1.2%, or $0.03 per mile, from the week before. Rates climbed 31.2%, or $0.65 per mile, year over year and held 27.5%, or $0.58 per mile, above the nine-year seasonal average of $2.13 per mile, near the top…",
+   "published": "2026-11-02T19:56:11+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584827",
+   "title": "Amazon, retailers paid more for freight in 3Q",
+   "url": "https://www.freightwaves.com/news/amazon-retailers-paid-more-for-freight-in-3q",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [],
+   "excerpt": "Higher fuel and transportation expenses weighed on retailers’ supply chains during the third quarter, even as fulfillment improvements helped some companies contain costs. Early reports from Amazon, Tractor Supply and Carter’s point to an uneven environment heading into the holiday season, with…",
+   "published": "2026-11-02T19:30:09+00:00"
+  },
   {
    "id": "https://www.dat.com/blog/?p=27704",
    "title": "Flatbed Report: Tightest board gets tighter as truck posts fall 10%",
@@ -1117,36 +1145,6 @@
    ],
    "excerpt": "Nearly half of Americans who use artificial intelligence to help them shop have later returned the AI-recommended item, a survey from supply chain software firm Blue Yonder has found. Online shoppers increasingly come in contact with an AI tool or assistant, such as a consumer chatbot.",
    "published": "2026-10-29T20:07:51+00:00"
-  },
-  {
-   "id": "https://www.dcvelocity.com/finance-strategy/study-small-companies-struggle-to-pass-on-costs-of-fuel-and-tariffs-to-customers",
-   "title": "Study: small companies struggle to pass on costs of fuel and tariffs to customers",
-   "url": "https://www.dcvelocity.com/finance-strategy/study-small-companies-struggle-to-pass-on-costs-of-fuel-and-tariffs-to-customers",
-   "source": "DC Velocity",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "Tariff-exposed industries with significant fuel, freight, and industrial-energy requirements experienced the clearest pressure on profitability following tariff actions in 2025, even when their sales trends remained resilient, according to analysis by Abrigo , a provider of risk management and…",
-   "published": "2026-10-29T20:05:08+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/ports-west-coast-records",
-   "title": "Ports of Los Angeles and Long Beach set all-time records",
-   "url": "https://www.ttnews.com/articles/ports-west-coast-records",
-   "source": "Transport Topics",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Trucking companies serving the country’s major ports had to grapple with a national shift in volumes toward the West Coast in September.",
-   "published": "2026-10-29T19:55:00+00:00"
   }
  ]
 }
