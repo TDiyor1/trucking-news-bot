@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T16:27:00+00:00",
+ "updated": "2026-11-02T16:30:35+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/stopped-trucks-carry-hidden-risk",
@@ -14,6 +14,20 @@
    ],
    "excerpt": "A truck stopped on the highway shoulder is a hidden risk. KLLM Transport paired Fleetworthy Safety+ alerts with one rule: call every driver. Unauthorized stops fell to near zero.",
    "published": "2026-11-02T17:00:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584778",
+   "title": "TrashLab raises $12M to automate waste haulers’ back offices",
+   "url": "https://www.freightwaves.com/news/trashlab-raises-12m-ai-waste-haulers",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Nearly 80% of the waste haulers using TrashLab’s software now rely on its AI agent, Haul-E, to answer inbound calls and capture after-hours orders. On Thursday, TrashLab said it raised $12 million to build more agents like it. The money funds agents for dispatch, billing, and collections that would…",
+   "published": "2026-11-02T16:11:32+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=584781",
@@ -1132,22 +1146,6 @@
    ],
    "excerpt": "U.S. rail traffic increased 7.8% in the week ended Oct. 24 compared with the same week in 2025, as growth in intermodal shipments outpaced gains in carloads , Association of American Railroads data shows. Weekly intermodal volume, which includes containers and trailers, rose 11.3%, while carload…",
    "published": "2026-10-29T16:31:48+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/fed-holds-main-interest-rate-steady-accelerating-inflation-Warsh/873148/",
-   "title": "Fed holds main interest rate steady despite accelerating inflation",
-   "url": "https://www.truckingdive.com/news/fed-holds-main-interest-rate-steady-accelerating-inflation-Warsh/873148/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Two policymakers on the Federal Open Market Committee dissented in favor of raising the federal funds rate by 0.25 percentage point.",
-   "published": "2026-10-29T16:04:00+00:00"
   }
  ]
 }
