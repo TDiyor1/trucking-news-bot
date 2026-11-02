@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T14:30:32+00:00",
+ "updated": "2026-11-02T15:01:14+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/stopped-trucks-carry-hidden-risk",
@@ -14,6 +14,21 @@
    ],
    "excerpt": "A truck stopped on the highway shoulder is a hidden risk. KLLM Transport paired Fleetworthy Safety+ alerts with one rule: call every driver. Unauthorized stops fell to near zero.",
    "published": "2026-11-02T17:00:00+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/canada-carney-progress-trade",
+   "title": "Canada's Carney reports progress in trade talks with U.S.",
+   "url": "https://www.ttnews.com/articles/canada-carney-progress-trade",
+   "source": "Transport Topics",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "Canadian PM Mark Carney said the conversation built on recent discussions about the outlines of a deal that would create jobs, lower costs for families and protect Canada’s languages, culture and sovereignty.",
+   "published": "2026-11-02T14:02:40+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=584765",
@@ -1138,20 +1153,6 @@
    ],
    "excerpt": "Nine men allegedly connected to Mexico’s Sinaloa Cartel have been arrested in Southern California following a yearlong investigation into an organized cargo theft operation that targeted BNSF Railway trains and resulted in millions of dollars in stolen merchandise , authorities said.",
    "published": "2026-10-29T14:09:44+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16050399",
-   "title": "Diesel price pressures will linger into 2027, experts warn",
-   "url": "https://www.ccjdigital.com/business/outlook-and-benchmarking/article/16050399/diesel-price-pressures-will-linger-into-2027-experts-warn",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Motor carriers need to brace for prolonged diesel price volatility and elevated operating costs that stretch well into 2027, driven by refining constraints, geopolitical chokepoints and structural supply deficits, according to industry executives and analysts at the WEX OTR Summit in Ponte Vedra,…",
-   "published": "2026-10-29T13:47:22+00:00"
   }
  ]
 }
