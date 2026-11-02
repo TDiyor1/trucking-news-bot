@@ -1,6 +1,76 @@
 {
- "updated": "2026-11-02T18:00:39+00:00",
+ "updated": "2026-11-02T18:27:14+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584809",
+   "title": "Parcel shipping demand to increase 4% during holidays, ShipMatrix says",
+   "url": "https://www.freightwaves.com/news/parcel-shipping-demand-to-increase-4-during-holidays-shipmatrix-says",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [],
+   "excerpt": "Parcel carriers will deliver about 2.4 billion packages during the current peak shipping season, up 4% from the same period last year, despite high inflation, according to an estimate from ShipMatrix. The increase in parcel demand is aided by an extra shopping day this holiday season, said…",
+   "published": "2026-11-02T18:19:56+00:00"
+  },
+  {
+   "id": "https://www.dcvelocity.com/technology/artificial-intelligence/ifs-factory-floor-teams-are-pushing-ai-wins-but-management-lags",
+   "title": "IFS: Factory floor teams are pushing AI wins, but management lags",
+   "url": "https://www.dcvelocity.com/technology/artificial-intelligence/ifs-factory-floor-teams-are-pushing-ai-wins-but-management-lags",
+   "source": "DC Velocity",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "An enterprise business survey shows that operational workers are driving real-world AI implementation and delivering tangible, commercial value, but their bosses in the C-suite are lagging behind, according to “industrial AI” software vendor IFS. The research reveals a “significant divide” between…",
+   "published": "2026-11-02T18:11:24+00:00"
+  },
+  {
+   "id": "https://www.dcvelocity.com/logistics/manufacturing/foundry-robotics-raises-100-million-for-its-autonomous-factory",
+   "title": "Foundry Robotics raises $100 million for its autonomous factory",
+   "url": "https://www.dcvelocity.com/logistics/manufacturing/foundry-robotics-raises-100-million-for-its-autonomous-factory",
+   "source": "DC Velocity",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Capacity",
+    "Tech"
+   ],
+   "excerpt": "The California-based autonomous factory creator Foundry Robotics has raised $100 million of venture capital to expand its 130,000-square-foot facility in Emeryville, near San Francisco, adding fast, flexible domestic assembly capacity for defense and industrial hardware.",
+   "published": "2026-11-02T18:08:42+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104516",
+   "title": "Higher parts prices add another hit to truckers’ budgets",
+   "url": "https://landline.media/higher-parts-prices-add-another-hit-to-truckers-budgets/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Fixing your own truck won’t spare you. Find out what a new report says about parts prices and what could be coming next.",
+   "published": "2026-11-02T18:04:32+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104513",
+   "title": "Who pays when trucks get heavier?",
+   "url": "https://landline.media/who-pays-when-trucks-get-heavier/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Higher truck weights could mean fewer trips, but who pays for the added wear on roads and bridges? Here’s where states are changing the rules.",
+   "published": "2026-11-02T18:01:50+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/stopped-trucks-carry-hidden-risk",
    "title": "Stopped Trucks Carry Hidden Risk",
@@ -1075,80 +1145,6 @@
    ],
    "excerpt": "Container freight rates climbed on major Asia-Europe and trans-Pacific routes last week despite signs of cooling demand, as congestion and canceled sailings supported prices. Carriers’ accelerating return to the Red Sea is reshaping shipping schedules, analyst and SONAR data contributor Freightos…",
    "published": "2026-10-29T18:39:34+00:00"
-  },
-  {
-   "id": "https://joc.com/article/csx-service-slowly-returning-to-normal-after-it-outage-6313848",
-   "title": "CSX service slowly returning to normal after IT outage",
-   "url": "https://joc.com/article/csx-service-slowly-returning-to-normal-after-it-outage-6313848",
-   "source": "JOC",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "The problem that began Tuesday evening was largely resolved by Thursday morning, with most of CSX's core customer-facing applications back online, the railroad said.",
-   "published": "2026-10-29T18:17:32+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/knight-swift-contract-rates",
-   "title": "Knight-Swift CEO sees contract rates up mid-teens in 2027",
-   "url": "https://www.ttnews.com/articles/knight-swift-contract-rates",
-   "source": "Transport Topics",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "“When you look at the margin profile of the big truckers, it’s still not exceeding your weighted average cost of capital,\" said Knight-Swift Transportation CEO Adam Miller. \"And so we’re going to have to push that further.”",
-   "published": "2026-10-29T18:09:49+00:00"
-  },
-  {
-   "id": "https://www.dat.com/blog/?p=27698",
-   "title": "Reefer Produce Report: Produce rates run 27% to 51% above last year as California volume falls 8% and Texas jumps 16%",
-   "url": "https://www.dat.com/blog/reefer-produce-report-produce-rates-run-27-to-51-above-last-year-as-california-volume-falls-8-and-texas-jumps-16",
-   "source": "DAT iQ",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Tariffs"
-   ],
-   "excerpt": "National refrigerated produce volume rose 3% last week and fell 6% from a year earlier, led by a 16% gain in Mexico crossings through Texas and a 62% jump in the Imperial and Coachella section. California volume fell 8%, while Washington rose 3%. The rates in this report are USDA open-market (spot)…",
-   "published": "2026-10-29T17:51:05+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584572",
-   "title": "Fresno carrier DTL to run 75 Kodiak driverless trucks",
-   "url": "https://www.freightwaves.com/news/kodiak-dtl-75-driverless-trucks",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Kodiak AI signed a binding agreement Wednesday to put its autonomous driving system in 75 trucks owned and operated by DTL Transport, a Fresno, California, carrier that runs cross-country team loads for grocers. The deal moves Kodiak’s Driver-as-a-Service model from Permian Basin sand hauling onto…",
-   "published": "2026-10-29T17:42:39+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/odfl-earnings-q3-2026",
-   "title": "High fuel, health costs to dent ODFL’s OR in Q4",
-   "url": "https://www.ttnews.com/articles/odfl-earnings-q3-2026",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Higher fuel costs and employee health and dental benefits are set to hurt Old Dominion Freight Line’s industry-leading operating ratio in Q4 2026.",
-   "published": "2026-10-29T17:42:00+00:00"
   }
  ]
 }
