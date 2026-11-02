@@ -1,6 +1,53 @@
 {
- "updated": "2026-11-02T19:00:35+00:00",
+ "updated": "2026-11-02T19:27:20+00:00",
  "items": [
+  {
+   "id": "https://www.dat.com/blog/?p=27704",
+   "title": "Flatbed Report: Tightest board gets tighter as truck posts fall 10%",
+   "url": "https://www.dat.com/blog/flatbed-report-tightest-board-gets-tighter-as-truck-posts-fall-10",
+   "source": "DAT iQ",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Diesel"
+   ],
+   "excerpt": "Flatbed spot linehaul rates paid to carriers averaged $2.61 per mile last week, minus fuel, up 0.5%, or $0.01 per mile, from the week before. Rates climbed 28.6%, or $0.58 per mile, year over year and held 25.6%, or $0.53 per mile, above the nine-year seasonal average of $2.08 per mile, above the…",
+   "published": "2026-11-02T19:07:04+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104523",
+   "title": "Recent drop in oil prices sustainable?",
+   "url": "https://landline.media/recent-drop-in-oil-prices-sustainable/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Oil prices provided some promise, with prices declining as the U.S. and Iran continue peace talks. Will this trend continue?",
+   "published": "2026-11-02T19:03:07+00:00"
+  },
+  {
+   "id": "https://www.dat.com/blog/?p=27701",
+   "title": "Dry Van Report: Spot rates climb as month-end freight meets shrinking capacity",
+   "url": "https://www.dat.com/blog/dry-van-report-spot-rates-climb-as-month-end-freight-meets-shrinking-capacity",
+   "source": "DAT iQ",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Diesel",
+    "Capacity"
+   ],
+   "excerpt": "Dry van spot linehaul rates paid to carriers averaged $2.23 per mile last week, minus fuel, up 1.3%, or $0.03 per mile, from the week before. Rates climbed 32.6%, or $0.55 per mile, year over year and held 22.9%, or $0.42 per mile, above the nine-year seasonal average of $1.81 per mile, in the…",
+   "published": "2026-11-02T19:01:20+00:00"
+  },
   {
    "id": "https://landline.media/?p=104520",
    "title": "DOT clearing path for driverless vehicles",
@@ -14,6 +61,20 @@
    ],
    "excerpt": "FMCSA recently granted driverless trucks an exemption. Now, NHTSA has proposed a broader rule for driverless vehicles.",
    "published": "2026-11-02T18:59:20+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/16274642",
+   "title": "Schneider sets sights on being cornerstone in historic proposed rail merger",
+   "url": "https://www.ccjdigital.com/ccj-top-250/article/16274642/schneider-norfolk-southern-partner-for-eastern-intermodal-expansion",
+   "source": "CCJ",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Schneider National ( CCJ Top 250 , No. 6) and Norfolk Southern Corporation have announced a strategic partnership that combines Schneider’s asset-based intermodal services with Norfolk Southern’s 22-state rail network. Effective Jan. 1, the agreement—the financial terms of which were not…",
+   "published": "2026-11-02T18:56:44+00:00"
   },
   {
    "id": "https://www.ccjdigital.com/16274677",
@@ -1086,63 +1147,6 @@
    ],
    "excerpt": "Trucking companies serving the country’s major ports had to grapple with a national shift in volumes toward the West Coast in September.",
    "published": "2026-10-29T19:55:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584594",
-   "title": "FedEx cashes in on premium logistics services, fuel surcharges",
-   "url": "https://www.freightwaves.com/news/fedex-cashes-in-on-premium-logistics-services-fuel-surcharges",
-   "source": "FreightWaves",
-   "audience": [
-    "Broker"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "FedEx Corp. delivered strong third quarter results driven by higher volumes and pricing for premium B2B and B2C shipping services, but bullishness for peak holiday season demand was tempered by expectations for lower domestic margins amid a rise in transitory labor and outsourced trucking costs…",
-   "published": "2026-10-29T19:49:41+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584590",
-   "title": "Saia’s expanded terminal network delivers record revenue, tonnage",
-   "url": "https://www.freightwaves.com/news/saias-expanded-terminal-network-delivers-record-revenue-tonnage",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Less-than-truckload carrier Saia continued to see outsized volume growth in the third quarter as it leveraged an expanded terminal network. The period delivered record revenue and tonnage for the company, with its focus now centered on improving operating results at the new locations.",
-   "published": "2026-10-29T19:36:42+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104488",
-   "title": "Aurora ramping up its driverless truck production",
-   "url": "https://landline.media/aurora-ramping-up-its-driverless-truck-production/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation",
-    "Tech"
-   ],
-   "excerpt": "The Truck Safety Coalition told FMCSA that granting Aurora’s exemption would be “regulatory malpractice.” Now, Aurora plans to expand rapidly.",
-   "published": "2026-10-29T19:06:00+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104485",
-   "title": "Cab full of empties lands trucker in jail",
-   "url": "https://landline.media/cab-full-of-empties-lands-trucker-in-jail/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "A trucker in New Hampshire was recently arrested and charged with DUI. What police found in his cab was shockingly dumb.",
-   "published": "2026-10-29T18:55:49+00:00"
   }
  ]
 }
