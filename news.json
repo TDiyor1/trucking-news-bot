@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T12:00:37+00:00",
+ "updated": "2026-11-02T12:30:32+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/stopped-trucks-carry-hidden-risk",
@@ -14,6 +14,21 @@
    ],
    "excerpt": "A truck stopped on the highway shoulder is a hidden risk. KLLM Transport paired Fleetworthy Safety+ alerts with one rule: call every driver. Unauthorized stops fell to near zero.",
    "published": "2026-11-02T17:00:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584672",
+   "title": "Flexport volumes up 40% as headcount grows only 5%",
+   "url": "https://www.freightwaves.com/news/flexport-volumes-up-40-ai-headcount",
+   "source": "FreightWaves",
+   "audience": [
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs",
+    "Tech"
+   ],
+   "excerpt": "Flexport’s freight volumes are up 40% from a year ago while its headcount has grown 5%, founder and CEO Ryan Petersen told FreightWaves. He credits the gap to artificial intelligence tools the company now runs across customs, routing and its own engineering teams.",
+   "published": "2026-11-02T12:00:00+00:00"
   },
   {
    "id": "https://theloadstar.com/?p=327703",
@@ -1138,21 +1153,6 @@
    ],
    "excerpt": "A fictitious warehouse pickup involving approximately $500,000 in SIG Sauer products led to two arrests in Southern California. The shipment contained firearm parts and accessories from SIG Sauer, a major manufacturer supplying civilian, law enforcement and military markets.",
    "published": "2026-10-29T12:20:34+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/trump-opts-for-trade-talks-over-tariffs-for-robotics-industrial-machinery/873166/",
-   "title": "Trump opts for trade talks over tariffs for robotics, industrial machinery",
-   "url": "https://www.supplychaindive.com/news/trump-opts-for-trade-talks-over-tariffs-for-robotics-industrial-machinery/873166/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "For the second time this month, the president directed cabinet officials to negotiate over imports deemed a threat to U.S. commerce and security by a Section 232 probe.",
-   "published": "2026-10-29T12:14:00+00:00"
   }
  ]
 }
