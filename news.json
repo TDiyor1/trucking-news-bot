@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T20:27:19+00:00",
+ "updated": "2026-11-02T20:30:31+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/trucking-awaits-congress-2026",
@@ -15,6 +15,21 @@
    ],
    "excerpt": "The $36.8 billion funding lapse affects road, safety and bridge projects across the country as states and localities try to plan ahead.",
    "published": "2026-11-02T20:15:07+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584833",
+   "title": "SONAR SCI: Custom Insights Now Includes Conversion Optimization: Shows Shippers Where to Switch Modes and What They Can Save",
+   "url": "https://www.freightwaves.com/news/sonar-sci-custom-insights-now-includes-conversion-optimization-shows-shippers-where-to-switch-modes-and-what-they-can-save",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Rates",
+    "Ports/Rail"
+   ],
+   "excerpt": "The newest module in Supply Chain Intelligence: Custom Insights uses a shipper’s own freight data to flag lanes that could move from truckload to intermodal, or between spot and contract, and estimates the savings lane by lane. SONAR has added mode conversion optimization to SCI: Custom Insights,…",
+   "published": "2026-11-02T20:14:17+00:00"
   },
   {
    "id": "https://www.dat.com/blog/?p=27707",
@@ -1132,20 +1147,6 @@
    ],
    "excerpt": "An Ireland-based data infrastructure technology company that provides a roadway embedded safety platform for drivers and autonomous vehicles has entered the North American market with a Colorado-based U.S. business unit. Vectigo, a division of Dublin-based Vectigo Group Limited, is working with…",
    "published": "2026-10-29T20:36:03+00:00"
-  },
-  {
-   "id": "https://www.dcvelocity.com/transportation/rail/georgia-ports-authority-opens-134-million-gainesville-inland-port",
-   "title": "Georgia Ports Authority opens $134 million Gainesville Inland Port",
-   "url": "https://www.dcvelocity.com/transportation/rail/georgia-ports-authority-opens-134-million-gainesville-inland-port",
-   "source": "DC Velocity",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Georgia Ports Authority leaders this week opened its $134 million Gainesville Inland Port Georgia Ports Authority leaders this week opened its $134 million Gainesville Inland Port , saying the new terminal will allow customers to choose rail for greater affordability and heavier loads, or choose…",
-   "published": "2026-10-29T20:09:51+00:00"
   }
  ]
 }
