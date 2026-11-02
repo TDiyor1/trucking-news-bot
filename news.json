@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-02T18:30:29+00:00",
+ "updated": "2026-11-02T18:57:12+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16274677",
+   "title": "What your telematics data can say about you in court",
+   "url": "https://www.ccjdigital.com/technology/telematics/article/16274677/telematics-trucking-litigation-legal-risks-and-defense-strategies",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "After a serious crash involving a commercial truck, the plaintiff’s attorney will almost certainly ask for the carrier’s telematics data , and the request often reaches well past the minutes before impact. It may include driver safety scores, months of alert data, and notifications sent to…",
+   "published": "2026-11-02T18:34:14+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584809",
    "title": "Parcel shipping demand to increase 4% during holidays, ShipMatrix says",
@@ -1129,22 +1143,6 @@
    ],
    "excerpt": "Several federal orders have been issued, but the relief desperately needed from record fuel costs is yet to surface.",
    "published": "2026-10-29T18:52:23+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584581",
-   "title": "Why container rates are climbing despite cooling demand",
-   "url": "https://www.freightwaves.com/news/why-container-rates-are-climbing-despite-cooling-demand",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Rates",
-    "Ports/Rail"
-   ],
-   "excerpt": "Container freight rates climbed on major Asia-Europe and trans-Pacific routes last week despite signs of cooling demand, as congestion and canceled sailings supported prices. Carriers’ accelerating return to the Red Sea is reshaping shipping schedules, analyst and SONAR data contributor Freightos…",
-   "published": "2026-10-29T18:39:34+00:00"
   }
  ]
 }
