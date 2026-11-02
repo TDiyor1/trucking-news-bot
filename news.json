@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-02T18:57:12+00:00",
+ "updated": "2026-11-02T19:00:35+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104520",
+   "title": "DOT clearing path for driverless vehicles",
+   "url": "https://landline.media/dot-clearing-path-for-driverless-vehicles/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "FMCSA recently granted driverless trucks an exemption. Now, NHTSA has proposed a broader rule for driverless vehicles.",
+   "published": "2026-11-02T18:59:20+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16274677",
    "title": "What your telematics data can say about you in court",
@@ -1129,20 +1143,6 @@
    "tags": [],
    "excerpt": "A trucker in New Hampshire was recently arrested and charged with DUI. What police found in his cab was shockingly dumb.",
    "published": "2026-10-29T18:55:49+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104481",
-   "title": "Another proposal to address fuel costs. How much will this one help?",
-   "url": "https://landline.media/another-proposal-to-address-fuel-costs-how-much-will-this-one-help/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Several federal orders have been issued, but the relief desperately needed from record fuel costs is yet to surface.",
-   "published": "2026-10-29T18:52:23+00:00"
   }
  ]
 }
