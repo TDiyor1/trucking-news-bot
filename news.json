@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T16:00:34+00:00",
+ "updated": "2026-11-02T16:27:00+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/stopped-trucks-carry-hidden-risk",
@@ -14,6 +14,20 @@
    ],
    "excerpt": "A truck stopped on the highway shoulder is a hidden risk. KLLM Transport paired Fleetworthy Safety+ alerts with one rule: call every driver. Unauthorized stops fell to near zero.",
    "published": "2026-11-02T17:00:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584781",
+   "title": "Mexico destroys 52 tons of avocados after pest discovery raises export concerns",
+   "url": "https://www.freightwaves.com/news/mexico-destroys-52-tons-of-avocados-after-pest-discovery-raises-export-concerns",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "Mexican avocado producers have destroyed up to 52 tons of fruit after authorities detected a destructive agricultural pest in shipments intended for international export to the U.S. and other destinations. The seed weevil pest raises concerns about potential disruptions to U.S.-Mexico avocado…",
+   "published": "2026-11-02T16:04:02+00:00"
   },
   {
    "id": "https://www.truckingdive.com/news/norfolk-southern-schneider-national-team-to-scale-east-coast-intermodal-re/873442/",
@@ -1134,21 +1148,6 @@
    ],
    "excerpt": "Two policymakers on the Federal Open Market Committee dissented in favor of raising the federal funds rate by 0.25 percentage point.",
    "published": "2026-10-29T16:04:00+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/fedex-drawing-parcel-focused-shippers-to-its-air-freight-services/873182/",
-   "title": "FedEx drawing parcel-focused shippers to its air freight services",
-   "url": "https://www.supplychaindive.com/news/fedex-drawing-parcel-focused-shippers-to-its-air-freight-services/873182/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Air freight demand from traditionally parcel-centric customers is rising as the carrier pushes for more business in high-value segments like AI and data centers.",
-   "published": "2026-10-29T15:36:00+00:00"
   }
  ]
 }
