@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T15:30:34+00:00",
+ "updated": "2026-11-02T15:57:10+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/stopped-trucks-carry-hidden-risk",
@@ -14,6 +14,34 @@
    ],
    "excerpt": "A truck stopped on the highway shoulder is a hidden risk. KLLM Transport paired Fleetworthy Safety+ alerts with one rule: call every driver. Unauthorized stops fell to near zero.",
    "published": "2026-11-02T17:00:00+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/norfolk-southern-schneider-national-team-to-scale-east-coast-intermodal-re/873442/",
+   "title": "Norfolk Southern, Schneider National team to scale East Coast intermodal reach",
+   "url": "https://www.truckingdive.com/news/norfolk-southern-schneider-national-team-to-scale-east-coast-intermodal-re/873442/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The railroad’s potential merger with Union Pacific is “the icing on the cake” of the partnership, Schneider CEO Jim Filter said.",
+   "published": "2026-11-02T15:40:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584771",
+   "title": "Boeing secures lessor order for 767 passenger-to-freighter conversion",
+   "url": "https://www.freightwaves.com/news/boeing-secures-lessor-order-for-767-passenger-to-freighter-conversion",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Boeing will convert a 767-300 passenger jet into a freighter for Icelease, which also took options for up to two more conversions, as the leasing company continues to grow its freighter portfolio, the companies announced on Monday. The first aircraft is scheduled to take its production slot in the…",
+   "published": "2026-11-02T15:30:16+00:00"
   },
   {
    "id": "https://www.supplychaindive.com/news/norfolk-southern-schneider-national-team-to-scale-east-coast-intermodal-re/873340/",
@@ -1121,36 +1149,6 @@
    ],
    "excerpt": "Air freight demand from traditionally parcel-centric customers is rising as the carrier pushes for more business in high-value segments like AI and data centers.",
    "published": "2026-10-29T15:36:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16050423",
-   "title": "Group suing New York DMV for access to CDL data",
-   "url": "https://www.ccjdigital.com/regulations/safety-compliance/article/16050423/ny-dmv-sued-over-withheld-cdl-data-for-foreign-nationals",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "A prominent public interest group has launched a fresh legal battle against the New York State Department of Motor Vehicles, accusing the agency of engaging in a \"master class in evasion\" after it withheld public records regarding commercial driver's licenses and foreign nationals.",
-   "published": "2026-10-29T14:43:50+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/fed-holds-main-interest-rate-steady-despite-accelerating-inflation/873147/",
-   "title": "Fed holds main interest rate steady despite accelerating inflation",
-   "url": "https://www.supplychaindive.com/news/fed-holds-main-interest-rate-steady-despite-accelerating-inflation/873147/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Two policymakers on the Federal Open Market Committee dissented in favor of raising the federal funds rate by 0.25 percentage point.",
-   "published": "2026-10-29T14:20:00+00:00"
   }
  ]
 }
