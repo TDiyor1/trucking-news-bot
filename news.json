@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T10:00:33+00:00",
+ "updated": "2026-11-02T10:30:32+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/stopped-trucks-carry-hidden-risk",
@@ -14,6 +14,20 @@
    ],
    "excerpt": "A truck stopped on the highway shoulder is a hidden risk. KLLM Transport paired Fleetworthy Safety+ alerts with one rule: call every driver. Unauthorized stops fell to near zero.",
    "published": "2026-11-02T17:00:00+00:00"
+  },
+  {
+   "id": "https://www.supplychaindive.com/spons/why-more-inventory-wont-fix-your-supply-chains-fill-rate/873053/",
+   "title": "Why more inventory won’t fix your supply chain’s fill rate",
+   "url": "https://www.supplychaindive.com/spons/why-more-inventory-wont-fix-your-supply-chains-fill-rate/873053/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "Record inventory but still missing fill rate targets? The problem isn't supply or forecasting; it's your supply chain decision layer. Here's how to fix it.",
+   "published": "2026-11-02T10:00:00+00:00"
   },
   {
    "id": "https://www.ccjdigital.com/16125269",
@@ -1139,18 +1153,6 @@
    ],
    "excerpt": "Autonomous trucking company Aurora Innovation expects to fall short of its production target for this year but said it’s on track to recover for 2027.",
    "published": "2026-10-29T12:00:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584423",
-   "title": "43% of shoppers plan to spend more this peak, Kenco finds",
-   "url": "https://www.freightwaves.com/news/kenco-survey-shoppers-plan-more-peak-spending",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [],
-   "excerpt": "Kenco’s 2026 Peak Season Consumer Report found that 43% of the North American consumers it surveyed plan to spend more this peak season. That’s more than double the 20% who said so a year earlier. Another 39% expect to spend about the same, and 18% plan to spend less, down from 28% in 2025.",
-   "published": "2026-10-29T11:00:00+00:00"
   }
  ]
 }
