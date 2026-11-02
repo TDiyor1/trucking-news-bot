@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T14:00:36+00:00",
+ "updated": "2026-11-02T14:30:32+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/stopped-trucks-carry-hidden-risk",
@@ -14,6 +14,20 @@
    ],
    "excerpt": "A truck stopped on the highway shoulder is a hidden risk. KLLM Transport paired Fleetworthy Safety+ alerts with one rule: call every driver. Unauthorized stops fell to near zero.",
    "published": "2026-11-02T17:00:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584765",
+   "title": "Strike at busiest US port just days away as talks continue",
+   "url": "https://www.freightwaves.com/news/strike-at-busiest-us-port-just-days-away-as-talks-continue",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The Pacific Maritime Association and International Longshore and Warehouse Union Local 26 have signed a contract extension through 5 p.m. Pacific Time on Wednesday, Nov. 4, temporarily postponing a potential work stoppage at the ports of Los Angeles and Long Beach while negotiations continue.",
+   "published": "2026-11-02T13:48:55+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=584672",
@@ -1138,21 +1152,6 @@
    ],
    "excerpt": "Motor carriers need to brace for prolonged diesel price volatility and elevated operating costs that stretch well into 2027, driven by refining constraints, geopolitical chokepoints and structural supply deficits, according to industry executives and analysts at the WEX OTR Summit in Ponte Vedra,…",
    "published": "2026-10-29T13:47:22+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584457",
-   "title": "$500,000 SIG Sauer shipment stolen in fictitious pickup, two arrested in California",
-   "url": "https://www.freightwaves.com/news/500000-sig-sauer-shipment-stolen-in-fictitious-pickup-two-arrested-in-california",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Fraud"
-   ],
-   "excerpt": "A fictitious warehouse pickup involving approximately $500,000 in SIG Sauer products led to two arrests in Southern California. The shipment contained firearm parts and accessories from SIG Sauer, a major manufacturer supplying civilian, law enforcement and military markets.",
-   "published": "2026-10-29T12:20:34+00:00"
   }
  ]
 }

@@ -1,4 +1,19 @@
 {
  "last_digest": "2026-11-02",
- "queue": []
+ "queue": [
+  {
+   "id": "https://www.freightwaves.com/?p=584765",
+   "title": "Strike at busiest US port just days away as talks continue",
+   "url": "https://www.freightwaves.com/news/strike-at-busiest-us-port-just-days-away-as-talks-continue",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The Pacific Maritime Association and International Longshore and Warehouse Union Local 26 have signed a contract extension through 5 p.m. Pacific Time on Wednesday, Nov. 4, temporarily postponing a potential work stoppage at the ports of Los Angeles and Long Beach while negotiations continue.",
+   "published": "2026-11-02T13:48:55+00:00"
+  }
+ ]
 }
