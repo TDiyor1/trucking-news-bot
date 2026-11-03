@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-03T22:19:11+00:00",
+ "updated": "2026-11-03T22:30:30+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584931",
+   "title": "First look: GXO Logistics Q3 revenue hits $3.6B",
+   "url": "https://www.freightwaves.com/news/first-look-gxo-logistics-q3-revenue-hits-3-6b",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "GXO Logistics reported third-quarter revenue of $3.59 billion, a 5.7% increase from a year earlier, as the global contract logistics provider secured more new business and expanded its sales pipeline to record levels. The Greenwich, Connecticut-based company (NYSE: GXO ) said Tuesday that organic…",
+   "published": "2026-11-03T22:11:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584924",
    "title": "Walmart in $6B Symbiotic deal to automate warehouses",
@@ -1131,20 +1145,6 @@
    "tags": [],
    "excerpt": "The industry's recent turnaround is unlike anything seen before, ATA's Bob Costello said, as demand growth is limited to a few key sectors.",
    "published": "2026-10-30T20:52:00+00:00"
-  },
-  {
-   "id": "https://joc.com/article/fedex-freight-shipments-drop-but-fuel-rates-boost-revenue-6315364",
-   "title": "FedEx Freight shipments drop but fuel, rates boost revenue",
-   "url": "https://joc.com/article/fedex-freight-shipments-drop-but-fuel-rates-boost-revenue-6315364",
-   "source": "JOC",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "The largest US less-than-truckload carrier said shipments decreased 1.4% year over year for the four months through September, but it expects to gain business in new verticals.",
-   "published": "2026-10-30T19:59:16+00:00"
   }
  ]
 }
