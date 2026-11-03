@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-03T14:40:34+00:00",
+ "updated": "2026-11-03T15:01:07+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16349405",
+   "title": "How strong is your company’s digital front door?",
+   "url": "https://www.ccjdigital.com/technology/cybersecurity/article/16349405/why-your-company-website-is-a-cybersecurity-risk",
+   "source": "CCJ",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "When was the last time you thought about your company website, if you thought about it at all? What is its purpose? Who is the audience? And who keeps it running and its information current? Is it the IT team? The marketing department? An administrative assistant who inherited the job years ago?",
+   "published": "2026-11-03T14:42:42+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584861",
    "title": "New survey finds AI rush isn’t boosting ports earnings",
@@ -1133,23 +1147,6 @@
    ],
    "excerpt": "While members’ views on issues vary, all carriers seek a “competitive, and ultimately sustainable trucking industry,” according to outgoing chairman Greg Hodgen.",
    "published": "2026-10-30T13:19:00+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=327593",
-   "title": "Carriers’ November rate hikes ‘doomed’ say analysts, as demand goes flat",
-   "url": "https://theloadstar.com/carriers-november-rate-hikes-doomed-say-analysts-as-demand-goes-flat/",
-   "source": "The Loadstar",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Ports/Rail"
-   ],
-   "excerpt": "Container spot freight rates on the transpacific eastbound trade, as recorded by Drewry, saw its steepest one-week fall since June 2025 after this year’s protracted peak season came to an end. Drewry’s World Container Index (WCI) saw the spot rate on its Shanghai-Los Angeles decline 6% week on…",
-   "published": "2026-10-30T13:17:00+00:00"
   }
  ]
 }
