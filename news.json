@@ -1,6 +1,35 @@
 {
- "updated": "2026-11-03T12:30:33+00:00",
+ "updated": "2026-11-03T13:00:37+00:00",
  "items": [
+  {
+   "id": "https://theloadstar.com/?p=327814",
+   "title": "Upswing in domestic demand gives railfreight operators a revenue boost",
+   "url": "https://theloadstar.com/upswing-in-domestic-demand-gives-railfreight-operators-a-revenue-boost/",
+   "source": "The Loadstar",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Union Pacific led the way on the North American containerised rail freight front over the three months to October, amid all the noise surrounding its pending acquisition of Norfolk Southern – but it was not alone in enjoying a bountiful summer. In general, North American intermodal operators…",
+   "published": "2026-11-03T12:48:37+00:00"
+  },
+  {
+   "id": "https://theloadstar.com/?p=327802",
+   "title": "Vote opens on controversial Port of LA workforce disclosure rules",
+   "url": "https://theloadstar.com/vote-opens-on-controversial-port-of-la-workforce-disclosure-rules/",
+   "source": "The Loadstar",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Californians head for the polls today to decide on Charter Amendment PRT – a package of changes affecting Los Angeles’s airports, harbour, and Department of Water and Power, including new workforce disclosure requirements for leases at the port. The measure would require applicants for certain new…",
+   "published": "2026-11-03T12:31:31+00:00"
+  },
   {
    "id": "https://theloadstar.com/?p=327796",
    "title": "Ecommerce growth leaves Latin America’s air cargo imbalance unresolved",
@@ -1121,35 +1150,6 @@
    ],
    "excerpt": "Artificial intelligence has turbocharged financial fraud, lowering technical barriers and fueled a 200% year-over-year surge in account-takeover (ATO) cases, according to William Fitzgerald, vice president of anti-financial crimes at WEX. Speaking at the WEX OTR Summit in Ponte Vedra, Fla., this…",
    "published": "2026-10-30T12:09:23+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584665",
-   "title": "New Georgia hub aims to take 26,000 containers off the road",
-   "url": "https://www.freightwaves.com/news/new-georgia-hub-aims-to-take-26000-containers-off-the-road",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Gov. Brian Kemp and Georgia Ports Authority officials celebrated the grand opening of the $134 million Gainesville Inland Port on Thursday, marking a new connection between Northeast Georgia’s manufacturing economy and international markets through the Port of Savannah.",
-   "published": "2026-10-30T11:20:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584595",
-   "title": "Venti brings driverless yard trucks to US yards",
-   "url": "https://www.freightwaves.com/news/venti-driverless-trucks-us-yards",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Venti Technologies’ driverless container trucks have worked PSA’s port in Singapore for nearly three years. Traffic there runs in one big loop, so the trucks never had to back up. U.S. rail yards are less forgiving. Venti says a Class I intermodal railroad plans to run more than 130 Venti trucks…",
-   "published": "2026-10-30T11:00:00+00:00"
   }
  ]
 }
