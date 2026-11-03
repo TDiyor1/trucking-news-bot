@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T17:00:39+00:00",
+ "updated": "2026-11-03T17:00:57+00:00",
  "items": [
   {
    "id": "https://www.supplychaindive.com/news/trump-sparked-growth-widened-trade-deficit-slowed-hiring-iw/873576/",
@@ -15,20 +15,6 @@
    ],
    "excerpt": "President Donald Trump’s sweeping tariffs and efforts to boost foreign direct investment have fallen short of their objectives, per the German Economic Institute.",
    "published": "2026-11-03T16:37:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584871",
-   "title": "US targets alleged labor violations at 2 Mexican factories",
-   "url": "https://www.freightwaves.com/news/us-targets-alleged-labor-violations-at-2-mexican-factories",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "The U.S. has launched a labor rights investigation into a Mexican packaging manufacturer and announced a separate agreement to address labor rights concerns at an ammunition factory. The two cases highlight continued enforcement of worker protections under the United States-Mexico-Canada Agreement…",
-   "published": "2026-11-03T16:35:57+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=584868",
@@ -1146,6 +1132,20 @@
    ],
    "excerpt": "Less-than-truckload carrier Saia said performance improved at terminals added during its recent phase of expansion.",
    "published": "2026-10-30T14:30:00+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/more-states-non-domiciled",
+   "title": "More states halt non-domiciled CDL programs",
+   "url": "https://www.ttnews.com/articles/more-states-non-domiciled",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "Louisiana and Wyoming have ceased issuing non-domiciled commercial driver licenses, while Ohio is ending its program and downgrading credentials.",
+   "published": "2026-10-30T14:24:10+00:00"
   }
  ]
 }
