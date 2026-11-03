@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-03T02:30:26+00:00",
+ "updated": "2026-11-03T03:00:44+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584856",
+   "title": "230-plus immigrants arrested in crackdown targeting unauthorized CDL holders",
+   "url": "https://www.freightwaves.com/news/230-plus-immigrants-arrested-in-crackdown-targeting-unauthorized-cdl-holders",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation",
+    "Tariffs"
+   ],
+   "excerpt": "Federal and state law enforcement agencies arrested more than 230 undocumented immigrants, including more than 40 commercial driver’s license holders, during a 72-hour enforcement operation spanning 15 states. The operation, dubbed Operation Guardian , was conducted Oct. 26-28 by U.S.",
+   "published": "2026-11-03T02:49:17+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584849",
    "title": "Pamt Corp. sees Q3 net loss, books 109.1% truckload OR",
@@ -1135,21 +1150,6 @@
    ],
    "excerpt": "TFI International has tried to get investors to take notice of its Truckload operations, which are substantial but smaller than its more better-known LTL segment. The third quarter results may be the catalyst that gets that recognition to occur. Where the third quarter LTL segment at TFI (NYSE:…",
    "published": "2026-10-29T21:38:24+00:00"
-  },
-  {
-   "id": "https://joc.com/article/schneider-switching-east-coast-partner-to-norfolk-southern-6313927",
-   "title": "Schneider switching East Coast partner to Norfolk Southern",
-   "url": "https://joc.com/article/schneider-switching-east-coast-partner-to-norfolk-southern-6313927",
-   "source": "JOC",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "The change comes as Schneider is now publicly supporting the $85 billion UP-NS merger after previously taking no position on the deal.",
-   "published": "2026-10-29T21:26:15+00:00"
   }
  ]
 }
