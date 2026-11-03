@@ -1,4 +1,22 @@
 {
  "last_digest": "2026-11-03",
- "queue": []
+ "queue": [
+  {
+   "id": "https://www.freightwaves.com/?p=584861",
+   "title": "New survey finds AI rush isn’t boosting ports earnings",
+   "url": "https://www.freightwaves.com/news/new-survey-finds-ai-rush-isnt-boosting-ports-earnings",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tech",
+    "Ports/Rail"
+   ],
+   "excerpt": "A new survey of 103 industry experts has found that artificial intelligence is moving beyond trials in container ports and terminals, but measurable financial returns remain scarce. While 44% of respondents said their organizations had reached the scaling stage or beyond, Boston Consulting Group…",
+   "published": "2026-11-03T14:09:39+00:00"
+  }
+ ]
 }

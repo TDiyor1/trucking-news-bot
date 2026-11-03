@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-03T14:30:56+00:00",
+ "updated": "2026-11-03T14:40:34+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584861",
+   "title": "New survey finds AI rush isn’t boosting ports earnings",
+   "url": "https://www.freightwaves.com/news/new-survey-finds-ai-rush-isnt-boosting-ports-earnings",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tech",
+    "Ports/Rail"
+   ],
+   "excerpt": "A new survey of 103 industry experts has found that artificial intelligence is moving beyond trials in container ports and terminals, but measurable financial returns remain scarce. While 44% of respondents said their organizations had reached the scaling stage or beyond, Boston Consulting Group…",
+   "published": "2026-11-03T14:09:39+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/oil-prices-us-attacks-iran",
    "title": "Oil prices rebound after U.S. attacks Iran",
@@ -1133,20 +1150,6 @@
    ],
    "excerpt": "Container spot freight rates on the transpacific eastbound trade, as recorded by Drewry, saw its steepest one-week fall since June 2025 after this year’s protracted peak season came to an end. Drewry’s World Container Index (WCI) saw the spot rate on its Shanghai-Los Angeles decline 6% week on…",
    "published": "2026-10-30T13:17:00+00:00"
-  },
-  {
-   "id": "https://www.freightcaviar.com/stories/eld-fraud-live-on-camera-fmcsa-investigation",
-   "title": "🎣 FMCSA Watched It Happen",
-   "url": "https://www.freightcaviar.com/stories/eld-fraud-live-on-camera-fmcsa-investigation",
-   "source": "Freight Caviar",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "A truck driver reset his electronic driving logs in just 10 minutes while federal and state investigators watched.",
-   "published": "2026-10-30T13:00:00+00:00"
   }
  ]
 }
