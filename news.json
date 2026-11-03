@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-03T17:31:08+00:00",
+ "updated": "2026-11-03T18:00:40+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584884",
+   "title": "Holiday inventory surge supportive of double-digit-plus TL contract rates",
+   "url": "https://www.freightwaves.com/news/holiday-inventory-surge-supportive-of-double-digit-plus-tl-contract-rates",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Rates",
+    "Capacity"
+   ],
+   "excerpt": "An October survey of supply chain executives confirmed what truckload carriers said on recent quarterly calls—that rates are likely to remain on the rise for the foreseeable future. The Logistics Managers’ Index, released Tuesday, showed further capacity declines alongside surging pricing.",
+   "published": "2026-11-03T17:34:45+00:00"
+  },
   {
    "id": "https://joc.com/article/tfi-looks-to-build-non-union-us-ltl-network-beyond-tforce-freight-6317048",
    "title": "TFI looks to build non-union US LTL network beyond TForce Freight",
@@ -16,6 +32,20 @@
    ],
    "excerpt": "The plan, revealed by TFI CEO Alain Bédard, is to build an asset-light less-than-truckload network using contractors while its unionized subsidiary TForce regroups under new management.",
    "published": "2026-11-03T17:22:14+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584880",
+   "title": "Benchmark diesel price is down; so is futures market in a big way",
+   "url": "https://www.freightwaves.com/news/benchmark-diesel-price-is-down-so-is-futures-market-in-a-big-way",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "The benchmark price used for most fuel surcharges fell this week, but the focus in oil markets is on the huge decline in futures market prices recorded Monday. The Department of Energy/Energy Information Administration average weekly retail diesel price fell to $6.292/gallon, a decline of 6 cts/g,…",
+   "published": "2026-11-03T17:13:17+00:00"
   },
   {
    "id": "https://www.ttnews.com/articles/schneider-norfolk-southern-deal",
@@ -1117,35 +1147,6 @@
    ],
    "excerpt": "U.S. shippers continue to pay more to move freight even as shipment volumes remain largely unchanged, according to the latest U.S. Bank Freight Payment Index. Third-quarter shipper spending surged 32.1% from a year ago, marking the largest annual increase since 2021, primarily driven by tightened…",
    "published": "2026-10-30T16:22:06+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/schneider-earnings-q3-2026",
-   "title": "Schneider CEO Filter hopeful over supply-driven upcycle",
-   "url": "https://www.ttnews.com/articles/schneider-earnings-q3-2026",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Capacity"
-   ],
-   "excerpt": "Schneider CEO Jim Filter is optimistic capacity corrections will further drive trucking into a freight market upcycle.",
-   "published": "2026-10-30T16:00:00+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/fedex-freight-q3-shipments-dip-slightly-following-spinoff/873256/",
-   "title": "FedEx Freight Q3 shipments dip slightly following spinoff",
-   "url": "https://www.truckingdive.com/news/fedex-freight-q3-shipments-dip-slightly-following-spinoff/873256/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Executives said business retention and ongoing transition processes were the carrier’s focus during its first four months as an independent company.",
-   "published": "2026-10-30T15:36:00+00:00"
   }
  ]
 }
