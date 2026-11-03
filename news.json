@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T23:30:30+00:00",
+ "updated": "2026-11-03T23:49:17+00:00",
  "items": [
   {
    "id": "https://www.freightwaves.com/?p=584931",
@@ -29,6 +29,21 @@
    ],
    "excerpt": "Walmart has agreed to expand its commercial agreement with Symbiotic Inc. to automate an additional 25 U.S. regional distribution centers. Symbiotic ( NASDAQ: SYM ) is an AI-powered warehouse automation and robotics company headquartered in Wilmington, Massachusetts.",
    "published": "2026-11-03T21:42:59+00:00"
+  },
+  {
+   "id": "https://www.logisticsmgmt.com/article/u.s_canada_trade_deal_may_be_near_as_carney_and_trump_signal_thaw_in_relations",
+   "title": "U.S.-Canada trade deal may be near as Carney and Trump signal thaw in relations",
+   "url": "https://www.logisticsmgmt.com/article/u.s_canada_trade_deal_may_be_near_as_carney_and_trump_signal_thaw_in_relations",
+   "source": "Logistics Management",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "While trade relations between the United States and Canada have been acrimonious in recent months, there are some signs seen in recent days that indicate a thawing in their relationship could be coming. One sign of that came in the form of a social media post from Canadian Prime Minister Mark…",
+   "published": "2026-11-03T20:15:00+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=584916",
@@ -1131,20 +1146,6 @@
    ],
    "excerpt": "Chart of the Week: Cass Freight Shipments Index, Cass Truckload Linehaul Index – USA SONAR : CFIS.USA, CTLI.USA The domestic freight market has been on a long-running rollercoaster since the start of the century. The Cass Freight Shipments Index (CFIS) and the Cass Truckload Linehaul Index (CTLI)…",
    "published": "2026-11-01T00:30:00+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/data-centers-consumers-are-keeping-trucking-demand-afloat/833904/",
-   "title": "Data centers, consumers are keeping trucking demand afloat",
-   "url": "https://www.truckingdive.com/news/data-centers-consumers-are-keeping-trucking-demand-afloat/833904/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "The industry's recent turnaround is unlike anything seen before, ATA's Bob Costello said, as demand growth is limited to a few key sectors.",
-   "published": "2026-10-30T20:52:00+00:00"
   }
  ]
 }
