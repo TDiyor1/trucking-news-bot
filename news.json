@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-03T06:00:34+00:00",
+ "updated": "2026-11-03T06:30:30+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16274724",
+   "title": "Ryder adds six new East Coast locations with acquisition",
+   "url": "https://www.ccjdigital.com/business/article/16274724/ryder-adds-six-new-east-coast-locations-with-acquisition",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Trucking news and briefs for Tuesday, Nov. 3, 2026: Ryder expands on East Coast with acquisition Ryder System ( CCJ Top 250 , No. 7) has completed the acquisition of Efficiency Enterprises, a regional provider of fleet management, maintenance, and leasing solutions for trucks, trailers, and…",
+   "published": "2026-11-03T06:16:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584856",
    "title": "230-plus immigrants arrested in crackdown targeting unauthorized CDL holders",
@@ -1134,22 +1146,6 @@
    "tags": [],
    "excerpt": "Amazon reported record operating profitability in the third quarter on Thursday after the market closed, as the e-commerce giant continued expanding its delivery network and robotics investments amid higher transportation costs. CEO Andy Jassy said investments in same-day fulfillment facilities and…",
    "published": "2026-10-29T23:26:52+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584619",
-   "title": "First look: TFI Truckload sparkles, but OR at LTL slips",
-   "url": "https://www.freightwaves.com/news/first-look-tfi-truckload-sparkles-but-or-at-ltl-slips",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "TFI International has tried to get investors to take notice of its Truckload operations, which are substantial but smaller than its more better-known LTL segment. The third quarter results may be the catalyst that gets that recognition to occur. Where the third quarter LTL segment at TFI (NYSE:…",
-   "published": "2026-10-29T21:38:24+00:00"
   }
  ]
 }
