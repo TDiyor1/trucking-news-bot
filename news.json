@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-03T12:00:38+00:00",
+ "updated": "2026-11-03T12:30:33+00:00",
  "items": [
+  {
+   "id": "https://theloadstar.com/?p=327796",
+   "title": "Ecommerce growth leaves Latin America’s air cargo imbalance unresolved",
+   "url": "https://theloadstar.com/ecommerce-growth-leaves-latin-americas-air-cargo-imbalance-unresolved/",
+   "source": "The Loadstar",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "Growing ecommerce imports are reshaping Latin America’s air cargo networks, but have yet to resolve the region’s directional imbalance, with LATAM Cargo reporting that declining industrial shipments are offsetting some of the gains. Speaking to The Loadstar at TIACA’s Air Cargo Forum in Miami last…",
+   "published": "2026-11-03T12:12:06+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584770",
+   "title": "Delivery AI should earn its authority one segment at a time",
+   "url": "https://www.freightwaves.com/news/burq-earned-autonomy-delivery-ai",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Salman Habib thinks AI vendors are asking retailers for too much, too soon. The vendors pitching them so far want full trust from day one, the Burq cofounder said, and that is why many retailers are still stuck deciding whether to use AI at all. Burq’s software decides how each order gets…",
+   "published": "2026-11-03T12:00:00+00:00"
+  },
   {
    "id": "https://theloadstar.com/?p=327645",
    "title": "Adani Ports bidding for Europe’s tank terminals – the test is whether it pays for returns or size",
@@ -1120,33 +1150,6 @@
    ],
    "excerpt": "Venti Technologies’ driverless container trucks have worked PSA’s port in Singapore for nearly three years. Traffic there runs in one big loop, so the trucks never had to back up. U.S. rail yards are less forgiving. Venti says a Class I intermodal railroad plans to run more than 130 Venti trucks…",
    "published": "2026-10-30T11:00:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16050521",
-   "title": "Supreme Court's Montgomery ruling could give Landstar a $100 million tailwind",
-   "url": "https://www.ccjdigital.com/ccj-top-250/article/16050521/landstar-sees-agent-growth-from-montgomery-ruling",
-   "source": "CCJ",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "The Supreme Court’s Montgomery ruling is sending more small brokerages and owner-operators toward Landstar’s independent agent network, according to company executives. During the company’s third-quarter 2026 earnings conference call, Landstar ( CCJ Top 250 , No.",
-   "published": "2026-10-30T10:52:16+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=327562",
-   "title": "250 watchmen, one picket line and half of America’s busiest port complex",
-   "url": "https://theloadstar.com/250-watchmen-one-picket-line-and-half-of-americas-busiest-port-complex/",
-   "source": "The Loadstar",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "A threatened Sunday walkout at Los Angeles and Long Beach may be delayed until Wednesday. The real danger is the reach of a small union local, with 35,688 containers already waiting for rail service. It takes a special kind of labor dispute to put half a port complex at risk with a workforce…",
-   "published": "2026-10-30T10:26:57+00:00"
   }
  ]
 }
