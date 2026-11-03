@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-03T20:03:37+00:00",
+ "updated": "2026-11-03T20:30:31+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584916",
+   "title": "Trucking group’s lawsuit threatens to upend federal carrier registration system",
+   "url": "https://www.freightwaves.com/news/trucking-groups-lawsuit-threatens-to-upend-federal-carrier-registration-system",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "A federal appeals court challenge to the U.S. Unified Carrier Registration (UCR) system could disrupt annual registration fees paid by trucking companies and threaten funding for state commercial vehicle safety programs, according to the organization that administers the program.",
+   "published": "2026-11-03T20:14:06+00:00"
+  },
   {
    "id": "https://landline.media/?p=104541",
    "title": "Super Ego tightens leasing rules amid scrutiny, including ban on non-domiciled CDLs",
@@ -333,6 +345,20 @@
    "id": "https://www.supplychaindive.com/news/is-warehouse-demand-shifting-towards-inland-markets/872921/",
    "title": "Is warehouse demand shifting towards inland markets?",
    "url": "https://www.supplychaindive.com/news/is-warehouse-demand-shifting-towards-inland-markets/872921/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Uncertainty has led shippers to move an increased amount of inventory across inland markets versus port markets, according to experts, but it may not necessarily translate to a shift in demand.",
+   "published": "2026-11-03T12:35:00+00:00"
+  },
+  {
+   "id": "https://www.supplychaindive.com/news/is-warehouse-demand-shifting-toward-inland-markets/872921/",
+   "title": "Is warehouse demand shifting toward inland markets?",
+   "url": "https://www.supplychaindive.com/news/is-warehouse-demand-shifting-toward-inland-markets/872921/",
    "source": "Supply Chain Dive",
    "audience": [
     "Shipper"
@@ -1118,32 +1144,6 @@
    ],
    "excerpt": "The FMCSA has set its sights on further hours-of-service flexibility and enhancing its safety measurement system in the coming weeks and months.",
    "published": "2026-10-30T19:51:16+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104506",
-   "title": "Truckers to FMCSA: Give me more control over the clock",
-   "url": "https://landline.media/truckers-to-fmcsa-give-me-more-control-over-the-clock/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "Truck drivers have been clamoring for more flexibility within the hours-of-service regulations for years. They may soon get their wish.",
-   "published": "2026-10-30T18:42:20+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104502",
-   "title": "Nearly 200 drivers sidelined for English-language proficiency violations",
-   "url": "https://landline.media/nearly-200-drivers-sidelined-for-english-language-proficiency-violations/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "State and federal agencies partner for enforcement blitz targeting unsafe and unqualified drivers. Find out how many violations they found.",
-   "published": "2026-10-30T18:37:24+00:00"
   }
  ]
 }
