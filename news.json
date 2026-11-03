@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-03T00:12:51+00:00",
+ "updated": "2026-11-03T00:30:30+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584849",
+   "title": "Pamt Corp. sees Q3 net loss, books 109.1% truckload OR",
+   "url": "https://www.freightwaves.com/news/pamt-corp-sees-q3-net-loss-books-109-1-truckload-or",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Rates",
+    "Diesel"
+   ],
+   "excerpt": "Truckload carrier Pamt Corp. lost money again during the third quarter. Like other carriers , it pointed to elevated driver procurement costs and the spike in diesel fuel prices as the culprits. Pamt ( NASDAQ: PAMT ) reported a net loss of $8.1 million, or 38 cents per share, on Monday after the…",
+   "published": "2026-11-03T00:16:26+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584843",
    "title": "Waiting on EPA ‘27 rule, Rush says it might not be soon",
@@ -1134,20 +1150,6 @@
    ],
    "excerpt": "The change comes as Schneider is now publicly supporting the $85 billion UP-NS merger after previously taking no position on the deal.",
    "published": "2026-10-29T21:26:15+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584614",
-   "title": "First look: Covenant Logistics’ Q3 freight revenue surges 68%",
-   "url": "https://www.freightwaves.com/news/first-look-covenant-logistics-q3-freight-revenue-surges-68",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Covenant Logistics Group reported a 19.2% year-over-year increase in third-quarter revenue Thursday, driven by strong growth in its managed freight segment . The Chattanooga, Tennessee-based carrier (NYSE: CVLG ) generated $353.9 million in total revenue for the quarter ended Sept.",
-   "published": "2026-10-29T21:15:36+00:00"
   }
  ]
 }
