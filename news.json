@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-03T19:01:15+00:00",
+ "updated": "2026-11-03T19:30:41+00:00",
  "items": [
+  {
+   "id": "https://joc.com/article/fmc-to-host-detention-and-demurrage-research-symposium-6317116",
+   "title": "FMC to host detention and demurrage ‘research symposium’",
+   "url": "https://joc.com/article/fmc-to-host-detention-and-demurrage-research-symposium-6317116",
+   "source": "JOC",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The event aims to foster a greater understanding of how charges for container usage and storage can best incentivize cargo flow, the US Federal Maritime Commission said.",
+   "published": "2026-11-03T19:20:15+00:00"
+  },
   {
    "id": "https://joc.com/article/bnsf-boosts-new-mexico-manpower-to-manage-freight-flow-after-flood-6317114",
    "title": "BNSF boosts New Mexico manpower to manage freight flow after flood",
@@ -121,6 +135,20 @@
    "published": "2026-11-03T16:35:57+00:00"
   },
   {
+   "id": "https://www.logisticsmgmt.com/article/eia_reports_national_diesel_average_rises_for_the_first_time_in_three_weeks",
+   "title": "EIA reports national diesel average rises for the first time in three weeks",
+   "url": "https://www.logisticsmgmt.com/article/eia_reports_national_diesel_average_rises_for_the_first_time_in_three_weeks",
+   "source": "Logistics Management",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "The national average price per gallon of diesel gasoline rose fell for the first time in three weeks, following three weeks of declines, according to data issued today by the Department of Energy’s Energy Information Administration (EIA). For the week of November 2, the national average, at $6.292…",
+   "published": "2026-11-03T16:08:00+00:00"
+  },
+  {
    "id": "https://www.freightwaves.com/?p=584868",
    "title": "Successful quarter at Expeditors boosted by hyperscaler business",
    "url": "https://www.freightwaves.com/news/successful-quarter-at-expeditors-boosted-by-hyperscaler-business",
@@ -134,6 +162,20 @@
    ],
    "excerpt": "All the key numbers at Expeditors International pointed upward in the third quarter at the logistics and freight forwarding company. Revenue year-on-year was up 42%, to $4.1 billion at the asset-light customs broker and freight forwarder. Despite the fact that the cost of transportation rose 49%, a…",
    "published": "2026-11-03T15:48:13+00:00"
+  },
+  {
+   "id": "https://www.logisticsmgmt.com/article/flexe_report_finds_warehouse_costs_rising_despite_increased_vacancy_amid_tariff_uncertainty_and_shifting_trade_flows",
+   "title": "Flexe report finds warehouse costs rising despite increased vacancy, amid tariff uncertainty and shifting trade flows",
+   "url": "https://www.logisticsmgmt.com/article/flexe_report_finds_warehouse_costs_rising_despite_increased_vacancy_amid_tariff_uncertainty_and_shifting_trade_flows",
+   "source": "Logistics Management",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "A new report recently issued by Seattle-based Flexe, the largest marketplace of flexible on-demand warehousing in North America, provided a detailed overview of the key factors influencing how shippers approach and rethink where they need to hold inventory and how long of a space commitment is…",
+   "published": "2026-11-03T15:32:00+00:00"
   },
   {
    "id": "https://www.truckingdive.com/news/hyundai-translead-ups-illinois-investment-by-150m-1250-jobs/833902/",
@@ -1101,51 +1143,6 @@
    "tags": [],
    "excerpt": "Arkansas Highway Police and federal law enforcement agencies conducted a sweeping 48-hour commercial vehicle enforcement operation that resulted in 183 English-language proficiency violations, 44 criminal arrests and more than 1,000 motor carrier safety violations.",
    "published": "2026-10-30T18:06:57+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104492",
-   "title": "Great Dane, Wabash recalls target defects that could drop or stop trailers",
-   "url": "https://landline.media/great-dane-wabash-recalls-target-defects-that-could-drop-or-stop-trailers/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Two trailer makers have issued recalls over defects that could put drivers at risk. Find out if your Wabash or Great Dane trailer is affected.",
-   "published": "2026-10-30T17:43:03+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584708",
-   "title": "Covenant Logistics CEO expects double-digit truckload rate hikes in 2027",
-   "url": "https://www.freightwaves.com/news/covenant-logistics-ceo-expects-double-digit-truckload-rate-hikes-in-2027",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Rates",
-    "Regulation",
-    "Capacity"
-   ],
-   "excerpt": "Covenant Logistics Group CEO David Parker expects truckload contract rates to increase by double digits in 2027 as trucking companies contend with rising operating expenses, tightening driver capacity and continued federal enforcement of safety regulations .",
-   "published": "2026-10-30T17:32:06+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/xpo-earnings-q3-2026",
-   "title": "XPO’s higher Q3 volume, profit powered by SMB, grocery wins",
-   "url": "https://www.ttnews.com/articles/xpo-earnings-q3-2026",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Greenwich, Conn.-based XPO benefited from improved freight market conditions and customer service, the executives told analysts and investors.",
-   "published": "2026-10-30T16:49:41+00:00"
   }
  ]
 }
