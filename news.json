@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-03T22:00:33+00:00",
+ "updated": "2026-11-03T22:19:11+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584924",
+   "title": "Walmart in $6B Symbiotic deal to automate warehouses",
+   "url": "https://www.freightwaves.com/news/walmart-in-6b-symbiotic-deal-to-automate-warehouses",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Walmart has agreed to expand its commercial agreement with Symbiotic Inc. to automate an additional 25 U.S. regional distribution centers. Symbiotic ( NASDAQ: SYM ) is an AI-powered warehouse automation and robotics company headquartered in Wilmington, Massachusetts.",
+   "published": "2026-11-03T21:42:59+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584916",
    "title": "Trucking group’s lawsuit threatens to upend federal carrier registration system",
@@ -1130,20 +1145,6 @@
    ],
    "excerpt": "The largest US less-than-truckload carrier said shipments decreased 1.4% year over year for the four months through September, but it expects to gain business in new verticals.",
    "published": "2026-10-30T19:59:16+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/fmcsa-hos-sms-updates-2026",
-   "title": "FMCSA takes aim at HOS, SMS updates",
-   "url": "https://www.ttnews.com/articles/fmcsa-hos-sms-updates-2026",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "The FMCSA has set its sights on further hours-of-service flexibility and enhancing its safety measurement system in the coming weeks and months.",
-   "published": "2026-10-30T19:51:16+00:00"
   }
  ]
 }
