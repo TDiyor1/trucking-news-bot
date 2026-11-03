@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-03T18:31:07+00:00",
+ "updated": "2026-11-03T19:00:39+00:00",
  "items": [
+  {
+   "id": "https://joc.com/article/bnsf-boosts-new-mexico-manpower-to-manage-freight-flow-after-flood-6317114",
+   "title": "BNSF boosts New Mexico manpower to manage freight flow after flood",
+   "url": "https://joc.com/article/bnsf-boosts-new-mexico-manpower-to-manage-freight-flow-after-flood-6317114",
+   "source": "JOC",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tariffs",
+    "Ports/Rail"
+   ],
+   "excerpt": "The railroad is metering the movement of containers destined for inland hubs in order not to overwhelm the terminals with cargo; it could be another week before service returns to normal.",
+   "published": "2026-11-03T18:52:14+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584884",
    "title": "Holiday inventory surge supportive of double-digit-plus TL contract rates",
@@ -1131,22 +1146,6 @@
    ],
    "excerpt": "Greenwich, Conn.-based XPO benefited from improved freight market conditions and customer service, the executives told analysts and investors.",
    "published": "2026-10-30T16:49:41+00:00"
-  },
-  {
-   "id": "https://www.dcvelocity.com/transportation/trucking/shipper-costs-hit-five-year-high-as-freight-demand-stalls",
-   "title": "Shipper costs hit five-year high as freight demand stalls",
-   "url": "https://www.dcvelocity.com/transportation/trucking/shipper-costs-hit-five-year-high-as-freight-demand-stalls",
-   "source": "DC Velocity",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Diesel",
-    "Capacity"
-   ],
-   "excerpt": "U.S. shippers continue to pay more to move freight even as shipment volumes remain largely unchanged, according to the latest U.S. Bank Freight Payment Index. Third-quarter shipper spending surged 32.1% from a year ago, marking the largest annual increase since 2021, primarily driven by tightened…",
-   "published": "2026-10-30T16:22:06+00:00"
   }
  ]
 }
