@@ -1,6 +1,65 @@
 {
- "updated": "2026-11-03T17:00:57+00:00",
+ "updated": "2026-11-03T17:30:43+00:00",
  "items": [
+  {
+   "id": "https://joc.com/article/tfi-looks-to-build-non-union-us-ltl-network-beyond-tforce-freight-6317048",
+   "title": "TFI looks to build non-union US LTL network beyond TForce Freight",
+   "url": "https://joc.com/article/tfi-looks-to-build-non-union-us-ltl-network-beyond-tforce-freight-6317048",
+   "source": "JOC",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "The plan, revealed by TFI CEO Alain Bédard, is to build an asset-light less-than-truckload network using contractors while its unionized subsidiary TForce regroups under new management.",
+   "published": "2026-11-03T17:22:14+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584880",
+   "title": "Benchmark diesel price is down; so is futures market in a big way",
+   "url": "https://www.freightwaves.com/news/benchmark-diesel-price-is-down-so-is-futures-market-in-a-big-way",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "The benchmark price used for most fuel surcharges rose/fell slightly this week, but the focus in oil markets is on the huge decline in futures market prices recorded Monday. The Department of Energy/Energy Information Administration average weekly retail diesel price fell to $6.292/gallon, a…",
+   "published": "2026-11-03T17:13:17+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/schneider-norfolk-southern-deal",
+   "title": "Schneider shifts eastern intermodal freight to Norfolk Southern",
+   "url": "https://www.ttnews.com/articles/schneider-norfolk-southern-deal",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Schneider unveiled a deal making Norfolk Southern its primary eastern rail provider Oct. 29, demonstrating the size of the carrier’s intermodal ambitions.",
+   "published": "2026-11-03T17:00:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584877",
+   "title": "FedEx uses dedicated logistics teams to win aerospace, automotive business",
+   "url": "https://www.freightwaves.com/news/fedex-uses-dedicated-logistics-teams-to-win-aerospace-automotive-business",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "FedEx Corp.’s recent strategy to focus more on specialized services for companies in industrial sectors with complex logistics requirements, beyond basic parcel delivery, is paying dividends, especially in the aerospace and automotive sectors. The freight transportation giant last week described…",
+   "published": "2026-11-03T16:56:02+00:00"
+  },
   {
    "id": "https://www.supplychaindive.com/news/trump-sparked-growth-widened-trade-deficit-slowed-hiring-iw/873576/",
    "title": "Trump sparked growth but widened trade deficit, slowed hiring",
@@ -15,6 +74,20 @@
    ],
    "excerpt": "President Donald Trump’s sweeping tariffs and efforts to boost foreign direct investment have fallen short of their objectives, per the German Economic Institute.",
    "published": "2026-11-03T16:37:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=584871",
+   "title": "US targets alleged labor violations at 2 Mexican factories",
+   "url": "https://www.freightwaves.com/news/us-targets-alleged-labor-violations-at-2-mexican-factories",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "The U.S. has launched a labor rights investigation into a Mexican packaging manufacturer and announced a separate agreement to address labor rights concerns at an ammunition factory. The two cases highlight continued enforcement of worker protections under the United States-Mexico-Canada Agreement…",
+   "published": "2026-11-03T16:35:57+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=584868",
@@ -1075,77 +1148,6 @@
    ],
    "excerpt": "Schneider CEO Jim Filter is optimistic capacity corrections will further drive trucking into a freight market upcycle.",
    "published": "2026-10-30T16:00:00+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/fedex-freight-q3-shipments-dip-slightly-following-spinoff/873256/",
-   "title": "FedEx Freight Q3 shipments dip slightly following spinoff",
-   "url": "https://www.truckingdive.com/news/fedex-freight-q3-shipments-dip-slightly-following-spinoff/873256/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Executives said business retention and ongoing transition processes were the carrier’s focus during its first four months as an independent company.",
-   "published": "2026-10-30T15:36:00+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/usda-fund-8-fertilizer-manufacturing-projects-totaling-1-billion/873311/",
-   "title": "USDA to fund 8 fertilizer manufacturing projects totaling more than $1.3B",
-   "url": "https://www.supplychaindive.com/news/usda-fund-8-fertilizer-manufacturing-projects-totaling-1-billion/873311/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Capacity"
-   ],
-   "excerpt": "The agency said the projects will add production capacity to drive prices lower and reduce the nation’s reliance on nutrients from other countries.",
-   "published": "2026-10-30T14:52:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584667",
-   "title": "Mexico truckers halt protests, demand action on deadly highway crime",
-   "url": "https://www.freightwaves.com/news/mexico-truckers-halt-protests-demand-action-on-deadly-highway-crime",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs",
-    "Fraud"
-   ],
-   "excerpt": "While Mexican truckers have suspended a nationwide strike that disrupted highways across 19 states, industry leaders warned that demonstrations could resume if federal and state authorities fail to address grievances that include cargo theft and violence against drivers .",
-   "published": "2026-10-30T14:33:18+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/saia-earnings-q3-2026",
-   "title": "Saia expansion terminals deliver improved Q3 results",
-   "url": "https://www.ttnews.com/articles/saia-earnings-q3-2026",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Less-than-truckload carrier Saia said performance improved at terminals added during its recent phase of expansion.",
-   "published": "2026-10-30T14:30:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/more-states-non-domiciled",
-   "title": "More states halt non-domiciled CDL programs",
-   "url": "https://www.ttnews.com/articles/more-states-non-domiciled",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "Louisiana and Wyoming have ceased issuing non-domiciled commercial driver licenses, while Ohio is ending its program and downgrading credentials.",
-   "published": "2026-10-30T14:24:10+00:00"
   }
  ]
 }
