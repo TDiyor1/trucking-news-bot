@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-04T15:44:39+00:00",
+ "updated": "2026-11-04T15:59:00+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584974",
+   "title": "Trimble cuts growth outlook as European freight market slows",
+   "url": "https://www.freightwaves.com/news/trimble-cuts-growth-outlook-as-european-freight-market-slows",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "Trimble reported higher third-quarter revenue and earnings Wednesday, but lowered its full-year recurring revenue growth forecast as weakness in European freight markets and slower demand for positioning services weighed on its outlook. The Westminster, Colorado-based technology company (NASDAQ:…",
+   "published": "2026-11-04T15:28:49+00:00"
+  },
   {
    "id": "https://www.truckingdive.com/news/schneider-national-says-rail-partner-shift-offers-network-boost/873490/",
    "title": "Schneider National says rail partner shift offers network boost",
@@ -1137,20 +1153,6 @@
    ],
    "excerpt": "The Pacific Maritime Association and International Longshore and Warehouse Union Local 26 have signed a contract extension through 5 p.m. Pacific Time on Wednesday, Nov. 4, temporarily postponing a potential work stoppage at the ports of Los Angeles and Long Beach while negotiations continue.",
    "published": "2026-11-02T13:48:55+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/runnings-unites-forecasting-replenishment-with-ai/872823/",
-   "title": "Runnings unites forecasting, replenishment with AI",
-   "url": "https://www.supplychaindive.com/news/runnings-unites-forecasting-replenishment-with-ai/872823/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "The farm, home and outdoor goods retailer is rolling out Relex Solutions’ artificial-intelligence platform across its store and distribution network in phases.",
-   "published": "2026-11-02T12:06:00+00:00"
   }
  ]
 }
