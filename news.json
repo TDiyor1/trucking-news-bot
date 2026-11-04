@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-04T20:30:36+00:00",
+ "updated": "2026-11-04T21:00:35+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585022",
+   "title": "GXO’s contract wins surge 34%, but growth comes amid cost pressures",
+   "url": "https://www.freightwaves.com/news/gxos-contract-wins-surge-34-but-growth-comes-amid-cost-pressures",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "GXO Logistics is seeing accelerating demand for its contract logistics services, particularly in North America, as data centers, aerospace and defense customers fuel a record sales pipeline. During a Wednesday earnings call, CEO Patrick Kelleher said the company’s renewed commercial strategy is…",
+   "published": "2026-11-04T20:47:48+00:00"
+  },
   {
    "id": "https://landline.media/?p=104556",
    "title": "State puts an end to non-domiciled CDLs",
@@ -1144,21 +1158,6 @@
    "tags": [],
    "excerpt": "Higher truck weights could mean fewer trips, but who pays for the added wear on roads and bridges? Here’s where states are changing the rules.",
    "published": "2026-11-02T18:01:50+00:00"
-  },
-  {
-   "id": "https://www.logisticsmgmt.com/article/manufacturing_expansion_continues_for_10th_straight_month_in_october_amid_tariff_price_and_geopolitical_concerns_reports_ism",
-   "title": "Manufacturing expansion continues for 10th straight month in October amid tariff, price and geopolitical concerns, reports ISM",
-   "url": "https://www.logisticsmgmt.com/article/manufacturing_expansion_continues_for_10th_straight_month_in_october_amid_tariff_price_and_geopolitical_concerns_reports_ism",
-   "source": "Logistics Management",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "Manufacturing output remained on the right side of growth in October, according to the new edition of the Manufacturing Report on Business, which was issued today by the Institute of Supply Management (ISM). The report’s benchmark reading, the PMI, at 55.5 (a reading of 50 or above indicates…",
-   "published": "2026-11-02T17:24:00+00:00"
   }
  ]
 }
