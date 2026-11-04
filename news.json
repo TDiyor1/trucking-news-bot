@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-04T13:00:34+00:00",
+ "updated": "2026-11-04T13:30:30+00:00",
  "items": [
+  {
+   "id": "https://www.freightcaviar.com/stories/peak-season-on-ozempic",
+   "title": "🎣 Peak Season on Ozempic",
+   "url": "https://www.freightcaviar.com/stories/peak-season-on-ozempic",
+   "source": "Freight Caviar",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Rates",
+    "Diesel"
+   ],
+   "excerpt": "Truckload rejections are falling when they should be climbing ahead of the holidays, and diesel is still above $6 a gallon.",
+   "published": "2026-11-04T14:00:00+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/democrats-control-congress",
+   "title": "Voters give Democrats control of Congress in rebuke to Trump",
+   "url": "https://www.ttnews.com/articles/democrats-control-congress",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "Democrats flipped at least seven Senate seats in ruby-red states and battlegrounds alike: Kansas, which hasn’t elected a Democratic senator in nearly a century, Iowa, Texas, Ohio, Maine, North Carolina and South Carolina.",
+   "published": "2026-11-04T13:06:59+00:00"
+  },
   {
    "id": "https://theloadstar.com/?p=327870",
    "title": "Transpacific the most profitable container trade by far, says Alphaliner",
@@ -1116,39 +1146,6 @@
    ],
    "excerpt": "Record inventory but still missing fill rate targets? The problem isn't supply or forecasting; it's your supply chain decision layer. Here's how to fix it.",
    "published": "2026-11-02T10:00:00+00:00"
-  },
-  {
-   "id": "https://www.logisticsmgmt.com/article/2026_digital_freight_matching_roundtable_the_changing_face_of_freight_brokerage",
-   "title": "2026 Digital Freight Matching Roundtable: The changing face of freight brokerage",
-   "url": "https://www.logisticsmgmt.com/article/2026_digital_freight_matching_roundtable_the_changing_face_of_freight_brokerage",
-   "source": "Logistics Management",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Capacity",
-    "Tech",
-    "Ports/Rail"
-   ],
-   "excerpt": "The digital freight matching (DFM) market continues to evolve, with advances in AI and automation , shifting truck capacity, and growing competition changing how brokers connect freight with available carriers. Freight brokers and technology providers are increasingly turning to automated matching,…",
-   "published": "2026-11-02T06:15:00+00:00"
-  },
-  {
-   "id": "https://www.logisticsmgmt.com/article/state_of_truckload_less_capacity_more_leverage",
-   "title": "State of Truckload: Less capacity, more leverage",
-   "url": "https://www.logisticsmgmt.com/article/state_of_truckload_less_capacity_more_leverage",
-   "source": "Logistics Management",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Rates",
-    "Capacity"
-   ],
-   "excerpt": "The prolonged slump in the $397 billion truckload (TL) sector may finally be giving way to a recovery—but not necessarily because freight demand has come roaring back. After years of stagnant rates, rising operating costs and intense competition , thousands of carriers have exited the market.",
-   "published": "2026-11-02T06:14:00+00:00"
   }
  ]
 }
