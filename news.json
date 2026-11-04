@@ -1,6 +1,51 @@
 {
- "updated": "2026-11-04T15:00:36+00:00",
+ "updated": "2026-11-04T15:27:46+00:00",
  "items": [
+  {
+   "id": "https://www.truckingdive.com/news/schneider-national-says-rail-partner-shift-offers-network-boost/873490/",
+   "title": "Schneider National says rail partner shift offers network boost",
+   "url": "https://www.truckingdive.com/news/schneider-national-says-rail-partner-shift-offers-network-boost/873490/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Capacity",
+    "Ports/Rail"
+   ],
+   "excerpt": "CEO Jim Filter said the company’s strategy strengthens its position as capacity tightens.",
+   "published": "2026-11-04T15:09:00+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/fedex-network-20-headed-to-los-angeles-other-markets-post-holidays/873695/",
+   "title": "FedEx Network 2.0 headed to Los Angeles, other markets post-holidays",
+   "url": "https://www.truckingdive.com/news/fedex-network-20-headed-to-los-angeles-other-markets-post-holidays/873695/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "The integration plan is delivering savings as the company faces increased expenses, such as over-the-road linehaul.",
+   "published": "2026-11-04T15:06:00+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/old-dominion-expects-year-end-performance-to-be-above-seasonality/873107/",
+   "title": "Old Dominion expects year-end performance to be ‘above seasonality’",
+   "url": "https://www.truckingdive.com/news/old-dominion-expects-year-end-performance-to-be-above-seasonality/873107/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Diesel volatility and rising inflation shifting consumer habits could be potential headwinds in Q4, executives said.",
+   "published": "2026-11-04T15:05:00+00:00"
+  },
   {
    "id": "https://www.freightcaviar.com/stories/peak-season-on-ozempic",
    "title": "🎣 Peak Season on Ozempic",
@@ -1106,49 +1151,6 @@
    ],
    "excerpt": "The farm, home and outdoor goods retailer is rolling out Relex Solutions’ artificial-intelligence platform across its store and distribution network in phases.",
    "published": "2026-11-02T12:06:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584672",
-   "title": "Flexport volumes up 40% as headcount grows only 5%",
-   "url": "https://www.freightwaves.com/news/flexport-volumes-up-40-ai-headcount",
-   "source": "FreightWaves",
-   "audience": [
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs",
-    "Tech"
-   ],
-   "excerpt": "Flexport’s freight volumes are up 40% from a year ago while its headcount has grown 5%, founder and CEO Ryan Petersen told FreightWaves. He credits the gap to artificial intelligence tools the company now runs across customs, routing and its own engineering teams.",
-   "published": "2026-11-02T12:00:00+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=327703",
-   "title": "When silence becomes evidence: CPKC demands an end to the UP-NS merger review",
-   "url": "https://theloadstar.com/when-silence-becomes-evidence-cpkc-demands-an-end-to-the-up-ns-merger-review/",
-   "source": "The Loadstar",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "A rival railroad says Union Pacific’s chief executive frightened shippers away from a historic regulatory proceeding. Union Pacific denies making threats. The crucial question now is not just what Jim Vena said, but whether customers felt free to answer.",
-   "published": "2026-11-02T11:58:57+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16125261",
-   "title": "Shippers are asking for multiyear contracts, ODFL says",
-   "url": "https://www.ccjdigital.com/business/article/16125261/old-dominion-q3-2026-shippers-seek-multiyear-ltl-contracts",
-   "source": "CCJ",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Large shippers are asking Old Dominion Freight Line ( CCJ Top 250 , No. 9) for multiyear contracts, which the company’s executives view as a sign of improving demand. Old Dominion President and CEO Kevin Freeman said during the company’s earnings call this week that contracts typically run two…",
-   "published": "2026-11-02T11:46:33+00:00"
   }
  ]
 }
