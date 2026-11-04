@@ -1,6 +1,34 @@
 {
- "updated": "2026-11-04T19:00:30+00:00",
+ "updated": "2026-11-04T19:30:16+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16424217",
+   "title": "Democratic sweep of Congress sets up high-stakes battle over trucking regulations",
+   "url": "https://www.ccjdigital.com/regulations/industry/article/16424217/what-a-democratic-congress-means-for-trucking-and-fmcsa",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "Democrats will take control of both the House and the Senate in January, setting up a divided federal government that now places highway policy, safety oversight and the trucking industry’s regulatory agenda under a congressional microscope. While the executive branch retains its authority over…",
+   "published": "2026-11-04T19:05:24+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=585004",
+   "title": "Intermodal leads weekly gains as US rail traffic rises 3.5%, says AAR",
+   "url": "https://www.freightwaves.com/news/intermodal-leads-weekly-gains-as-us-rail-traffic-rises-3-5-says-aar",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "U.S. rail traffic increased 3.5% in the week ending Oct. 31 compared with the same week in 2025, the Association of American Railroads said Wednesday. Carload traffic rose 3.0%, while intermodal volume increased 3.9%. Seven of the 10 carload commodity groups recorded year-over-year gains.",
+   "published": "2026-11-04T18:52:17+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585006",
    "title": "Stronger revenue at Uber Freight, but profits still elusive",
@@ -1126,34 +1154,6 @@
    ],
    "excerpt": "Nearly 80% of the waste haulers using TrashLab’s software now rely on its AI agent, Haul-E, to answer inbound calls and capture after-hours orders. On Thursday, TrashLab said it raised $12 million to build more agents like it. The money funds agents for dispatch, billing, and collections that would…",
    "published": "2026-11-02T16:11:32+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584781",
-   "title": "Mexico destroys 52 tons of avocados after pest discovery raises export concerns",
-   "url": "https://www.freightwaves.com/news/mexico-destroys-52-tons-of-avocados-after-pest-discovery-raises-export-concerns",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "Mexican avocado producers have destroyed up to 52 tons of fruit after authorities detected a destructive agricultural pest in shipments intended for international export to the U.S. and other destinations. The seed weevil pest raises concerns about potential disruptions to U.S.-Mexico avocado…",
-   "published": "2026-11-02T16:04:02+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/norfolk-southern-schneider-national-team-to-scale-east-coast-intermodal-re/873442/",
-   "title": "Norfolk Southern, Schneider National team to scale East Coast intermodal reach",
-   "url": "https://www.truckingdive.com/news/norfolk-southern-schneider-national-team-to-scale-east-coast-intermodal-re/873442/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "The railroad’s potential merger with Union Pacific is “the icing on the cake” of the partnership, Schneider CEO Jim Filter said.",
-   "published": "2026-11-02T15:40:00+00:00"
   }
  ]
 }
