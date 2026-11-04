@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-04T00:54:05+00:00",
+ "updated": "2026-11-04T01:00:35+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16349386",
+   "title": "Heavier freight and strong pricing push Saia to record tonnage",
+   "url": "https://www.ccjdigital.com/ccj-top-250/article/16349386/saia-q3-2026-service-gains-are-driving-pricing-power",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Heavier freight, rising fuel costs and a soft Los Angeles market didn’t stop Saia ( CCJ Top 250 , No. 18) from reporting record third-quarter 2026 revenue and tonnage. Revenue grew to $982.5 million, up 17.0% from $839.6 in the third quarter of 2025 . Net income surged 5.9% to $91.4 million, up…",
+   "published": "2026-11-04T00:51:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584931",
    "title": "First look: GXO Logistics Q3 revenue hits $3.6B",
@@ -1132,20 +1146,6 @@
    ],
    "excerpt": "In the fast-paced, high-stakes world of time-critical expedited trucking, speed is everything and if artificial intelligence is good at anything, it's increasing speed and efficiency. Taylor, Michigan-based expeditor Load One ( CCJ Top 250 , No. 148), a new suite of custom-built artificial…",
    "published": "2026-11-01T05:22:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584720",
-   "title": "Freight cycles are anything but regular",
-   "url": "https://www.freightwaves.com/news/freight-cycles-are-anything-but-regular",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Chart of the Week: Cass Freight Shipments Index, Cass Truckload Linehaul Index – USA SONAR : CFIS.USA, CTLI.USA The domestic freight market has been on a long-running rollercoaster since the start of the century. The Cass Freight Shipments Index (CFIS) and the Cass Truckload Linehaul Index (CTLI)…",
-   "published": "2026-11-01T00:30:00+00:00"
   }
  ]
 }
