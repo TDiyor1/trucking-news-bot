@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-04T12:30:29+00:00",
+ "updated": "2026-11-04T13:00:34+00:00",
  "items": [
+  {
+   "id": "https://theloadstar.com/?p=327870",
+   "title": "Transpacific the most profitable container trade by far, says Alphaliner",
+   "url": "https://theloadstar.com/transpacific-the-most-profitable-container-trade-by-far-says-alphaliner/",
+   "source": "The Loadstar",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Carriers are earning up to $1.30 per nautical mile on spot shipments from China to the US west coast, making the transpacific by far the most lucrative major container trade. Alphaliner’s latest analysis of spot freight revenue per nautical mile highlights the growing gap between the transpacific…",
+   "published": "2026-11-04T12:31:58+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=584830",
    "title": "Shippers spread parcel volume as carrier surcharges climb",
@@ -1133,20 +1149,6 @@
    ],
    "excerpt": "The prolonged slump in the $397 billion truckload (TL) sector may finally be giving way to a recovery—but not necessarily because freight demand has come roaring back. After years of stagnant rates, rising operating costs and intense competition , thousands of carriers have exited the market.",
    "published": "2026-11-02T06:14:00+00:00"
-  },
-  {
-   "id": "https://www.logisticsmgmt.com/article/import_export_2027_staying_nimble_in_a_shifting_trade_landscape",
-   "title": "Import/Export 2027: Staying nimble in a shifting trade landscape",
-   "url": "https://www.logisticsmgmt.com/article/import_export_2027_staying_nimble_in_a_shifting_trade_landscape",
-   "source": "Logistics Management",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "Evelyn Bernal , Director, BPE Global The past twelve months have been a period of constant change in the world of imports and exports . From shifting tariff regimes and increased supply chain scrutiny to evolving export controls, trade compliance professionals have had plenty to keep them on their…",
-   "published": "2026-11-02T06:13:00+00:00"
   }
  ]
 }
