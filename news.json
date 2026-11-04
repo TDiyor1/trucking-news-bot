@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-04T18:30:31+00:00",
+ "updated": "2026-11-04T19:00:12+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585006",
+   "title": "Stronger revenue at Uber Freight, but profits still elusive",
+   "url": "https://www.freightwaves.com/news/stronger-revenue-at-uber-freight-but-profits-still-elusive",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Uber Freight CEO Rebecca Tinucci took to LinkedIn to tout the company’s third quarter financial performance, which still is a long way from operating profitability. As Tinucci said in her published remarks, “two things can be true at the same time.” Her comments highlighted gross bookings of $1.768…",
+   "published": "2026-11-04T18:42:16+00:00"
+  },
   {
    "id": "https://landline.media/?p=104546",
    "title": "A bad safety record could cost truckers more than a load",
@@ -1140,20 +1154,6 @@
    ],
    "excerpt": "The railroad’s potential merger with Union Pacific is “the icing on the cake” of the partnership, Schneider CEO Jim Filter said.",
    "published": "2026-11-02T15:40:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584771",
-   "title": "Boeing secures lessor order for 767 passenger-to-freighter conversion",
-   "url": "https://www.freightwaves.com/news/boeing-secures-lessor-order-for-767-passenger-to-freighter-conversion",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Boeing will convert a 767-300 passenger jet into a freighter for Icelease, which also took options for up to two more conversions, as the leasing company continues to grow its freighter portfolio, the companies announced on Monday. The first aircraft is scheduled to take its production slot in the…",
-   "published": "2026-11-02T15:30:16+00:00"
   }
  ]
 }
