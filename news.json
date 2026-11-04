@@ -1,6 +1,47 @@
 {
- "updated": "2026-11-04T22:00:29+00:00",
+ "updated": "2026-11-04T22:30:34+00:00",
  "items": [
+  {
+   "id": "https://www.truckingdive.com/news/arcbest-reports-q3-tonnage-gains/873746/",
+   "title": "ArcBest reports Q3 tonnage gains",
+   "url": "https://www.truckingdive.com/news/arcbest-reports-q3-tonnage-gains/873746/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Tonnage increased 9.6% per day compared to a year ago, and October’s partial-Q4 result was even better, the company reported.",
+   "published": "2026-11-04T22:17:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=585046",
+   "title": "Class 8 truck orders plunge 36% as EPA uncertainty rattles fleets",
+   "url": "https://www.freightwaves.com/news/class-8-truck-orders-plunge-36-as-epa-uncertainty-rattles-fleets",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "North American Class 8 truck orders tumbled 36% year over year in October, signaling a surprisingly weak start to the 2027 order season. Trucking fleets are grappling with regulatory uncertainty , rising equipment costs and pressure on operating margins, according to data released Wednesday by FTR…",
+   "published": "2026-11-04T22:05:33+00:00"
+  },
+  {
+   "id": "https://www.dcvelocity.com/material-handling/order-fulfillment-packing/robotic-picking-and-loading/knapp-opens-u-s-robotics-and-ai-innovation-hub",
+   "title": "Knapp opens U.S. “robotics and AI innovation hub”",
+   "url": "https://www.dcvelocity.com/material-handling/order-fulfillment-packing/robotic-picking-and-loading/knapp-opens-u-s-robotics-and-ai-innovation-hub",
+   "source": "DC Velocity",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "The Austrian warehouse automation and intelligent fulfillment systems provider Knapp has opened a “robotics and AI innovation hub” in Boston , saying the new unit will grant the company’s existing robotics center in Graz, Austria, direct access to one of the world’s leading research and technology…",
+   "published": "2026-11-04T22:03:10+00:00"
+  },
   {
    "id": "https://www.dcvelocity.com/technology/artificial-intelligence/survey-one-in-six-say-an-ai-tool-has-exposed-supplier-or-customer-data",
    "title": "Survey: one in six say an AI tool has exposed supplier or customer data",
@@ -1119,48 +1160,6 @@
    ],
    "excerpt": "After a serious crash involving a commercial truck, the plaintiff’s attorney will almost certainly ask for the carrier’s telematics data , and the request often reaches well past the minutes before impact. It may include driver safety scores, months of alert data, and notifications sent to…",
    "published": "2026-11-02T18:34:14+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584809",
-   "title": "Parcel shipping demand to increase 4% during holidays, ShipMatrix says",
-   "url": "https://www.freightwaves.com/news/parcel-shipping-demand-to-increase-4-during-holidays-shipmatrix-says",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [],
-   "excerpt": "Parcel carriers will deliver about 2.4 billion packages during the current peak shipping season, up 4% from the same period last year, despite high inflation, according to an estimate from ShipMatrix. The increase in parcel demand is aided by an extra shopping day this holiday season, said…",
-   "published": "2026-11-02T18:19:56+00:00"
-  },
-  {
-   "id": "https://www.dcvelocity.com/technology/artificial-intelligence/ifs-factory-floor-teams-are-pushing-ai-wins-but-management-lags",
-   "title": "IFS: Factory floor teams are pushing AI wins, but management lags",
-   "url": "https://www.dcvelocity.com/technology/artificial-intelligence/ifs-factory-floor-teams-are-pushing-ai-wins-but-management-lags",
-   "source": "DC Velocity",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "An enterprise business survey shows that operational workers are driving real-world AI implementation and delivering tangible, commercial value, but their bosses in the C-suite are lagging behind, according to “industrial AI” software vendor IFS. The research reveals a “significant divide” between…",
-   "published": "2026-11-02T18:11:24+00:00"
-  },
-  {
-   "id": "https://www.dcvelocity.com/logistics/manufacturing/foundry-robotics-raises-100-million-for-its-autonomous-factory",
-   "title": "Foundry Robotics raises $100 million for its autonomous factory",
-   "url": "https://www.dcvelocity.com/logistics/manufacturing/foundry-robotics-raises-100-million-for-its-autonomous-factory",
-   "source": "DC Velocity",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Capacity",
-    "Tech"
-   ],
-   "excerpt": "The California-based autonomous factory creator Foundry Robotics has raised $100 million of venture capital to expand its 130,000-square-foot facility in Emeryville, near San Francisco, adding fast, flexible domestic assembly capacity for defense and industrial hardware.",
-   "published": "2026-11-02T18:08:42+00:00"
   }
  ]
 }
