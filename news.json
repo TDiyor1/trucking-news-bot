@@ -1,6 +1,19 @@
 {
- "updated": "2026-11-04T12:00:35+00:00",
+ "updated": "2026-11-04T12:30:29+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=584830",
+   "title": "Shippers spread parcel volume as carrier surcharges climb",
+   "url": "https://www.freightwaves.com/news/tractor-supply-multi-carrier-parcel-surcharges",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [],
+   "excerpt": "CHICAGO — Parcel shippers spent years handing one national carrier all their volume and negotiating once. At FarEye’s Last Mile Leaders America 2026 conference in August, panelists described why shippers are moving away from single-carrier agreements. Rising surcharges are part of the reason.…",
+   "published": "2026-11-04T12:00:00+00:00"
+  },
   {
    "id": "https://theloadstar.com/?p=327846",
    "title": "Schneider picks Norfolk over CSX, you say?",
@@ -1134,21 +1147,6 @@
    ],
    "excerpt": "Evelyn Bernal , Director, BPE Global The past twelve months have been a period of constant change in the world of imports and exports . From shifting tariff regimes and increased supply chain scrutiny to evolving export controls, trade compliance professionals have had plenty to keep them on their…",
    "published": "2026-11-02T06:13:00+00:00"
-  },
-  {
-   "id": "https://www.logisticsmgmt.com/article/future_of_motor_freight_6_trends_reshaping_freight_managements_next_phase",
-   "title": "Future of Motor Freight: 6 trends reshaping freight management’s next phase",
-   "url": "https://www.logisticsmgmt.com/article/future_of_motor_freight_6_trends_reshaping_freight_managements_next_phase",
-   "source": "Logistics Management",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "For decades, transportation managers have asked their systems to tell them where their freight was. They usually got their answer, but only after some sleuthing, a few phone calls to carriers and waiting while someone on the other end tracked it down. Innovations like GPS, telematics and real-time…",
-   "published": "2026-11-02T06:11:00+00:00"
   }
  ]
 }
