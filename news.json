@@ -1,6 +1,37 @@
 {
- "updated": "2026-11-04T21:30:27+00:00",
+ "updated": "2026-11-04T21:50:22+00:00",
  "items": [
+  {
+   "id": "https://www.dcvelocity.com/technology/artificial-intelligence/survey-one-in-six-say-an-ai-tool-has-exposed-supplier-or-customer-data",
+   "title": "Survey: one in six say an AI tool has exposed supplier or customer data",
+   "url": "https://www.dcvelocity.com/technology/artificial-intelligence/survey-one-in-six-say-an-ai-tool-has-exposed-supplier-or-customer-data",
+   "source": "DC Velocity",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "One in six supply chain, logistics, distribution, and wholesale leaders say their company had an incident in the past year in which an AI tool exposed, shared, or allowed incorrect access to supplier or customer data, according to a survey from Instalily, a provider of business AI agents.",
+   "published": "2026-11-04T21:39:20+00:00"
+  },
+  {
+   "id": "https://www.dcvelocity.com/material-handling/robotics/boston-startup-raises-38-million-for-its-ultra-large-autonomous-underwater-vehicles",
+   "title": "Boston startup raises $38 million for its ultra-large Autonomous Underwater Vehicles",
+   "url": "https://www.dcvelocity.com/material-handling/robotics/boston-startup-raises-38-million-for-its-ultra-large-autonomous-underwater-vehicles",
+   "source": "DC Velocity",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Tech",
+    "Ports/Rail"
+   ],
+   "excerpt": "A Massachusetts defense technology company has raised $38 million in financial backing to develop an undersea stealth logistics fleet that uses ultra-large Autonomous Underwater Vehicles (AUVs) to haul containerized payloads across vast distances. Boston-based Corridian said the funding will…",
+   "published": "2026-11-04T21:29:51+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585022",
    "title": "GXO’s contract wins surge 34%, but growth comes amid cost pressures",
@@ -1130,34 +1161,6 @@
    ],
    "excerpt": "The California-based autonomous factory creator Foundry Robotics has raised $100 million of venture capital to expand its 130,000-square-foot facility in Emeryville, near San Francisco, adding fast, flexible domestic assembly capacity for defense and industrial hardware.",
    "published": "2026-11-02T18:08:42+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104516",
-   "title": "Higher parts prices add another hit to truckers’ budgets",
-   "url": "https://landline.media/higher-parts-prices-add-another-hit-to-truckers-budgets/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Fixing your own truck won’t spare you. Find out what a new report says about parts prices and what could be coming next.",
-   "published": "2026-11-02T18:04:32+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104513",
-   "title": "Who pays when trucks get heavier?",
-   "url": "https://landline.media/who-pays-when-trucks-get-heavier/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Higher truck weights could mean fewer trips, but who pays for the added wear on roads and bridges? Here’s where states are changing the rules.",
-   "published": "2026-11-02T18:01:50+00:00"
   }
  ]
 }
