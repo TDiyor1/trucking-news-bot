@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-05T06:00:31+00:00",
+ "updated": "2026-11-05T06:30:28+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16424358",
+   "title": "Kodiak delivers first autonomous Western Stars to Texas oilfields",
+   "url": "https://www.ccjdigital.com/equipment-controls/article/16424358/kodiak-delivers-first-autonomous-western-stars-to-texas-oilfields",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Trucking news and briefs for Thursday, Nov. 5, 2026: Kodiak delivers first autonomous Western Star 49X trucks to Texas oilfields Kodiak AI this week announced it delivered the first two Western Star 49X trucks equipped with the Kodiak Driver autonomous system to Atlas Energy Solutions in September.…",
+   "published": "2026-11-05T06:26:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585053",
    "title": "33,000 truckers sidelined over violations as highway blitzes hit Arkansas, Virginia",
@@ -1147,20 +1161,6 @@
    ],
    "excerpt": "Dry van spot linehaul rates paid to carriers averaged $2.23 per mile last week, minus fuel, up 1.3%, or $0.03 per mile, from the week before. Rates climbed 32.6%, or $0.55 per mile, year over year and held 22.9%, or $0.42 per mile, above the nine-year seasonal average of $1.81 per mile, in the…",
    "published": "2026-11-02T19:01:20+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104520",
-   "title": "DOT clearing path for driverless vehicles",
-   "url": "https://landline.media/dot-clearing-path-for-driverless-vehicles/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "FMCSA recently granted driverless trucks an exemption. Now, NHTSA has proposed a broader rule for driverless vehicles.",
-   "published": "2026-11-02T18:59:20+00:00"
   }
  ]
 }
