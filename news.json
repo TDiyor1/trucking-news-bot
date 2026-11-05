@@ -1,6 +1,35 @@
 {
- "updated": "2026-11-05T20:01:42+00:00",
+ "updated": "2026-11-05T20:30:31+00:00",
  "items": [
+  {
+   "id": "https://joc.com/article/new-data-shows-results-of-us-ongoing-crackdown-on-illegal-trucking-6318620",
+   "title": "New data shows results of US' ongoing crackdown on illegal trucking",
+   "url": "https://joc.com/article/new-data-shows-results-of-us-ongoing-crackdown-on-illegal-trucking-6318620",
+   "source": "JOC",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "That comes as questions could arise in the new Congress about the role of immigration policy in the widespread move on illegal trucking as enforcement sweeps continue.",
+   "published": "2026-11-05T20:17:15+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=585148",
+   "title": "Conrail tabs Wright as president and chief operating officer",
+   "url": "https://www.freightwaves.com/news/conrail-tabs-wright-as-president-and-chief-operating-officer",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Conrail has named John Wright its new president and chief operating officer, bringing aboard a freight rail veteran with decades of operating and executive experience. Wright most recently served as general manager of Indiana Harbor Belt Railroad, a 600-employee switching and belt-line railroad…",
+   "published": "2026-11-05T20:01:30+00:00"
+  },
   {
    "id": "https://landline.media/?p=104585",
    "title": "Feds ramp up ELP enforcement",
@@ -1131,35 +1160,6 @@
    ],
    "excerpt": "The U.S. has launched a labor rights investigation into a Mexican packaging manufacturer and announced a separate agreement to address labor rights concerns at an ammunition factory. The two cases highlight continued enforcement of worker protections under the United States-Mexico-Canada Agreement…",
    "published": "2026-11-03T16:35:57+00:00"
-  },
-  {
-   "id": "https://www.logisticsmgmt.com/article/eia_reports_national_diesel_average_rises_for_the_first_time_in_three_weeks",
-   "title": "EIA reports national diesel average rises for the first time in three weeks",
-   "url": "https://www.logisticsmgmt.com/article/eia_reports_national_diesel_average_rises_for_the_first_time_in_three_weeks",
-   "source": "Logistics Management",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "The national average price per gallon of diesel gasoline rose fell for the first time in three weeks, following three weeks of declines, according to data issued today by the Department of Energy’s Energy Information Administration (EIA). For the week of November 2, the national average, at $6.292…",
-   "published": "2026-11-03T16:08:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584868",
-   "title": "Successful quarter at Expeditors boosted by hyperscaler business",
-   "url": "https://www.freightwaves.com/news/successful-quarter-at-expeditors-boosted-by-hyperscaler-business",
-   "source": "FreightWaves",
-   "audience": [
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Tariffs"
-   ],
-   "excerpt": "All the key numbers at Expeditors International pointed upward in the third quarter at the logistics and freight forwarding company. Revenue year-on-year was up 42%, to $4.1 billion at the asset-light customs broker and freight forwarder. Despite the fact that the cost of transportation rose 49%, a…",
-   "published": "2026-11-03T15:48:13+00:00"
   }
  ]
 }
