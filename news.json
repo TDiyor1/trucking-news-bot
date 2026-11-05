@@ -1,6 +1,32 @@
 {
- "updated": "2026-11-05T18:01:32+00:00",
+ "updated": "2026-11-05T18:30:35+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104569",
+   "title": "Will higher taxes get truckers out of traffic jams?",
+   "url": "https://landline.media/will-higher-taxes-get-truckers-out-of-traffic-jams/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Western voters decide on major transportation taxes. Truckers want to know if the money will mean better roads, less traffic and faster deliveries.",
+   "published": "2026-11-05T18:22:56+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=585108",
+   "title": "Behind The Capitol Christmas Tree Is A Kenworth, Four Drivers, And A 2,000 Mile Haul Only Trucking Can Pull Off",
+   "url": "https://www.freightwaves.com/news/behind-the-capitol-christmas-tree-is-a-kenworth-four-drivers-and-a-2000-mile-haul-only-trucking-can-pull-off",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Every December a towering evergreen rises on the West Lawn of the U.S. Capitol and gets called the People’s Tree, but before a child from its home state flips the switch to light it, the tree has to survive something most of the public never stops to consider, a journey of more than 2,000 miles…",
+   "published": "2026-11-05T17:50:28+00:00"
+  },
   {
    "id": "https://www.dcvelocity.com/transportation/regulation-government/analysts-democratic-midterm-election-sweep-could-shift-permitting-rules-but-not-tariffs",
    "title": "Analysts: Democratic midterm election sweep could shift permitting rules, but not tariffs",
@@ -1136,34 +1162,6 @@
    ],
    "excerpt": "A new survey of 103 industry experts has found that artificial intelligence is moving beyond trials in container ports and terminals, but measurable financial returns remain scarce. While 44% of respondents said their organizations had reached the scaling stage or beyond, Boston Consulting Group…",
    "published": "2026-11-03T14:09:39+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/oil-prices-us-attacks-iran",
-   "title": "Oil prices rebound after U.S. attacks Iran",
-   "url": "https://www.ttnews.com/articles/oil-prices-us-attacks-iran",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "After falling nearly 8% on Nov. 2, Brent crude rose almost 2% to $106.50 per barrel early Nov. 3 after the U.S. attacked Iran's Qeshm Island.",
-   "published": "2026-11-03T13:15:28+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584799",
-   "title": "Loamy raises $6M to flag produce before a buyer rejects it",
-   "url": "https://www.freightwaves.com/news/loamy-raises-6m-flag-produce-rejections",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Loamy, a Los Angeles startup that sells operations software to produce growers, packers, and distributors, has raised $6 million in seed funding led by Zeal Capital Partners. The round, announced Oct. 27, brings the company’s total funding to $10 million.",
-   "published": "2026-11-03T13:00:00+00:00"
   }
  ]
 }
