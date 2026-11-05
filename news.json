@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T20:30:31+00:00",
+ "updated": "2026-11-05T20:36:38+00:00",
  "items": [
   {
    "id": "https://joc.com/article/new-data-shows-results-of-us-ongoing-crackdown-on-illegal-trucking-6318620",
@@ -15,6 +15,22 @@
    ],
    "excerpt": "That comes as questions could arise in the new Congress about the role of immigration policy in the widespread move on illegal trucking as enforcement sweeps continue.",
    "published": "2026-11-05T20:17:15+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=585150",
+   "title": "Mexico cargo thieves shift tactics as Q3 truck parking thefts surge",
+   "url": "https://www.freightwaves.com/news/mexico-cargo-thieves-shift-tactics-as-q3-truck-parking-thefts-surge",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "Cargo thieves in Mexico are increasingly targeting parked trucks, shifting operations toward the country’s industrial heartland and exploiting nighttime security vulnerabilities. “Now, in Mexico, you can’t move loads without a plan,” Luis Enrique Villatoro, president of the Mexico-based National…",
+   "published": "2026-11-05T20:11:22+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=585148",
@@ -1146,20 +1162,6 @@
    ],
    "excerpt": "President Donald Trump’s sweeping tariffs and efforts to boost foreign direct investment have fallen short of their objectives, per the German Economic Institute.",
    "published": "2026-11-03T16:37:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584871",
-   "title": "US targets alleged labor violations at 2 Mexican factories",
-   "url": "https://www.freightwaves.com/news/us-targets-alleged-labor-violations-at-2-mexican-factories",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "The U.S. has launched a labor rights investigation into a Mexican packaging manufacturer and announced a separate agreement to address labor rights concerns at an ammunition factory. The two cases highlight continued enforcement of worker protections under the United States-Mexico-Canada Agreement…",
-   "published": "2026-11-03T16:35:57+00:00"
   }
  ]
 }
