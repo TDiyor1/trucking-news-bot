@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-05T13:30:28+00:00",
+ "updated": "2026-11-05T14:00:35+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/strike-deadline-port-la",
+   "title": "Strike deadline pushed to Nov. 6 at Port of Los Angeles",
+   "url": "https://www.ttnews.com/articles/strike-deadline-port-la",
+   "source": "Transport Topics",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "With the extension comes a renewed strike threat that could impact operations at several terminals across the Port of Long Beach and the Port of Los Angeles if no deal is reached.",
+   "published": "2026-11-05T13:23:12+00:00"
+  },
   {
    "id": "https://theloadstar.com/?p=327957",
    "title": "Port of Long Beach set to handle record 10m teu this year",
@@ -1145,22 +1160,6 @@
    ],
    "excerpt": "The newest module in Supply Chain Intelligence: Custom Insights uses a shipper’s own freight data to flag lanes that could move from truckload to intermodal, or between spot and contract, and estimates the savings lane by lane. SONAR has added mode conversion optimization to SCI: Custom Insights,…",
    "published": "2026-11-02T20:14:17+00:00"
-  },
-  {
-   "id": "https://www.dat.com/blog/?p=27707",
-   "title": "Reefer Report: Rates firm as truck posts shrink",
-   "url": "https://www.dat.com/blog/reefer-report-rates-firm-as-truck-posts-shrink",
-   "source": "DAT iQ",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Diesel"
-   ],
-   "excerpt": "Reefer spot linehaul rates paid to carriers averaged $2.71 per mile last week, minus fuel, up 1.2%, or $0.03 per mile, from the week before. Rates climbed 31.2%, or $0.65 per mile, year over year and held 27.5%, or $0.58 per mile, above the nine-year seasonal average of $2.13 per mile, near the top…",
-   "published": "2026-11-02T19:56:11+00:00"
   }
  ]
 }
