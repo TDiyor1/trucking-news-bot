@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-05T21:30:31+00:00",
+ "updated": "2026-11-05T21:47:09+00:00",
  "items": [
+  {
+   "id": "https://theloadstar.com/?p=327976",
+   "title": "STB turns UP-NS merger fight into inquiry over shipper intimidation",
+   "url": "https://theloadstar.com/stb-turns-up-ns-merger-fight-into-inquiry-over-shipper-intimidation/",
+   "source": "The Loadstar",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Union Pacific must disclose Jim Vena’s conference video and produce records about possible retaliation. The railroad denies making threats, and regulators have yet to decide whether anyone was intimidated – or whether the merger review should continue.",
+   "published": "2026-11-05T21:47:01+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585173",
    "title": "Teamsters say they’ve organized Amazon employees in Indiana; company demurs",
@@ -1145,20 +1159,6 @@
    ],
    "excerpt": "Schneider unveiled a deal making Norfolk Southern its primary eastern rail provider Oct. 29, demonstrating the size of the carrier’s intermodal ambitions.",
    "published": "2026-11-03T17:00:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584877",
-   "title": "FedEx uses dedicated logistics teams to win aerospace, automotive business",
-   "url": "https://www.freightwaves.com/news/fedex-uses-dedicated-logistics-teams-to-win-aerospace-automotive-business",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "FedEx Corp.’s recent strategy to focus more on specialized services for companies in industrial sectors with complex logistics requirements, beyond basic parcel delivery, is paying dividends, especially in the aerospace and automotive sectors. The freight transportation giant last week described…",
-   "published": "2026-11-03T16:56:02+00:00"
   }
  ]
 }
