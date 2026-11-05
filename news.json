@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-05T12:30:31+00:00",
+ "updated": "2026-11-05T13:00:34+00:00",
  "items": [
+  {
+   "id": "https://theloadstar.com/?p=327915",
+   "title": "US importers should reconsider farming out customs paperwork, warns CargoTrans",
+   "url": "https://theloadstar.com/us-importers-should-reconsider-farming-out-customs-paperwork-warns-cargotrans/",
+   "source": "The Loadstar",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "US importers using ‘delivered duty-paid’ (DDP) shipping arrangements face increasing compliance and financial risks, as Customs and Border Protection (CBP) intensifies its scrutiny of foreign importers of record, according to CargoTrans. Nunzio De Filippis, co-CEO, and Rennie Alston, director of…",
+   "published": "2026-11-05T12:52:09+00:00"
+  },
   {
    "id": "https://theloadstar.com/?p=327930",
    "title": "‘Reminds me of Covid’: AI equipment chokes Taiwan’s air cargo gateway",
@@ -1144,22 +1158,6 @@
    "tags": [],
    "excerpt": "Higher fuel and transportation expenses weighed on retailers’ supply chains during the third quarter, even as fulfillment improvements helped some companies contain costs. Early reports from Amazon, Tractor Supply and Carter’s point to an uneven environment heading into the holiday season, with…",
    "published": "2026-11-02T19:30:09+00:00"
-  },
-  {
-   "id": "https://www.dat.com/blog/?p=27704",
-   "title": "Flatbed Report: Tightest board gets tighter as truck posts fall 10%",
-   "url": "https://www.dat.com/blog/flatbed-report-tightest-board-gets-tighter-as-truck-posts-fall-10",
-   "source": "DAT iQ",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Diesel"
-   ],
-   "excerpt": "Flatbed spot linehaul rates paid to carriers averaged $2.61 per mile last week, minus fuel, up 0.5%, or $0.01 per mile, from the week before. Rates climbed 28.6%, or $0.58 per mile, year over year and held 25.6%, or $0.53 per mile, above the nine-year seasonal average of $2.08 per mile, above the…",
-   "published": "2026-11-02T19:07:04+00:00"
   }
  ]
 }
