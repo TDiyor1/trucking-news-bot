@@ -1,6 +1,52 @@
 {
- "updated": "2026-11-05T16:31:25+00:00",
+ "updated": "2026-11-05T17:00:45+00:00",
  "items": [
+  {
+   "id": "https://theloadstar.com/?p=327968",
+   "title": "Detention fees have a simple problem: a bigger bill cannot move a box that cannot move",
+   "url": "https://theloadstar.com/detention-fees-have-a-simple-problem-a-bigger-bill-cannot-move-a-box-that-cannot-move/",
+   "source": "The Loadstar",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Regulation",
+    "Ports/Rail"
+   ],
+   "excerpt": "The US Federal Maritime Commission wants research into when charges above compensatory cost actually speed cargo movement. For shippers, the critical distinction is between a delay they can prevent and one they cannot. A container is ready to leave a terminal, the trucker has an appointment, and…",
+   "published": "2026-11-05T16:45:38+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/mce-2026-all-about-networking-gaining-industry-insight/872943/",
+   "title": "MCE 2026 all about networking, gaining industry insight",
+   "url": "https://www.truckingdive.com/news/mce-2026-all-about-networking-gaining-industry-insight/872943/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Spikes in diesel fuel costs and new leaders setting the path ahead for the American Trucking Associations were among the areas of focus in this year’s annual conference.",
+   "published": "2026-11-05T16:28:00+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/canada-weighs-midterms-trade",
+   "title": "Canada weighs effects of midterms on trade deal with U.S.",
+   "url": "https://www.ttnews.com/articles/canada-weighs-midterms-trade",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation",
+    "Tariffs"
+   ],
+   "excerpt": "“Does Ottawa take a deal now that eases the pain but locks in some tariffs? Or bet on a Democratic Congress to rein Trump in?”",
+   "published": "2026-11-05T16:08:11+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/trucking-recovery-costello",
    "title": "Trucking recovery in early stages, ATA’s Costello says",
@@ -1118,51 +1164,6 @@
    ],
    "excerpt": "Californians head for the polls today to decide on Charter Amendment PRT – a package of changes affecting Los Angeles’s airports, harbour, and Department of Water and Power, including new workforce disclosure requirements for leases at the port. The measure would require applicants for certain new…",
    "published": "2026-11-03T12:31:31+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=327796",
-   "title": "Ecommerce growth leaves Latin America’s air cargo imbalance unresolved",
-   "url": "https://theloadstar.com/ecommerce-growth-leaves-latin-americas-air-cargo-imbalance-unresolved/",
-   "source": "The Loadstar",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "Growing ecommerce imports are reshaping Latin America’s air cargo networks, but have yet to resolve the region’s directional imbalance, with LATAM Cargo reporting that declining industrial shipments are offsetting some of the gains. Speaking to The Loadstar at TIACA’s Air Cargo Forum in Miami last…",
-   "published": "2026-11-03T12:12:06+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584770",
-   "title": "Delivery AI should earn its authority one segment at a time",
-   "url": "https://www.freightwaves.com/news/burq-earned-autonomy-delivery-ai",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Salman Habib thinks AI vendors are asking retailers for too much, too soon. The vendors pitching them so far want full trust from day one, the Burq cofounder said, and that is why many retailers are still stuck deciding whether to use AI at all. Burq’s software decides how each order gets…",
-   "published": "2026-11-03T12:00:00+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=327645",
-   "title": "Adani Ports bidding for Europe’s tank terminals – the test is whether it pays for returns or size",
-   "url": "https://theloadstar.com/adani-ports-bidding-for-europes-tank-terminals-the-test-is-whether-it-pays-for-returns-or-size/",
-   "source": "The Loadstar",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Adani Ports raised its guidance on growth that increasingly comes from outside India; walked away from Associated British Ports; has reportedly made a binding offer of about $3.3bn for European terminal operator EVOS; and has set up a company in Oman as the Port of Salalah prepares to change…",
-   "published": "2026-11-03T11:45:10+00:00"
   }
  ]
 }
