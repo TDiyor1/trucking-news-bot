@@ -1,6 +1,55 @@
 {
- "updated": "2026-11-05T14:30:28+00:00",
+ "updated": "2026-11-05T15:00:42+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/oil-prices-pullback-midterms",
+   "title": "Oil prices steady on possible war pullback after midterms",
+   "url": "https://www.ttnews.com/articles/oil-prices-pullback-midterms",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Diesel",
+    "Regulation"
+   ],
+   "excerpt": "The possibility of pressure from Congress to pull back on the war sent the price for a barrel of Brent crude oil, the international standard, plunging 8.7% to $94.62.",
+   "published": "2026-11-05T14:39:48+00:00"
+  },
+  {
+   "id": "https://www.supplychaindive.com/news/ebay-trims-depop-shipping-rates-bolsters-delivery-features/873710/",
+   "title": "EBay trims Depop shipping rates, bolsters delivery features",
+   "url": "https://www.supplychaindive.com/news/ebay-trims-depop-shipping-rates-bolsters-delivery-features/873710/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Tech"
+   ],
+   "excerpt": "The company is using AI to enable fast-but-reliable delivery promises and help sellers determine shipping costs more easily, CEO Jamie Iannone said.",
+   "published": "2026-11-05T14:38:18+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=585078",
+   "title": "Maersk raises profit outlook as earnings surge, but shares slide on expectations miss",
+   "url": "https://www.freightwaves.com/news/maersk-raises-profit-outlook-as-earnings-surge-but-shares-slide-on-expectations-miss",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "A.P. Moller-Maersk raised its full-year earnings forecast on Thursday after higher freight rates drove a sharp increase in third-quarter profit, but its shares fell as the results and upgraded outlook disappointed investors. The stock dropped as much as 11.6% in Copenhagen trading.",
+   "published": "2026-11-05T13:58:32+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/strike-deadline-port-la",
    "title": "Strike deadline pushed to Nov. 6 at Port of Los Angeles",
@@ -74,6 +123,20 @@
    ],
    "excerpt": "Regulations uncertainty and cost pressure subdue October truck orders. FTR reported preliminary North American Class 8 net orders of 15,600 units, down 24% from September and 36% from a year earlier. Year-to-date stand at 278,201 units, up 74% year over year.",
    "published": "2026-11-05T12:08:35+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=585089",
+   "title": "Port strike delayed again at Los Angeles, Long Beach ports",
+   "url": "https://www.freightwaves.com/news/port-strike-delayed-again-at-los-angeles-long-beach-ports",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "A potential strike by port watchmen at Los Angeles and Long Beach has been delayed again after the Pacific Maritime Association and International Longshore and Warehouse Union Local 26 agreed to extend their contract through midnight Pacific Time on Friday.",
+   "published": "2026-11-05T11:00:00+00:00"
   },
   {
    "id": "https://www.ccjdigital.com/16424358",
@@ -1100,66 +1163,6 @@
    ],
    "excerpt": "Federal and state law enforcement agencies arrested more than 230 undocumented immigrants, including more than 40 commercial driver’s license holders, during a 72-hour enforcement operation spanning 15 states. The operation, dubbed Operation Guardian , was conducted Oct. 26-28 by U.S.",
    "published": "2026-11-03T02:49:17+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584849",
-   "title": "Pamt Corp. sees Q3 net loss, books 109.1% truckload OR",
-   "url": "https://www.freightwaves.com/news/pamt-corp-sees-q3-net-loss-books-109-1-truckload-or",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Rates",
-    "Diesel"
-   ],
-   "excerpt": "Truckload carrier Pamt Corp. lost money again during the third quarter. Like other carriers , it pointed to elevated driver procurement costs and the spike in diesel fuel prices as the culprits. Pamt ( NASDAQ: PAMT ) reported a net loss of $8.1 million, or 38 cents per share, on Monday after the…",
-   "published": "2026-11-03T00:16:26+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584843",
-   "title": "Waiting on EPA ‘27 rule, Rush says it might not be soon",
-   "url": "https://www.freightwaves.com/news/waiting-on-epa-27-rule-rush-says-it-might-not-be-soon",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "With the trucking sector anticipating the release of the final rule by the Environmental Protection Agency on nitrogen oxide (NoX) standards–known colloquially as EPA ‘27–and what engines need to do to get there, one of the country’s biggest truck retailers took the issue head on its recent…",
-   "published": "2026-11-02T21:24:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/trucking-awaits-congress-2026",
-   "title": "Trucking awaits Congress’ next move on highway funds",
-   "url": "https://www.ttnews.com/articles/trucking-awaits-congress-2026",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "The $36.8 billion funding lapse affects road, safety and bridge projects across the country as states and localities try to plan ahead.",
-   "published": "2026-11-02T20:15:07+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584833",
-   "title": "SONAR SCI: Custom Insights Now Includes Conversion Optimization: Shows Shippers Where to Switch Modes and What They Can Save",
-   "url": "https://www.freightwaves.com/news/sonar-sci-custom-insights-now-includes-conversion-optimization-shows-shippers-where-to-switch-modes-and-what-they-can-save",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Rates",
-    "Ports/Rail"
-   ],
-   "excerpt": "The newest module in Supply Chain Intelligence: Custom Insights uses a shipper’s own freight data to flag lanes that could move from truckload to intermodal, or between spot and contract, and estimates the savings lane by lane. SONAR has added mode conversion optimization to SCI: Custom Insights,…",
-   "published": "2026-11-02T20:14:17+00:00"
   }
  ]
 }
