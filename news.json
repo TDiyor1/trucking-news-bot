@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T17:01:42+00:00",
+ "updated": "2026-11-05T17:30:28+00:00",
  "items": [
   {
    "id": "https://theloadstar.com/?p=327968",
@@ -194,6 +194,19 @@
    ],
    "excerpt": "The Californian port of Long Beach is predicted to handle more than 10m teu this year, for the first time. “It’s been a peak year,” Port of Long Beach CEO Noel Hacegaba told The Loadstar on the sidelines of the World Ports Conference in London this week.",
    "published": "2026-11-05T13:18:29+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=585101",
+   "title": "Americold raises full-year outlook as warehouse performance improves",
+   "url": "https://www.freightwaves.com/news/americold-raises-full-year-outlook-as-warehouse-performance-improves",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Americold Realty Trust raised its full-year earnings outlook Thursday after reporting higher third-quarter revenue and improved warehouse margins, while a one-time gain from its joint venture with EQT drove a sharp swing to profit. The temperature-controlled logistics company (NYSE: COLD ) based in…",
+   "published": "2026-11-05T13:00:00+00:00"
   },
   {
    "id": "https://theloadstar.com/?p=327915",
@@ -1149,21 +1162,6 @@
    ],
    "excerpt": "Uncertainty has led shippers to move an increased amount of inventory across inland markets versus port markets, according to experts, but it may not necessarily translate to a shift in demand.",
    "published": "2026-11-03T12:35:00+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=327802",
-   "title": "Vote opens on controversial Port of LA workforce disclosure rules",
-   "url": "https://theloadstar.com/vote-opens-on-controversial-port-of-la-workforce-disclosure-rules/",
-   "source": "The Loadstar",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Californians head for the polls today to decide on Charter Amendment PRT – a package of changes affecting Los Angeles’s airports, harbour, and Department of Water and Power, including new workforce disclosure requirements for leases at the port. The measure would require applicants for certain new…",
-   "published": "2026-11-03T12:31:31+00:00"
   }
  ]
 }
