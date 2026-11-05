@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-05T19:01:42+00:00",
+ "updated": "2026-11-05T19:30:29+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104573",
+   "title": "When helping unload turns deadly for a truck driver",
+   "url": "https://landline.media/when-helping-unload-turns-deadly-for-a-truck-driver/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "A truck driver’s death after helping unload a trailer puts a spotlight on risks beyond the highway and allegations of unsafe loading.",
+   "published": "2026-11-05T19:08:59+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585138",
    "title": "STB orders Union Pacific to make rate hike threat video public",
@@ -1146,20 +1158,6 @@
    "tags": [],
    "excerpt": "The manufacturer plans to add a third production shift, citing increasing customer interest in its new operations.",
    "published": "2026-11-03T15:12:00+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/saia-highlights-revenue-per-shipment-gains-in-q3/873480/",
-   "title": "Saia highlights revenue per shipment gains in Q3",
-   "url": "https://www.truckingdive.com/news/saia-highlights-revenue-per-shipment-gains-in-q3/873480/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "The company also reported a record-low claims ratio of 0.3% for the quarter and expressed optimism for growing into its expanded network.",
-   "published": "2026-11-03T15:00:00+00:00"
   }
  ]
 }
