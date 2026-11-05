@@ -1,6 +1,34 @@
 {
- "updated": "2026-11-05T19:31:40+00:00",
+ "updated": "2026-11-05T20:00:38+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104585",
+   "title": "Feds ramp up ELP enforcement",
+   "url": "https://landline.media/feds-ramp-up-english-language-proficiency-enforcement/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "The federal government has made English-language proficiency enforcement a priority. Recent numbers indicate they mean business.",
+   "published": "2026-11-05T19:57:12+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104580",
+   "title": "You haul the freight. Help shape the freight plan.",
+   "url": "https://landline.media/you-haul-the-freight-help-shape-the-freight-plan/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Your experience on the road could help shape a state’s freight plan. See what’s being asked and how to chime in.",
+   "published": "2026-11-05T19:49:53+00:00"
+  },
   {
    "id": "https://landline.media/?p=104573",
    "title": "When helping unload turns deadly for a truck driver",
@@ -1132,32 +1160,6 @@
    ],
    "excerpt": "All the key numbers at Expeditors International pointed upward in the third quarter at the logistics and freight forwarding company. Revenue year-on-year was up 42%, to $4.1 billion at the asset-light customs broker and freight forwarder. Despite the fact that the cost of transportation rose 49%, a…",
    "published": "2026-11-03T15:48:13+00:00"
-  },
-  {
-   "id": "https://www.logisticsmgmt.com/article/flexe_report_finds_warehouse_costs_rising_despite_increased_vacancy_amid_tariff_uncertainty_and_shifting_trade_flows",
-   "title": "Flexe report finds warehouse costs rising despite increased vacancy, amid tariff uncertainty and shifting trade flows",
-   "url": "https://www.logisticsmgmt.com/article/flexe_report_finds_warehouse_costs_rising_despite_increased_vacancy_amid_tariff_uncertainty_and_shifting_trade_flows",
-   "source": "Logistics Management",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "A new report recently issued by Seattle-based Flexe, the largest marketplace of flexible on-demand warehousing in North America, provided a detailed overview of the key factors influencing how shippers approach and rethink where they need to hold inventory and how long of a space commitment is…",
-   "published": "2026-11-03T15:32:00+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/hyundai-translead-ups-illinois-investment-by-150m-1250-jobs/833902/",
-   "title": "Hyundai Translead ups Illinois investment by $150M, 1,250 jobs",
-   "url": "https://www.truckingdive.com/news/hyundai-translead-ups-illinois-investment-by-150m-1250-jobs/833902/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [],
-   "excerpt": "The manufacturer plans to add a third production shift, citing increasing customer interest in its new operations.",
-   "published": "2026-11-03T15:12:00+00:00"
   }
  ]
 }
