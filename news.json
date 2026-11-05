@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-05T00:30:27+00:00",
+ "updated": "2026-11-05T00:52:18+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585052",
+   "title": "Transportation committee in House set for overhaul post-election",
+   "url": "https://www.freightwaves.com/news/transportation-committee-in-house-set-for-overhaul-post-election",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "The massive Democratic Party win on Election Day will have implications for government rules and regulations on trucking, including the so-called highway bill , driven in part by changes in the lineups of who will sit on Congress’ transportation-focused committees.",
+   "published": "2026-11-05T00:29:00+00:00"
+  },
   {
    "id": "https://www.truckingdive.com/news/arcbest-reports-q3-tonnage-gains/873746/",
    "title": "ArcBest reports Q3 tonnage gains",
@@ -1146,20 +1161,6 @@
    ],
    "excerpt": "Schneider National ( CCJ Top 250 , No. 6) and Norfolk Southern Corporation have announced a strategic partnership that combines Schneider’s asset-based intermodal services with Norfolk Southern’s 22-state rail network. Effective Jan. 1, the agreement—the financial terms of which were not…",
    "published": "2026-11-02T18:56:44+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16274677",
-   "title": "What your telematics data can say about you in court",
-   "url": "https://www.ccjdigital.com/technology/telematics/article/16274677/telematics-trucking-litigation-legal-risks-and-defense-strategies",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "After a serious crash involving a commercial truck, the plaintiff’s attorney will almost certainly ask for the carrier’s telematics data , and the request often reaches well past the minutes before impact. It may include driver safety scores, months of alert data, and notifications sent to…",
-   "published": "2026-11-02T18:34:14+00:00"
   }
  ]
 }
