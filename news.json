@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-05T15:00:42+00:00",
+ "updated": "2026-11-05T15:30:34+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/15975492",
+   "title": "Choosing a used oil collector: What fleets should check before signing on",
+   "url": "https://www.ccjdigital.com/maintenance/oils-lubricants/article/15975492/choosing-a-used-oil-collector-7-questions-fleets-should-ask",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Every fleet shop produces used oil, and most hand it to an outside collector without much thought. The truck shows up, the tank gets pumped, and the paperwork goes in a drawer. That routine works until something goes wrong: a load gets rejected, an inspector asks for records, or oil your shop…",
+   "published": "2026-11-05T15:13:22+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/16424364",
+   "title": "Fleetworthy's new AI-powered insights helps fleets identify toll leakage",
+   "url": "https://www.ccjdigital.com/technology/business-operations/article/16424364/fleetworthys-ai-intelligence-layer-identifies-toll-leakage",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Fleetworthy, a provider of compliance, toll, bypass and safety technology, has embedded an AI layer into its platform that surfaces insights derived from a fleet’s tolling data, and the fleets that tested it in beta have already realized benefits. “They've been able to quickly identify toll leakage…",
+   "published": "2026-11-05T15:10:00+00:00"
+  },
+  {
+   "id": "https://www.supplychaindive.com/news/schneider-national-says-rail-partner-shift-offers-network-boost/873847/",
+   "title": "Schneider National says rail partner shift offers network boost",
+   "url": "https://www.supplychaindive.com/news/schneider-national-says-rail-partner-shift-offers-network-boost/873847/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "CEO Jim Filter said the company brings 35 years of intermodal service experience to its new partnership with Norfolk Southern.",
+   "published": "2026-11-05T15:08:00+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/oil-prices-pullback-midterms",
    "title": "Oil prices steady on possible war pullback after midterms",
@@ -1122,47 +1162,6 @@
    ],
    "excerpt": "Customs says it has certified $127.7 billion in unlawful emergency-duty refunds. Court records reveal an impressive processing system, a nearly $1 billion banking-information bottleneck and a legal divide that still leaves some importers waiting. The United States has built a remarkably efficient…",
    "published": "2026-11-03T11:32:37+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16274715",
-   "title": "From hype to reality: How fleets are embracing AI",
-   "url": "https://www.ccjdigital.com/technology/artificial-intelligence/article/16274715/how-transportation-fleets-deploy-ai-today",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Artificial intelligence is rapidly shedding its label as corporate buzzword and taking root in the transportation sector, industry leaders said at the WEX OTR Summit in Ponte Vedra, Fla., last week. Panelists emphasized that AI is transitioning from conceptual hype to practical operations, with…",
-   "published": "2026-11-03T09:28:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16274724",
-   "title": "Ryder adds six new East Coast locations with acquisition",
-   "url": "https://www.ccjdigital.com/business/article/16274724/ryder-adds-six-new-east-coast-locations-with-acquisition",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Trucking news and briefs for Tuesday, Nov. 3, 2026: Ryder expands on East Coast with acquisition Ryder System ( CCJ Top 250 , No. 7) has completed the acquisition of Efficiency Enterprises, a regional provider of fleet management, maintenance, and leasing solutions for trucks, trailers, and…",
-   "published": "2026-11-03T06:16:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584856",
-   "title": "230-plus immigrants arrested in crackdown targeting unauthorized CDL holders",
-   "url": "https://www.freightwaves.com/news/230-plus-immigrants-arrested-in-crackdown-targeting-unauthorized-cdl-holders",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation",
-    "Tariffs"
-   ],
-   "excerpt": "Federal and state law enforcement agencies arrested more than 230 undocumented immigrants, including more than 40 commercial driver’s license holders, during a 72-hour enforcement operation spanning 15 states. The operation, dubbed Operation Guardian , was conducted Oct. 26-28 by U.S.",
-   "published": "2026-11-03T02:49:17+00:00"
   }
  ]
 }
