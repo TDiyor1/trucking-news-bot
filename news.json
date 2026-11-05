@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-05T18:31:48+00:00",
+ "updated": "2026-11-05T19:00:36+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585138",
+   "title": "STB orders Union Pacific to make rate hike threat video public",
+   "url": "https://www.freightwaves.com/news/stb-orders-union-pacific-to-make-rate-hike-threat-video-public",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Rates",
+    "Ports/Rail"
+   ],
+   "excerpt": "The Surface Transportation Board has ordered Union Pacific to make public a recording of Chief Executive Jim Vena’s remarks to a shipper conference, rejecting the railroad’s appeal in a dispute over whether he threatened customers who oppose its proposed acquisition of Norfolk Southern (NYSE: NSC…",
+   "published": "2026-11-05T18:35:09+00:00"
+  },
   {
    "id": "https://landline.media/?p=104569",
    "title": "Will higher taxes get truckers out of traffic jams?",
@@ -14,6 +29,20 @@
    "tags": [],
    "excerpt": "Western voters decide on major transportation taxes. Truckers want to know if the money will mean better roads, less traffic and faster deliveries.",
    "published": "2026-11-05T18:22:56+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/oklahoma-15-states-illegal-trucks",
+   "title": "Oklahoma leads 15-state truck driver enforcement operation",
+   "url": "https://www.ttnews.com/articles/oklahoma-15-states-illegal-trucks",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "A 15-state enforcement dragnet spearheaded by Oklahoma from Canada to the Gulf Coast led to the arrests of more than 40 foreign truck drivers with deportation orders.",
+   "published": "2026-11-05T18:15:00+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=585108",
@@ -1131,37 +1160,6 @@
    "tags": [],
    "excerpt": "The company also reported a record-low claims ratio of 0.3% for the quarter and expressed optimism for growing into its expanded network.",
    "published": "2026-11-03T15:00:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16349405",
-   "title": "How strong is your company’s digital front door?",
-   "url": "https://www.ccjdigital.com/technology/cybersecurity/article/16349405/why-your-company-website-is-a-cybersecurity-risk",
-   "source": "CCJ",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "When was the last time you thought about your company website, if you thought about it at all? What is its purpose? Who is the audience? And who keeps it running and its information current? Is it the IT team? The marketing department? An administrative assistant who inherited the job years ago?",
-   "published": "2026-11-03T14:42:42+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584861",
-   "title": "New survey finds AI rush isn’t boosting ports earnings",
-   "url": "https://www.freightwaves.com/news/new-survey-finds-ai-rush-isnt-boosting-ports-earnings",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tech",
-    "Ports/Rail"
-   ],
-   "excerpt": "A new survey of 103 industry experts has found that artificial intelligence is moving beyond trials in container ports and terminals, but measurable financial returns remain scarce. While 44% of respondents said their organizations had reached the scaling stage or beyond, Boston Consulting Group…",
-   "published": "2026-11-03T14:09:39+00:00"
   }
  ]
 }
