@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-05T17:31:30+00:00",
+ "updated": "2026-11-05T17:58:38+00:00",
  "items": [
+  {
+   "id": "https://www.dcvelocity.com/transportation/regulation-government/analysts-democratic-midterm-election-sweep-could-shift-permitting-rules-but-not-tariffs",
+   "title": "Analysts: Democratic midterm election sweep could shift permitting rules, but not tariffs",
+   "url": "https://www.dcvelocity.com/transportation/regulation-government/analysts-democratic-midterm-election-sweep-could-shift-permitting-rules-but-not-tariffs",
+   "source": "DC Velocity",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "The U.S. midterm election sweep of the House and Senate by Democrats will doubtless have impacts on global supply chains, but worldwide tariffs are likely to remain largely intact over the next twelve months, according to an analysis by Moody’s. That’s because most import duties are a domain of…",
+   "published": "2026-11-05T17:50:23+00:00"
+  },
+  {
+   "id": "https://www.dcvelocity.com/technology/transportation-it/survey-ports-are-slow-to-adopt-port-community-system-software",
+   "title": "Survey: Ports are slow to adopt Port Community System software",
+   "url": "https://www.dcvelocity.com/technology/transportation-it/survey-ports-are-slow-to-adopt-port-community-system-software",
+   "source": "DC Velocity",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs",
+    "Ports/Rail"
+   ],
+   "excerpt": "Only 5% of respondents said their port has fully implemented a Port Community System (PCS), which is an electronic platform that manages data distribution between the variety of stakeholders that comprise a port community, according to global research from logistics software vendor Kalé Logistics.…",
+   "published": "2026-11-05T17:42:53+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=585105",
+   "title": "Humble Robotics raises $51M for cabless hauler pilots",
+   "url": "https://www.freightwaves.com/news/humble-robotics-51m-series-a-cabless-hauler",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Humble Robotics raised a $51 million Series A on Thursday to move its cabless, electric Humble Hauler into customer pilots on port drayage and warehouse runs. Obvious Ventures led the round, with participation from existing investors Eclipse and Energy Impact Partners.",
+   "published": "2026-11-05T17:05:13+00:00"
+  },
   {
    "id": "https://theloadstar.com/?p=327968",
    "title": "Detention fees have a simple problem: a bigger bill cannot move a box that cannot move",
@@ -1120,48 +1164,6 @@
    "tags": [],
    "excerpt": "Loamy, a Los Angeles startup that sells operations software to produce growers, packers, and distributors, has raised $6 million in seed funding led by Zeal Capital Partners. The round, announced Oct. 27, brings the company’s total funding to $10 million.",
    "published": "2026-11-03T13:00:00+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=327814",
-   "title": "Upswing in domestic demand gives railfreight operators a revenue boost",
-   "url": "https://theloadstar.com/upswing-in-domestic-demand-gives-railfreight-operators-a-revenue-boost/",
-   "source": "The Loadstar",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Union Pacific led the way on the North American containerised rail freight front over the three months to October, amid all the noise surrounding its pending acquisition of Norfolk Southern – but it was not alone in enjoying a bountiful summer. In general, North American intermodal operators…",
-   "published": "2026-11-03T12:48:37+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/is-warehouse-demand-shifting-towards-inland-markets/872921/",
-   "title": "Is warehouse demand shifting towards inland markets?",
-   "url": "https://www.supplychaindive.com/news/is-warehouse-demand-shifting-towards-inland-markets/872921/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Uncertainty has led shippers to move an increased amount of inventory across inland markets versus port markets, according to experts, but it may not necessarily translate to a shift in demand.",
-   "published": "2026-11-03T12:35:00+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/is-warehouse-demand-shifting-toward-inland-markets/872921/",
-   "title": "Is warehouse demand shifting toward inland markets?",
-   "url": "https://www.supplychaindive.com/news/is-warehouse-demand-shifting-toward-inland-markets/872921/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Uncertainty has led shippers to move an increased amount of inventory across inland markets versus port markets, according to experts, but it may not necessarily translate to a shift in demand.",
-   "published": "2026-11-03T12:35:00+00:00"
   }
  ]
 }
