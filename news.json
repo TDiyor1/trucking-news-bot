@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-05T00:52:18+00:00",
+ "updated": "2026-11-05T01:00:32+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585053",
+   "title": "33,000 truckers sidelined over violations as highway blitzes hit Arkansas, Virginia",
+   "url": "https://www.freightwaves.com/news/33000-truckers-sidelined-over-violations-as-highway-blitzes-hit-arkansas-virginia",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "Federal trucking regulators are expanding Operation Highway Shield enforcement efforts across the United States, with new inspections in Virginia uncovering 100 safety violations. As of Nov. 4, the U.S. Department of Transportation reports that 33,000 commercial drivers have been placed out of…",
+   "published": "2026-11-05T00:37:57+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585052",
    "title": "Transportation committee in House set for overhaul post-election",
@@ -1147,20 +1161,6 @@
    ],
    "excerpt": "FMCSA recently granted driverless trucks an exemption. Now, NHTSA has proposed a broader rule for driverless vehicles.",
    "published": "2026-11-02T18:59:20+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16274642",
-   "title": "Schneider sets sights on being cornerstone in historic proposed rail merger",
-   "url": "https://www.ccjdigital.com/ccj-top-250/article/16274642/schneider-norfolk-southern-partner-for-eastern-intermodal-expansion",
-   "source": "CCJ",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Schneider National ( CCJ Top 250 , No. 6) and Norfolk Southern Corporation have announced a strategic partnership that combines Schneider’s asset-based intermodal services with Norfolk Southern’s 22-state rail network. Effective Jan. 1, the agreement—the financial terms of which were not…",
-   "published": "2026-11-02T18:56:44+00:00"
   }
  ]
 }
