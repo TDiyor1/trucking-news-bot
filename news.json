@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-05T23:00:30+00:00",
+ "updated": "2026-11-05T23:17:18+00:00",
  "items": [
+  {
+   "id": "https://www.dat.com/blog/?p=27712",
+   "title": "Reefer Produce Report: Produce volume slips 3% while lane rates run 16% to 51% above last year",
+   "url": "https://www.dat.com/blog/reefer-produce-report-produce-volume-slips-3-while-lane-rates-run-16-to-51-above-last-year",
+   "source": "DAT iQ",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Tariffs"
+   ],
+   "excerpt": "National refrigerated produce volume fell 3% last week and 7% from a year earlier. Mexico crossings through Texas fell 9% and South and Central California fell 25%, while the Imperial and Coachella section jumped 33%. California and Washington each slipped 1%.",
+   "published": "2026-11-05T23:05:03+00:00"
+  },
   {
    "id": "https://theloadstar.com/?p=327976",
    "title": "STB turns UP-NS merger fight into inquiry over shipper intimidation",
@@ -1144,21 +1160,6 @@
    ],
    "excerpt": "The benchmark price used for most fuel surcharges fell this week, but the focus in oil markets is on the huge decline in futures market prices recorded Monday. The Department of Energy/Energy Information Administration average weekly retail diesel price fell to $6.292/gallon, a decline of 6 cts/g,…",
    "published": "2026-11-03T17:13:17+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/schneider-norfolk-southern-deal",
-   "title": "Schneider shifts eastern intermodal freight to Norfolk Southern",
-   "url": "https://www.ttnews.com/articles/schneider-norfolk-southern-deal",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Schneider unveiled a deal making Norfolk Southern its primary eastern rail provider Oct. 29, demonstrating the size of the carrier’s intermodal ambitions.",
-   "published": "2026-11-03T17:00:00+00:00"
   }
  ]
 }
