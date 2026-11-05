@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-05T13:00:34+00:00",
+ "updated": "2026-11-05T13:19:18+00:00",
  "items": [
+  {
+   "id": "https://theloadstar.com/?p=327957",
+   "title": "Port of Long Beach set to handle record 10m teu this year",
+   "url": "https://theloadstar.com/port-of-long-beach-set-to-handle-record-10m-teu-this-year/",
+   "source": "The Loadstar",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The Californian port of Long Beach is predicted to handle more than 10m teu this year, for the first time. “It’s been a peak year,” Port of Long Beach CEO Noel Hacegaba told The Loadstar on the sidelines of the World Ports Conference in London this week.",
+   "published": "2026-11-05T13:18:29+00:00"
+  },
   {
    "id": "https://theloadstar.com/?p=327915",
    "title": "US importers should reconsider farming out customs paperwork, warns CargoTrans",
@@ -1146,18 +1161,6 @@
    ],
    "excerpt": "Reefer spot linehaul rates paid to carriers averaged $2.71 per mile last week, minus fuel, up 1.2%, or $0.03 per mile, from the week before. Rates climbed 31.2%, or $0.65 per mile, year over year and held 27.5%, or $0.58 per mile, above the nine-year seasonal average of $2.13 per mile, near the top…",
    "published": "2026-11-02T19:56:11+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584827",
-   "title": "Amazon, retailers paid more for freight in 3Q",
-   "url": "https://www.freightwaves.com/news/amazon-retailers-paid-more-for-freight-in-3q",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [],
-   "excerpt": "Higher fuel and transportation expenses weighed on retailers’ supply chains during the third quarter, even as fulfillment improvements helped some companies contain costs. Early reports from Amazon, Tractor Supply and Carter’s point to an uneven environment heading into the holiday season, with…",
-   "published": "2026-11-02T19:30:09+00:00"
   }
  ]
 }
