@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-06T02:30:45+00:00",
+ "updated": "2026-11-06T03:00:40+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585295",
+   "title": "EXCLUSIVE: ‘Humor is good,’ Union Pacific CEO says of video rate threat",
+   "url": "https://www.freightwaves.com/news/exclusive-humor-is-good-union-pacific-ceo-says-of-video-rate-threat",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Rates",
+    "Ports/Rail"
+   ],
+   "excerpt": "The chief executive of Union Pacific says he wasn’t serious when he threatened to raise rates for shippers that didn’t support UP’s merger with Norfolk Southern. Vena, who frequently peppers his public comments with joking asides, characterized the comment made to a shippers group as “a little…",
+   "published": "2026-11-06T02:35:19+00:00"
+  },
   {
    "id": "https://joc.com/article/up-ceo-vena-under-fire-for-offhand-comment-about-norfolk-southern-deal-6318667",
    "title": "UP CEO Vena under fire for 'offhand comment' about Norfolk Southern deal",
@@ -1145,22 +1160,6 @@
    ],
    "excerpt": "An October survey of supply chain executives confirmed what truckload carriers said on recent quarterly calls—that rates are likely to remain on the rise for the foreseeable future. The Logistics Managers’ Index, released Tuesday, showed further capacity declines alongside surging pricing.",
    "published": "2026-11-03T17:34:45+00:00"
-  },
-  {
-   "id": "https://joc.com/article/tfi-looks-to-build-non-union-us-ltl-network-beyond-tforce-freight-6317048",
-   "title": "TFI looks to build non-union US LTL network beyond TForce Freight",
-   "url": "https://joc.com/article/tfi-looks-to-build-non-union-us-ltl-network-beyond-tforce-freight-6317048",
-   "source": "JOC",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "The plan, revealed by TFI CEO Alain Bédard, is to build an asset-light less-than-truckload network using contractors while its unionized subsidiary TForce regroups under new management.",
-   "published": "2026-11-03T17:22:14+00:00"
   }
  ]
 }
