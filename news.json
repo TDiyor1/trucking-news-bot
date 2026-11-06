@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-06T16:31:12+00:00",
+ "updated": "2026-11-06T17:00:36+00:00",
  "items": [
+  {
+   "id": "https://www.truckingdive.com/news/ps-logistics-subsidiary-acquires-tennessee-based-trucking-business/873977/",
+   "title": "PS Logistics subsidiary acquires Tennessee-based trucking business",
+   "url": "https://www.truckingdive.com/news/ps-logistics-subsidiary-acquires-tennessee-based-trucking-business/873977/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Roane Transportation Services and co-founder Steve Kennedy will join Loudon County Trucking, according to an M&A announcement.",
+   "published": "2026-11-06T16:48:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585331",
    "title": "Walmart to take drone delivery nationwide as Zipline raises $1.5B",
@@ -1153,21 +1167,6 @@
    ],
    "excerpt": "The carrier is changing its primary eastern railroad after 18 years. It could reshape competition for domestic containers – but the volume CSX will lose remains undisclosed, and the UP–NS merger is still only a proposal. The biggest question in Schneider National’s new rail deal is also the one…",
    "published": "2026-11-04T11:36:58+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=327851",
-   "title": "Infrastructure can’t cope with pace of pan-American air trade growth",
-   "url": "https://theloadstar.com/infrastructure-cant-cope-with-pace-of-pan-american-air-trade-growth/",
-   "source": "The Loadstar",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tariffs",
-    "Capacity"
-   ],
-   "excerpt": "Airport cargo infrastructure, as well as established ways of handling logistics, are being challenged by growing traffic. Airfreight capacity between Latin America and Canada is on the rise, courtesy of Air Canada (AC). Last month, the airline resumed service to Santiago and Lima, serving the…",
-   "published": "2026-11-04T11:23:30+00:00"
   }
  ]
 }
