@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-06T06:30:29+00:00",
+ "updated": "2026-11-06T06:37:05+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16424466",
+   "title": "Cargo theft losses climb as incidents continue to decline",
+   "url": "https://www.ccjdigital.com/regulations/article/16424466/cargo-theft-losses-climb-as-incidents-continue-to-decline",
+   "source": "CCJ",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Fraud"
+   ],
+   "excerpt": "Trucking news and briefs for Friday, Nov. 6, 2026: Cargo theft losses up 12% year-over-year as total thefts down 33% Cargo thieves in the third quarter of 2026 continued to favor targeting fewer high-value thefts rather than a higher number of lower-value commodities, according to a quarterly cargo…",
+   "published": "2026-11-06T06:28:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585295",
    "title": "EXCLUSIVE: ‘Humor is good,’ Union Pacific CEO says of video rate threat",
@@ -1144,22 +1159,6 @@
    ],
    "excerpt": "The railroad is metering the movement of containers destined for inland hubs in order not to overwhelm the terminals with cargo; it could be another week before service returns to normal.",
    "published": "2026-11-03T18:52:14+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584884",
-   "title": "Holiday inventory surge supportive of double-digit-plus TL contract rates",
-   "url": "https://www.freightwaves.com/news/holiday-inventory-surge-supportive-of-double-digit-plus-tl-contract-rates",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Rates",
-    "Capacity"
-   ],
-   "excerpt": "An October survey of supply chain executives confirmed what truckload carriers said on recent quarterly calls—that rates are likely to remain on the rise for the foreseeable future. The Logistics Managers’ Index, released Tuesday, showed further capacity declines alongside surging pricing.",
-   "published": "2026-11-03T17:34:45+00:00"
   }
  ]
 }
