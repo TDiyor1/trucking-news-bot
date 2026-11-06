@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-06T15:00:36+00:00",
+ "updated": "2026-11-06T15:30:31+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585312",
+   "title": "North America container imports rise 9% as as freight pricing pressures mount",
+   "url": "https://www.freightwaves.com/news/north-america-container-imports-rise-9-as-as-freight-pricing-pressures-mount",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tariffs",
+    "Ports/Rail"
+   ],
+   "excerpt": "Global container volumes reached 17.35 million TEUs in September 2026, up 8% from a year earlier, as trade remained resilient despite mounting disruption and rising freight prices. Monthly liftings fell 1.4% from August , although the decline followed the highest monthly volume recorded in the…",
+   "published": "2026-11-06T15:09:01+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585308",
    "title": "Ryder grows its FMS business with East Coast acquisition",
@@ -1154,19 +1169,6 @@
    ],
    "excerpt": "Super Ego insists it’s a leasing company, not a motor carrier. So why do its new lease rules look a lot like carrier rules?",
    "published": "2026-11-03T19:54:41+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104531",
-   "title": "Is your fuel stop pocketing the tax break?",
-   "url": "https://landline.media/is-your-fuel-stop-pocketing-the-tax-break/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [],
-   "excerpt": "A 41-cent fuel tax break was meant for drivers. Complaints have North Carolina asking retailers where those savings went.",
-   "published": "2026-11-03T19:53:04+00:00"
   }
  ]
 }

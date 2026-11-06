@@ -1,4 +1,20 @@
 {
  "last_digest": "2026-11-06",
- "queue": []
+ "queue": [
+  {
+   "id": "https://www.freightwaves.com/?p=585312",
+   "title": "North America container imports rise 9% as as freight pricing pressures mount",
+   "url": "https://www.freightwaves.com/news/north-america-container-imports-rise-9-as-as-freight-pricing-pressures-mount",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tariffs",
+    "Ports/Rail"
+   ],
+   "excerpt": "Global container volumes reached 17.35 million TEUs in September 2026, up 8% from a year earlier, as trade remained resilient despite mounting disruption and rising freight prices. Monthly liftings fell 1.4% from August , although the decline followed the highest monthly volume recorded in the…",
+   "published": "2026-11-06T15:09:01+00:00"
+  }
+ ]
 }
