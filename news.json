@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T21:30:29+00:00",
+ "updated": "2026-11-06T21:47:26+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/about-us-transport-topics-top-50-global-freight-companies",
@@ -15,6 +15,21 @@
    ],
    "excerpt": "The Transport Topics Top 50 Global Freight Companies is a listing of the largest package, truck, rail, air and ocean carriers in the world.",
    "published": "2026-11-07T12:00:00+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/federal-gas-tax-holiday-2026",
+   "title": "What would a federal gas tax holiday mean for trucking?",
+   "url": "https://www.ttnews.com/articles/federal-gas-tax-holiday-2026",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "It’s unclear if there is political will to pass a federal gas tax suspension in the lame-duck session of Congress starting Nov. 9 or in the next Congress.",
+   "published": "2026-11-06T21:43:15+00:00"
   },
   {
    "id": "https://www.supplychaindive.com/news/up-ceos-rate-threat-adds-wrinkle-to-norfolk-southern-merger-process/874006/",
@@ -1140,22 +1155,6 @@
    "tags": [],
    "excerpt": "A proposed Michigan law could let crash victims sue brokers over drivers with known safety problems. Here’s what that could mean for truckers.",
    "published": "2026-11-04T17:40:05+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584998",
-   "title": "Asia-US container rates hold as carriers seek $3,000 November rate hikes",
-   "url": "https://www.freightwaves.com/news/asia-us-container-rates-hold-as-carriers-seek-3000-november-rate-hikes",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Rates",
-    "Ports/Rail"
-   ],
-   "excerpt": "Trans-Pacific ocean rates remain well above pre-peak levels, and carriers are seeking increases of $2,000–$3,000 per FEU for November despite signs that the prolonged peak season is ending. Forwarders cited improving space availability and more consistent vessel schedules as reasons to doubt that…",
-   "published": "2026-11-04T17:39:26+00:00"
   }
  ]
 }
