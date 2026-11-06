@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T18:01:18+00:00",
+ "updated": "2026-11-06T18:26:22+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/about-us-transport-topics-top-50-global-freight-companies",
@@ -15,6 +15,20 @@
    ],
    "excerpt": "The Transport Topics Top 50 Global Freight Companies is a listing of the largest package, truck, rail, air and ocean carriers in the world.",
    "published": "2026-11-07T12:00:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=585164",
+   "title": "CBP seizes 1,000-plus pounds of meth in produce truck at Texas border",
+   "url": "https://www.freightwaves.com/news/cbp-seizes-1000-plus-pounds-of-meth-in-produce-truck-at-texas-border",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "A tractor-trailer hauling leeks concealed more than 1,000 pounds of methamphetamine as it approached the Texas border. Federal officers discovered 909 packages of suspected narcotics during an Oct. 30 inspection of a commercial truck entering South Texas.",
+   "published": "2026-11-06T18:12:59+00:00"
   },
   {
    "id": "https://landline.media/?p=104591",
@@ -1150,21 +1164,6 @@
    ],
    "excerpt": "Heavier shipments are driving higher tonnage and revenue per bill at ArcBest’s less-than-truckload unit. Freight lost to a once-depressed truckload market is returning alongside an improved manufacturing complex. The changing freight mix helped the company beat third-quarter expectations on…",
    "published": "2026-11-04T13:52:29+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/democrats-control-congress",
-   "title": "Voters give Democrats control of Congress in rebuke to Trump",
-   "url": "https://www.ttnews.com/articles/democrats-control-congress",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "Democrats flipped at least seven Senate seats in ruby-red states and battlegrounds alike: Kansas, which hasn’t elected a Democratic senator in nearly a century, Iowa, Texas, Ohio, Maine, North Carolina and South Carolina.",
-   "published": "2026-11-04T13:06:59+00:00"
   }
  ]
 }
