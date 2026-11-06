@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-05T23:47:16+00:00",
+ "updated": "2026-11-06T00:00:34+00:00",
  "items": [
+  {
+   "id": "https://joc.com/article/up-ceo-vena-under-fire-for-offhand-comment-about-norfolk-southern-deal-6318667",
+   "title": "UP CEO Vena under fire for 'offhand comment' about Norfolk Southern deal",
+   "url": "https://joc.com/article/up-ceo-vena-under-fire-for-offhand-comment-about-norfolk-southern-deal-6318667",
+   "source": "JOC",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Rates",
+    "Ports/Rail"
+   ],
+   "excerpt": "The railroad says the comments threatening higher rates against those who oppose the NS merger were made in jest, but others argue they amounted to threats of retaliation that have prevented shippers from speaking out against the deal.",
+   "published": "2026-11-05T23:55:10+00:00"
+  },
   {
    "id": "https://www.dat.com/blog/?p=27712",
    "title": "Reefer Produce Report: Produce volume slips 3% while lane rates run 16% to 51% above last year",
@@ -1146,20 +1161,6 @@
    ],
    "excerpt": "The plan, revealed by TFI CEO Alain Bédard, is to build an asset-light less-than-truckload network using contractors while its unionized subsidiary TForce regroups under new management.",
    "published": "2026-11-03T17:22:14+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584880",
-   "title": "Benchmark diesel price is down; so is futures market in a big way",
-   "url": "https://www.freightwaves.com/news/benchmark-diesel-price-is-down-so-is-futures-market-in-a-big-way",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "The benchmark price used for most fuel surcharges fell this week, but the focus in oil markets is on the huge decline in futures market prices recorded Monday. The Department of Energy/Energy Information Administration average weekly retail diesel price fell to $6.292/gallon, a decline of 6 cts/g,…",
-   "published": "2026-11-03T17:13:17+00:00"
   }
  ]
 }
