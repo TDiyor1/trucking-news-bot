@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T18:31:23+00:00",
+ "updated": "2026-11-06T19:00:41+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/about-us-transport-topics-top-50-global-freight-companies",
@@ -17,6 +17,47 @@
    "published": "2026-11-07T12:00:00+00:00"
   },
   {
+   "id": "https://landline.media/?p=104595",
+   "title": "A discount that supports troops? Truckers For Troops is back",
+   "url": "https://landline.media/a-discount-that-supports-troops-truckers-for-troops-is-back/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Year after year, truckers show up for those who serve. See what Truckers For Troops has planned and how you can join in.",
+   "published": "2026-11-06T18:53:03+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104601",
+   "title": "Truck driver sues city after street swallows part of her truck",
+   "url": "https://landline.media/truck-driver-sues-city-after-street-swallows-part-of-her-truck/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Truckers usually eat the cost when bad roads damage their rigs. One driver is taking her fight to court after a sinkhole opened up.",
+   "published": "2026-11-06T18:50:53+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104597",
+   "title": "With midterms over, it’s highway bill time",
+   "url": "https://landline.media/with-midterms-over-its-highway-bill-time/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "Mid-term elections are over, and the 119th Congress resumes next week. Soon, decisions will need to be made about the next highway bill.",
+   "published": "2026-11-06T18:45:30+00:00"
+  },
+  {
    "id": "https://www.freightwaves.com/?p=585164",
    "title": "CBP seizes 1,000-plus pounds of meth in produce truck at Texas border",
    "url": "https://www.freightwaves.com/news/cbp-seizes-1000-plus-pounds-of-meth-in-produce-truck-at-texas-border",
@@ -29,6 +70,21 @@
    ],
    "excerpt": "A tractor-trailer hauling leeks concealed more than 1,000 pounds of methamphetamine as it approached the Texas border. Federal officers discovered 909 packages of suspected narcotics during an Oct. 30 inspection of a commercial truck entering South Texas.",
    "published": "2026-11-06T18:12:59+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/dtna-reveal-new-plant-site",
+   "title": "DTNA likely to reveal new U.S. plant site by Christmas",
+   "url": "https://www.ttnews.com/articles/dtna-reveal-new-plant-site",
+   "source": "Transport Topics",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "DTNA promised an expedited timeline for the plant due to an expected increase in demand in the U.S. and Canada. The plant is expected to begin operations in 2029.",
+   "published": "2026-11-06T18:10:46+00:00"
   },
   {
    "id": "https://landline.media/?p=104591",
@@ -1104,66 +1160,6 @@
    ],
    "excerpt": "CEO Jim Filter said the company’s strategy strengthens its position as capacity tightens.",
    "published": "2026-11-04T15:09:00+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/fedex-network-20-headed-to-los-angeles-other-markets-post-holidays/873695/",
-   "title": "FedEx Network 2.0 headed to Los Angeles, other markets post-holidays",
-   "url": "https://www.truckingdive.com/news/fedex-network-20-headed-to-los-angeles-other-markets-post-holidays/873695/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "The integration plan is delivering savings as the company faces increased expenses, such as over-the-road linehaul.",
-   "published": "2026-11-04T15:06:00+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/old-dominion-expects-year-end-performance-to-be-above-seasonality/873107/",
-   "title": "Old Dominion expects year-end performance to be ‘above seasonality’",
-   "url": "https://www.truckingdive.com/news/old-dominion-expects-year-end-performance-to-be-above-seasonality/873107/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Diesel volatility and rising inflation shifting consumer habits could be potential headwinds in Q4, executives said.",
-   "published": "2026-11-04T15:05:00+00:00"
-  },
-  {
-   "id": "https://www.freightcaviar.com/stories/peak-season-on-ozempic",
-   "title": "🎣 Peak Season on Ozempic",
-   "url": "https://www.freightcaviar.com/stories/peak-season-on-ozempic",
-   "source": "Freight Caviar",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Rates",
-    "Diesel"
-   ],
-   "excerpt": "Truckload rejections are falling when they should be climbing ahead of the holidays, and diesel is still above $6 a gallon.",
-   "published": "2026-11-04T14:00:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584948",
-   "title": "Higher shipment weights help ArcBest beat Q3 expectations",
-   "url": "https://www.freightwaves.com/news/higher-shipment-weights-help-arcbest-beat-q3-expectations",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Regulation"
-   ],
-   "excerpt": "Heavier shipments are driving higher tonnage and revenue per bill at ArcBest’s less-than-truckload unit. Freight lost to a once-depressed truckload market is returning alongside an improved manufacturing complex. The changing freight mix helped the company beat third-quarter expectations on…",
-   "published": "2026-11-04T13:52:29+00:00"
   }
  ]
 }
