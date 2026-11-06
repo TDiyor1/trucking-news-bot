@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T19:31:27+00:00",
+ "updated": "2026-11-06T19:55:31+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/about-us-transport-topics-top-50-global-freight-companies",
@@ -15,6 +15,21 @@
    ],
    "excerpt": "The Transport Topics Top 50 Global Freight Companies is a listing of the largest package, truck, rail, air and ocean carriers in the world.",
    "published": "2026-11-07T12:00:00+00:00"
+  },
+  {
+   "id": "https://www.supplychaindive.com/news/up-ceos-rate-threat-adds-wrinkle-to-norfolk-southern-merger-process/874006/",
+   "title": "UP CEO’s rate threat adds wrinkle to Norfolk Southern merger process",
+   "url": "https://www.supplychaindive.com/news/up-ceos-rate-threat-adds-wrinkle-to-norfolk-southern-merger-process/874006/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Rates",
+    "Ports/Rail"
+   ],
+   "excerpt": "The railroad said Jim Vena’s remarks that he would raise rates on shippers who oppose the merger was an “offhand comment.”",
+   "published": "2026-11-06T19:49:00+00:00"
   },
   {
    "id": "https://landline.media/?p=104609",
@@ -1141,22 +1156,6 @@
    ],
    "excerpt": "Democrats’ Nov. 3 takeover of both chambers of Congress puts transportation policy in new hands, but the outgoing lawmakers still face a crowded trucking agenda.",
    "published": "2026-11-04T16:00:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=584974",
-   "title": "Trimble cuts growth outlook as European freight market slows",
-   "url": "https://www.freightwaves.com/news/trimble-cuts-growth-outlook-as-european-freight-market-slows",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Trimble reported higher third-quarter revenue and earnings Wednesday, but lowered its full-year recurring revenue growth forecast as weakness in European freight markets and slower demand for positioning services weighed on its outlook. The Westminster, Colorado-based technology company (NASDAQ:…",
-   "published": "2026-11-04T15:28:49+00:00"
   }
  ]
 }
