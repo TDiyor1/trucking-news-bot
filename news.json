@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T20:32:50+00:00",
+ "updated": "2026-11-06T21:00:34+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/about-us-transport-topics-top-50-global-freight-companies",
@@ -126,6 +126,21 @@
    "tags": [],
    "excerpt": "Arizona voters weighed in on traffic cameras, mileage taxes and transportation funding. Here’s what the election decisions mean for truckers and drivers.",
    "published": "2026-11-06T17:29:31+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=585415",
+   "title": "STB signals broader protection for rail-served projects against state and local restrictions",
+   "url": "https://www.freightwaves.com/news/stb-signals-broader-protection-for-rail-served-projects-against-state-and-local-restrictions",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The Surface Transportation Board is signaling that state and local restrictions on rail customers’ facilities may face greater scrutiny under federal law, issuing a sweeping policy statement that questions aspects of earlier agency decisions involving privately owned terminals and other rail-served…",
+   "published": "2026-11-06T17:25:00+00:00"
   },
   {
    "id": "https://www.ttnews.com/articles/cummins-earnings-q3-2026",
@@ -1141,21 +1156,6 @@
    ],
    "excerpt": "Trans-Pacific ocean rates remain well above pre-peak levels, and carriers are seeking increases of $2,000–$3,000 per FEU for November despite signs that the prolonged peak season is ending. Forwarders cited improving space availability and more consistent vessel schedules as reasons to doubt that…",
    "published": "2026-11-04T17:39:26+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/trucking-policy-post-midterms",
-   "title": "Who holds the wheel on trucking policy after the midterms?",
-   "url": "https://www.ttnews.com/articles/trucking-policy-post-midterms",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "Democrats’ Nov. 3 takeover of both chambers of Congress puts transportation policy in new hands, but the outgoing lawmakers still face a crowded trucking agenda.",
-   "published": "2026-11-04T16:00:00+00:00"
   }
  ]
 }
