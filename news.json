@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T19:01:25+00:00",
+ "updated": "2026-11-06T19:30:30+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/about-us-transport-topics-top-50-global-freight-companies",
@@ -15,6 +15,20 @@
    ],
    "excerpt": "The Transport Topics Top 50 Global Freight Companies is a listing of the largest package, truck, rail, air and ocean carriers in the world.",
    "published": "2026-11-07T12:00:00+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104609",
+   "title": "Cargo thieves are getting better returns while putting in less work",
+   "url": "https://landline.media/cargo-thieves-are-getting-better-returns-while-putting-in-less-work/",
+   "source": "Land Line",
+   "audience": [
+    "Broker"
+   ],
+   "tags": [
+    "Fraud"
+   ],
+   "excerpt": "New report shows cargo theft losses reached over $230 million in Q3 of 2026. Find out the hotspots for thieves and what they’re targeting.",
+   "published": "2026-11-06T19:07:57+00:00"
   },
   {
    "id": "https://landline.media/?p=104595",
@@ -1143,23 +1157,6 @@
    ],
    "excerpt": "Trimble reported higher third-quarter revenue and earnings Wednesday, but lowered its full-year recurring revenue growth forecast as weakness in European freight markets and slower demand for positioning services weighed on its outlook. The Westminster, Colorado-based technology company (NASDAQ:…",
    "published": "2026-11-04T15:28:49+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/schneider-national-says-rail-partner-shift-offers-network-boost/873490/",
-   "title": "Schneider National says rail partner shift offers network boost",
-   "url": "https://www.truckingdive.com/news/schneider-national-says-rail-partner-shift-offers-network-boost/873490/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Capacity",
-    "Ports/Rail"
-   ],
-   "excerpt": "CEO Jim Filter said the company’s strategy strengthens its position as capacity tightens.",
-   "published": "2026-11-04T15:09:00+00:00"
   }
  ]
 }
