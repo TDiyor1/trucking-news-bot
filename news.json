@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-06T13:00:33+00:00",
+ "updated": "2026-11-06T13:30:32+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585308",
+   "title": "Ryder grows its FMS business with East Coast acquisition",
+   "url": "https://www.freightwaves.com/news/ryder-grows-its-fms-business-with-east-coast-acquisition",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Ryder System (NYSE: R) has acquired Efficiency Enterprises, a company with a business model similar to what Ryder does in its Fleet Management Systems (FMS) unit. Ryder, in a prepared statement, described Efficiency Enterprises as “a regional provider of fleet management, maintenance, and leasing…",
+   "published": "2026-11-06T12:47:25+00:00"
+  },
   {
    "id": "https://theloadstar.com/?p=328017",
    "title": "‘Carrier selection matters’ when it comes to getting your goods on time",
@@ -1153,18 +1167,6 @@
    "tags": [],
    "excerpt": "A 41-cent fuel tax break was meant for drivers. Complaints have North Carolina asking retailers where those savings went.",
    "published": "2026-11-03T19:53:04+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104535",
-   "title": "15-state enforcement blitz nets over 230 arrests",
-   "url": "https://landline.media/15-state-enforcement-blitz-nets-over-230-arrests/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Officials are cracking down on unqualified individuals with commercial driver’s licenses. A recent blitz removed more drivers from the road.",
-   "published": "2026-11-03T19:51:58+00:00"
   }
  ]
 }
