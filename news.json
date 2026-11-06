@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-06T11:30:34+00:00",
+ "updated": "2026-11-06T12:00:34+00:00",
  "items": [
+  {
+   "id": "https://theloadstar.com/?p=327966",
+   "title": "Cargo crime in North America down in Q3, but losses are mounting",
+   "url": "https://theloadstar.com/cargo-crime-in-north-america-down-in-q3-but-losses-are-mounting/",
+   "source": "The Loadstar",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs",
+    "Fraud"
+   ],
+   "excerpt": "Organised criminal networks are increasingly exploiting identity fraud, carrier impersonation and weaknesses in freight verification, driving cargo theft losses across Canada and the US up 39% year on year, despite a sharp decline in reported incidents Verisk CargoNet recorded 2,072 of reported…",
+   "published": "2026-11-06T11:44:32+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16424466",
    "title": "Cargo theft losses climb as incidents continue to decline",
@@ -1144,21 +1161,6 @@
    ],
    "excerpt": "The event aims to foster a greater understanding of how charges for container usage and storage can best incentivize cargo flow, the US Federal Maritime Commission said.",
    "published": "2026-11-03T19:20:15+00:00"
-  },
-  {
-   "id": "https://joc.com/article/bnsf-boosts-new-mexico-manpower-to-manage-freight-flow-after-flood-6317114",
-   "title": "BNSF boosts New Mexico manpower to manage freight flow after flood",
-   "url": "https://joc.com/article/bnsf-boosts-new-mexico-manpower-to-manage-freight-flow-after-flood-6317114",
-   "source": "JOC",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs",
-    "Ports/Rail"
-   ],
-   "excerpt": "The railroad is metering the movement of containers destined for inland hubs in order not to overwhelm the terminals with cargo; it could be another week before service returns to normal.",
-   "published": "2026-11-03T18:52:14+00:00"
   }
  ]
 }
