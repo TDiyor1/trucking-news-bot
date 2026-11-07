@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T12:00:32+00:00",
+ "updated": "2026-11-07T12:30:40+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/about-us-transport-topics-top-50-global-freight-companies",
@@ -14,6 +14,20 @@
     "Ports/Rail"
    ],
    "excerpt": "The Transport Topics Top 50 Global Freight Companies is a listing of the largest package, truck, rail, air and ocean carriers in the world.",
+   "published": "2026-11-07T12:00:00+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/cross-border-calculus",
+   "title": "Cross-border calculus: North American freight networks adapt",
+   "url": "https://www.ttnews.com/articles/cross-border-calculus",
+   "source": "Transport Topics",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "Years of shifting tariffs, customs requirements and trade policies have forced shippers and their transportation providers to become more adaptable.",
    "published": "2026-11-07T12:00:00+00:00"
   },
   {
@@ -1142,19 +1156,6 @@
    "tags": [],
    "excerpt": "Uber Freight CEO Rebecca Tinucci took to LinkedIn to tout the company’s third quarter financial performance, which still is a long way from operating profitability. As Tinucci said in her published remarks, “two things can be true at the same time.” Her comments highlighted gross bookings of $1.768…",
    "published": "2026-11-04T18:42:16+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104546",
-   "title": "A bad safety record could cost truckers more than a load",
-   "url": "https://landline.media/a-bad-safety-record-could-cost-truckers-more-than-a-load/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "A proposed Michigan law could let crash victims sue brokers over drivers with known safety problems. Here’s what that could mean for truckers.",
-   "published": "2026-11-04T17:40:05+00:00"
   }
  ]
 }
