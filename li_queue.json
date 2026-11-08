@@ -1,4 +1,20 @@
 {
  "last_digest": "2026-11-07",
- "queue": []
+ "queue": [
+  {
+   "id": "https://www.freightwaves.com/?p=585371",
+   "title": "Intermodal rates coming in hot this fall; mostly fuel driven",
+   "url": "https://www.freightwaves.com/news/intermodal-rates-coming-in-hot-this-fall-mostly-fuel-driven",
+   "source": "FreightWaves SONAR",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Rates",
+    "Ports/Rail"
+   ],
+   "excerpt": "Chart of the Week: Intermodal Contract Rate per Mile – Transcontinental and East Coast lanes SONAR : IMCRPM.TRANSCON, IMCRPM.LOCALEAST Intermodal contract rates, including fuel, have taken off in the fourth quarter. Transcontinental (TRANSCON) rates are up more than 12% year over year, and rates on…",
+   "published": "2026-11-08T01:30:00+00:00"
+  }
+ ]
 }

@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-08T01:00:32+00:00",
+ "updated": "2026-11-08T01:30:31+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585371",
+   "title": "Intermodal rates coming in hot this fall; mostly fuel driven",
+   "url": "https://www.freightwaves.com/news/intermodal-rates-coming-in-hot-this-fall-mostly-fuel-driven",
+   "source": "FreightWaves SONAR",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Rates",
+    "Ports/Rail"
+   ],
+   "excerpt": "Chart of the Week: Intermodal Contract Rate per Mile – Transcontinental and East Coast lanes SONAR : IMCRPM.TRANSCON, IMCRPM.LOCALEAST Intermodal contract rates, including fuel, have taken off in the fourth quarter. Transcontinental (TRANSCON) rates are up more than 12% year over year, and rates on…",
+   "published": "2026-11-08T01:30:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585424",
    "title": "Big carriers keep FMCSA’s crackdown alive, Fuller says",
@@ -1144,20 +1159,6 @@
    "tags": [],
    "excerpt": "After nearly 40 years, an annual truck convoy was at risk of being canceled. Now, thanks to a new home, the tradition will continue.",
    "published": "2026-11-04T20:27:56+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16424217",
-   "title": "Democratic sweep of Congress sets up high-stakes battle over trucking regulations",
-   "url": "https://www.ccjdigital.com/regulations/industry/article/16424217/what-a-democratic-congress-means-for-trucking-and-fmcsa",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "Democrats will take control of both the House and the Senate in January, setting up a divided federal government that now places highway policy, safety oversight and the trucking industry’s regulatory agenda under a congressional microscope. While the executive branch retains its authority over…",
-   "published": "2026-11-04T19:05:24+00:00"
   }
  ]
 }
