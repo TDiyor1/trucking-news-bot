@@ -1,6 +1,33 @@
 {
- "updated": "2026-11-09T14:00:34+00:00",
+ "updated": "2026-11-09T14:30:34+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585449",
+   "title": "Latam Airlines dusts off Covid playbook to move cargo in passenger cabin",
+   "url": "https://www.freightwaves.com/news/latam-airlines-dusts-off-covid-playbook-to-move-cargo-in-passenger-cabin",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Hail the return of the preighter. Latam Airlines is the first airline in four and a half years to operate a passenger plane with cargo loaded in the cabin. The South American carrier said it activated an Airbus A319 to deliver emergency aid from Quito, Ecuador, to the Galapagos Islands, which…",
+   "published": "2026-11-09T14:15:25+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/port-los-angeles-strike-defer",
+   "title": "Port of Los Angeles strike threat deferred to Nov. 20",
+   "url": "https://www.ttnews.com/articles/port-los-angeles-strike-defer",
+   "source": "Transport Topics",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Disruptions at the affected terminals could impact roughly 85% of the cargo that moves through the Port of Long Beach and a third of the cargo at the Port of Los Angeles.",
+   "published": "2026-11-09T13:58:11+00:00"
+  },
   {
    "id": "https://www.freightcaviar.com/stories/11-4-million-nvidia-theft-cargo-losses",
    "title": "🎣 Grand Theft Cargo",
@@ -15,6 +42,20 @@
    ],
    "excerpt": "An $11.4 million Nvidia shipment vanishes as cargo theft losses climb and some carriers steal the freight they’re hired to deliver.",
    "published": "2026-11-09T13:55:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=585448",
+   "title": "Strike at Los Angeles-Long Beach port delayed as union contract talks continue",
+   "url": "https://www.freightwaves.com/news/strike-at-los-angeles-long-beach-port-delayed-as-union-contract-talks-continue",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Maritime employers and the union representing security watchmen at the ports of Los Angeles and Long Beach have extended their negotiating deadline to Nov. 20, postponing a potential strike at the nation’s busiest container-port complex. The Pacific Maritime Association, which represents employers,…",
+   "published": "2026-11-09T13:07:00+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=585397",
@@ -1117,49 +1158,6 @@
    ],
    "excerpt": "Trucking news and briefs for Thursday, Nov. 5, 2026: Kodiak delivers first autonomous Western Star 49X trucks to Texas oilfields Kodiak AI this week announced it delivered the first two Western Star 49X trucks equipped with the Kodiak Driver autonomous system to Atlas Energy Solutions in September.…",
    "published": "2026-11-05T06:26:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585053",
-   "title": "33,000 truckers sidelined over violations as highway blitzes hit Arkansas, Virginia",
-   "url": "https://www.freightwaves.com/news/33000-truckers-sidelined-over-violations-as-highway-blitzes-hit-arkansas-virginia",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "Federal trucking regulators are expanding Operation Highway Shield enforcement efforts across the United States, with new inspections in Virginia uncovering 100 safety violations. As of Nov. 4, the U.S. Department of Transportation reports that 33,000 commercial drivers have been placed out of…",
-   "published": "2026-11-05T00:37:57+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585052",
-   "title": "Transportation committee in House set for overhaul post-election",
-   "url": "https://www.freightwaves.com/news/transportation-committee-in-house-set-for-overhaul-post-election",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "The massive Democratic Party win on Election Day will have implications for government rules and regulations on trucking, including the so-called highway bill , driven in part by changes in the lineups of who will sit on Congress’ transportation-focused committees.",
-   "published": "2026-11-05T00:29:00+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/arcbest-reports-q3-tonnage-gains/873746/",
-   "title": "ArcBest reports Q3 tonnage gains",
-   "url": "https://www.truckingdive.com/news/arcbest-reports-q3-tonnage-gains/873746/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Tonnage increased 9.6% per day compared to a year ago, and October’s partial-Q4 result was even better, the company reported.",
-   "published": "2026-11-04T22:17:00+00:00"
   }
  ]
 }
