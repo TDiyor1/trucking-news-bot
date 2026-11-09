@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-09T15:30:34+00:00",
+ "updated": "2026-11-09T15:50:17+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/china-extends-pause-tariffs",
+   "title": "China extends pause on 24% U.S. tariffs to January",
+   "url": "https://www.ttnews.com/articles/china-extends-pause-tariffs",
+   "source": "Transport Topics",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "*/ /*-->*/ The extension prolongs a U.S.-China trade truce until Jan. 10 and includes suspended special fees on American ships at Chinese ports.",
+   "published": "2026-11-09T15:22:34+00:00"
+  },
   {
    "id": "https://www.truckingdive.com/news/up-ceos-rate-threat-adds-wrinkle-to-norfolk-southern-merger-process/874088/",
    "title": "UP CEO’s rate threat adds wrinkle to Norfolk Southern merger process",
@@ -1147,20 +1162,6 @@
    "tags": [],
    "excerpt": "Americold Realty Trust raised its full-year earnings outlook Thursday after reporting higher third-quarter revenue and improved warehouse margins, while a one-time gain from its joint venture with EQT drove a sharp swing to profit. The temperature-controlled logistics company (NYSE: COLD ) based in…",
    "published": "2026-11-05T13:00:00+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=327915",
-   "title": "US importers should reconsider farming out customs paperwork, warns CargoTrans",
-   "url": "https://theloadstar.com/us-importers-should-reconsider-farming-out-customs-paperwork-warns-cargotrans/",
-   "source": "The Loadstar",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "US importers using ‘delivered duty-paid’ (DDP) shipping arrangements face increasing compliance and financial risks, as Customs and Border Protection (CBP) intensifies its scrutiny of foreign importers of record, according to CargoTrans. Nunzio De Filippis, co-CEO, and Rennie Alston, director of…",
-   "published": "2026-11-05T12:52:09+00:00"
   }
  ]
 }
