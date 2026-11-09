@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-09T22:30:27+00:00",
+ "updated": "2026-11-09T22:54:46+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585543",
+   "title": "Truck enforcements widen to Maryland, DC as 128 drivers sidelined",
+   "url": "https://www.freightwaves.com/news/truck-enforcements-widen-to-maryland-dc-as-128-drivers-sidelined",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "Federal and state trucking inspectors have expanded Operation Highway Shield into Maryland and Washington, D.C., conducting more than 1,000 commercial vehicle inspections and identifying hundreds of safety violations. The operations in Maryland and Washington, D.C., join recent enforcement agencies…",
+   "published": "2026-11-09T22:40:06+00:00"
+  },
+  {
+   "id": "https://joc.com/article/cbp-issues-interim-rule-to-heighten-scrutiny-of-foreign-importers-6320684",
+   "title": "CBP issues interim rule to heighten scrutiny of foreign importers",
+   "url": "https://joc.com/article/cbp-issues-interim-rule-to-heighten-scrutiny-of-foreign-importers-6320684",
+   "source": "JOC",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation",
+    "Tariffs"
+   ],
+   "excerpt": "Under the rule, which takes effect in early January, licensed customs brokers will be responsible for verifying that their overseas clients meet the qualifications of a US importer of record before filing entries on their behalf.",
+   "published": "2026-11-09T22:18:15+00:00"
+  },
   {
    "id": "https://www.dat.com/blog/?p=27724",
    "title": "Reefer Report: Load-to-truck ratio jumps as holiday food freight starts to move",
@@ -1141,34 +1171,6 @@
    ],
    "excerpt": "Conrail has named John Wright its new president and chief operating officer, bringing aboard a freight rail veteran with decades of operating and executive experience. Wright most recently served as general manager of Indiana Harbor Belt Railroad, a 600-employee switching and belt-line railroad…",
    "published": "2026-11-05T20:01:30+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104585",
-   "title": "Feds ramp up ELP enforcement",
-   "url": "https://landline.media/feds-ramp-up-english-language-proficiency-enforcement/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "The federal government has made English-language proficiency enforcement a priority. Recent numbers indicate they mean business.",
-   "published": "2026-11-05T19:57:12+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104580",
-   "title": "You haul the freight. Help shape the freight plan.",
-   "url": "https://landline.media/you-haul-the-freight-help-shape-the-freight-plan/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Your experience on the road could help shape a state’s freight plan. See what’s being asked and how to chime in.",
-   "published": "2026-11-05T19:49:53+00:00"
   }
  ]
 }
