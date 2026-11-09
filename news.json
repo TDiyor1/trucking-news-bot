@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-09T19:30:32+00:00",
+ "updated": "2026-11-09T19:50:36+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585532",
+   "title": "Jacobs’ ‘playbook’ will target new industry, to be determined",
+   "url": "https://www.freightwaves.com/news/jacobs-playbook-will-target-new-industry-to-be-determined",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Billionaire entrepreneur Brad Jacobs, who launched LTL carrier XPO and its later spinoffs, is turning to what he calls his “playbook” once again to seek out opportunities in a different sector. The sector? We don’t know yet and he’s not saying. In an eventful Monday morning for Jacobs, the current…",
+   "published": "2026-11-09T19:34:18+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16424931",
    "title": "Heavy-Duty parts inflation slows to .4% nationwide, masking steep regional swings",
@@ -1147,20 +1159,6 @@
    ],
    "excerpt": "The US Federal Maritime Commission wants research into when charges above compensatory cost actually speed cargo movement. For shippers, the critical distinction is between a delay they can prevent and one they cannot. A container is ready to leave a terminal, the trucker has an appointment, and…",
    "published": "2026-11-05T16:45:38+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/mce-2026-all-about-networking-gaining-industry-insight/872943/",
-   "title": "MCE 2026 all about networking, gaining industry insight",
-   "url": "https://www.truckingdive.com/news/mce-2026-all-about-networking-gaining-industry-insight/872943/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Spikes in diesel fuel costs and new leaders setting the path ahead for the American Trucking Associations were among the areas of focus in this year’s annual conference.",
-   "published": "2026-11-05T16:28:00+00:00"
   }
  ]
 }
