@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-09T21:54:38+00:00",
+ "updated": "2026-11-09T22:00:34+00:00",
  "items": [
+  {
+   "id": "https://www.dat.com/blog/?p=27724",
+   "title": "Reefer Report: Load-to-truck ratio jumps as holiday food freight starts to move",
+   "url": "https://www.dat.com/blog/reefer-report-load-to-truck-ratio-jumps-as-holiday-food-freight-starts-to-move",
+   "source": "DAT iQ",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Diesel"
+   ],
+   "excerpt": "Reefer spot linehaul rates paid to carriers averaged $2.77 per mile last week, minus fuel, up 3.3%, or $0.09 per mile, from the week before. Rates climbed 34.0%, or $0.70 per mile, year over year and held 28.1%, or $0.60 per mile, above the nine-year seasonal average of $2.17 per mile, near the top…",
+   "published": "2026-11-09T21:59:29+00:00"
+  },
   {
    "id": "https://www.dat.com/blog/?p=27718",
    "title": "Flatbed Report: Houston flatbed freight pays more in every direction, but only Lubbock is also moving more loads",
@@ -1153,18 +1169,6 @@
    "tags": [],
    "excerpt": "Your experience on the road could help shape a state’s freight plan. See what’s being asked and how to chime in.",
    "published": "2026-11-05T19:49:53+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104573",
-   "title": "When helping unload turns deadly for a truck driver",
-   "url": "https://landline.media/when-helping-unload-turns-deadly-for-a-truck-driver/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "A truck driver’s death after helping unload a trailer puts a spotlight on risks beyond the highway and allegations of unsafe loading.",
-   "published": "2026-11-05T19:08:59+00:00"
   }
  ]
 }
