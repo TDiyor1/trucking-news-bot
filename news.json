@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-09T10:00:34+00:00",
+ "updated": "2026-11-09T10:30:34+00:00",
  "items": [
+  {
+   "id": "https://www.truckingdive.com/spons/are-you-measuring-coaching-effectiveness-the-right-way/873605/",
+   "title": "Are you measuring coaching effectiveness the right way?",
+   "url": "https://www.truckingdive.com/spons/are-you-measuring-coaching-effectiveness-the-right-way/873605/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Events captured aren't the same as events coached. Here is what helps prove a program works.",
+   "published": "2026-11-09T10:00:00+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16424497",
    "title": "Proposed rail merger would slash 2.1 billion long-distance truck miles from the highway annually, report finds",
@@ -1146,20 +1160,6 @@
    ],
    "excerpt": "As judges are tasked with determining the fate of hundreds of thousands of non-domiciled CDLs, a state has decided to suspend its program.",
    "published": "2026-11-04T20:29:10+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104552",
-   "title": "Taking trucks off Transmountain Road?",
-   "url": "https://landline.media/taking-trucks-off-transmountain-road/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "A deadly crash has one city asking a big question about trucks on Transmountain Road. See what leaders are considering.",
-   "published": "2026-11-04T20:28:35+00:00"
   }
  ]
 }
