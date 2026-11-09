@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-09T14:30:34+00:00",
+ "updated": "2026-11-09T14:56:19+00:00",
  "items": [
+  {
+   "id": "https://www.truckingdive.com/news/arizona-trucking-association-taps-former-congressman-as-ceo/873548/",
+   "title": "Arizona Trucking Association taps former congressman as CEO",
+   "url": "https://www.truckingdive.com/news/arizona-trucking-association-taps-former-congressman-as-ceo/873548/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "Board Chairman Parker Hancock said former Rep. Matt Salmon’s time experience with government relations and leading trade associations will be an asset to the organization.",
+   "published": "2026-11-09T14:52:00+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/pamt-posts-8th-consecutive-operating-loss/873904/",
+   "title": "PAMT posts 8th consecutive operating loss",
+   "url": "https://www.truckingdive.com/news/pamt-posts-8th-consecutive-operating-loss/873904/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "“Cumulative cost increases continue to outpace the pricing improvements achieved to date,” President Lance Stewart said in an earnings announcement.",
+   "published": "2026-11-09T14:49:00+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/musk-cybertruck-production",
+   "title": "Musk says Cybertruck production to shut down in 8 months",
+   "url": "https://www.ttnews.com/articles/musk-cybertruck-production",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Capacity",
+    "Tech"
+   ],
+   "excerpt": "Elon Musk announced that Tesla would stop making the Cybertruck at its Texas plant around the middle of 2027 to free up capacity for its Cybercab autonomous vehicle.",
+   "published": "2026-11-09T14:36:53+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585449",
    "title": "Latam Airlines dusts off Covid playbook to move cargo in passenger cabin",
@@ -1116,48 +1160,6 @@
    ],
    "excerpt": "Uncollected imports are clogging cargo warehouses at Taiwan Taoyuan Airport, tying up dollies and slowing aircraft unloading as equipment arrives to support the island’s AI and semiconductor industries, according to local forwarders. Seko Logistics has reported handling pressure affecting China…",
    "published": "2026-11-05T12:22:37+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16424302",
-   "title": "Regulatory fog stall October truck orders",
-   "url": "https://www.ccjdigital.com/economic-trends/article/16424302/class-8-orders-slump-as-fleets-await-epa-2027-clarity",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "Regulations uncertainty and cost pressure subdue October truck orders. FTR reported preliminary North American Class 8 net orders of 15,600 units, down 24% from September and 36% from a year earlier. Year-to-date stand at 278,201 units, up 74% year over year.",
-   "published": "2026-11-05T12:08:35+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585089",
-   "title": "Port strike delayed again at Los Angeles, Long Beach ports",
-   "url": "https://www.freightwaves.com/news/port-strike-delayed-again-at-los-angeles-long-beach-ports",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "A potential strike by port watchmen at Los Angeles and Long Beach has been delayed again after the Pacific Maritime Association and International Longshore and Warehouse Union Local 26 agreed to extend their contract through midnight Pacific Time on Friday.",
-   "published": "2026-11-05T11:00:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16424358",
-   "title": "Kodiak delivers first autonomous Western Stars to Texas oilfields",
-   "url": "https://www.ccjdigital.com/equipment-controls/article/16424358/kodiak-delivers-first-autonomous-western-stars-to-texas-oilfields",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Trucking news and briefs for Thursday, Nov. 5, 2026: Kodiak delivers first autonomous Western Star 49X trucks to Texas oilfields Kodiak AI this week announced it delivered the first two Western Star 49X trucks equipped with the Kodiak Driver autonomous system to Atlas Energy Solutions in September.…",
-   "published": "2026-11-05T06:26:00+00:00"
   }
  ]
 }
