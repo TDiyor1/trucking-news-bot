@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-09T17:30:31+00:00",
+ "updated": "2026-11-09T17:50:25+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585484",
+   "title": "AI scales the work. Experts make it count.",
+   "url": "https://www.freightwaves.com/news/ai-scales-the-work-experts-make-it-count",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "In its latest report, Designing the Human + AI Enterprise: A Transformation Agenda for Supply Chain-intensive Industries , Everest Group examines why AI adoption is outpacing operational transformation, and what it takes to close the gap. The report explores how organizations can redesign work,…",
+   "published": "2026-11-09T17:14:01+00:00"
+  },
   {
    "id": "https://www.dcvelocity.com/transportation/cargo-theft-drives-need-for-cybershields",
    "title": "Cargo theft drives need for “cybershields”",
@@ -1149,21 +1163,6 @@
    ],
    "excerpt": "A.P. Moller-Maersk raised its full-year earnings forecast on Thursday after higher freight rates drove a sharp increase in third-quarter profit, but its shares fell as the results and upgraded outlook disappointed investors. The stock dropped as much as 11.6% in Copenhagen trading.",
    "published": "2026-11-05T13:58:32+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/strike-deadline-port-la",
-   "title": "Strike deadline pushed to Nov. 6 at Port of Los Angeles",
-   "url": "https://www.ttnews.com/articles/strike-deadline-port-la",
-   "source": "Transport Topics",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "With the extension comes a renewed strike threat that could impact operations at several terminals across the Port of Long Beach and the Port of Los Angeles if no deal is reached.",
-   "published": "2026-11-05T13:23:12+00:00"
   }
  ]
 }
