@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-09T20:00:35+00:00",
+ "updated": "2026-11-09T20:20:40+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104623",
+   "title": "Months-long closure will affect truck traffic",
+   "url": "https://landline.media/months-long-closure-will-affect-truck-traffic/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "It will be several months before truck traffic returns to a Southern California highway. Find out why.",
+   "published": "2026-11-09T20:17:31+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585532",
    "title": "Jacobs’ ‘playbook’ will target new industry, to be determined",
@@ -1144,21 +1158,6 @@
    ],
    "excerpt": "Humble Robotics raised a $51 million Series A on Thursday to move its cabless, electric Humble Hauler into customer pilots on port drayage and warehouse runs. Obvious Ventures led the round, with participation from existing investors Eclipse and Energy Impact Partners.",
    "published": "2026-11-05T17:05:13+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=327968",
-   "title": "Detention fees have a simple problem: a bigger bill cannot move a box that cannot move",
-   "url": "https://theloadstar.com/detention-fees-have-a-simple-problem-a-bigger-bill-cannot-move-a-box-that-cannot-move/",
-   "source": "The Loadstar",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Regulation",
-    "Ports/Rail"
-   ],
-   "excerpt": "The US Federal Maritime Commission wants research into when charges above compensatory cost actually speed cargo movement. For shippers, the critical distinction is between a delay they can prevent and one they cannot. A container is ready to leave a terminal, the trucker has an appointment, and…",
-   "published": "2026-11-05T16:45:38+00:00"
   }
  ]
 }
