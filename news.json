@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-09T11:00:35+00:00",
+ "updated": "2026-11-09T11:30:30+00:00",
  "items": [
+  {
+   "id": "https://theloadstar.com/?p=328081",
+   "title": "Tougher rules for US imports on DDP put pressure on buyers and suppliers",
+   "url": "https://theloadstar.com/tougher-rules-for-us-imports-on-ddp-put-pressure-on-buyers-and-suppliers/",
+   "source": "The Loadstar",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Regulation",
+    "Tariffs"
+   ],
+   "excerpt": "US companies buying goods on Delivered Duty Paid (DDP) terms have been urged to examine who is responsible for their customs declarations, after US Customs and Border Protection (CBP) introduced new requirements for foreign importers of record (IORs). The interim final rule, published in the…",
+   "published": "2026-11-09T11:28:04+00:00"
+  },
   {
    "id": "https://www.truckingdive.com/spons/are-you-measuring-coaching-effectiveness-the-right-way/873605/",
    "title": "Are you measuring coaching effectiveness the right way?",
@@ -1145,21 +1160,6 @@
    "tags": [],
    "excerpt": "GXO Logistics is seeing accelerating demand for its contract logistics services, particularly in North America, as data centers, aerospace and defense customers fuel a record sales pipeline. During a Wednesday earnings call, CEO Patrick Kelleher said the company’s renewed commercial strategy is…",
    "published": "2026-11-04T20:47:48+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104556",
-   "title": "State puts an end to non-domiciled CDLs",
-   "url": "https://landline.media/state-puts-an-end-to-non-domiciled-cdls/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "As judges are tasked with determining the fate of hundreds of thousands of non-domiciled CDLs, a state has decided to suspend its program.",
-   "published": "2026-11-04T20:29:10+00:00"
   }
  ]
 }
