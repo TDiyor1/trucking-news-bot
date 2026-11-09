@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-09T17:00:35+00:00",
+ "updated": "2026-11-09T17:20:26+00:00",
  "items": [
+  {
+   "id": "https://www.dcvelocity.com/transportation/cargo-theft-drives-need-for-cybershields",
+   "title": "Cargo theft drives need for “cybershields”",
+   "url": "https://www.dcvelocity.com/transportation/cargo-theft-drives-need-for-cybershields",
+   "source": "DC Velocity",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Fraud",
+    "Ports/Rail"
+   ],
+   "excerpt": "Cargo theft is on the rise, and we’re not just talking about small-scale shoplifting. Across the globe, entire trailers and containers are going missing. Newspaper headlines from the past year alone tell the story, describing how thieves swiped 11,000 bottles of bourbon from a North Philadelphia…",
+   "published": "2026-11-09T17:01:54+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585457",
    "title": "Bangkok airport cargo congestion frustrates freight forwarders",
@@ -1147,21 +1164,6 @@
    ],
    "excerpt": "With the extension comes a renewed strike threat that could impact operations at several terminals across the Port of Long Beach and the Port of Los Angeles if no deal is reached.",
    "published": "2026-11-05T13:23:12+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=327957",
-   "title": "Port of Long Beach set to handle record 10m teu this year",
-   "url": "https://theloadstar.com/port-of-long-beach-set-to-handle-record-10m-teu-this-year/",
-   "source": "The Loadstar",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "The Californian port of Long Beach is predicted to handle more than 10m teu this year, for the first time. “It’s been a peak year,” Port of Long Beach CEO Noel Hacegaba told The Loadstar on the sidelines of the World Ports Conference in London this week.",
-   "published": "2026-11-05T13:18:29+00:00"
   }
  ]
 }
