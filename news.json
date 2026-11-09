@@ -1,6 +1,49 @@
 {
- "updated": "2026-11-09T19:00:41+00:00",
+ "updated": "2026-11-09T19:20:37+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16424931",
+   "title": "Heavy-Duty parts inflation slows to .4% nationwide, masking steep regional swings",
+   "url": "https://www.ccjdigital.com/maintenance/components/article/16424931/truck-parts-inflation-cools-as-regional-pricing-diverges",
+   "source": "CCJ",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Heavy-duty truck parts prices are telling two different stories across the country, as distributor prices slip below year-ago levels in some regions while climbing steadily in others. The good news: The inflation that gripped the heavy parts market over the last two years has cooled, with national…",
+   "published": "2026-11-09T19:15:28+00:00"
+  },
+  {
+   "id": "https://www.dcvelocity.com/transportation/maritime-ocean/ports/nrf-import-cargo-still-strong-at-end-of-tariff-extended-peak-season",
+   "title": "NRF: Import cargo still strong at end of tariff-extended peak season",
+   "url": "https://www.dcvelocity.com/transportation/maritime-ocean/ports/nrf-import-cargo-still-strong-at-end-of-tariff-extended-peak-season",
+   "source": "DC Velocity",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tariffs",
+    "Ports/Rail"
+   ],
+   "excerpt": "Import volume at the nation’s major container ports is expected to taper off for the remainder of the year following an extended peak season that has kept docks busy since the spring, according to the Global Port Tracker report released today by the National Retail Federation (NRF) and Hackett…",
+   "published": "2026-11-09T19:10:51+00:00"
+  },
+  {
+   "id": "https://www.dcvelocity.com/transportation/trucking/ftr-trucking-market-eased-slightly-in-september-but-future-looks-good",
+   "title": "FTR: trucking market eased slightly in September, but future looks good",
+   "url": "https://www.dcvelocity.com/transportation/trucking/ftr-trucking-market-eased-slightly-in-september-but-future-looks-good",
+   "source": "DC Velocity",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Business conditions in the trucking market eased slightly in September due to soaring diesel fuel prices, but remained solidly positive in the overall view, according to transportation analyst firm FTR. The Bloomington, Indiana-based firm said its Trucking Conditions Index (TCI) declined modestly…",
+   "published": "2026-11-09T19:08:50+00:00"
+  },
   {
    "id": "https://landline.media/?p=104620",
    "title": "FMCSA wants drivers to expose the bad in trucking",
@@ -1118,51 +1161,6 @@
    ],
    "excerpt": "Spikes in diesel fuel costs and new leaders setting the path ahead for the American Trucking Associations were among the areas of focus in this year’s annual conference.",
    "published": "2026-11-05T16:28:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/canada-weighs-midterms-trade",
-   "title": "Canada weighs effects of midterms on trade deal with U.S.",
-   "url": "https://www.ttnews.com/articles/canada-weighs-midterms-trade",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation",
-    "Tariffs"
-   ],
-   "excerpt": "“Does Ottawa take a deal now that eases the pain but locks in some tariffs? Or bet on a Democratic Congress to rein Trump in?”",
-   "published": "2026-11-05T16:08:11+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/trucking-recovery-costello",
-   "title": "Trucking recovery in early stages, ATA’s Costello says",
-   "url": "https://www.ttnews.com/articles/trucking-recovery-costello",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "American Trucking Associations Chief Economist Bob Costello noted that the freight market is more uneven than the macroeconomic view suggests.",
-   "published": "2026-11-05T15:42:52+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/15975492",
-   "title": "Choosing a used oil collector: What fleets should check before signing on",
-   "url": "https://www.ccjdigital.com/maintenance/oils-lubricants/article/15975492/choosing-a-used-oil-collector-7-questions-fleets-should-ask",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Every fleet shop produces used oil, and most hand it to an outside collector without much thought. The truck shows up, the tank gets pumped, and the paperwork goes in a drawer. That routine works until something goes wrong: a load gets rejected, an inspector asks for records, or oil your shop…",
-   "published": "2026-11-05T15:13:22+00:00"
   }
  ]
 }
