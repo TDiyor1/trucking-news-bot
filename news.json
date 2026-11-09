@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T18:30:33+00:00",
+ "updated": "2026-11-09T18:50:32+00:00",
  "items": [
   {
    "id": "https://www.freightwaves.com/?p=585458",
@@ -29,6 +29,21 @@
    ],
    "excerpt": "Every bill in Congress has an expiration date. For the 119th Congress, it’s noon on Jan. 3, 2027. Anything that hasn’t passed both chambers and reached the president by then dies, and the next Congress starts over with new bill numbers, new committee chairs and new math.",
    "published": "2026-11-09T17:48:45+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/congress-lame-duck-session",
+   "title": "What to expect from Congress’ lame duck session",
+   "url": "https://www.ttnews.com/articles/congress-lame-duck-session",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "",
+   "published": "2026-11-09T17:29:32+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=585484",
@@ -1143,22 +1158,6 @@
    "tags": [],
    "excerpt": "FedEx Corp. has made clear that its future lies with premium B2B logistics services in key industrial verticals that require precision execution, such as automotive, healthcare, aerospace and data centers — not cheap last-mile delivery for online retailers.",
    "published": "2026-11-05T15:03:33+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/oil-prices-pullback-midterms",
-   "title": "Oil prices steady on possible war pullback after midterms",
-   "url": "https://www.ttnews.com/articles/oil-prices-pullback-midterms",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Diesel",
-    "Regulation"
-   ],
-   "excerpt": "The possibility of pressure from Congress to pull back on the war sent the price for a barrel of Brent crude oil, the international standard, plunging 8.7% to $94.62.",
-   "published": "2026-11-05T14:39:48+00:00"
   }
  ]
 }
