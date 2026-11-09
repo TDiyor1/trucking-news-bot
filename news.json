@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-09T20:40:44+00:00",
+ "updated": "2026-11-09T21:00:43+00:00",
  "items": [
+  {
+   "id": "https://www.dat.com/blog/?p=27715",
+   "title": "Dry Van Report: Tight capacity keeps spot rates climbing",
+   "url": "https://www.dat.com/blog/dry-van-report-tight-capacity-keeps-spot-rates-climbing",
+   "source": "DAT iQ",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Diesel",
+    "Capacity"
+   ],
+   "excerpt": "Dry van spot linehaul rates paid to carriers averaged $2.26 per mile last week, minus fuel, up 2.8%, or $0.06 per mile, from the week before. Rates climbed 34.9%, or $0.58 per mile, year over year and held 23.4%, or $0.43 per mile, above the nine-year seasonal average of $1.83 per mile, near the…",
+   "published": "2026-11-09T20:44:54+00:00"
+  },
+  {
+   "id": "https://joc.com/article/china-extends-port-fee-suspension-on-us-ships-to-january-after-ustr-deferment-6320646",
+   "title": "China extends port fee suspension on US ships to January after USTR deferment",
+   "url": "https://joc.com/article/china-extends-port-fee-suspension-on-us-ships-to-january-after-ustr-deferment-6320646",
+   "source": "JOC",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The move followed a USTR notice Friday saying the agency would postpone port fees on China-built or -controlled ships calling at US ports for two months starting Monday.",
+   "published": "2026-11-09T20:40:14+00:00"
+  },
   {
    "id": "https://landline.media/?p=104625",
    "title": "Uzbekistan national used bogus carriers to carry out over $12 million in cargo theft",
@@ -15,6 +47,20 @@
    ],
    "excerpt": "A $12 million cargo theft scheme leads to conspiracy charges. Find out how the thefts occurred and what’s next for those charged.",
    "published": "2026-11-09T20:38:41+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/clarience-road-ready-saegic",
+   "title": "Clarience rebrands Road Ready as Saegic",
+   "url": "https://www.ttnews.com/articles/clarience-road-ready-saegic",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Clarience Technologies recently rebranded its Road Ready line of trailer tracking and telematics products under the Saegic name.",
+   "published": "2026-11-09T20:34:46+00:00"
   },
   {
    "id": "https://joc.com/article/falling-us-truck-orders-cast-doubt-on-truckload-capacity-recovery-6320644",
@@ -1119,46 +1165,6 @@
    "tags": [],
    "excerpt": "Western voters decide on major transportation taxes. Truckers want to know if the money will mean better roads, less traffic and faster deliveries.",
    "published": "2026-11-05T18:22:56+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/oklahoma-15-states-illegal-trucks",
-   "title": "Oklahoma leads 15-state truck driver enforcement operation",
-   "url": "https://www.ttnews.com/articles/oklahoma-15-states-illegal-trucks",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "A 15-state enforcement dragnet spearheaded by Oklahoma from Canada to the Gulf Coast led to the arrests of more than 40 foreign truck drivers with deportation orders.",
-   "published": "2026-11-05T18:15:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585108",
-   "title": "Behind The Capitol Christmas Tree Is A Kenworth, Four Drivers, And A 2,000 Mile Haul Only Trucking Can Pull Off",
-   "url": "https://www.freightwaves.com/news/behind-the-capitol-christmas-tree-is-a-kenworth-four-drivers-and-a-2000-mile-haul-only-trucking-can-pull-off",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Every December a towering evergreen rises on the West Lawn of the U.S. Capitol and gets called the People’s Tree, but before a child from its home state flips the switch to light it, the tree has to survive something most of the public never stops to consider, a journey of more than 2,000 miles…",
-   "published": "2026-11-05T17:50:28+00:00"
-  },
-  {
-   "id": "https://www.dcvelocity.com/transportation/regulation-government/analysts-democratic-midterm-election-sweep-could-shift-permitting-rules-but-not-tariffs",
-   "title": "Analysts: Democratic midterm election sweep could shift permitting rules, but not tariffs",
-   "url": "https://www.dcvelocity.com/transportation/regulation-government/analysts-democratic-midterm-election-sweep-could-shift-permitting-rules-but-not-tariffs",
-   "source": "DC Velocity",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "The U.S. midterm election sweep of the House and Senate by Democrats will doubtless have impacts on global supply chains, but worldwide tariffs are likely to remain largely intact over the next twelve months, according to an analysis by Moody’s. That’s because most import duties are a domain of…",
-   "published": "2026-11-05T17:50:23+00:00"
   }
  ]
 }
