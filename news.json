@@ -1,6 +1,37 @@
 {
- "updated": "2026-11-09T20:30:49+00:00",
+ "updated": "2026-11-09T20:40:44+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104625",
+   "title": "Uzbekistan national used bogus carriers to carry out over $12 million in cargo theft",
+   "url": "https://landline.media/uzbekistan-national-used-bogus-carriers-to-carry-out-over-12-million-in-cargo-theft/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Fraud"
+   ],
+   "excerpt": "A $12 million cargo theft scheme leads to conspiracy charges. Find out how the thefts occurred and what’s next for those charged.",
+   "published": "2026-11-09T20:38:41+00:00"
+  },
+  {
+   "id": "https://joc.com/article/falling-us-truck-orders-cast-doubt-on-truckload-capacity-recovery-6320644",
+   "title": "Falling US truck orders cast doubt on truckload capacity recovery",
+   "url": "https://joc.com/article/falling-us-truck-orders-cast-doubt-on-truckload-capacity-recovery-6320644",
+   "source": "JOC",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Rates",
+    "Regulation",
+    "Capacity"
+   ],
+   "excerpt": "Soft demand and upcoming truck emissions regulations are weighing on motor carrier purchasing decisions, despite higher trucking rates.",
+   "published": "2026-11-09T20:32:14+00:00"
+  },
   {
    "id": "https://landline.media/?p=104623",
    "title": "Months-long closure will affect truck traffic",
@@ -1128,36 +1159,6 @@
    ],
    "excerpt": "The U.S. midterm election sweep of the House and Senate by Democrats will doubtless have impacts on global supply chains, but worldwide tariffs are likely to remain largely intact over the next twelve months, according to an analysis by Moody’s. That’s because most import duties are a domain of…",
    "published": "2026-11-05T17:50:23+00:00"
-  },
-  {
-   "id": "https://www.dcvelocity.com/technology/transportation-it/survey-ports-are-slow-to-adopt-port-community-system-software",
-   "title": "Survey: Ports are slow to adopt Port Community System software",
-   "url": "https://www.dcvelocity.com/technology/transportation-it/survey-ports-are-slow-to-adopt-port-community-system-software",
-   "source": "DC Velocity",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs",
-    "Ports/Rail"
-   ],
-   "excerpt": "Only 5% of respondents said their port has fully implemented a Port Community System (PCS), which is an electronic platform that manages data distribution between the variety of stakeholders that comprise a port community, according to global research from logistics software vendor Kalé Logistics.…",
-   "published": "2026-11-05T17:42:53+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585105",
-   "title": "Humble Robotics raises $51M for cabless hauler pilots",
-   "url": "https://www.freightwaves.com/news/humble-robotics-51m-series-a-cabless-hauler",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Humble Robotics raised a $51 million Series A on Thursday to move its cabless, electric Humble Hauler into customer pilots on port drayage and warehouse runs. Obvious Ventures led the round, with participation from existing investors Eclipse and Energy Impact Partners.",
-   "published": "2026-11-05T17:05:13+00:00"
   }
  ]
 }
