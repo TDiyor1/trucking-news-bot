@@ -1,6 +1,52 @@
 {
- "updated": "2026-11-09T18:50:32+00:00",
+ "updated": "2026-11-09T19:00:41+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104620",
+   "title": "FMCSA wants drivers to expose the bad in trucking",
+   "url": "https://landline.media/fmcsa-wants-drivers-to-expose-the-bad-in-trucking/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "After years of complaints about the ineffectiveness of its National Consumer Complaint Database, FMCSA has relaunched the trucking platform.",
+   "published": "2026-11-09T18:57:11+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104616",
+   "title": "Spot rates up, trucking jobs flat: What’s going on?",
+   "url": "https://landline.media/spot-rates-up-trucking-jobs-flat-whats-going-on/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "Higher rates should give carriers room to grow. So why are trucking jobs flat? The latest freight data reveal a recovery with strings attached.",
+   "published": "2026-11-09T18:55:38+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=585499",
+   "title": "Asia-U.S. West Coast ocean container spot rates up 343% since start of Iran war, says Xeneta",
+   "url": "https://www.freightwaves.com/news/asia-u-s-west-coast-ocean-container-spot-rates-up-343-since-start-of-iran-war-says-xeneta",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Ports/Rail"
+   ],
+   "excerpt": "Global ocean container spot rates could fall 30% in 2027 as fleet growth outpaces cargo demand and more ships return to shorter routes through the Red Sea, according to Xeneta’s latest ocean market outlook. The freight-rate intelligence provider also forecasts a 5% decline in long-term contract…",
+   "published": "2026-11-09T18:35:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585458",
    "title": "$11.4 million in NVIDIA hardware vanishes during shipment from California to Texas",
@@ -1117,47 +1163,6 @@
    "tags": [],
    "excerpt": "Every fleet shop produces used oil, and most hand it to an outside collector without much thought. The truck shows up, the tank gets pumped, and the paperwork goes in a drawer. That routine works until something goes wrong: a load gets rejected, an inspector asks for records, or oil your shop…",
    "published": "2026-11-05T15:13:22+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16424364",
-   "title": "Fleetworthy's new AI-powered insights helps fleets identify toll leakage",
-   "url": "https://www.ccjdigital.com/technology/business-operations/article/16424364/fleetworthys-ai-intelligence-layer-identifies-toll-leakage",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Fleetworthy, a provider of compliance, toll, bypass and safety technology, has embedded an AI layer into its platform that surfaces insights derived from a fleet’s tolling data, and the fleets that tested it in beta have already realized benefits. “They've been able to quickly identify toll leakage…",
-   "published": "2026-11-05T15:10:00+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/schneider-national-says-rail-partner-shift-offers-network-boost/873847/",
-   "title": "Schneider National says rail partner shift offers network boost",
-   "url": "https://www.supplychaindive.com/news/schneider-national-says-rail-partner-shift-offers-network-boost/873847/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "CEO Jim Filter said the company brings 35 years of intermodal service experience to its new partnership with Norfolk Southern.",
-   "published": "2026-11-05T15:08:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585088",
-   "title": "US Army enlists FedEx to modernize logistics at depots",
-   "url": "https://www.freightwaves.com/news/us-army-enlists-fedex-to-modernize-logistics-at-depots",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "FedEx Corp. has made clear that its future lies with premium B2B logistics services in key industrial verticals that require precision execution, such as automotive, healthcare, aerospace and data centers — not cheap last-mile delivery for online retailers.",
-   "published": "2026-11-05T15:03:33+00:00"
   }
  ]
 }
