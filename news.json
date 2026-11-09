@@ -1,6 +1,35 @@
 {
- "updated": "2026-11-09T21:00:43+00:00",
+ "updated": "2026-11-09T21:24:40+00:00",
  "items": [
+  {
+   "id": "https://www.dat.com/blog/?p=27718",
+   "title": "Flatbed Report: Houston flatbed freight pays more in every direction, but only Lubbock is also moving more loads",
+   "url": "https://www.dat.com/blog/flatbed-report-houston-flatbed-freight-pays-more-in-every-direction-but-only-lubbock-is-also-moving-more-loads",
+   "source": "DAT iQ",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "Flatbed spot linehaul rates paid to carriers averaged $2.63 per mile last week, minus fuel, up 1.0%, or $0.02 per mile, from the week before. Rates climbed 30.5%, or $0.62 per mile, year over year and held 26.4%, or $0.55 per mile, above the nine-year seasonal average of $2.08 per mile, above the…",
+   "published": "2026-11-09T21:22:39+00:00"
+  },
+  {
+   "id": "https://joc.com/article/us-retailers-upgrade-q4-import-forecast-even-as-extended-peak-winds-down-6320648",
+   "title": "US retailers upgrade Q4 import forecast even as extended peak winds down",
+   "url": "https://joc.com/article/us-retailers-upgrade-q4-import-forecast-even-as-extended-peak-winds-down-6320648",
+   "source": "JOC",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The National Retail Federation said US ports in September ended up handling 2.37 million TEUs, making it the busiest month of 2026 and the third-busiest in the history of its Global Port Tracker.",
+   "published": "2026-11-09T20:59:15+00:00"
+  },
   {
    "id": "https://www.dat.com/blog/?p=27715",
    "title": "Dry Van Report: Tight capacity keeps spot rates climbing",
@@ -1136,35 +1165,6 @@
    "tags": [],
    "excerpt": "A truck driver’s death after helping unload a trailer puts a spotlight on risks beyond the highway and allegations of unsafe loading.",
    "published": "2026-11-05T19:08:59+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585138",
-   "title": "STB orders Union Pacific to make rate hike threat video public",
-   "url": "https://www.freightwaves.com/news/stb-orders-union-pacific-to-make-rate-hike-threat-video-public",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Rates",
-    "Ports/Rail"
-   ],
-   "excerpt": "The Surface Transportation Board has ordered Union Pacific to make public a recording of Chief Executive Jim Vena’s remarks to a shipper conference, rejecting the railroad’s appeal in a dispute over whether he threatened customers who oppose its proposed acquisition of Norfolk Southern (NYSE: NSC…",
-   "published": "2026-11-05T18:35:09+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104569",
-   "title": "Will higher taxes get truckers out of traffic jams?",
-   "url": "https://landline.media/will-higher-taxes-get-truckers-out-of-traffic-jams/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Western voters decide on major transportation taxes. Truckers want to know if the money will mean better roads, less traffic and faster deliveries.",
-   "published": "2026-11-05T18:22:56+00:00"
   }
  ]
 }
