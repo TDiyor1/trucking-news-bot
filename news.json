@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-09T18:00:38+00:00",
+ "updated": "2026-11-09T18:21:16+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585493",
+   "title": "What trucking can still get from a lame-duck Congress before Jan. 3",
+   "url": "https://www.freightwaves.com/news/what-trucking-can-still-get-from-a-lame-duck-congress-before-jan-3",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "Every bill in Congress has an expiration date. For the 119th Congress, it’s noon on Jan. 3, 2027. Anything that hasn’t passed both chambers and reached the president by then dies, and the next Congress starts over with new bill numbers, new committee chairs and new math.",
+   "published": "2026-11-09T17:48:45+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585484",
    "title": "AI scales the work. Experts make it count.",
@@ -1147,22 +1162,6 @@
    ],
    "excerpt": "The company is using AI to enable fast-but-reliable delivery promises and help sellers determine shipping costs more easily, CEO Jamie Iannone said.",
    "published": "2026-11-05T14:38:18+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585078",
-   "title": "Maersk raises profit outlook as earnings surge, but shares slide on expectations miss",
-   "url": "https://www.freightwaves.com/news/maersk-raises-profit-outlook-as-earnings-surge-but-shares-slide-on-expectations-miss",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "A.P. Moller-Maersk raised its full-year earnings forecast on Thursday after higher freight rates drove a sharp increase in third-quarter profit, but its shares fell as the results and upgraded outlook disappointed investors. The stock dropped as much as 11.6% in Copenhagen trading.",
-   "published": "2026-11-05T13:58:32+00:00"
   }
  ]
 }
