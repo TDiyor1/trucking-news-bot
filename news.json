@@ -1,6 +1,19 @@
 {
- "updated": "2026-11-09T16:00:34+00:00",
+ "updated": "2026-11-09T16:20:19+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585457",
+   "title": "Bangkok airport cargo congestion frustrates freight forwarders",
+   "url": "https://www.freightwaves.com/news/bangkok-airport-cargo-congestion-frustrates-freight-forwarders",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Airlines, freight forwarders, importers and exporters are pressing Thai Airways to quickly correct a system breakdown in cargo terminals it operates at Bangkok’s Suvarnabhumi Airport, which has resulted in costly delays for manufacturing supply chains, according to local media reports and logistics…",
+   "published": "2026-11-09T16:08:23+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/china-extends-pause-tariffs",
    "title": "China extends pause on 24% U.S. tariffs to January",
@@ -1149,19 +1162,6 @@
    ],
    "excerpt": "The Californian port of Long Beach is predicted to handle more than 10m teu this year, for the first time. “It’s been a peak year,” Port of Long Beach CEO Noel Hacegaba told The Loadstar on the sidelines of the World Ports Conference in London this week.",
    "published": "2026-11-05T13:18:29+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585101",
-   "title": "Americold raises full-year outlook as warehouse performance improves",
-   "url": "https://www.freightwaves.com/news/americold-raises-full-year-outlook-as-warehouse-performance-improves",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Americold Realty Trust raised its full-year earnings outlook Thursday after reporting higher third-quarter revenue and improved warehouse margins, while a one-time gain from its joint venture with EQT drove a sharp swing to profit. The temperature-controlled logistics company (NYSE: COLD ) based in…",
-   "published": "2026-11-05T13:00:00+00:00"
   }
  ]
 }
