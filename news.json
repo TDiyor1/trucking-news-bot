@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-09T18:21:16+00:00",
+ "updated": "2026-11-09T18:30:33+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585458",
+   "title": "$11.4 million in NVIDIA hardware vanishes during shipment from California to Texas",
+   "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Six pallets of NVIDIA computer hardware worth a reported $11.4 million disappeared during a shipment from California to Texas. A truck collected the merchandise in Oakland on Aug. 29 for delivery to Fort Worth. Investigators reportedly tracked the vehicle through several extended stops before…",
+   "published": "2026-11-09T18:06:35+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585493",
    "title": "What trucking can still get from a lame-duck Congress before Jan. 3",
@@ -1145,23 +1159,6 @@
    ],
    "excerpt": "The possibility of pressure from Congress to pull back on the war sent the price for a barrel of Brent crude oil, the international standard, plunging 8.7% to $94.62.",
    "published": "2026-11-05T14:39:48+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/ebay-trims-depop-shipping-rates-bolsters-delivery-features/873710/",
-   "title": "EBay trims Depop shipping rates, bolsters delivery features",
-   "url": "https://www.supplychaindive.com/news/ebay-trims-depop-shipping-rates-bolsters-delivery-features/873710/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Tech"
-   ],
-   "excerpt": "The company is using AI to enable fast-but-reliable delivery promises and help sellers determine shipping costs more easily, CEO Jamie Iannone said.",
-   "published": "2026-11-05T14:38:18+00:00"
   }
  ]
 }
