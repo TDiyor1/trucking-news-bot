@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-10T22:30:29+00:00",
+ "updated": "2026-11-10T23:00:34+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585553",
+   "title": "1 in 6 supply chain professionals report AI-related data exposure, survey finds",
+   "url": "https://www.freightwaves.com/news/1-in-6-supply-chain-professionals-report-ai-related-data-exposure-survey-finds",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "One in six supply chain, logistics, distribution and wholesale professionals said their company experienced an incident in the past year in which supplier or customer information was exposed through an artificial intelligence tool, according to a new industry survey.",
+   "published": "2026-11-10T22:15:58+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16425108",
    "title": "New software platform aims to accelerate AV development",
@@ -1150,21 +1164,6 @@
    ],
    "excerpt": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade. This week in Borderlands Mexico: US foreign-trade zones push to fix USMCA tariff obstacles; Mexico to deploy 826 National Guard officers to boost highway security; and Ametek…",
    "published": "2026-11-08T12:00:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585371",
-   "title": "Intermodal rates coming in hot this fall; mostly fuel driven",
-   "url": "https://www.freightwaves.com/news/intermodal-rates-coming-in-hot-this-fall-mostly-fuel-driven",
-   "source": "FreightWaves SONAR",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Rates",
-    "Ports/Rail"
-   ],
-   "excerpt": "Chart of the Week: Intermodal Contract Rate per Mile – Transcontinental and East Coast lanes SONAR : IMCRPM.TRANSCON, IMCRPM.LOCALEAST Intermodal contract rates, including fuel, have taken off in the fourth quarter. Transcontinental (TRANSCON) rates are up more than 12% year over year, and rates on…",
-   "published": "2026-11-08T01:30:00+00:00"
   }
  ]
 }
