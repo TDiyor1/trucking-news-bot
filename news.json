@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-10T18:39:10+00:00",
+ "updated": "2026-11-10T19:00:36+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104634",
+   "title": "Interstate 70 closure: Kansas City, here I detour",
+   "url": "https://landline.media/interstate-70-closure-kansas-city-here-i-detour/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "If you’re planning on trucking along Interstate 70 in Kansas City, Mo., in 2027, consider this your heads-up.",
+   "published": "2026-11-10T18:59:38+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/forward-air-earnings-q3-2026",
    "title": "Forward Air Bolsters Freight Demand Amid Capacity Crackdown",
@@ -1153,20 +1167,6 @@
    ],
    "excerpt": "The railroad said Jim Vena’s remarks that he would raise rates on shippers who oppose the merger was an “offhand comment.”",
    "published": "2026-11-06T19:49:00+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104609",
-   "title": "Cargo thieves are getting better returns while putting in less work",
-   "url": "https://landline.media/cargo-thieves-are-getting-better-returns-while-putting-in-less-work/",
-   "source": "Land Line",
-   "audience": [
-    "Broker"
-   ],
-   "tags": [
-    "Fraud"
-   ],
-   "excerpt": "New report shows cargo theft losses reached over $230 million in Q3 of 2026. Find out the hotspots for thieves and what they’re targeting.",
-   "published": "2026-11-06T19:07:57+00:00"
   }
  ]
 }
