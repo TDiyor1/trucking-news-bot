@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-10T19:05:41+00:00",
+ "updated": "2026-11-10T19:30:33+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104651",
+   "title": "BOI reporting: Back to haunt small businesses?",
+   "url": "https://landline.media/boi-reporting-back-to-haunt-small-businesses/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "A new lawsuit could revive beneficial ownership information reporting, reopening a compliance saga many small-business owners thought was over.",
+   "published": "2026-11-10T19:24:47+00:00"
+  },
   {
    "id": "https://landline.media/?p=104634",
    "title": "Interstate 70 closure: Kansas City, here I detour",
@@ -1152,21 +1166,6 @@
    ],
    "excerpt": "It’s unclear if there is political will to pass a federal gas tax suspension in the lame-duck session of Congress starting Nov. 9 or in the next Congress.",
    "published": "2026-11-06T21:43:15+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/up-ceos-rate-threat-adds-wrinkle-to-norfolk-southern-merger-process/874006/",
-   "title": "UP CEO’s rate threat adds wrinkle to Norfolk Southern merger process",
-   "url": "https://www.supplychaindive.com/news/up-ceos-rate-threat-adds-wrinkle-to-norfolk-southern-merger-process/874006/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Rates",
-    "Ports/Rail"
-   ],
-   "excerpt": "The railroad said Jim Vena’s remarks that he would raise rates on shippers who oppose the merger was an “offhand comment.”",
-   "published": "2026-11-06T19:49:00+00:00"
   }
  ]
 }
