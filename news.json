@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-10T16:05:27+00:00",
+ "updated": "2026-11-10T16:30:36+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585640",
+   "title": "ACT Expo 2027 agenda leads with diesel and fleet costs",
+   "url": "https://www.freightwaves.com/news/act-expo-2027-agenda-diesel-costs",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "ACT Expo opened registrations for next year’s show with an agenda that leads with cutting fleets’ fuel and operating costs, starting with diesel technology. The Advanced Clean Transportation Expo will take place May 17-20 at the Las Vegas Convention Center.",
+   "published": "2026-11-10T15:59:17+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585618",
    "title": "Lineage sees cold storage inventories stabilize after capacity reductions",
@@ -30,6 +44,20 @@
    ],
    "excerpt": "Sportswear company ASICS is recovering misplaced products nearly 60% faster at its Byhalia, Mississippi, distribution center since it began conducting nightly flights of high-risk storage areas with autonomous inventory drones. The drones, manufactured by Corvus Robotics, have increased counting…",
    "published": "2026-11-10T15:46:57+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/kodiak-international-option",
+   "title": "Kodiak to add International tractors to autonomous options",
+   "url": "https://www.ttnews.com/articles/kodiak-international-option",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Kodiak AI will begin offering retrofitted autonomous tractors from three truck makers in the second half of 2027: International Motors, Peterbilt and Western Star.",
+   "published": "2026-11-10T15:36:17+00:00"
   },
   {
    "id": "https://www.truckingdive.com/news/marten-reports-fewer-trucking-miles-but-notches-14-tl-rate-gain/874114/",
@@ -1136,32 +1164,6 @@
    ],
    "excerpt": "The autonomous trucking company is working with Roush to upfit trucks, and despite the delay, still expects to have more than 1,000 trucks ready by the end of 2027.",
    "published": "2026-11-06T15:54:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/diesel-tax-suspensions-2026",
-   "title": "Diesel tax suspensions cut fuel costs in 3 states",
-   "url": "https://www.ttnews.com/articles/diesel-tax-suspensions-2026",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "The tax suspensions temporarily waive or nearly eliminate state levies that normally add as much as 47 cents per gallon to diesel prices.",
-   "published": "2026-11-06T15:46:48+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585326",
-   "title": "Conlio raises €6.4M to automate freight document checks",
-   "url": "https://www.freightwaves.com/news/conlio-funding-freight-document-checks",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Berlin-based Conlio announced a €6.4 million ($7.1 million) funding round on Tuesday for software that verifies road freight documents before forwarders pay carriers and invoice customers. Piton Capital led the round. Conlio calls that check one of logistics’ most manual processes and says it slows…",
-   "published": "2026-11-06T15:40:03+00:00"
   }
  ]
 }
