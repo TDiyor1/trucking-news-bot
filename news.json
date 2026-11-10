@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T18:00:36+00:00",
+ "updated": "2026-11-10T18:05:36+00:00",
  "items": [
   {
    "id": "https://landline.media/?p=104631",
@@ -12,6 +12,21 @@
    "tags": [],
    "excerpt": "Road repairs, congestion relief and transit are on the table. See what voters approved and how the decisions could affect truck drivers.",
    "published": "2026-11-10T17:42:19+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=585658",
+   "title": "Port of Long Beach, coalition aims for electricity to power 35% of shipping by 2035",
+   "url": "https://www.freightwaves.com/news/port-of-long-beach-coalition-aims-for-electricity-to-power-35-of-shipping-by-2035",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The Port of Long Beach is among the ports highlighted in a maritime electrification proposal that calls for electricity to supply at least 35% of international shipping’s final energy demand by 2035, placing shore-power infrastructure at the center of a broader effort to reduce fossil-fuel use.",
+   "published": "2026-11-10T17:30:00+00:00"
   },
   {
    "id": "https://www.ccjdigital.com/16425078",
@@ -1149,21 +1164,6 @@
    "tags": [],
    "excerpt": "Truckers usually eat the cost when bad roads damage their rigs. One driver is taking her fight to court after a sinkhole opened up.",
    "published": "2026-11-06T18:50:53+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104597",
-   "title": "With midterms over, it’s highway bill time",
-   "url": "https://landline.media/with-midterms-over-its-highway-bill-time/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "Mid-term elections are over, and the 119th Congress resumes next week. Soon, decisions will need to be made about the next highway bill.",
-   "published": "2026-11-06T18:45:30+00:00"
   }
  ]
 }
