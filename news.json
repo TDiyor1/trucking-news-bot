@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-10T16:00:34+00:00",
+ "updated": "2026-11-10T16:05:27+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585618",
+   "title": "Lineage sees cold storage inventories stabilize after capacity reductions",
+   "url": "https://www.freightwaves.com/news/lineage-sees-cold-storage-inventories-stabilize-after-capacity-reductions",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Capacity"
+   ],
+   "excerpt": "Cold storage facility operator Lineage said customer inventories have stabilized, though some accounts are holding lower stock levels. The Novi, Michigan-based company said Tuesday on its third-quarter call that it continues to shutter underutilized facilities in efforts to tighten supply and…",
+   "published": "2026-11-10T15:47:17+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=585629",
+   "title": "ASICS warehouse drones quickly find misplaced inventory",
+   "url": "https://www.freightwaves.com/news/asics-warehouse-drones-quickly-find-misplaced-inventory",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Sportswear company ASICS is recovering misplaced products nearly 60% faster at its Byhalia, Mississippi, distribution center since it began conducting nightly flights of high-risk storage areas with autonomous inventory drones. The drones, manufactured by Corvus Robotics, have increased counting…",
+   "published": "2026-11-10T15:46:57+00:00"
+  },
   {
    "id": "https://www.truckingdive.com/news/marten-reports-fewer-trucking-miles-but-notches-14-tl-rate-gain/874114/",
    "title": "Marten reports fewer trucking miles but notches 14% TL rate gain",
@@ -1132,36 +1162,6 @@
    "tags": [],
    "excerpt": "Berlin-based Conlio announced a €6.4 million ($7.1 million) funding round on Tuesday for software that verifies road freight documents before forwarders pay carriers and invoice customers. Piton Capital led the round. Conlio calls that check one of logistics’ most manual processes and says it slows…",
    "published": "2026-11-06T15:40:03+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/tfi-international-truckload-profits-eclipse-hit-to-ltl/873630/",
-   "title": "TFI International truckload profits eclipse hit to LTL",
-   "url": "https://www.truckingdive.com/news/tfi-international-truckload-profits-eclipse-hit-to-ltl/873630/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Operating income in its less-than-truckload segment fell from nearly $78 million in Q3 2025 to $44 million in the third quarter of this year.",
-   "published": "2026-11-06T15:34:00+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/auroras-truck-production-schedule-delayed-by-supply-quality-issues/873378/",
-   "title": "Aurora’s truck production schedule delayed by supply, quality issues",
-   "url": "https://www.truckingdive.com/news/auroras-truck-production-schedule-delayed-by-supply-quality-issues/873378/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "The autonomous trucking company is working with Roush to upfit trucks, and despite the delay, still expects to have more than 1,000 trucks ready by the end of 2027.",
-   "published": "2026-11-06T15:32:00+00:00"
   }
  ]
 }
