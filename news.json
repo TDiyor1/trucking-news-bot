@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-10T19:35:46+00:00",
+ "updated": "2026-11-10T20:00:38+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104663",
+   "title": "Veterans Day deals roll in as Truckers For Troops rolls on",
+   "url": "https://landline.media/veterans-day-deals-roll-in-as-truckers-for-troops-rolls-on/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Meals on the house. Membership dues at a discount. Veterans Day specials and Truckers For Troops offer ways to save and give back.",
+   "published": "2026-11-10T19:57:24+00:00"
+  },
   {
    "id": "https://landline.media/?p=104651",
    "title": "BOI reporting: Back to haunt small businesses?",
@@ -14,6 +28,23 @@
    "tags": [],
    "excerpt": "A new lawsuit could revive beneficial ownership information reporting, reopening a compliance saga many small-business owners thought was over.",
    "published": "2026-11-10T19:24:47+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=585687",
+   "title": "Rising Q3 transportation costs squeeze manufacturers, reward railroads and reshape trade",
+   "url": "https://www.freightwaves.com/news/rising-q3-transportation-costs-squeeze-manufacturers-reward-railroads-and-reshape-trade",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Rates",
+    "Diesel",
+    "Ports/Rail"
+   ],
+   "excerpt": "Rising fuel prices and freight rates are putting pressure on corporate supply chains, but sharply with different consequences: Higher costs for automakers, a competitive opening for railroads and an unexpected advantage for some U.S. oil refiners. Comments from seven executives at Ford (NYSE: F ),…",
+   "published": "2026-11-10T19:22:13+00:00"
   },
   {
    "id": "https://landline.media/?p=104634",
@@ -1137,35 +1168,6 @@
    ],
    "excerpt": "The Transport Topics Top 50 Global Freight Companies is a listing of the largest package, truck, rail, air and ocean carriers in the world.",
    "published": "2026-11-07T12:00:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/cross-border-calculus",
-   "title": "Cross-border calculus: North American freight networks adapt",
-   "url": "https://www.ttnews.com/articles/cross-border-calculus",
-   "source": "Transport Topics",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "Years of shifting tariffs, customs requirements and trade policies have forced shippers and their transportation providers to become more adaptable.",
-   "published": "2026-11-07T12:00:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/federal-gas-tax-holiday-2026",
-   "title": "What would a federal gas tax holiday mean for trucking?",
-   "url": "https://www.ttnews.com/articles/federal-gas-tax-holiday-2026",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "It’s unclear if there is political will to pass a federal gas tax suspension in the lame-duck session of Congress starting Nov. 9 or in the next Congress.",
-   "published": "2026-11-06T21:43:15+00:00"
   }
  ]
 }
