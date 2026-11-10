@@ -1,6 +1,35 @@
 {
- "updated": "2026-11-10T12:30:31+00:00",
+ "updated": "2026-11-10T13:00:37+00:00",
  "items": [
+  {
+   "id": "https://www.freightcaviar.com/stories/how-top-brokerages-will-operate-in-2027-new-broker-playbook",
+   "title": "How Top Brokerages Will Operate in 2027: The New Playbook for Brokers",
+   "url": "https://www.freightcaviar.com/stories/how-top-brokerages-will-operate-in-2027-new-broker-playbook",
+   "source": "Freight Caviar",
+   "audience": [
+    "Broker"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Brotherly Freight runs enterprise freight volume with a lean team. Here is how AI agents are rewriting the broker playbook for 2027, from quoting to collections.",
+   "published": "2026-11-10T15:00:00+00:00"
+  },
+  {
+   "id": "https://theloadstar.com/?p=328203",
+   "title": "UPS in court bid to recover tariff payments ruled ‘unlawful’",
+   "url": "https://theloadstar.com/ups-in-court-bid-to-recover-tariff-payments-ruled-unlawful/",
+   "source": "The Loadstar",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "UPS has its sights set on US Customs and Border Protection (CBP), launching legal action against the agency to reclaim refunds and interest for tariffs paid under the International Emergency Economic Powers Act (IEEPA), with it having already received some $500m.",
+   "published": "2026-11-10T12:35:53+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585599",
    "title": "That RICO suit vs. Robinson/TQL? Jury selection starts in ’28",
@@ -1139,37 +1168,6 @@
    ],
    "excerpt": "The chief executive of Union Pacific says he wasn’t serious when he threatened to raise rates for shippers that didn’t support UP’s merger with Norfolk Southern. Vena, who frequently peppers his public comments with joking asides, characterized the comment made to a shippers group as “a little…",
    "published": "2026-11-06T02:35:19+00:00"
-  },
-  {
-   "id": "https://joc.com/article/up-ceo-vena-under-fire-for-offhand-comment-about-norfolk-southern-deal-6318667",
-   "title": "UP CEO Vena under fire for 'offhand comment' about Norfolk Southern deal",
-   "url": "https://joc.com/article/up-ceo-vena-under-fire-for-offhand-comment-about-norfolk-southern-deal-6318667",
-   "source": "JOC",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Rates",
-    "Ports/Rail"
-   ],
-   "excerpt": "The railroad says the comments threatening higher rates against those who oppose the NS merger were made in jest, but others argue they amounted to threats of retaliation that have prevented shippers from speaking out against the deal.",
-   "published": "2026-11-05T23:55:10+00:00"
-  },
-  {
-   "id": "https://www.dat.com/blog/?p=27712",
-   "title": "Reefer Produce Report: Produce volume slips 3% while lane rates run 16% to 51% above last year",
-   "url": "https://www.dat.com/blog/reefer-produce-report-produce-volume-slips-3-while-lane-rates-run-16-to-51-above-last-year",
-   "source": "DAT iQ",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Tariffs"
-   ],
-   "excerpt": "National refrigerated produce volume fell 3% last week and 7% from a year earlier. Mexico crossings through Texas fell 9% and South and Central California fell 25%, while the Imperial and Coachella section jumped 33%. California and Washington each slipped 1%.",
-   "published": "2026-11-05T23:05:03+00:00"
   }
  ]
 }
