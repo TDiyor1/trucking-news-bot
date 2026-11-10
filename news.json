@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T15:30:36+00:00",
+ "updated": "2026-11-10T15:35:25+00:00",
  "items": [
   {
    "id": "https://www.truckingdive.com/news/marten-reports-fewer-trucking-miles-but-notches-14-tl-rate-gain/874114/",
@@ -45,6 +45,20 @@
    ],
    "excerpt": "The company, however, remains open to a sale if it can get “fair value” for the business, CFO Jamie Pierson said.",
    "published": "2026-11-10T15:06:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=585588",
+   "title": "Where Trucking Capacity Sits Right Now, And What The Fleet-Size Split Might Be Signaling",
+   "url": "https://www.freightwaves.com/news/where-trucking-capacity-sits-right-now-and-what-the-fleet-size-split-might-be-signaling",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Capacity"
+   ],
+   "excerpt": "How much trucking capacity is on the road right now depends almost entirely on which carriers you are counting, because the national fleet is really several different markets stacked together, the owner-operators running a truck or two, the mid-sized fleets, and the largest carriers, and each of…",
+   "published": "2026-11-10T15:05:00+00:00"
   },
   {
    "id": "https://www.freightcaviar.com/stories/how-top-brokerages-will-operate-in-2027-new-broker-playbook",
@@ -1148,20 +1162,6 @@
    ],
    "excerpt": "The autonomous trucking company is working with Roush to upfit trucks, and despite the delay, still expects to have more than 1,000 trucks ready by the end of 2027.",
    "published": "2026-11-06T15:32:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585316",
-   "title": "October truck transportation jobs = September truck transportation jobs",
-   "url": "https://www.freightwaves.com/news/october-truck-transportation-jobs-september-truck-transportation-jobs",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "The number of workers employed in truck transportation in October was unchanged from September. That end result in the October report from the Bureau of Labor Statistics, released Friday, came from two developments. First, the BLS revised downward its initial figure on truck transportation jobs in…",
-   "published": "2026-11-06T15:24:18+00:00"
   }
  ]
 }
