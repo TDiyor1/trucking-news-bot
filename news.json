@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-10T20:25:24+00:00",
+ "updated": "2026-11-10T20:30:34+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585626",
+   "title": "Uber Freight cuts 80 jobs while hiring nearly 300 in growth push",
+   "url": "https://www.freightwaves.com/news/uber-freight-cuts-80-jobs-while-hiring-nearly-300-in-growth-push",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Uber Freight is eliminating approximately 80 positions across several departments as part of an organizational restructuring, even as the logistics technology company continues hiring and expanding its managed transportation business. The workforce reductions, announced internally Tuesday,…",
+   "published": "2026-11-10T20:15:00+00:00"
+  },
   {
    "id": "https://landline.media/?p=104663",
    "title": "Veterans Day deals roll in as Truckers For Troops rolls on",
@@ -1153,21 +1167,6 @@
    ],
    "excerpt": "A legitimate trucking company can have established operating authority, verified credentials and years of transportation history. But those records cannot guarantee that the person requesting freight actually controls the business. Criminals exploit trusted carrier identities to obtain shipments…",
    "published": "2026-11-07T12:16:29+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/about-us-transport-topics-top-50-global-freight-companies",
-   "title": "About us: Transport Topics Top 50 Global Freight Companies",
-   "url": "https://www.ttnews.com/articles/about-us-transport-topics-top-50-global-freight-companies",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "The Transport Topics Top 50 Global Freight Companies is a listing of the largest package, truck, rail, air and ocean carriers in the world.",
-   "published": "2026-11-07T12:00:00+00:00"
   }
  ]
 }
