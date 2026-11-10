@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-10T16:35:28+00:00",
+ "updated": "2026-11-10T17:00:40+00:00",
  "items": [
+  {
+   "id": "https://theloadstar.com/?p=328238",
+   "title": "El Niño transport chaos hits LatAm perishables exports",
+   "url": "https://theloadstar.com/el-nino-transport-chaos-hits-latam-perishables-exports/",
+   "source": "The Loadstar",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "When it rains, it pours. Agriculture exporters in Latin America’s southern cone have struggled with headwinds from weather hitting crops as well as transport routes, on top of gateway problems and high transport costs. Chile’s cherry export season got off to a rocky start when truckers staged a…",
+   "published": "2026-11-10T17:00:31+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585623",
    "title": "Kearney, MIT put US driverless truck cost parity at 2028",
@@ -1150,20 +1164,6 @@
    "tags": [],
    "excerpt": "Roane Transportation Services and co-founder Steve Kennedy will join Loudon County Trucking, according to an M&A announcement.",
    "published": "2026-11-06T16:48:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585331",
-   "title": "Walmart to take drone delivery nationwide as Zipline raises $1.5B",
-   "url": "https://www.freightwaves.com/news/walmart-to-take-drone-delivery-nationwide-as-zipline-raises-1-5b",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Capacity"
-   ],
-   "excerpt": "Walmart will significantly scale up its drone delivery network in partnership with Zipline, which will operate the small unmanned aerial vehicles from 300 new store locations and has raised $1.5 billion in new funding to build out a nationwide drone delivery capacity, the companies announced on…",
-   "published": "2026-11-06T16:20:27+00:00"
   }
  ]
 }
