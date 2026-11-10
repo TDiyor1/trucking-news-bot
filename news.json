@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T17:30:34+00:00",
+ "updated": "2026-11-10T17:35:33+00:00",
  "items": [
   {
    "id": "https://www.ccjdigital.com/16425078",
@@ -14,6 +14,20 @@
    ],
    "excerpt": "Progressive Insurance has completed the national rollout of Snapshot Pro, a unified commercial telematics program designed to give small small fleets and owner-operators more visibility into their driving habits. The program combines Progressive's Snapshot ProView and Smart Haul into a single…",
    "published": "2026-11-10T17:18:07+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/ps-logistics-unit-buys-roane",
+   "title": "PS Logistics unit buys Tennessee-based flatbed carrier Roane",
+   "url": "https://www.ttnews.com/articles/ps-logistics-unit-buys-roane",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "Loudon County Trucking’s acquisition of Roane revives PS Logistics’ strategic bent toward deal-making for expansion in the flatbed segment of the freight market.",
+   "published": "2026-11-10T17:08:19+00:00"
   },
   {
    "id": "https://joc.com/article/additional-trucks-at-large-us-carriers-boost-truckload-capacity-index-6321140",
@@ -1152,21 +1166,6 @@
    ],
    "excerpt": "A tractor-trailer hauling leeks concealed more than 1,000 pounds of methamphetamine as it approached the Texas border. Federal officers discovered 909 packages of suspected narcotics during an Oct. 30 inspection of a commercial truck entering South Texas.",
    "published": "2026-11-06T18:12:59+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/dtna-reveal-new-plant-site",
-   "title": "DTNA likely to reveal new U.S. plant site by Christmas",
-   "url": "https://www.ttnews.com/articles/dtna-reveal-new-plant-site",
-   "source": "Transport Topics",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "DTNA promised an expedited timeline for the plant due to an expected increase in demand in the U.S. and Canada. The plant is expected to begin operations in 2029.",
-   "published": "2026-11-06T18:10:46+00:00"
   }
  ]
 }
