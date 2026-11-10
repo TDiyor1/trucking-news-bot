@@ -1,6 +1,51 @@
 {
- "updated": "2026-11-10T15:00:37+00:00",
+ "updated": "2026-11-10T15:30:36+00:00",
  "items": [
+  {
+   "id": "https://www.truckingdive.com/news/marten-reports-fewer-trucking-miles-but-notches-14-tl-rate-gain/874114/",
+   "title": "Marten reports fewer trucking miles but notches 14% TL rate gain",
+   "url": "https://www.truckingdive.com/news/marten-reports-fewer-trucking-miles-but-notches-14-tl-rate-gain/874114/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "Operating income in its dedicated segment nosedived in Q3 while its TL segment reduced the severity of an operating loss.",
+   "published": "2026-11-10T15:25:00+00:00"
+  },
+  {
+   "id": "https://www.supplychaindive.com/news/canada-goose-will-revisit-pricing-to-blunt-tariffs-next-year-cfo-says/874196/",
+   "title": "Canada Goose will revisit pricing to blunt tariffs next year, CFO says",
+   "url": "https://www.supplychaindive.com/news/canada-goose-will-revisit-pricing-to-blunt-tariffs-next-year-cfo-says/874196/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "The Toronto-based luxury apparel company worked hard to get its products into the U.S. before new import tariffs became effective in August.",
+   "published": "2026-11-10T15:11:00+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/forward-air-pauses-sale-of-intermodal-segment/874212/",
+   "title": "Forward Air pauses sale of intermodal segment",
+   "url": "https://www.truckingdive.com/news/forward-air-pauses-sale-of-intermodal-segment/874212/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The company, however, remains open to a sale if it can get “fair value” for the business, CFO Jamie Pierson said.",
+   "published": "2026-11-10T15:06:00+00:00"
+  },
   {
    "id": "https://www.freightcaviar.com/stories/how-top-brokerages-will-operate-in-2027-new-broker-playbook",
    "title": "How Top Brokerages Will Operate in 2027: The New Playbook for Brokers",
@@ -14,6 +59,21 @@
    ],
    "excerpt": "Brotherly Freight runs enterprise freight volume with a lean team. Here is how AI agents are rewriting the broker playbook for 2027, from quoting to collections.",
    "published": "2026-11-10T15:00:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=585607",
+   "title": "Retailers forecast U.S. imports to stay elevated through 2026 after breakout peak season",
+   "url": "https://www.freightwaves.com/news/retailers-forecast-u-s-imports-to-stay-elevated-through-2026-after-breakout-peak-season",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tariffs",
+    "Ports/Rail"
+   ],
+   "excerpt": "Import volumes at major U.S. container ports are expected to ease through the end of 2026 after September marked the busiest month of the year. That would cap an extended shipping peak driven by tariff changes and sustained consumer spending. Ports tracked by the National Retail Federation handled…",
+   "published": "2026-11-10T14:36:47+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=585602",
@@ -1102,66 +1162,6 @@
    "tags": [],
    "excerpt": "The number of workers employed in truck transportation in October was unchanged from September. That end result in the October report from the Bureau of Labor Statistics, released Friday, came from two developments. First, the BLS revised downward its initial figure on truck transportation jobs in…",
    "published": "2026-11-06T15:24:18+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585317",
-   "title": "Mexico widens US trade lead with record $96.3B September",
-   "url": "https://www.freightwaves.com/news/mexico-widens-us-trade-lead-with-record-96-3b-september",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "Mexico remained the United States’ largest trading partner in September, with two-way commerce surging 34.2% year over year to a record $96.34 billion. According to the latest trade data analyzed by WorldCity , Canada ranked second with $64.78 billion in two-way trade, followed by China at $41.1…",
-   "published": "2026-11-06T15:19:33+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585312",
-   "title": "North America container imports rise 9% as as freight pricing pressures mount",
-   "url": "https://www.freightwaves.com/news/north-america-container-imports-rise-9-as-as-freight-pricing-pressures-mount",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs",
-    "Ports/Rail"
-   ],
-   "excerpt": "Global container volumes reached 17.35 million TEUs in September 2026, up 8% from a year earlier, as trade remained resilient despite mounting disruption and rising freight prices. Monthly liftings fell 1.4% from August , although the decline followed the highest monthly volume recorded in the…",
-   "published": "2026-11-06T15:09:01+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585308",
-   "title": "Ryder grows its FMS business with East Coast acquisition",
-   "url": "https://www.freightwaves.com/news/ryder-grows-its-fms-business-with-east-coast-acquisition",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Ryder System (NYSE: R) has acquired Efficiency Enterprises, a company with a business model similar to what Ryder does in its Fleet Management Systems (FMS) unit. Ryder, in a prepared statement, described Efficiency Enterprises as “a regional provider of fleet management, maintenance, and leasing…",
-   "published": "2026-11-06T12:47:25+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=328017",
-   "title": "‘Carrier selection matters’ when it comes to getting your goods on time",
-   "url": "https://theloadstar.com/carrier-selection-matters-when-it-comes-to-getting-your-goods-on-time/",
-   "source": "The Loadstar",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Rates",
-    "Capacity"
-   ],
-   "excerpt": "The Asia-North America tradelane is facing the highest ocean freight disruption risk over the coming weeks. Reduced carrier capacity and growing difficulty securing bookings threaten shipment reliability, according to WiseTech Global. The company’s November Ocean Freight Risk Outlook, released…",
-   "published": "2026-11-06T12:12:10+00:00"
   }
  ]
 }
