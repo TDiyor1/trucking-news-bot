@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-10T16:30:36+00:00",
+ "updated": "2026-11-10T16:35:28+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585623",
+   "title": "Kearney, MIT put US driverless truck cost parity at 2028",
+   "url": "https://www.freightwaves.com/news/kearney-mit-driverless-truck-cost-parity-2028",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Kearney and the MIT Mobility Initiative project that autonomous trucks will match the per-mile cost of trucks with drivers in the US around 2028, according to a report released Nov. 5 . Their model puts a driverless truck at $4 a mile in 2026, against $2.50 for a conventional truck, with the two…",
+   "published": "2026-11-10T16:11:02+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585640",
    "title": "ACT Expo 2027 agenda leads with diesel and fleet costs",
@@ -1150,20 +1164,6 @@
    ],
    "excerpt": "Walmart will significantly scale up its drone delivery network in partnership with Zipline, which will operate the small unmanned aerial vehicles from 300 new store locations and has raised $1.5 billion in new funding to build out a nationwide drone delivery capacity, the companies announced on…",
    "published": "2026-11-06T16:20:27+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/auroras-truck-production-schedule-delayed-by-supply-quality-issues/873995/",
-   "title": "Aurora’s truck production schedule delayed by supply, quality issues",
-   "url": "https://www.supplychaindive.com/news/auroras-truck-production-schedule-delayed-by-supply-quality-issues/873995/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "The autonomous trucking company is working with Roush to upfit trucks, and despite the delay, still expects to have more than 1,000 trucks ready by the end of 2027.",
-   "published": "2026-11-06T15:54:00+00:00"
   }
  ]
 }
