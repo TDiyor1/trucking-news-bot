@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-10T06:30:29+00:00",
+ "updated": "2026-11-10T07:00:34+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16425014",
+   "title": "Electric Mack MD trucks recalled for improper hill start assist message",
+   "url": "https://www.ccjdigital.com/maintenance/article/16425014/electric-mack-md-trucks-recalled-for-improper-hill-start-assist-message",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Trucking news and briefs for Tuesday, Nov. 10, 2026: Mack MD Electric recall prompted by hill start assist messaging Mack Trucks is recalling approximately 151 model year 2024-2026 Mack MD Electric trucks that were incorrectly manufactured with the hill start assist (HSA) message enabled.",
+   "published": "2026-11-10T06:52:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585579",
    "title": "Radiant Logistics touts enhanced credit facility, eyes larger M&A",
@@ -1154,21 +1168,6 @@
    "tags": [],
    "excerpt": "The Teamsters are claiming victory for a group of “W-2” drivers at an Amazon facility in Indiana who sought representation by the union. But as with the entire Amazon-Teamsters relationship, it’s complicated. In its prepared statement announcing the “march” on the company to demand it bargain for a…",
    "published": "2026-11-05T21:13:16+00:00"
-  },
-  {
-   "id": "https://joc.com/article/new-data-shows-results-of-us-ongoing-crackdown-on-illegal-trucking-6318620",
-   "title": "New data shows results of US' ongoing crackdown on illegal trucking",
-   "url": "https://joc.com/article/new-data-shows-results-of-us-ongoing-crackdown-on-illegal-trucking-6318620",
-   "source": "JOC",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "That comes as questions could arise in the new Congress about the role of immigration policy in the widespread move on illegal trucking as enforcement sweeps continue.",
-   "published": "2026-11-05T20:17:15+00:00"
   }
  ]
 }
