@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T14:00:41+00:00",
+ "updated": "2026-11-10T14:30:34+00:00",
  "items": [
   {
    "id": "https://www.freightcaviar.com/stories/how-top-brokerages-will-operate-in-2027-new-broker-playbook",
@@ -16,6 +16,18 @@
    "published": "2026-11-10T15:00:00+00:00"
   },
   {
+   "id": "https://www.freightwaves.com/?p=585602",
+   "title": "Wing to invest $125M in drone manufacturing plant",
+   "url": "https://www.freightwaves.com/news/wing-to-invest-125m-in-drone-manufacturing-plant",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [],
+   "excerpt": "Wing, the drone delivery business of Alphabet ( NASDAQ: GOOG ), said it will invest $125 million to build a 15,000-square foot manufacturing facility in Fort Worth, Texas, over the next two years to meet growing interest from retailers in ultra-fast delivery.",
+   "published": "2026-11-10T14:06:41+00:00"
+  },
+  {
    "id": "https://www.dcvelocity.com/technology/a-unifying-voice",
    "title": "A unifying voice",
    "url": "https://www.dcvelocity.com/technology/a-unifying-voice",
@@ -29,6 +41,22 @@
    ],
    "excerpt": "Warehouses are becoming more automated by the day, with many combining an ever-wider selection of material handling equipment and technology designed to speed and streamline operations. Experts say collaborative robots, wearable technologies, autonomous forklifts, and automated storage and…",
    "published": "2026-11-10T14:00:04+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/cpi-hotter-october-2026",
+   "title": "Inflation ran hotter than expected in October",
+   "url": "https://www.ttnews.com/articles/cpi-hotter-october-2026",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "The government did not report a yearly inflation rate because last year's government shutdown meant no data was released for October 2025.",
+   "published": "2026-11-10T13:48:26+00:00"
   },
   {
    "id": "https://www.ttnews.com/articles/oil-prices-lowest-3-months",
@@ -1134,39 +1162,6 @@
    ],
    "excerpt": "The Asia-North America tradelane is facing the highest ocean freight disruption risk over the coming weeks. Reduced carrier capacity and growing difficulty securing bookings threaten shipment reliability, according to WiseTech Global. The company’s November Ocean Freight Risk Outlook, released…",
    "published": "2026-11-06T12:12:10+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16424470",
-   "title": "Driver training regs keeping cheap labor out of the market, Schneider CEO says",
-   "url": "https://www.ccjdigital.com/business/article/16424470/schneider-q3-2026-driver-supply-still-limits-the-market",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation",
-    "Capacity",
-    "Ports/Rail"
-   ],
-   "excerpt": "Schneider National ( CCJ Top 250 , No. 6) reported third-quarter earnings more than doubled from a year ago as price increases, productivity gains and cost cuts offset a thinner truck fleet. Executives said capacity remains constrained by driver availability, elevated operating costs, increased…",
-   "published": "2026-11-06T11:50:54+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=327966",
-   "title": "Cargo crime in North America down in Q3, but losses are mounting",
-   "url": "https://theloadstar.com/cargo-crime-in-north-america-down-in-q3-but-losses-are-mounting/",
-   "source": "The Loadstar",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs",
-    "Fraud"
-   ],
-   "excerpt": "Organised criminal networks are increasingly exploiting identity fraud, carrier impersonation and weaknesses in freight verification, driving cargo theft losses across Canada and the US up 39% year on year, despite a sharp decline in reported incidents Verisk CargoNet recorded 2,072 of reported…",
-   "published": "2026-11-06T11:44:32+00:00"
   }
  ]
 }

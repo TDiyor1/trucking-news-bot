@@ -1,4 +1,21 @@
 {
  "last_digest": "2026-11-10",
- "queue": []
+ "queue": [
+  {
+   "id": "https://www.ttnews.com/articles/cpi-hotter-october-2026",
+   "title": "Inflation ran hotter than expected in October",
+   "url": "https://www.ttnews.com/articles/cpi-hotter-october-2026",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "The government did not report a yearly inflation rate because last year's government shutdown meant no data was released for October 2025.",
+   "published": "2026-11-10T13:48:26+00:00"
+  }
+ ]
 }
