@@ -1,6 +1,35 @@
 {
- "updated": "2026-11-10T17:05:31+00:00",
+ "updated": "2026-11-10T17:30:34+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16425078",
+   "title": "Progressive unifies commercial telematics with new Snapshot Pro program",
+   "url": "https://www.ccjdigital.com/business/insurance/article/16425078/progressive-unifies-commercial-telematics-with-new-snapshot-pro-program",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Progressive Insurance has completed the national rollout of Snapshot Pro, a unified commercial telematics program designed to give small small fleets and owner-operators more visibility into their driving habits. The program combines Progressive's Snapshot ProView and Smart Haul into a single…",
+   "published": "2026-11-10T17:18:07+00:00"
+  },
+  {
+   "id": "https://joc.com/article/additional-trucks-at-large-us-carriers-boost-truckload-capacity-index-6321140",
+   "title": "Additional trucks at large US carriers boost Truckload Capacity Index",
+   "url": "https://joc.com/article/additional-trucks-at-large-us-carriers-boost-truckload-capacity-index-6321140",
+   "source": "JOC",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Rates",
+    "Capacity"
+   ],
+   "excerpt": "While the Journal of Commerce TCI for the third quarter rose to its highest reading since Q4 2023, the increase doesn't reflect a broader trend in truck capacity.",
+   "published": "2026-11-10T17:06:15+00:00"
+  },
   {
    "id": "https://theloadstar.com/?p=328238",
    "title": "El Niño transport chaos hits LatAm perishables exports",
@@ -14,6 +43,21 @@
    ],
    "excerpt": "When it rains, it pours. Agriculture exporters in Latin America’s southern cone have struggled with headwinds from weather hitting crops as well as transport routes, on top of gateway problems and high transport costs. Chile’s cherry export season got off to a rocky start when truckers staged a…",
    "published": "2026-11-10T17:00:31+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=585556",
+   "title": "$760K fuel-card fraud scheme tied to impersonated Michigan trucking company",
+   "url": "https://www.freightwaves.com/news/760k-fuel-card-fraud-scheme-tied-to-impersonated-michigan-trucking-company",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Fraud"
+   ],
+   "excerpt": "Two Georgia men face federal charges in a $760,000 fuel-card fraud scheme involving a legitimate Michigan trucking company. Prosecutors accuse Mario Bailey and Zachary Walker of obtaining eight fuel cards through a fraudulent credit application. Fuel purchases spanned 23 states, contributing to an…",
+   "published": "2026-11-10T16:59:33+00:00"
   },
   {
    "id": "https://www.ttnews.com/articles/stellantis-sells-plant-roshel",
@@ -1123,48 +1167,6 @@
    ],
    "excerpt": "DTNA promised an expedited timeline for the plant due to an expected increase in demand in the U.S. and Canada. The plant is expected to begin operations in 2029.",
    "published": "2026-11-06T18:10:46+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104591",
-   "title": "More cameras, new taxes? Arizona drivers get a say",
-   "url": "https://landline.media/more-cameras-new-taxes-arizona-drivers-get-a-say/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Arizona voters weighed in on traffic cameras, mileage taxes and transportation funding. Here’s what the election decisions mean for truckers and drivers.",
-   "published": "2026-11-06T17:29:31+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585415",
-   "title": "STB signals broader protection for rail-served projects against state and local restrictions",
-   "url": "https://www.freightwaves.com/news/stb-signals-broader-protection-for-rail-served-projects-against-state-and-local-restrictions",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "The Surface Transportation Board is signaling that state and local restrictions on rail customers’ facilities may face greater scrutiny under federal law, issuing a sweeping policy statement that questions aspects of earlier agency decisions involving privately owned terminals and other rail-served…",
-   "published": "2026-11-06T17:25:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/cummins-earnings-q3-2026",
-   "title": "Cummins expects final EPA NOx rulemaking in December",
-   "url": "https://www.ttnews.com/articles/cummins-earnings-q3-2026",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "Cummins expects the EPA to issue a final rulemaking on heavy-duty truck NOx emissions in December, just days before the regulation is scheduled to become effective Jan. 1.",
-   "published": "2026-11-06T17:00:00+00:00"
   }
  ]
 }
