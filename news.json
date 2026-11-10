@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-10T01:30:31+00:00",
+ "updated": "2026-11-10T02:00:34+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585579",
+   "title": "Radiant Logistics touts enhanced credit facility, eyes larger M&A",
+   "url": "https://www.freightwaves.com/news/radiant-logistics-touts-expanded-credit-facility-eyes-larger-ma",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Shares of third-party logistics provider Radiant Logistics jumped 12.4% in after-hours trading on Monday following the company’s better-than-expected quarterly report. Radiant ( NYSE: RLGT ) reported revenue of $280 million for its fiscal first quarter ended Sept. 30.",
+   "published": "2026-11-10T01:40:46+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585569",
    "title": "Forward Air pauses sale of intermodal unit",
@@ -1155,22 +1169,6 @@
    ],
    "excerpt": "That comes as questions could arise in the new Congress about the role of immigration policy in the widespread move on illegal trucking as enforcement sweeps continue.",
    "published": "2026-11-05T20:17:15+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585150",
-   "title": "Mexico cargo thieves shift tactics as Q3 truck parking thefts surge",
-   "url": "https://www.freightwaves.com/news/mexico-cargo-thieves-shift-tactics-as-q3-truck-parking-thefts-surge",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "Cargo thieves in Mexico are increasingly targeting parked trucks, shifting operations toward the country’s industrial heartland and exploiting nighttime security vulnerabilities. “Now, in Mexico, you can’t move loads without a plan,” Luis Enrique Villatoro, president of the Mexico-based National…",
-   "published": "2026-11-05T20:11:22+00:00"
   }
  ]
 }
