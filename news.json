@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T13:30:28+00:00",
+ "updated": "2026-11-10T14:00:41+00:00",
  "items": [
   {
    "id": "https://www.freightcaviar.com/stories/how-top-brokerages-will-operate-in-2027-new-broker-playbook",
@@ -14,6 +14,35 @@
    ],
    "excerpt": "Brotherly Freight runs enterprise freight volume with a lean team. Here is how AI agents are rewriting the broker playbook for 2027, from quoting to collections.",
    "published": "2026-11-10T15:00:00+00:00"
+  },
+  {
+   "id": "https://www.dcvelocity.com/technology/a-unifying-voice",
+   "title": "A unifying voice",
+   "url": "https://www.dcvelocity.com/technology/a-unifying-voice",
+   "source": "DC Velocity",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Warehouses are becoming more automated by the day, with many combining an ever-wider selection of material handling equipment and technology designed to speed and streamline operations. Experts say collaborative robots, wearable technologies, autonomous forklifts, and automated storage and…",
+   "published": "2026-11-10T14:00:04+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/oil-prices-lowest-3-months",
+   "title": "Oil prices touch lowest level in 3 months",
+   "url": "https://www.ttnews.com/articles/oil-prices-lowest-3-months",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Brent crude, the international standard, fell 2.2% to $90.55 a barrel, the lowest level in three months.",
+   "published": "2026-11-10T13:13:46+00:00"
   },
   {
    "id": "https://theloadstar.com/?p=328203",
@@ -1138,36 +1167,6 @@
    ],
    "excerpt": "Organised criminal networks are increasingly exploiting identity fraud, carrier impersonation and weaknesses in freight verification, driving cargo theft losses across Canada and the US up 39% year on year, despite a sharp decline in reported incidents Verisk CargoNet recorded 2,072 of reported…",
    "published": "2026-11-06T11:44:32+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16424466",
-   "title": "Cargo theft losses climb as incidents continue to decline",
-   "url": "https://www.ccjdigital.com/regulations/article/16424466/cargo-theft-losses-climb-as-incidents-continue-to-decline",
-   "source": "CCJ",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Fraud"
-   ],
-   "excerpt": "Trucking news and briefs for Friday, Nov. 6, 2026: Cargo theft losses up 12% year-over-year as total thefts down 33% Cargo thieves in the third quarter of 2026 continued to favor targeting fewer high-value thefts rather than a higher number of lower-value commodities, according to a quarterly cargo…",
-   "published": "2026-11-06T06:28:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585295",
-   "title": "EXCLUSIVE: ‘Humor is good,’ Union Pacific CEO says of video rate threat",
-   "url": "https://www.freightwaves.com/news/exclusive-humor-is-good-union-pacific-ceo-says-of-video-rate-threat",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Rates",
-    "Ports/Rail"
-   ],
-   "excerpt": "The chief executive of Union Pacific says he wasn’t serious when he threatened to raise rates for shippers that didn’t support UP’s merger with Norfolk Southern. Vena, who frequently peppers his public comments with joking asides, characterized the comment made to a shippers group as “a little…",
-   "published": "2026-11-06T02:35:19+00:00"
   }
  ]
 }
