@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T17:00:40+00:00",
+ "updated": "2026-11-10T17:05:31+00:00",
  "items": [
   {
    "id": "https://theloadstar.com/?p=328238",
@@ -14,6 +14,21 @@
    ],
    "excerpt": "When it rains, it pours. Agriculture exporters in Latin America’s southern cone have struggled with headwinds from weather hitting crops as well as transport routes, on top of gateway problems and high transport costs. Chile’s cherry export season got off to a rocky start when truckers staged a…",
    "published": "2026-11-10T17:00:31+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/stellantis-sells-plant-roshel",
+   "title": "Stellantis sells Canada plant to armored vehicle maker Roshel",
+   "url": "https://www.ttnews.com/articles/stellantis-sells-plant-roshel",
+   "source": "Transport Topics",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "The plant in Brampton, Ontario, once employed about 3,000 unionized workers but hasn’t been in production since late 2023.",
+   "published": "2026-11-10T16:42:37+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=585623",
@@ -1150,20 +1165,6 @@
    ],
    "excerpt": "Cummins expects the EPA to issue a final rulemaking on heavy-duty truck NOx emissions in December, just days before the regulation is scheduled to become effective Jan. 1.",
    "published": "2026-11-06T17:00:00+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/ps-logistics-subsidiary-acquires-tennessee-based-trucking-business/873977/",
-   "title": "PS Logistics subsidiary acquires Tennessee-based trucking business",
-   "url": "https://www.truckingdive.com/news/ps-logistics-subsidiary-acquires-tennessee-based-trucking-business/873977/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Roane Transportation Services and co-founder Steve Kennedy will join Loudon County Trucking, according to an M&A announcement.",
-   "published": "2026-11-06T16:48:00+00:00"
   }
  ]
 }
