@@ -1,6 +1,19 @@
 {
- "updated": "2026-11-10T12:00:34+00:00",
+ "updated": "2026-11-10T12:30:31+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585599",
+   "title": "That RICO suit vs. Robinson/TQL? Jury selection starts in ’28",
+   "url": "https://www.freightwaves.com/news/that-rico-suit-vs-robinson-tql-jury-selection-starts-in-28",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "As the two sides in the RICO case against brokerage giants C.H. Robinson (NASDAQ: CHRW) and TQL begin to make their case in legal filings, a sobering reality about the litigation is that jury selection is not likely for a mere 17 months. Last week brought a flurry of submissions in the case filed…",
+   "published": "2026-11-10T12:00:00+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16424977",
    "title": "Covenant shifts 80% of its fleet on multiyear contracts",
@@ -1157,20 +1170,6 @@
    ],
    "excerpt": "National refrigerated produce volume fell 3% last week and 7% from a year earlier. Mexico crossings through Texas fell 9% and South and Central California fell 25%, while the Imperial and Coachella section jumped 33%. California and Washington each slipped 1%.",
    "published": "2026-11-05T23:05:03+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=327976",
-   "title": "STB turns UP-NS merger fight into inquiry over shipper intimidation",
-   "url": "https://theloadstar.com/stb-turns-up-ns-merger-fight-into-inquiry-over-shipper-intimidation/",
-   "source": "The Loadstar",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Union Pacific must disclose Jim Vena’s conference video and produce records about possible retaliation. The railroad denies making threats, and regulators have yet to decide whether anyone was intimidated – or whether the merger review should continue.",
-   "published": "2026-11-05T21:47:01+00:00"
   }
  ]
 }
