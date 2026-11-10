@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-10T17:35:33+00:00",
+ "updated": "2026-11-10T18:00:36+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104631",
+   "title": "Billions for roads. Will truckers see results?",
+   "url": "https://landline.media/billions-for-roads-will-truckers-see-results/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Road repairs, congestion relief and transit are on the table. See what voters approved and how the decisions could affect truck drivers.",
+   "published": "2026-11-10T17:42:19+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16425078",
    "title": "Progressive unifies commercial telematics with new Snapshot Pro program",
@@ -1152,20 +1164,6 @@
    ],
    "excerpt": "Mid-term elections are over, and the 119th Congress resumes next week. Soon, decisions will need to be made about the next highway bill.",
    "published": "2026-11-06T18:45:30+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585164",
-   "title": "CBP seizes 1,000-plus pounds of meth in produce truck at Texas border",
-   "url": "https://www.freightwaves.com/news/cbp-seizes-1000-plus-pounds-of-meth-in-produce-truck-at-texas-border",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "A tractor-trailer hauling leeks concealed more than 1,000 pounds of methamphetamine as it approached the Texas border. Federal officers discovered 909 packages of suspected narcotics during an Oct. 30 inspection of a commercial truck entering South Texas.",
-   "published": "2026-11-06T18:12:59+00:00"
   }
  ]
 }
