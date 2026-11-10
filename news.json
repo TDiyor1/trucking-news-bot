@@ -1,6 +1,35 @@
 {
- "updated": "2026-11-10T18:05:36+00:00",
+ "updated": "2026-11-10T18:30:36+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/forward-air-earnings-q3-2026",
+   "title": "Forward Air Bolsters Freight Demand Amid Capacity Crackdown",
+   "url": "https://www.ttnews.com/articles/forward-air-earnings-q3-2026",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Capacity"
+   ],
+   "excerpt": "Forward Air Corp. reported top-line growth for the third quarter Nov. 9 as freight demand bolstered ongoing capacity reductions.",
+   "published": "2026-11-10T18:25:00+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/us-forecasts-2027-diesel",
+   "title": "U.S. raises forecasts for 2027 gasoline and diesel prices",
+   "url": "https://www.ttnews.com/articles/us-forecasts-2027-diesel",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "The EIA increased its projected retail price of diesel next year to $5.03 a gallon, up from $4.49 a gallon, and gasoline to an average of $3.73 a gallon, up from $3.56 a gallon.",
+   "published": "2026-11-10T18:02:54+00:00"
+  },
   {
    "id": "https://landline.media/?p=104631",
    "title": "Billions for roads. Will truckers see results?",
@@ -1138,32 +1167,6 @@
    ],
    "excerpt": "New report shows cargo theft losses reached over $230 million in Q3 of 2026. Find out the hotspots for thieves and what they’re targeting.",
    "published": "2026-11-06T19:07:57+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104595",
-   "title": "A discount that supports troops? Truckers For Troops is back",
-   "url": "https://landline.media/a-discount-that-supports-troops-truckers-for-troops-is-back/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Year after year, truckers show up for those who serve. See what Truckers For Troops has planned and how you can join in.",
-   "published": "2026-11-06T18:53:03+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104601",
-   "title": "Truck driver sues city after street swallows part of her truck",
-   "url": "https://landline.media/truck-driver-sues-city-after-street-swallows-part-of-her-truck/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Truckers usually eat the cost when bad roads damage their rigs. One driver is taking her fight to court after a sinkhole opened up.",
-   "published": "2026-11-06T18:50:53+00:00"
   }
  ]
 }
