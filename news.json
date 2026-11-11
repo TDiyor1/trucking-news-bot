@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-11T23:07:28+00:00",
+ "updated": "2026-11-11T23:30:30+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585861",
+   "title": "Why Owner-Operators Are Leaving The Small-Fleet Tier, And Where Their Trucks Go Next",
+   "url": "https://www.freightwaves.com/news/why-owner-operators-are-leaving-the-small-fleet-tier-and-where-their-trucks-go-next",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "For three and a half years the smallest tier of trucking has been quietly emptying out, with the number of tractors run by one-to-six-truck carriers sliding from a 2023 peak near 398,000 all the way back to about 362,000, and the easy explanation, that owner-operators are simply going out of…",
+   "published": "2026-11-11T22:48:14+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585850",
    "title": "Freight distress persists as logistics layoffs top 1,000, bankruptcies mount",
@@ -1140,20 +1152,6 @@
    ],
    "excerpt": "Global ocean container spot rates could fall 30% in 2027 as fleet growth outpaces cargo demand and more ships return to shorter routes through the Red Sea, according to Xeneta’s latest ocean market outlook. The freight-rate intelligence provider also forecasts a 5% decline in long-term contract…",
    "published": "2026-11-09T18:35:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585458",
-   "title": "$11.4 million in NVIDIA hardware vanishes during shipment from California to Texas",
-   "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Six pallets of NVIDIA computer hardware worth a reported $11.4 million disappeared during a shipment from California to Texas. A truck collected the merchandise in Oakland on Aug. 29 for delivery to Fort Worth. Investigators reportedly tracked the vehicle through several extended stops before…",
-   "published": "2026-11-09T18:06:35+00:00"
   }
  ]
 }
