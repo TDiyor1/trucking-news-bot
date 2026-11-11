@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-11T10:00:33+00:00",
+ "updated": "2026-11-11T10:30:29+00:00",
  "items": [
+  {
+   "id": "https://www.supplychaindive.com/spons/stop-dialing-carriers-one-by-one-how-kuehnenagel-put-ai-agents-on-its-ove/874349/",
+   "title": "Stop dialing carriers one by one: How Kuehne+Nagel put AI agents on its overnight cold chain calls",
+   "url": "https://www.supplychaindive.com/spons/stop-dialing-carriers-one-by-one-how-kuehnenagel-put-ai-agents-on-its-ove/874349/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "AI agents handled 78% of the control tower’s carrier calls end-to-end. CMA CGM, DHL Supply Chain, and Encompass are seeing...",
+   "published": "2026-11-11T10:00:00+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16425116",
    "title": "Brake Safety Week: 2,300 trucks put out-of-service",
@@ -1145,23 +1160,6 @@
    "tags": [],
    "excerpt": "Events captured aren't the same as events coached. Here is what helps prove a program works.",
    "published": "2026-11-09T10:00:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16424497",
-   "title": "Proposed rail merger would slash 2.1 billion long-distance truck miles from the highway annually, report finds",
-   "url": "https://www.ccjdigital.com/economic-trends/freight-demand/article/16424497/union-pacific-norfolk-southern-merger-trucking-impacts-benefits",
-   "source": "CCJ",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Ports/Rail"
-   ],
-   "excerpt": "A proposed coast-to-coast rail merger between Union Pacific and Norfolk Southern could pull 2.1 million truckloads off American highways annually, creating a major shift for the commercial trucking industry while generating up to $5.8 billion in annual economic, climate, and public-health benefits,…",
-   "published": "2026-11-08T14:40:00+00:00"
   }
  ]
 }
