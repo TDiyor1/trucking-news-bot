@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-11T07:00:33+00:00",
+ "updated": "2026-11-11T07:30:33+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16425116",
+   "title": "Brake Safety Week: 2,300 trucks put out-of-service",
+   "url": "https://www.ccjdigital.com/regulations/article/16425116/brake-safety-week-2300-trucks-put-outofservice",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Trucking news and briefs for Wednesday, Nov. 11, 2026: Brake Safety Week sidelines 2,300 trucks for brake-related OOS violations Out of the 15,528 commercial motor vehicle brake inspections conducted in North America for this year’s Brake Safety Week, 84.7% (13,159 vehicles) did not have any…",
+   "published": "2026-11-11T06:55:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585553",
    "title": "1 in 6 supply chain professionals report AI-related data exposure, survey finds",
@@ -1150,20 +1162,6 @@
    ],
    "excerpt": "A proposed coast-to-coast rail merger between Union Pacific and Norfolk Southern could pull 2.1 million truckloads off American highways annually, creating a major shift for the commercial trucking industry while generating up to $5.8 billion in annual economic, climate, and public-health benefits,…",
    "published": "2026-11-08T14:40:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585437",
-   "title": "Borderlands Mexico: US foreign-trade zones push to fix USMCA tariff obstacles",
-   "url": "https://www.freightwaves.com/news/borderlands-mexico-us-foreign-trade-zones-push-to-fix-usmca-tariff-obstacles",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade. This week in Borderlands Mexico: US foreign-trade zones push to fix USMCA tariff obstacles; Mexico to deploy 826 National Guard officers to boost highway security; and Ametek…",
-   "published": "2026-11-08T12:00:00+00:00"
   }
  ]
 }
