@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-11T20:00:37+00:00",
+ "updated": "2026-11-11T20:08:33+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104689",
+   "title": "Diesel prices dip slightly, but is more relief on its way?",
+   "url": "https://landline.media/diesel-prices-dip-slightly-but-is-more-relief-on-its-way/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Are we finally starting to see some relief from the record-high diesel prices that have devastated truckers for the past two months?",
+   "published": "2026-11-11T20:04:37+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104674",
+   "title": "Hauling livestock in the Southwest? Screwworm cases are on the rise.",
+   "url": "https://landline.media/hauling-livestock-in-the-southwest-screwworm-cases-are-on-the-rise/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Hauling livestock? Screwworm cases are rising, and some states now want extra paperwork. See what drivers need before heading out.",
+   "published": "2026-11-11T20:02:26+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104670",
+   "title": "Truckers need every dollar. States just changed the rules",
+   "url": "https://landline.media/truckers-need-every-dollar-states-just-changed-the-rules/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Truckers already face rising costs for fuel, tires and repairs. New state income tax rules could change how much money they get to keep.",
+   "published": "2026-11-11T20:01:28+00:00"
+  },
   {
    "id": "https://landline.media/?p=104677",
    "title": "New Freightliner or Western Star? Check your VIN for this recall",
@@ -1116,51 +1156,6 @@
    ],
    "excerpt": "Cargo theft is on the rise, and we’re not just talking about small-scale shoplifting. Across the globe, entire trailers and containers are going missing. Newspaper headlines from the past year alone tell the story, describing how thieves swiped 11,000 bottles of bourbon from a North Philadelphia…",
    "published": "2026-11-09T17:01:54+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585457",
-   "title": "Bangkok airport cargo congestion frustrates freight forwarders",
-   "url": "https://www.freightwaves.com/news/bangkok-airport-cargo-congestion-frustrates-freight-forwarders",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Airlines, freight forwarders, importers and exporters are pressing Thai Airways to quickly correct a system breakdown in cargo terminals it operates at Bangkok’s Suvarnabhumi Airport, which has resulted in costly delays for manufacturing supply chains, according to local media reports and logistics…",
-   "published": "2026-11-09T16:08:23+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/china-extends-pause-tariffs",
-   "title": "China extends pause on 24% U.S. tariffs to January",
-   "url": "https://www.ttnews.com/articles/china-extends-pause-tariffs",
-   "source": "Transport Topics",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "*/ /*-->*/ The extension prolongs a U.S.-China trade truce until Jan. 10 and includes suspended special fees on American ships at Chinese ports.",
-   "published": "2026-11-09T15:22:34+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/up-ceos-rate-threat-adds-wrinkle-to-norfolk-southern-merger-process/874088/",
-   "title": "UP CEO’s rate threat adds wrinkle to Norfolk Southern merger process",
-   "url": "https://www.truckingdive.com/news/up-ceos-rate-threat-adds-wrinkle-to-norfolk-southern-merger-process/874088/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Ports/Rail"
-   ],
-   "excerpt": "Union Pacific has stated that it does not retaliate against customers and that a customer’s position on the merger doesn’t determine rates or service quality.",
-   "published": "2026-11-09T15:02:00+00:00"
   }
  ]
 }
