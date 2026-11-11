@@ -1,6 +1,32 @@
 {
- "updated": "2026-11-11T15:00:43+00:00",
+ "updated": "2026-11-11T15:30:39+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585774",
+   "title": "Texas trucking owner indicted in scheme involving 57 unauthorized drivers",
+   "url": "https://www.freightwaves.com/news/texas-trucking-owner-indicted-in-scheme-involving-57-unauthorized-drivers",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "A Texas trucking company owner has been indicted on federal charges from an alleged scheme to employ unauthorized foreign drivers to transport domestic freight across the U.S., saving his company nearly $300,000 in labor costs. Armando Martinez Varela, 56, of Laredo, Texas, owned VMS Transport LLC,…",
+   "published": "2026-11-11T15:04:26+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/dtl-transport-commits-to-running-75-driverless-trucks-with-kodiak/873446/",
+   "title": "DTL Transport commits to running 75 driverless trucks with Kodiak",
+   "url": "https://www.truckingdive.com/news/dtl-transport-commits-to-running-75-driverless-trucks-with-kodiak/873446/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "The Fresno, California-based carrier will pay a per-mile fee to use the Kodiak Driver, starting on two Sun Belt lanes out of Dallas.",
+   "published": "2026-11-11T14:56:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585764",
    "title": "US rail traffic hits intermodal record as October freight gains signal economic resilience, says AAR",
@@ -1134,36 +1160,6 @@
    "tags": [],
    "excerpt": "Hail the return of the preighter. Latam Airlines is the first airline in four and a half years to operate a passenger plane with cargo loaded in the cabin. The South American carrier said it activated an Airbus A319 to deliver emergency aid from Quito, Ecuador, to the Galapagos Islands, which…",
    "published": "2026-11-09T14:15:25+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/port-los-angeles-strike-defer",
-   "title": "Port of Los Angeles strike threat deferred to Nov. 20",
-   "url": "https://www.ttnews.com/articles/port-los-angeles-strike-defer",
-   "source": "Transport Topics",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Disruptions at the affected terminals could impact roughly 85% of the cargo that moves through the Port of Long Beach and a third of the cargo at the Port of Los Angeles.",
-   "published": "2026-11-09T13:58:11+00:00"
-  },
-  {
-   "id": "https://www.freightcaviar.com/stories/11-4-million-nvidia-theft-cargo-losses",
-   "title": "🎣 Grand Theft Cargo",
-   "url": "https://www.freightcaviar.com/stories/11-4-million-nvidia-theft-cargo-losses",
-   "source": "Freight Caviar",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Fraud"
-   ],
-   "excerpt": "An $11.4 million Nvidia shipment vanishes as cargo theft losses climb and some carriers steal the freight they’re hired to deliver.",
-   "published": "2026-11-09T13:55:00+00:00"
   }
  ]
 }
