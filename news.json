@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-11T17:30:40+00:00",
+ "updated": "2026-11-11T17:52:15+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585800",
+   "title": "Latam Cargo to increase flower exports with Bogota terminal expansion",
+   "url": "https://www.freightwaves.com/news/latam-cargo-to-increase-flower-exports-with-bogota-terminal-expansion",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Latam Airlines Group announced Wednesday it will build and finance a new cargo terminal at El Dorado International Airport in Bogotá, Colombia, tripling its existing work space and enabling faster processing of import and export shipments. The expansion project is part of a new plan to upgrade…",
+   "published": "2026-11-11T17:09:37+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585785",
    "title": "US postpones ‘million-dollar’ China ship tax until January",
@@ -1148,20 +1162,6 @@
    ],
    "excerpt": "Board Chairman Parker Hancock said former Rep. Matt Salmon’s time experience with government relations and leading trade associations will be an asset to the organization.",
    "published": "2026-11-09T14:52:00+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/pamt-posts-8th-consecutive-operating-loss/873904/",
-   "title": "PAMT posts 8th consecutive operating loss",
-   "url": "https://www.truckingdive.com/news/pamt-posts-8th-consecutive-operating-loss/873904/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "“Cumulative cost increases continue to outpace the pricing improvements achieved to date,” President Lance Stewart said in an earnings announcement.",
-   "published": "2026-11-09T14:49:00+00:00"
   }
  ]
 }
