@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-11T12:30:30+00:00",
+ "updated": "2026-11-11T13:00:36+00:00",
  "items": [
+  {
+   "id": "https://www.freightcaviar.com/stories/check-call-on-congress",
+   "title": "🎣 Check Call on Congress",
+   "url": "https://www.freightcaviar.com/stories/check-call-on-congress",
+   "source": "Freight Caviar",
+   "audience": [
+    "Broker"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "Broker protections and cargo-theft bills face a January 3 deadline.",
+   "published": "2026-11-11T13:55:00+00:00"
+  },
   {
    "id": "https://www.supplychaindive.com/spons/stop-dialing-carriers-one-by-one-how-kuehnenagel-put-ai-agents-on-its-ove/874349/",
    "title": "Stop dialing carriers one by one: How Kuehne+Nagel put AI agents on its overnight cold chain calls",
@@ -1146,20 +1160,6 @@
    ],
    "excerpt": "US companies buying goods on Delivered Duty Paid (DDP) terms have been urged to examine who is responsible for their customs declarations, after US Customs and Border Protection (CBP) introduced new requirements for foreign importers of record (IORs). The interim final rule, published in the…",
    "published": "2026-11-09T11:28:04+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/spons/are-you-measuring-coaching-effectiveness-the-right-way/873605/",
-   "title": "Are you measuring coaching effectiveness the right way?",
-   "url": "https://www.truckingdive.com/spons/are-you-measuring-coaching-effectiveness-the-right-way/873605/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Events captured aren't the same as events coached. Here is what helps prove a program works.",
-   "published": "2026-11-09T10:00:00+00:00"
   }
  ]
 }
