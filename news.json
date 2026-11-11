@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-11T14:30:32+00:00",
+ "updated": "2026-11-11T15:00:43+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585764",
+   "title": "US rail traffic hits intermodal record as October freight gains signal economic resilience, says AAR",
+   "url": "https://www.freightwaves.com/news/us-rail-traffic-hits-intermodal-record-as-october-freight-gains-signal-economic-resilience-says-aar",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Rates",
+    "Ports/Rail"
+   ],
+   "excerpt": "U.S. railroads set an intermodal traffic record in October as shipments rose across much of the freight economy , evidence of resilient demand despite inflation, higher interest rates and weak consumer confidence. Intermodal volume rose 9.6% from a year earlier, with railroads handling an average…",
+   "published": "2026-11-11T14:39:03+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/electrovaya-to-ramp-up-battery-production-for-diesel-conversions/874170/",
+   "title": "Electrovaya to ramp up battery production for diesel conversions",
+   "url": "https://www.truckingdive.com/news/electrovaya-to-ramp-up-battery-production-for-diesel-conversions/874170/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Partner Janus Electric, which repurposes traditional tractors with swappable setups, is using the partnership to help move into North American markets.",
+   "published": "2026-11-11T14:36:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=585761",
+   "title": "US Postal Service reduces annual operating loss by 12.7%",
+   "url": "https://www.freightwaves.com/news/us-postal-service-reduces-annual-operating-loss-by-12-7",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "The U.S. Postal Service reduced its annual loss in fiscal year 2026 to $6.5 billion, down $2.5 billion from last year, but officials called again on Congress and the Postal Regulatory Commission for urgent reforms because its own measures to cut costs and generate more revenue aren’t enough to…",
+   "published": "2026-11-11T14:29:21+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16425206",
    "title": "Truckload rates hold steady as holiday freight season tests limited capacity",
@@ -1120,48 +1164,6 @@
    ],
    "excerpt": "An $11.4 million Nvidia shipment vanishes as cargo theft losses climb and some carriers steal the freight they’re hired to deliver.",
    "published": "2026-11-09T13:55:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585448",
-   "title": "Strike at Los Angeles-Long Beach port delayed as union contract talks continue",
-   "url": "https://www.freightwaves.com/news/strike-at-los-angeles-long-beach-port-delayed-as-union-contract-talks-continue",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Maritime employers and the union representing security watchmen at the ports of Los Angeles and Long Beach have extended their negotiating deadline to Nov. 20, postponing a potential strike at the nation’s busiest container-port complex. The Pacific Maritime Association, which represents employers,…",
-   "published": "2026-11-09T13:07:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585397",
-   "title": "Motive’s new President on how its hardware puts it ahead in physical AI",
-   "url": "https://www.freightwaves.com/news/motive-thomas-hansen-hardware-moat-fleet-ai",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "When Thomas Hansen went looking for his next job, he spoke with a string of frontier and vertical AI companies and asked each the same question: Would it have a moat, and would it still be around, in a year or two? He chose Motive, an AI platform that empowers the people who run physical operations…",
-   "published": "2026-11-09T13:00:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/volvo-proving-autonomy-scales",
-   "title": "Perspective: From proving autonomy works to proving it scales",
-   "url": "https://www.ttnews.com/articles/volvo-proving-autonomy-scales",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Demonstrating autonomous trucking and scaling it commercially are two different challenges, writes Volvo Autonomous Solutions' Shahrukh Kazmi.",
-   "published": "2026-11-09T13:00:00+00:00"
   }
  ]
 }
