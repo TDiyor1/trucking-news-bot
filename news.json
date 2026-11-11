@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-11T19:30:30+00:00",
+ "updated": "2026-11-11T19:52:25+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104677",
+   "title": "New Freightliner or Western Star? Check your VIN for this recall",
+   "url": "https://landline.media/new-freightliner-or-western-star-check-your-vin-for-this-recall/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Driveline vibration or noise in a new truck? A Freightliner and Western Star recall may explain it. See what to check.",
+   "published": "2026-11-11T19:36:12+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585800",
    "title": "Latam Cargo to increase flower exports with Bogota terminal expansion",
@@ -1147,21 +1161,6 @@
    ],
    "excerpt": "Union Pacific has stated that it does not retaliate against customers and that a customer’s position on the merger doesn’t determine rates or service quality.",
    "published": "2026-11-09T15:02:00+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/arizona-trucking-association-taps-former-congressman-as-ceo/873548/",
-   "title": "Arizona Trucking Association taps former congressman as CEO",
-   "url": "https://www.truckingdive.com/news/arizona-trucking-association-taps-former-congressman-as-ceo/873548/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "Board Chairman Parker Hancock said former Rep. Matt Salmon’s time experience with government relations and leading trade associations will be an asset to the organization.",
-   "published": "2026-11-09T14:52:00+00:00"
   }
  ]
 }
