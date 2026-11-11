@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-11T16:22:07+00:00",
+ "updated": "2026-11-11T16:31:27+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585785",
+   "title": "US postpones ‘million-dollar’ China ship tax until January",
+   "url": "https://www.freightwaves.com/news/us-postpones-million-dollar-china-ship-tax-until-january",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The United States has extended the suspension of port fees targeting China-linked shipping for another two months, keeping the measures on hold through January 9, 2027, according to a notice published Tuesday in the Federal Register. The decision gives Washington and Beijing additional time to…",
+   "published": "2026-11-11T16:02:32+00:00"
+  },
   {
    "id": "https://www.supplychaindive.com/news/transpacific-ocean-rates-ease-slightly-as-peak-winds-down/874262/",
    "title": "Transpacific ocean rates ease slightly as peak winds down",
@@ -1147,21 +1162,6 @@
    "tags": [],
    "excerpt": "“Cumulative cost increases continue to outpace the pricing improvements achieved to date,” President Lance Stewart said in an earnings announcement.",
    "published": "2026-11-09T14:49:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/musk-cybertruck-production",
-   "title": "Musk says Cybertruck production to shut down in 8 months",
-   "url": "https://www.ttnews.com/articles/musk-cybertruck-production",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Capacity",
-    "Tech"
-   ],
-   "excerpt": "Elon Musk announced that Tesla would stop making the Cybertruck at its Texas plant around the middle of 2027 to free up capacity for its Cybercab autonomous vehicle.",
-   "published": "2026-11-09T14:36:53+00:00"
   }
  ]
 }
