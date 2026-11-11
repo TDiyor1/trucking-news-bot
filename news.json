@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T13:30:28+00:00",
+ "updated": "2026-11-11T14:00:41+00:00",
  "items": [
   {
    "id": "https://www.freightcaviar.com/stories/check-call-on-congress",
@@ -14,6 +14,36 @@
    ],
    "excerpt": "Broker protections and cargo-theft bills face a January 3 deadline.",
    "published": "2026-11-11T13:55:00+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/16425205",
+   "title": "Just the facts: What decades of trucking innovation can teach us about objectivity",
+   "url": "https://www.ccjdigital.com/trucks/class-7-8/article/16425205/trucking-technology-evolution-a-retrospective-on-fleet-efficiency",
+   "source": "CCJ",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "This is my last thought leadership piece for CCJ and NACFE. I want to thank CCJ ’s chief editor, Jason Cannon, and the CCJ organization for publishing my roughly 200 NACFE thought leadership pieces on trucking efficiency since 2020. I also want to thank NACFE, particularly its executive director,…",
+   "published": "2026-11-11T13:52:50+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=585727",
+   "title": "Shippers running 2022-era bid playbooks face a tighter peak",
+   "url": "https://www.freightwaves.com/news/a-duie-pyle-peak-season-shipper-bids",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "Some shippers are heading into peak season with the bid strategy that carried them from 2022 through 2025: long rate locks, steep penalties and little flexibility. That strategy is breaking down in a tighter market, said Craig Lough, director of strategic planning at A.",
+   "published": "2026-11-11T13:00:00+00:00"
   },
   {
    "id": "https://www.supplychaindive.com/spons/stop-dialing-carriers-one-by-one-how-kuehnenagel-put-ai-agents-on-its-ove/874349/",
@@ -1131,35 +1161,6 @@
    ],
    "excerpt": "BNSF’s third-quarter earnings rose 19.3% to $1.73 billion as higher freight volumes and improved operating efficiencies helped offset increased fuel costs. The railroad’s net earnings increased from $1.45 billion in the third quarter of 2025, parent company Berkshire Hathaway (NYSE: BRK-B )…",
    "published": "2026-11-09T12:37:05+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16424571",
-   "title": "FedEx Freight eyes 2027 growth on renewals and a January rate hike",
-   "url": "https://www.ccjdigital.com/business/article/16424571/fedex-freight-eyes-2027-growth-on-renewals-and-rate-hike",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Early contract renewals and a January rate increase covering about one-third of revenue will lift base yield and shipment growth in 2027, according to FedEx Freight company executives. FedEx Freight posted its first set of results as a standalone less-than-truckload carrier , reporting a 9.2%…",
-   "published": "2026-11-09T11:39:38+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=328081",
-   "title": "Tougher rules for US imports on DDP put pressure on buyers and suppliers",
-   "url": "https://theloadstar.com/tougher-rules-for-us-imports-on-ddp-put-pressure-on-buyers-and-suppliers/",
-   "source": "The Loadstar",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Regulation",
-    "Tariffs"
-   ],
-   "excerpt": "US companies buying goods on Delivered Duty Paid (DDP) terms have been urged to examine who is responsible for their customs declarations, after US Customs and Border Protection (CBP) introduced new requirements for foreign importers of record (IORs). The interim final rule, published in the…",
-   "published": "2026-11-09T11:28:04+00:00"
   }
  ]
 }
