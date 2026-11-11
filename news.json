@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T21:37:33+00:00",
+ "updated": "2026-11-11T22:00:50+00:00",
  "items": [
   {
    "id": "https://www.dcvelocity.com/supply-chain/other-services/global-logistics/u-s-container-imports-hit-record-volume-in-october",
@@ -69,6 +69,21 @@
    "tags": [],
    "excerpt": "Driveline vibration or noise in a new truck? A Freightliner and Western Star recall may explain it. See what to check.",
    "published": "2026-11-11T19:36:12+00:00"
+  },
+  {
+   "id": "https://www.supplychaindive.com/news/air-cargos-hopes-for-end-of-year-volume-surge-dwindle/874430/",
+   "title": "Air cargo’s hopes for end-of-year volume surge dwindle",
+   "url": "https://www.supplychaindive.com/news/air-cargos-hopes-for-end-of-year-volume-surge-dwindle/874430/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Capacity"
+   ],
+   "excerpt": "Market growth remains steady, but pressured capacity and other traditional signals of a late burst in demand were lacking in October, Xeneta reported.",
+   "published": "2026-11-11T18:55:52+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=585800",
@@ -242,6 +257,21 @@
    ],
    "excerpt": "Some shippers are heading into peak season with the bid strategy that carried them from 2022 through 2025: long rate locks, steep penalties and little flexibility. That strategy is breaking down in a tighter market, said Craig Lough, director of strategic planning at A.",
    "published": "2026-11-11T13:00:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=585841",
+   "title": "Wheeling & Lake Erie engineers, conductors strike over managers filling crew positions",
+   "url": "https://www.freightwaves.com/news/wheeling-lake-erie-engineers-conductors-strike-over-managers-filling-crew-positions",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "About 140 engineers and conductors at the Wheeling & Lake Erie Railway went on strike Wednesday, Nov. 11, over the railroad ’s use of managers to perform conductors’ work, according to the Brotherhood of Locomotive Engineers and Trainmen. The union said picket lines went up at railroad locations…",
+   "published": "2026-11-11T11:03:00+00:00"
   },
   {
    "id": "https://www.supplychaindive.com/spons/stop-dialing-carriers-one-by-one-how-kuehnenagel-put-ai-agents-on-its-ove/874349/",
@@ -1125,35 +1155,6 @@
    ],
    "excerpt": "Every bill in Congress has an expiration date. For the 119th Congress, it’s noon on Jan. 3, 2027. Anything that hasn’t passed both chambers and reached the president by then dies, and the next Congress starts over with new bill numbers, new committee chairs and new math.",
    "published": "2026-11-09T17:48:45+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/congress-lame-duck-session",
-   "title": "What to expect from Congress’ lame duck session",
-   "url": "https://www.ttnews.com/articles/congress-lame-duck-session",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "",
-   "published": "2026-11-09T17:29:32+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585484",
-   "title": "AI scales the work. Experts make it count.",
-   "url": "https://www.freightwaves.com/news/ai-scales-the-work-experts-make-it-count",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "In its latest report, Designing the Human + AI Enterprise: A Transformation Agenda for Supply Chain-intensive Industries , Everest Group examines why AI adoption is outpacing operational transformation, and what it takes to close the gap. The report explores how organizations can redesign work,…",
-   "published": "2026-11-09T17:14:01+00:00"
   }
  ]
 }
