@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-11T22:37:25+00:00",
+ "updated": "2026-11-11T23:00:37+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585850",
+   "title": "Freight distress persists as logistics layoffs top 1,000, bankruptcies mount",
+   "url": "https://www.freightwaves.com/news/freight-distress-persists-as-logistics-layoffs-top-1000-bankruptcies-mount",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Capacity"
+   ],
+   "excerpt": "Financial distress continues to ripple through the U.S. transportation and logistics industry, with more than 1,000 announced job cuts and a new round of bankruptcy filings involving trucking companies , warehouse operators and freight-related businesses .",
+   "published": "2026-11-11T22:20:40+00:00"
+  },
   {
    "id": "https://www.dcvelocity.com/supply-chain/other-services/global-logistics/u-s-container-imports-hit-record-volume-in-october",
    "title": "U.S. container imports hit record volume in October",
@@ -1140,21 +1154,6 @@
    "tags": [],
    "excerpt": "Six pallets of NVIDIA computer hardware worth a reported $11.4 million disappeared during a shipment from California to Texas. A truck collected the merchandise in Oakland on Aug. 29 for delivery to Fort Worth. Investigators reportedly tracked the vehicle through several extended stops before…",
    "published": "2026-11-09T18:06:35+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585493",
-   "title": "What trucking can still get from a lame-duck Congress before Jan. 3",
-   "url": "https://www.freightwaves.com/news/what-trucking-can-still-get-from-a-lame-duck-congress-before-jan-3",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "Every bill in Congress has an expiration date. For the 119th Congress, it’s noon on Jan. 3, 2027. Anything that hasn’t passed both chambers and reached the president by then dies, and the next Congress starts over with new bill numbers, new committee chairs and new math.",
-   "published": "2026-11-09T17:48:45+00:00"
   }
  ]
 }
