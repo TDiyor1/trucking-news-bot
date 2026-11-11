@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-11T15:30:39+00:00",
+ "updated": "2026-11-11T15:50:40+00:00",
  "items": [
+  {
+   "id": "https://www.supplychaindive.com/news/transpacific-ocean-rates-ease-slightly-as-peak-winds-down/874262/",
+   "title": "Transpacific ocean rates ease slightly as peak winds down",
+   "url": "https://www.supplychaindive.com/news/transpacific-ocean-rates-ease-slightly-as-peak-winds-down/874262/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "Slowing demand at U.S. ports is helping ease rates, but costs remain elevated on a year-over-year basis.",
+   "published": "2026-11-11T15:48:40+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585774",
    "title": "Texas trucking owner indicted in scheme involving 57 unauthorized drivers",
@@ -1148,18 +1162,6 @@
    ],
    "excerpt": "Elon Musk announced that Tesla would stop making the Cybertruck at its Texas plant around the middle of 2027 to free up capacity for its Cybercab autonomous vehicle.",
    "published": "2026-11-09T14:36:53+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585449",
-   "title": "Latam Airlines dusts off Covid playbook to move cargo in passenger cabin",
-   "url": "https://www.freightwaves.com/news/latam-airlines-dusts-off-covid-playbook-to-move-cargo-in-passenger-cabin",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Hail the return of the preighter. Latam Airlines is the first airline in four and a half years to operate a passenger plane with cargo loaded in the cabin. The South American carrier said it activated an Airbus A319 to deliver emergency aid from Quito, Ecuador, to the Galapagos Islands, which…",
-   "published": "2026-11-09T14:15:25+00:00"
   }
  ]
 }
