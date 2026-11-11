@@ -1,4 +1,21 @@
 {
  "last_digest": "2026-11-11",
- "queue": []
+ "queue": [
+  {
+   "id": "https://www.ccjdigital.com/16425206",
+   "title": "Truckload rates hold steady as holiday freight season tests limited capacity",
+   "url": "https://www.ccjdigital.com/economic-trends/freight-demand/article/16425206/spot-truckload-rates-remain-high-heading-into-peak-season",
+   "source": "CCJ",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Capacity"
+   ],
+   "excerpt": "Spot truckload rates have held flat for two months at approximately $3.47 per mile, sitting roughly 48% higher than at this time last year, but as peak-season freight enters the market, carriers retain the leverage while shipping volumes build. DAT Freight & Analytics reported that the national…",
+   "published": "2026-11-11T14:14:59+00:00"
+  }
+ ]
 }
