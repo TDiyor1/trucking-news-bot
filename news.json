@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-12T13:30:35+00:00",
+ "updated": "2026-11-12T14:00:38+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585879",
+   "title": "One of 3 ratings agencies now has XPO as investment-grade",
+   "url": "https://www.freightwaves.com/news/one-of-3-ratings-agencies-now-has-xpo-as-investment-grade",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "LTL carrier XPO is now an investment-grade credit at one of the three major ratings agencies. Fitch Ratings has upgraded its rating on XPO (NYSE: XPO) to BBB-. That is one notch above the cutoff between investment-grade and non-investment grade debt. It comes just a few months after both Moody’s…",
+   "published": "2026-11-12T13:19:10+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16425127",
    "title": "Rate gains fall short as PAM Transport's Q3 loss grows",
@@ -1133,21 +1145,6 @@
    "tags": [],
    "excerpt": "Heavy-duty truck parts prices are telling two different stories across the country, as distributor prices slip below year-ago levels in some regions while climbing steadily in others. The good news: The inflation that gripped the heavy parts market over the last two years has cooled, with national…",
    "published": "2026-11-09T19:15:28+00:00"
-  },
-  {
-   "id": "https://www.dcvelocity.com/transportation/maritime-ocean/ports/nrf-import-cargo-still-strong-at-end-of-tariff-extended-peak-season",
-   "title": "NRF: Import cargo still strong at end of tariff-extended peak season",
-   "url": "https://www.dcvelocity.com/transportation/maritime-ocean/ports/nrf-import-cargo-still-strong-at-end-of-tariff-extended-peak-season",
-   "source": "DC Velocity",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs",
-    "Ports/Rail"
-   ],
-   "excerpt": "Import volume at the nation’s major container ports is expected to taper off for the remainder of the year following an extended peak season that has kept docks busy since the spring, according to the Global Port Tracker report released today by the National Retail Federation (NRF) and Hackett…",
-   "published": "2026-11-09T19:10:51+00:00"
   }
  ]
 }
