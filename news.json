@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T18:42:54+00:00",
+ "updated": "2026-11-12T19:00:43+00:00",
  "items": [
   {
    "id": "https://landline.media/?p=104700",
@@ -26,6 +26,20 @@
    "tags": [],
    "excerpt": "Pennsylvania is targeting work-zone dangers with driver training, ticket cameras and brighter warning lights. Here’s what truckers need to know.",
    "published": "2026-11-12T18:28:05+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/no-us-buyer-russian-diesel",
+   "title": "No U.S. buyer emerges after Trump's deal on Russian diesel",
+   "url": "https://www.ttnews.com/articles/no-us-buyer-russian-diesel",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Despite efforts to find a buyer, none has so far emerged publicly, and oil traders and analysts are growing increasingly skeptical that any of the four vessels Russia says are carrying diesel will unload in the U.S.",
+   "published": "2026-11-12T18:18:22+00:00"
   },
   {
    "id": "https://www.ttnews.com/articles/freight-rates-Q3-2026",
@@ -1134,20 +1148,6 @@
    ],
    "excerpt": "Covenant Logistics ( CCJ Top 250 , No. 36) moved more of its fleet onto multiyear contracts as management anticipates another year of double-digit rate increases amid rising costs. Chairman and CEO David R. Parker said approximately 80% of its fleets were under long-term contracts at quarter-end.…",
    "published": "2026-11-10T11:47:31+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16425014",
-   "title": "Electric Mack MD trucks recalled for improper hill start assist message",
-   "url": "https://www.ccjdigital.com/maintenance/article/16425014/electric-mack-md-trucks-recalled-for-improper-hill-start-assist-message",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Trucking news and briefs for Tuesday, Nov. 10, 2026: Mack MD Electric recall prompted by hill start assist messaging Mack Trucks is recalling approximately 151 model year 2024-2026 Mack MD Electric trucks that were incorrectly manufactured with the hill start assist (HSA) message enabled.",
-   "published": "2026-11-10T06:52:00+00:00"
   }
  ]
 }
