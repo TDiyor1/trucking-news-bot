@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T15:00:46+00:00",
+ "updated": "2026-11-12T15:30:32+00:00",
  "items": [
   {
    "id": "https://www.truckingdive.com/news/forward-air-q3-operating-income-nearly-triples-yoy-to-44m/874063/",
@@ -128,6 +128,23 @@
    "tags": [],
    "excerpt": "Returns are a big and costly ordeal. While a majority of retail focus on getting items to store shelves or doorsteps, what happens afterwards is increasingly becoming a top of mind issue for supply chain executives. To put things in context, consumers were expected to return $849.9 billion in…",
    "published": "2026-11-12T13:00:00+00:00"
+  },
+  {
+   "id": "https://www.supplychaindive.com/news/bipartisan-push-possible-to-curb-trump-tariffs/874347/",
+   "title": "Bipartisan push possible to curb Trump tariffs",
+   "url": "https://www.supplychaindive.com/news/bipartisan-push-possible-to-curb-trump-tariffs/874347/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation",
+    "Tariffs"
+   ],
+   "excerpt": "Three bills in Congress would significantly restrict presidential tariff power if they become law, and experts say there's appetite for change in trade policy.",
+   "published": "2026-11-12T12:25:00+00:00"
   },
   {
    "id": "https://www.ccjdigital.com/16425159",
@@ -1134,21 +1151,6 @@
    ],
    "excerpt": "Dry van spot linehaul rates paid to carriers averaged $2.26 per mile last week, minus fuel, up 2.8%, or $0.06 per mile, from the week before. Rates climbed 34.9%, or $0.58 per mile, year over year and held 23.4%, or $0.43 per mile, above the nine-year seasonal average of $1.83 per mile, near the…",
    "published": "2026-11-09T20:44:54+00:00"
-  },
-  {
-   "id": "https://joc.com/article/china-extends-port-fee-suspension-on-us-ships-to-january-after-ustr-deferment-6320646",
-   "title": "China extends port fee suspension on US ships to January after USTR deferment",
-   "url": "https://joc.com/article/china-extends-port-fee-suspension-on-us-ships-to-january-after-ustr-deferment-6320646",
-   "source": "JOC",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "The move followed a USTR notice Friday saying the agency would postpone port fees on China-built or -controlled ships calling at US ports for two months starting Monday.",
-   "published": "2026-11-09T20:40:14+00:00"
   }
  ]
 }
