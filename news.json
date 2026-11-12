@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-12T02:00:35+00:00",
+ "updated": "2026-11-12T02:30:12+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585847",
+   "title": "New cyber thief gang targets transports; Hunt, Ryder and Echo hit",
+   "url": "https://www.freightwaves.com/news/new-cyber-thief-gang-targets-transports-hunt-ryder-and-echo-hit",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Actions by a relatively new group of cybercriminals that have targeted many transportation companies in turn have led to lawsuits filed by employees of three big names that have gotten caught up in the crook’s web. The cyber criminals operate under the name Whitearmor.",
+   "published": "2026-11-12T01:59:44+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585861",
    "title": "Why Owner-Operators Are Leaving The Small-Fleet Tier, And Where Their Trucks Go Next",
@@ -1135,23 +1149,6 @@
    ],
    "excerpt": "Higher rates should give carriers room to grow. So why are trucking jobs flat? The latest freight data reveal a recovery with strings attached.",
    "published": "2026-11-09T18:55:38+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585499",
-   "title": "Asia-U.S. West Coast ocean container spot rates up 343% since start of Iran war, says Xeneta",
-   "url": "https://www.freightwaves.com/news/asia-u-s-west-coast-ocean-container-spot-rates-up-343-since-start-of-iran-war-says-xeneta",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Ports/Rail"
-   ],
-   "excerpt": "Global ocean container spot rates could fall 30% in 2027 as fleet growth outpaces cargo demand and more ships return to shorter routes through the Red Sea, according to Xeneta’s latest ocean market outlook. The freight-rate intelligence provider also forecasts a 5% decline in long-term contract…",
-   "published": "2026-11-09T18:35:00+00:00"
   }
  ]
 }
