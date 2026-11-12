@@ -1,6 +1,80 @@
 {
- "updated": "2026-11-12T14:30:30+00:00",
+ "updated": "2026-11-12T15:00:46+00:00",
  "items": [
+  {
+   "id": "https://www.truckingdive.com/news/forward-air-q3-operating-income-nearly-triples-yoy-to-44m/874063/",
+   "title": "Forward Air Q3 operating income nearly triples YoY to $44M",
+   "url": "https://www.truckingdive.com/news/forward-air-q3-operating-income-nearly-triples-yoy-to-44m/874063/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "The company expects more momentum from a new two-year deal with a major longstanding client, CEO Shawn Stewart said.",
+   "published": "2026-11-12T14:31:00+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/7-trucking-execs-weigh-in-on-2027-market-and-business-conditions/874201/",
+   "title": "7 trucking execs weigh in on 2027 market and business conditions",
+   "url": "https://www.truckingdive.com/news/7-trucking-execs-weigh-in-on-2027-market-and-business-conditions/874201/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Trucking CEOs detailed how they expect pricing discipline strategy and current constraints on the supply of transportation firms to continue to hold in 2027.",
+   "published": "2026-11-12T14:27:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=585886",
+   "title": "US midterm shift adds trade uncertainty as trans-Pacific ocean freight rates stay elevated",
+   "url": "https://www.freightwaves.com/news/us-midterm-shift-adds-trade-uncertainty-as-trans-pacific-ocean-freight-rates-stay-elevated",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Rates",
+    "Regulation",
+    "Tariffs",
+    "Ports/Rail"
+   ],
+   "excerpt": "The Democratic sweep of both houses of Congress in last week’s U.S. midterm elections has introduced new uncertainty for trade and logistics, as container imports slow after an unusually long peak season. The political shift leaves the Trump administration facing competing pressures, says rate…",
+   "published": "2026-11-12T14:25:28+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/oil-prices-trump-no-iran-deal",
+   "title": "Oil prices rise after Trump says U.S. doesn't need Iran deal",
+   "url": "https://www.ttnews.com/articles/oil-prices-trump-no-iran-deal",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Brent crude, the international standard, rose 0.6% to $93.32 a barrel. Prices had eased earlier on signs of resurgent oil supplies from Saudi Arabia.",
+   "published": "2026-11-12T14:24:53+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=585716",
+   "title": "Diesel 101: Why Truck Stop Diesel Is Still Above $6 a Gallon as Crude Falls",
+   "url": "https://www.freightwaves.com/news/diesel-101-why-truck-stop-diesel-is-still-above-6-a-gallon-as-crude-falls",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Rates",
+    "Diesel"
+   ],
+   "excerpt": "SONAR’s new sitrep traces diesel from crude to truck stop and explains why prices are holding near record highs, even as Brent drops. Diesel is expensive because refined product supply, not crude, is the bottleneck. Middle East and Russian refinery damage, longer tanker routes and thin U.S.…",
+   "published": "2026-11-12T14:24:00+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/trump-double-tariffs-mexico",
    "title": "Trump threatens to double tariffs on Mexico over migrants",
@@ -1075,77 +1149,6 @@
    ],
    "excerpt": "The move followed a USTR notice Friday saying the agency would postpone port fees on China-built or -controlled ships calling at US ports for two months starting Monday.",
    "published": "2026-11-09T20:40:14+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104625",
-   "title": "Uzbekistan national used bogus carriers to carry out over $12 million in cargo theft",
-   "url": "https://landline.media/uzbekistan-national-used-bogus-carriers-to-carry-out-over-12-million-in-cargo-theft/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Fraud"
-   ],
-   "excerpt": "A $12 million cargo theft scheme leads to conspiracy charges. Find out how the thefts occurred and what’s next for those charged.",
-   "published": "2026-11-09T20:38:41+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/clarience-road-ready-saegic",
-   "title": "Clarience rebrands Road Ready as Saegic",
-   "url": "https://www.ttnews.com/articles/clarience-road-ready-saegic",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Clarience Technologies recently rebranded its Road Ready line of trailer tracking and telematics products under the Saegic name.",
-   "published": "2026-11-09T20:34:46+00:00"
-  },
-  {
-   "id": "https://joc.com/article/falling-us-truck-orders-cast-doubt-on-truckload-capacity-recovery-6320644",
-   "title": "Falling US truck orders cast doubt on truckload capacity recovery",
-   "url": "https://joc.com/article/falling-us-truck-orders-cast-doubt-on-truckload-capacity-recovery-6320644",
-   "source": "JOC",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Rates",
-    "Regulation",
-    "Capacity"
-   ],
-   "excerpt": "Soft demand and upcoming truck emissions regulations are weighing on motor carrier purchasing decisions, despite higher trucking rates.",
-   "published": "2026-11-09T20:32:14+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104623",
-   "title": "Months-long closure will affect truck traffic",
-   "url": "https://landline.media/months-long-closure-will-affect-truck-traffic/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "It will be several months before truck traffic returns to a Southern California highway. Find out why.",
-   "published": "2026-11-09T20:17:31+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585532",
-   "title": "Jacobs’ ‘playbook’ will target new industry, to be determined",
-   "url": "https://www.freightwaves.com/news/jacobs-playbook-will-target-new-industry-to-be-determined",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Billionaire entrepreneur Brad Jacobs, who launched LTL carrier XPO and its later spinoffs, is turning to what he calls his “playbook” once again to seek out opportunities in a different sector. The sector? We don’t know yet and he’s not saying. In an eventful Monday morning for Jacobs, the current…",
-   "published": "2026-11-09T19:34:18+00:00"
   }
  ]
 }
