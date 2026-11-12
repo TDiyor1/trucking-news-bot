@@ -1,6 +1,33 @@
 {
- "updated": "2026-11-12T13:00:35+00:00",
+ "updated": "2026-11-12T13:30:35+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16425127",
+   "title": "Rate gains fall short as PAM Transport's Q3 loss grows",
+   "url": "https://www.ccjdigital.com/business/article/16425127/pam-transport-posts-thirdquarter-loss",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Rates",
+    "Diesel"
+   ],
+   "excerpt": "PAM Transport ( CCJ Top 250 , No. 55) reported a wider third-quarter net loss as higher fuel costs, increased expenses with hiring drivers and a sharp drop in used-equipment gains outweighed rate improvement. The truckload carrier posted a net loss of $8.1 million, or 38 cents per share, for the…",
+   "published": "2026-11-12T13:13:59+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=585663",
+   "title": "ITF report ties part of retail’s $850B returns to freight",
+   "url": "https://www.freightwaves.com/news/itf-group-report-retail-returns-freight",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [],
+   "excerpt": "Returns are a big and costly ordeal. While a majority of retail focus on getting items to store shelves or doorsteps, what happens afterwards is increasingly becoming a top of mind issue for supply chain executives. To put things in context, consumers were expected to return $849.9 billion in…",
+   "published": "2026-11-12T13:00:00+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16425159",
    "title": "Trucking conditions deteriorated in September with fuel's spike",
@@ -1121,34 +1148,6 @@
    ],
    "excerpt": "Import volume at the nation’s major container ports is expected to taper off for the remainder of the year following an extended peak season that has kept docks busy since the spring, according to the Global Port Tracker report released today by the National Retail Federation (NRF) and Hackett…",
    "published": "2026-11-09T19:10:51+00:00"
-  },
-  {
-   "id": "https://www.dcvelocity.com/transportation/trucking/ftr-trucking-market-eased-slightly-in-september-but-future-looks-good",
-   "title": "FTR: trucking market eased slightly in September, but future looks good",
-   "url": "https://www.dcvelocity.com/transportation/trucking/ftr-trucking-market-eased-slightly-in-september-but-future-looks-good",
-   "source": "DC Velocity",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Business conditions in the trucking market eased slightly in September due to soaring diesel fuel prices, but remained solidly positive in the overall view, according to transportation analyst firm FTR. The Bloomington, Indiana-based firm said its Trucking Conditions Index (TCI) declined modestly…",
-   "published": "2026-11-09T19:08:50+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104620",
-   "title": "FMCSA wants drivers to expose the bad in trucking",
-   "url": "https://landline.media/fmcsa-wants-drivers-to-expose-the-bad-in-trucking/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "After years of complaints about the ineffectiveness of its National Consumer Complaint Database, FMCSA has relaunched the trucking platform.",
-   "published": "2026-11-09T18:57:11+00:00"
   }
  ]
 }
