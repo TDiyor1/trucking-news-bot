@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T19:30:32+00:00",
+ "updated": "2026-11-12T19:42:57+00:00",
  "items": [
   {
    "id": "https://www.freightwaves.com/?p=585961",
@@ -14,6 +14,22 @@
    ],
    "excerpt": "Mexico’s heavy-duty truck manufacturing industry posted a sharp rebound in October, with production surging nearly 130% and exports jumping 159% compared with a year earlier, according to new government data. Mexican manufacturers produced 16,375 heavy-duty vehicles during October, a 129.6%…",
    "published": "2026-11-12T19:03:15+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/california-ports-surge",
+   "title": "Southern California ports see continued surge of imports",
+   "url": "https://www.ttnews.com/articles/california-ports-surge",
+   "source": "Transport Topics",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs",
+    "Ports/Rail"
+   ],
+   "excerpt": "Combined imports at the Port of Los Angeles and the Port of Long Beach came in at 1,000,500 TEUs in October, just off September’s all-time high.",
+   "published": "2026-11-12T18:59:13+00:00"
   },
   {
    "id": "https://landline.media/?p=104700",
@@ -1134,19 +1150,6 @@
    ],
    "excerpt": "UPS has its sights set on US Customs and Border Protection (CBP), launching legal action against the agency to reclaim refunds and interest for tariffs paid under the International Emergency Economic Powers Act (IEEPA), with it having already received some $500m.",
    "published": "2026-11-10T12:35:53+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585599",
-   "title": "That RICO suit vs. Robinson/TQL? Jury selection starts in ’28",
-   "url": "https://www.freightwaves.com/news/that-rico-suit-vs-robinson-tql-jury-selection-starts-in-28",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "As the two sides in the RICO case against brokerage giants C.H. Robinson (NASDAQ: CHRW) and TQL begin to make their case in legal filings, a sobering reality about the litigation is that jury selection is not likely for a mere 17 months. Last week brought a flurry of submissions in the case filed…",
-   "published": "2026-11-10T12:00:00+00:00"
   }
  ]
 }
