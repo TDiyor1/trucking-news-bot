@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-12T17:30:35+00:00",
+ "updated": "2026-11-12T17:42:48+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/freight-rates-Q3-2026",
+   "title": "Truckers leverage cost pressures to drive rate recovery",
+   "url": "https://www.ttnews.com/articles/freight-rates-Q3-2026",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Capacity"
+   ],
+   "excerpt": "Freight rates strengthened in the third quarter as capacity constraints and rising costs gave the trucking industry greater pricing power despite soft demand.",
+   "published": "2026-11-12T17:38:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585921",
    "title": "Trump threatens to double Mexico tariffs over alleged migrant influx",
@@ -1133,20 +1150,6 @@
    ],
    "excerpt": "Forward Air said Monday it has paused the planned sale of its intermodal unit in conjunction with its third-quarter report. Management told analysts on a quarterly call that the business is “back on track” and that it remains open to offers reflecting “fair value.” Forward ( NASDAQ: FWRD )…",
    "published": "2026-11-09T23:52:42+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585543",
-   "title": "Truck enforcements widen to Maryland, DC as 128 drivers sidelined",
-   "url": "https://www.freightwaves.com/news/truck-enforcements-widen-to-maryland-dc-as-128-drivers-sidelined",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "Federal and state trucking inspectors have expanded Operation Highway Shield into Maryland and Washington, D.C., conducting more than 1,000 commercial vehicle inspections and identifying hundreds of safety violations. The operations in Maryland and Washington, D.C., join recent enforcement agencies…",
-   "published": "2026-11-09T22:40:06+00:00"
   }
  ]
 }
