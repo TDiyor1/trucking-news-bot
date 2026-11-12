@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-12T15:30:32+00:00",
+ "updated": "2026-11-12T16:00:38+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585914",
+   "title": "BLET ends Wheeling & Lake Erie strike",
+   "url": "https://www.freightwaves.com/news/blet-ends-wheeling-lake-erie-strike",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The Brotherhood of Locomotive Engineers and Trainmen said its November 11 strike against Wheeling & Lake Erie Railway was resolved after the railroad agreed to honor contractual protections and stop using managers in place of union conductors. In a statement issued that day, BLET National President…",
+   "published": "2026-11-12T15:39:34+00:00"
+  },
   {
    "id": "https://www.truckingdive.com/news/forward-air-q3-operating-income-nearly-triples-yoy-to-44m/874063/",
    "title": "Forward Air Q3 operating income nearly triples YoY to $44M",
@@ -145,6 +160,21 @@
    ],
    "excerpt": "Three bills in Congress would significantly restrict presidential tariff power if they become law, and experts say there's appetite for change in trade policy.",
    "published": "2026-11-12T12:25:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=585900",
+   "title": "Genesee & Wyoming prepares to split into three rail holding companies",
+   "url": "https://www.freightwaves.com/news/genesee-wyoming-prepares-to-split-into-three-rail-holding-companies",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Genesee & Wyoming Inc. is planning to separate into three rail holding companies, effective Jan. 1, 2027, a move that will position the regional entities for eventual sale. The companies will continue to be owned by G&W parent Brookfield and GIC . G&W operates more than 100 railroads.",
+   "published": "2026-11-12T11:08:00+00:00"
   },
   {
    "id": "https://www.ccjdigital.com/16425159",
@@ -1120,37 +1150,6 @@
    ],
    "excerpt": "Flatbed spot linehaul rates paid to carriers averaged $2.63 per mile last week, minus fuel, up 1.0%, or $0.02 per mile, from the week before. Rates climbed 30.5%, or $0.62 per mile, year over year and held 26.4%, or $0.55 per mile, above the nine-year seasonal average of $2.08 per mile, above the…",
    "published": "2026-11-09T21:22:39+00:00"
-  },
-  {
-   "id": "https://joc.com/article/us-retailers-upgrade-q4-import-forecast-even-as-extended-peak-winds-down-6320648",
-   "title": "US retailers upgrade Q4 import forecast even as extended peak winds down",
-   "url": "https://joc.com/article/us-retailers-upgrade-q4-import-forecast-even-as-extended-peak-winds-down-6320648",
-   "source": "JOC",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "The National Retail Federation said US ports in September ended up handling 2.37 million TEUs, making it the busiest month of 2026 and the third-busiest in the history of its Global Port Tracker.",
-   "published": "2026-11-09T20:59:15+00:00"
-  },
-  {
-   "id": "https://www.dat.com/blog/?p=27715",
-   "title": "Dry Van Report: Tight capacity keeps spot rates climbing",
-   "url": "https://www.dat.com/blog/dry-van-report-tight-capacity-keeps-spot-rates-climbing",
-   "source": "DAT iQ",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Diesel",
-    "Capacity"
-   ],
-   "excerpt": "Dry van spot linehaul rates paid to carriers averaged $2.26 per mile last week, minus fuel, up 2.8%, or $0.06 per mile, from the week before. Rates climbed 34.9%, or $0.58 per mile, year over year and held 23.4%, or $0.43 per mile, above the nine-year seasonal average of $1.83 per mile, near the…",
-   "published": "2026-11-09T20:44:54+00:00"
   }
  ]
 }
