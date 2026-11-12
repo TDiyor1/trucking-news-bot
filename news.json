@@ -1,6 +1,34 @@
 {
- "updated": "2026-11-12T21:00:33+00:00",
+ "updated": "2026-11-12T21:30:35+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104711",
+   "title": "B-1 visa truck drivers paid 25 cents a mile in cabotage scheme",
+   "url": "https://landline.media/b-1-visa-truck-drivers-paid-25-cents-a-mile-in-cabotage-scheme/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "More than 1,000 domestic trips and cut-rate driver pay are at the center of an alleged B-1 visa scheme involving a Texas trucking company.",
+   "published": "2026-11-12T21:00:46+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/usps-raise-prices-fuel-surcharge",
+   "title": "USPS to increase prices, establish permanent fuel surcharge",
+   "url": "https://www.ttnews.com/articles/usps-raise-prices-fuel-surcharge",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "The U.S. Postal Service is moving to raise and make permanent its fuel surcharge, which the agency introduced for the first time earlier this year.",
+   "published": "2026-11-12T21:00:00+00:00"
+  },
   {
    "id": "https://landline.media/?p=104707",
    "title": "Officials find tablet open to YouTube during fatal crash investigation",
@@ -84,6 +112,21 @@
    ],
    "excerpt": "Despite efforts to find a buyer, none has so far emerged publicly, and oil traders and analysts are growing increasingly skeptical that any of the four vessels Russia says are carrying diesel will unload in the U.S.",
    "published": "2026-11-12T18:18:22+00:00"
+  },
+  {
+   "id": "https://www.supplychaindive.com/news/trump-threatens-to-double-mexico-tariffs-over-migrant-caravans/874534/",
+   "title": "Trump threatens to double Mexico tariffs over migrant caravans",
+   "url": "https://www.supplychaindive.com/news/trump-threatens-to-double-mexico-tariffs-over-migrant-caravans/874534/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "The levies would be effective immediately if the country does not halt the movement of caravans into the U.S., the president said.",
+   "published": "2026-11-12T18:03:58+00:00"
   },
   {
    "id": "https://www.ttnews.com/articles/freight-rates-Q3-2026",
@@ -1104,51 +1147,6 @@
    "tags": [],
    "excerpt": "Wing, the drone delivery business of Alphabet ( NASDAQ: GOOG ), said it will invest $125 million to build a 15,000-square foot manufacturing facility in Fort Worth, Texas, over the next two years to meet growing interest from retailers in ultra-fast delivery.",
    "published": "2026-11-10T14:06:41+00:00"
-  },
-  {
-   "id": "https://www.dcvelocity.com/technology/a-unifying-voice",
-   "title": "A unifying voice",
-   "url": "https://www.dcvelocity.com/technology/a-unifying-voice",
-   "source": "DC Velocity",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Warehouses are becoming more automated by the day, with many combining an ever-wider selection of material handling equipment and technology designed to speed and streamline operations. Experts say collaborative robots, wearable technologies, autonomous forklifts, and automated storage and…",
-   "published": "2026-11-10T14:00:04+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/cpi-hotter-october-2026",
-   "title": "Inflation ran hotter than expected in October",
-   "url": "https://www.ttnews.com/articles/cpi-hotter-october-2026",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "The government did not report a yearly inflation rate because last year's government shutdown meant no data was released for October 2025.",
-   "published": "2026-11-10T13:48:26+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/oil-prices-lowest-3-months",
-   "title": "Oil prices touch lowest level in 3 months",
-   "url": "https://www.ttnews.com/articles/oil-prices-lowest-3-months",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Brent crude, the international standard, fell 2.2% to $90.55 a barrel, the lowest level in three months.",
-   "published": "2026-11-10T13:13:46+00:00"
   }
  ]
 }
