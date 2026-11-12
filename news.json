@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-12T22:35:35+00:00",
+ "updated": "2026-11-12T23:51:52+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16425506",
+   "title": "FMCSA boots 133 ELD off registry in fraud crackdown",
+   "url": "https://www.ccjdigital.com/regulations/safety-compliance/article/16425506/dot-crackdown-133-electronic-logging-devices-revoked-by-fmcsa",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation",
+    "Fraud",
+    "Tech"
+   ],
+   "excerpt": "Federal Motor Carrier Safety Administration (FMCSA) on Thursday removed 133 electronic logging devices from its registry Thursday in a crackdown aimed at stopping fraud and enforcing highway safety rules. U.S. Department of Transportation Secretary Sean Duffy said the swept devices include 121…",
+   "published": "2026-11-12T23:28:50+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/us-budget-deficit-up-october",
    "title": "U.S. budget deficit up 42% in October; tariff revenue dips 39%",
@@ -1134,20 +1150,6 @@
    ],
    "excerpt": "The company, however, remains open to a sale if it can get “fair value” for the business, CFO Jamie Pierson said.",
    "published": "2026-11-10T15:06:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585588",
-   "title": "Where Trucking Capacity Sits Right Now, And What The Fleet-Size Split Might Be Signaling",
-   "url": "https://www.freightwaves.com/news/where-trucking-capacity-sits-right-now-and-what-the-fleet-size-split-might-be-signaling",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Capacity"
-   ],
-   "excerpt": "How much trucking capacity is on the road right now depends almost entirely on which carriers you are counting, because the national fleet is really several different markets stacked together, the owner-operators running a truck or two, the mid-sized fleets, and the largest carriers, and each of…",
-   "published": "2026-11-10T15:05:00+00:00"
   }
  ]
 }
