@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T17:12:49+00:00",
+ "updated": "2026-11-12T17:30:35+00:00",
  "items": [
   {
    "id": "https://www.freightwaves.com/?p=585921",
@@ -204,6 +204,21 @@
    ],
    "excerpt": "Genesee & Wyoming Inc. is planning to separate into three rail holding companies, effective Jan. 1, 2027, a move that will position the regional entities for eventual sale. The companies will continue to be owned by G&W parent Brookfield and GIC . G&W operates more than 100 railroads.",
    "published": "2026-11-12T11:08:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=585939",
+   "title": "Intermodal leads U.S. rail traffic up 6.6% from a year ago",
+   "url": "https://www.freightwaves.com/news/intermodal-leads-u-s-rail-traffic-up-6-6-from-a-year-ago",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Rail traffic among U.S. carriers rose 6.6% in the week ending Nov. 7 compared with the same week a year ago, driven by an 11% increase in intermodal shipments, the Association of American Railroads said. Carloads increased 1.3% from a year earlier. Seven of the 10 commodity groups recorded gains,…",
+   "published": "2026-11-12T11:00:00+00:00"
   },
   {
    "id": "https://www.ccjdigital.com/16425159",
@@ -1132,22 +1147,6 @@
    ],
    "excerpt": "Federal and state trucking inspectors have expanded Operation Highway Shield into Maryland and Washington, D.C., conducting more than 1,000 commercial vehicle inspections and identifying hundreds of safety violations. The operations in Maryland and Washington, D.C., join recent enforcement agencies…",
    "published": "2026-11-09T22:40:06+00:00"
-  },
-  {
-   "id": "https://joc.com/article/cbp-issues-interim-rule-to-heighten-scrutiny-of-foreign-importers-6320684",
-   "title": "CBP issues interim rule to heighten scrutiny of foreign importers",
-   "url": "https://joc.com/article/cbp-issues-interim-rule-to-heighten-scrutiny-of-foreign-importers-6320684",
-   "source": "JOC",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation",
-    "Tariffs"
-   ],
-   "excerpt": "Under the rule, which takes effect in early January, licensed customs brokers will be responsible for verifying that their overseas clients meet the qualifications of a US importer of record before filing entries on their behalf.",
-   "published": "2026-11-09T22:18:15+00:00"
   }
  ]
 }
