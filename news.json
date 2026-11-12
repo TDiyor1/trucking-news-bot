@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-12T16:12:40+00:00",
+ "updated": "2026-11-12T16:30:32+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585921",
+   "title": "Trump threatens to double Mexico tariffs over alleged migrant influx",
+   "url": "https://www.freightwaves.com/news/trump-threatens-to-double-mexico-tariffs-over-alleged-migrant-influx",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "President Donald Trump threatened Thursday to immediately double tariffs on Mexican imports unless Mexico stops migrant caravans traveling toward the U.S. border, raising the prospect of another major disruption to North American trade and cross-border supply chains.",
+   "published": "2026-11-12T16:13:14+00:00"
+  },
   {
    "id": "https://www.supplychaindive.com/news/manufacturing-advocates-make-case-for-tariffs-following-midterm-results/874456/",
    "title": "Manufacturing advocates make case for tariffs following midterm results",
@@ -1134,22 +1148,6 @@
    ],
    "excerpt": "Under the rule, which takes effect in early January, licensed customs brokers will be responsible for verifying that their overseas clients meet the qualifications of a US importer of record before filing entries on their behalf.",
    "published": "2026-11-09T22:18:15+00:00"
-  },
-  {
-   "id": "https://www.dat.com/blog/?p=27724",
-   "title": "Reefer Report: Load-to-truck ratio jumps as holiday food freight starts to move",
-   "url": "https://www.dat.com/blog/reefer-report-load-to-truck-ratio-jumps-as-holiday-food-freight-starts-to-move",
-   "source": "DAT iQ",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Diesel"
-   ],
-   "excerpt": "Reefer spot linehaul rates paid to carriers averaged $2.77 per mile last week, minus fuel, up 3.3%, or $0.09 per mile, from the week before. Rates climbed 34.0%, or $0.70 per mile, year over year and held 28.1%, or $0.60 per mile, above the nine-year seasonal average of $2.17 per mile, near the top…",
-   "published": "2026-11-09T21:59:29+00:00"
   }
  ]
 }
