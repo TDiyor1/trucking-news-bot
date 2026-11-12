@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-12T18:34:42+00:00",
+ "updated": "2026-11-12T18:42:54+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104700",
+   "title": "‘It’s a lifeline’: What Truckers For Troops means to those serving",
+   "url": "https://landline.media/its-a-lifeline-what-truckers-for-troops-means-to-those-serving/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "A box arrives far from home. What’s inside matters, but who remembered matters more. Veterans share why Truckers For Troops hits home.",
+   "published": "2026-11-12T18:39:24+00:00"
+  },
   {
    "id": "https://landline.media/?p=104696",
    "title": "New lights, cameras and rules target work-zone dangers",
@@ -1134,20 +1148,6 @@
    ],
    "excerpt": "Trucking news and briefs for Tuesday, Nov. 10, 2026: Mack MD Electric recall prompted by hill start assist messaging Mack Trucks is recalling approximately 151 model year 2024-2026 Mack MD Electric trucks that were incorrectly manufactured with the hill start assist (HSA) message enabled.",
    "published": "2026-11-10T06:52:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585579",
-   "title": "Radiant Logistics touts enhanced credit facility, eyes larger M&A",
-   "url": "https://www.freightwaves.com/news/radiant-logistics-touts-expanded-credit-facility-eyes-larger-ma",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Shares of third-party logistics provider Radiant Logistics jumped 12.4% in after-hours trading on Monday following the company’s better-than-expected quarterly report. Radiant ( NYSE: RLGT ) reported revenue of $280 million for its fiscal first quarter ended Sept. 30.",
-   "published": "2026-11-10T01:40:46+00:00"
   }
  ]
 }
