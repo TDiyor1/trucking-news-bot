@@ -1,6 +1,48 @@
 {
- "updated": "2026-11-12T21:35:30+00:00",
+ "updated": "2026-11-12T22:00:41+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/us-budget-deficit-up-october",
+   "title": "U.S. budget deficit up 42% in October; tariff revenue dips 39%",
+   "url": "https://www.ttnews.com/articles/us-budget-deficit-up-october",
+   "source": "Transport Topics",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "The U.S. budget gap widened to $404 billion in October, up 42% from the same period a year earlier, Treasury Department data showed Nov. 12.",
+   "published": "2026-11-12T21:40:12+00:00"
+  },
+  {
+   "id": "https://www.dat.com/blog/?p=27730",
+   "title": "Reefer Produce Report: Produce volume drops 17%, but rates stay well above last year",
+   "url": "https://www.dat.com/blog/reefer-produce-report-produce-volume-drops-17-but-rates-stay-well-above-last-year",
+   "source": "DAT iQ",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "National refrigerated produce volume fell 17% week over week and is down 17% year over year, according to USDA data for the week ending Nov. 10. Rates did not follow it down. Reefer spot linehaul rates paid to carriers averaged $2.77 per mile last week, minus fuel, up 3.3% from the week before and…",
+   "published": "2026-11-12T21:36:56+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=585971",
+   "title": "What The B-1 Visa Lets A Foreign Truck Driver Legally Do In The United States",
+   "url": "https://www.freightwaves.com/news/what-the-b-1-visa-lets-a-foreign-truck-driver-legally-do-in-the-united-states",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Foreign truck drivers have become one of the most contested subjects in American freight over the past two years, and most of the heat comes from a basic confusion about what a B-1 visa actually authorizes , because the visa lets a Mexican or Canadian driver do a specific and fairly narrow set of…",
+   "published": "2026-11-12T21:32:41+00:00"
+  },
   {
    "id": "https://landline.media/?p=104711",
    "title": "B-1 visa truck drivers paid 25 cents a mile in cabotage scheme",
@@ -1106,47 +1148,6 @@
    ],
    "excerpt": "How much trucking capacity is on the road right now depends almost entirely on which carriers you are counting, because the national fleet is really several different markets stacked together, the owner-operators running a truck or two, the mid-sized fleets, and the largest carriers, and each of…",
    "published": "2026-11-10T15:05:00+00:00"
-  },
-  {
-   "id": "https://www.freightcaviar.com/stories/how-top-brokerages-will-operate-in-2027-new-broker-playbook",
-   "title": "How Top Brokerages Will Operate in 2027: The New Playbook for Brokers",
-   "url": "https://www.freightcaviar.com/stories/how-top-brokerages-will-operate-in-2027-new-broker-playbook",
-   "source": "Freight Caviar",
-   "audience": [
-    "Broker"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Brotherly Freight runs enterprise freight volume with a lean team. Here is how AI agents are rewriting the broker playbook for 2027, from quoting to collections.",
-   "published": "2026-11-10T15:00:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585607",
-   "title": "Retailers forecast U.S. imports to stay elevated through 2026 after breakout peak season",
-   "url": "https://www.freightwaves.com/news/retailers-forecast-u-s-imports-to-stay-elevated-through-2026-after-breakout-peak-season",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs",
-    "Ports/Rail"
-   ],
-   "excerpt": "Import volumes at major U.S. container ports are expected to ease through the end of 2026 after September marked the busiest month of the year. That would cap an extended shipping peak driven by tariff changes and sustained consumer spending. Ports tracked by the National Retail Federation handled…",
-   "published": "2026-11-10T14:36:47+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585602",
-   "title": "Wing to invest $125M in drone manufacturing plant",
-   "url": "https://www.freightwaves.com/news/wing-to-invest-125m-in-drone-manufacturing-plant",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [],
-   "excerpt": "Wing, the drone delivery business of Alphabet ( NASDAQ: GOOG ), said it will invest $125 million to build a 15,000-square foot manufacturing facility in Fort Worth, Texas, over the next two years to meet growing interest from retailers in ultra-fast delivery.",
-   "published": "2026-11-10T14:06:41+00:00"
   }
  ]
 }
