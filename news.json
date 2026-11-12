@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-12T14:00:38+00:00",
+ "updated": "2026-11-12T14:30:30+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/trump-double-tariffs-mexico",
+   "title": "Trump threatens to double tariffs on Mexico over migrants",
+   "url": "https://www.ttnews.com/articles/trump-double-tariffs-mexico",
+   "source": "Transport Topics",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "It was not immediately clear what legal authority Trump has to double levies on imports following a Supreme Court decision earlier this year curtailing his tariff powers.",
+   "published": "2026-11-12T13:52:33+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585879",
    "title": "One of 3 ratings agencies now has XPO as investment-grade",
@@ -1131,20 +1146,6 @@
    "tags": [],
    "excerpt": "Billionaire entrepreneur Brad Jacobs, who launched LTL carrier XPO and its later spinoffs, is turning to what he calls his “playbook” once again to seek out opportunities in a different sector. The sector? We don’t know yet and he’s not saying. In an eventful Monday morning for Jacobs, the current…",
    "published": "2026-11-09T19:34:18+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16424931",
-   "title": "Heavy-Duty parts inflation slows to .4% nationwide, masking steep regional swings",
-   "url": "https://www.ccjdigital.com/maintenance/components/article/16424931/truck-parts-inflation-cools-as-regional-pricing-diverges",
-   "source": "CCJ",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Heavy-duty truck parts prices are telling two different stories across the country, as distributor prices slip below year-ago levels in some regions while climbing steadily in others. The good news: The inflation that gripped the heavy parts market over the last two years has cooled, with national…",
-   "published": "2026-11-09T19:15:28+00:00"
   }
  ]
 }

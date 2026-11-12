@@ -1,4 +1,20 @@
 {
  "last_digest": "2026-11-12",
- "queue": []
+ "queue": [
+  {
+   "id": "https://www.ttnews.com/articles/trump-double-tariffs-mexico",
+   "title": "Trump threatens to double tariffs on Mexico over migrants",
+   "url": "https://www.ttnews.com/articles/trump-double-tariffs-mexico",
+   "source": "Transport Topics",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "It was not immediately clear what legal authority Trump has to double levies on imports following a Supreme Court decision earlier this year curtailing his tariff powers.",
+   "published": "2026-11-12T13:52:33+00:00"
+  }
+ ]
 }
