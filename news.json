@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-12T20:30:32+00:00",
+ "updated": "2026-11-12T20:43:38+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104707",
+   "title": "Officials find tablet open to YouTube during fatal crash investigation",
+   "url": "https://landline.media/officials-find-tablet-open-to-youtube-during-fatal-crash-investigation/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Distracted driving by a trucker may have played a role in a fatal crash in Missouri. Here’s the latest on the investigation.",
+   "published": "2026-11-12T20:35:57+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585961",
    "title": "Mexico truck exports soar 159% as production jumps 130% in October",
@@ -1135,21 +1149,6 @@
    ],
    "excerpt": "Brent crude, the international standard, fell 2.2% to $90.55 a barrel, the lowest level in three months.",
    "published": "2026-11-10T13:13:46+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=328203",
-   "title": "UPS in court bid to recover tariff payments ruled ‘unlawful’",
-   "url": "https://theloadstar.com/ups-in-court-bid-to-recover-tariff-payments-ruled-unlawful/",
-   "source": "The Loadstar",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "UPS has its sights set on US Customs and Border Protection (CBP), launching legal action against the agency to reclaim refunds and interest for tariffs paid under the International Emergency Economic Powers Act (IEEPA), with it having already received some $500m.",
-   "published": "2026-11-10T12:35:53+00:00"
   }
  ]
 }
