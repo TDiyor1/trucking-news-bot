@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-12T07:30:27+00:00",
+ "updated": "2026-11-12T08:00:37+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16425159",
+   "title": "Trucking conditions deteriorated in September with fuel's spike",
+   "url": "https://www.ccjdigital.com/economic-trends/article/16425159/trucking-conditions-deteriorated-in-september-with-fuels-spike",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Rates",
+    "Diesel"
+   ],
+   "excerpt": "Trucking news and briefs for Thursday, Nov. 12, 2026: Trucking conditions declined in September, but improvements expected Market conditions for trucking companies deteriorated modestly in September from August, largely due to record fuel costs and stagnating freight rates, according to FTR’s…",
+   "published": "2026-11-12T07:48:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585847",
    "title": "New cyber thief gang targets transports; Hunt, Ryder and Echo hit",
@@ -1134,21 +1149,6 @@
    ],
    "excerpt": "After years of complaints about the ineffectiveness of its National Consumer Complaint Database, FMCSA has relaunched the trucking platform.",
    "published": "2026-11-09T18:57:11+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104616",
-   "title": "Spot rates up, trucking jobs flat: What’s going on?",
-   "url": "https://landline.media/spot-rates-up-trucking-jobs-flat-whats-going-on/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Higher rates should give carriers room to grow. So why are trucking jobs flat? The latest freight data reveal a recovery with strings attached.",
-   "published": "2026-11-09T18:55:38+00:00"
   }
  ]
 }
