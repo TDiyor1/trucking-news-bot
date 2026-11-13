@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-13T20:26:52+00:00",
+ "updated": "2026-11-13T21:24:19+00:00",
  "items": [
+  {
+   "id": "https://joc.com/article/record-asia-imports-bnsf-woes-worsen-southern-california-rail-dwells-6323692",
+   "title": "Record Asia imports, BNSF woes worsen Southern California rail dwells",
+   "url": "https://joc.com/article/record-asia-imports-bnsf-woes-worsen-southern-california-rail-dwells-6323692",
+   "source": "JOC",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs",
+    "Ports/Rail"
+   ],
+   "excerpt": "Those volumes began moving inland from the ports of Los Angeles and Long Beach just as back-to-back storms in late October and early November caused major flooding and disrupted operations along BNSF’s Southern Transcon network in New Mexico.",
+   "published": "2026-11-13T20:54:15+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/fmcsa-removes-133-elds-list",
    "title": "FMCSA removes 133 ELDs from registered devices list",
@@ -1130,22 +1146,6 @@
    ],
    "excerpt": "The U.S. Postal Service reduced its annual loss in fiscal year 2026 to $6.5 billion, down $2.5 billion from last year, but officials called again on Congress and the Postal Regulatory Commission for urgent reforms because its own measures to cut costs and generate more revenue aren’t enough to…",
    "published": "2026-11-11T14:29:21+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16425206",
-   "title": "Truckload rates hold steady as holiday freight season tests limited capacity",
-   "url": "https://www.ccjdigital.com/economic-trends/freight-demand/article/16425206/spot-truckload-rates-remain-high-heading-into-peak-season",
-   "source": "CCJ",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Capacity"
-   ],
-   "excerpt": "Spot truckload rates have held flat for two months at approximately $3.47 per mile, sitting roughly 48% higher than at this time last year, but as peak-season freight enters the market, carriers retain the leverage while shipping volumes build. DAT Freight & Analytics reported that the national…",
-   "published": "2026-11-11T14:14:59+00:00"
   }
  ]
 }
