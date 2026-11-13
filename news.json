@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-13T16:23:29+00:00",
+ "updated": "2026-11-13T16:53:27+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104716",
+   "title": "Nearly 2,400 vehicles placed out of service during Brake Safety Week",
+   "url": "https://landline.media/nearly-2400-vehicles-placed-out-of-service-during-brake-safety-week/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "CVSA has released stats from this year’s Brake Safety Week. Find out how drivers did and what the top violations were.",
+   "published": "2026-11-13T16:23:32+00:00"
+  },
   {
    "id": "https://www.supplychaindive.com/news/port-of-los-angeles-grapples-with-elevated-rail-dwell-times/874553/",
    "title": "Port of Los Angeles grapples with elevated rail dwell times",
@@ -1133,20 +1145,6 @@
    ],
    "excerpt": "Rising fuel prices and freight rates are putting pressure on corporate supply chains, but sharply with different consequences: Higher costs for automakers, a competitive opening for railroads and an unexpected advantage for some U.S. oil refiners. Comments from seven executives at Ford (NYSE: F ),…",
    "published": "2026-11-10T19:22:13+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104634",
-   "title": "Interstate 70 closure: Kansas City, here I detour",
-   "url": "https://landline.media/interstate-70-closure-kansas-city-here-i-detour/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "If you’re planning on trucking along Interstate 70 in Kansas City, Mo., in 2027, consider this your heads-up.",
-   "published": "2026-11-10T18:59:38+00:00"
   }
  ]
 }
