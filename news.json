@@ -1,6 +1,49 @@
 {
- "updated": "2026-11-13T19:54:08+00:00",
+ "updated": "2026-11-13T20:26:52+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/fmcsa-removes-133-elds-list",
+   "title": "FMCSA removes 133 ELDs from registered devices list",
+   "url": "https://www.ttnews.com/articles/fmcsa-removes-133-elds-list",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "FMCSA removed 133 electronic logging devices from its registered devices list Nov. 12 after finding widespread noncompliance and evidence of falsified hours-of-service records.",
+   "published": "2026-11-13T20:12:29+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104732",
+   "title": "Cross-border truck freight values soar. Where are the loads?",
+   "url": "https://landline.media/cross-border-truck-freight-values-soar-where-are-the-loads/",
+   "source": "Land Line",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "Cross-border truck freight is worth far more than a year ago, but trucks aren’t hauling much more of it. Here’s what’s behind the gap.",
+   "published": "2026-11-13T20:01:14+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=585854",
+   "title": "Freightos’ founder accuses company of ‘rigging’ proxy vote as company opposes his proposals",
+   "url": "https://www.freightwaves.com/news/freightos-founder-accuses-company-of-rigging-proxy-vote-as-company-opposes-his-proposals",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Freightos founder and former CEO Zvi Schreiber has accused the company of “rigging” a shareholder vote by omitting one of his proposals from its proxy card. He said properly executed proxy forms would automatically count as votes against the proposal. The proposal is included in Freightos’ proxy…",
+   "published": "2026-11-13T19:48:52+00:00"
+  },
   {
    "id": "https://joc.com/article/warehousing-demand-intensifying-in-major-us-logistics-markets-6323671",
    "title": "Warehousing demand intensifying in major US logistics markets",
@@ -1103,50 +1146,6 @@
    ],
    "excerpt": "Spot truckload rates have held flat for two months at approximately $3.47 per mile, sitting roughly 48% higher than at this time last year, but as peak-season freight enters the market, carriers retain the leverage while shipping volumes build. DAT Freight & Analytics reported that the national…",
    "published": "2026-11-11T14:14:59+00:00"
-  },
-  {
-   "id": "https://www.freightcaviar.com/stories/check-call-on-congress",
-   "title": "🎣 Check Call on Congress",
-   "url": "https://www.freightcaviar.com/stories/check-call-on-congress",
-   "source": "Freight Caviar",
-   "audience": [
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "Broker protections and cargo-theft bills face a January 3 deadline.",
-   "published": "2026-11-11T13:55:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16425205",
-   "title": "Just the facts: What decades of trucking innovation can teach us about objectivity",
-   "url": "https://www.ccjdigital.com/trucks/class-7-8/article/16425205/trucking-technology-evolution-a-retrospective-on-fleet-efficiency",
-   "source": "CCJ",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "This is my last thought leadership piece for CCJ and NACFE. I want to thank CCJ ’s chief editor, Jason Cannon, and the CCJ organization for publishing my roughly 200 NACFE thought leadership pieces on trucking efficiency since 2020. I also want to thank NACFE, particularly its executive director,…",
-   "published": "2026-11-11T13:52:50+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585727",
-   "title": "Shippers running 2022-era bid playbooks face a tighter peak",
-   "url": "https://www.freightwaves.com/news/a-duie-pyle-peak-season-shipper-bids",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Some shippers are heading into peak season with the bid strategy that carried them from 2022 through 2025: long rate locks, steep penalties and little flexibility. That strategy is breaking down in a tighter market, said Craig Lough, director of strategic planning at A.",
-   "published": "2026-11-11T13:00:00+00:00"
   }
  ]
 }
