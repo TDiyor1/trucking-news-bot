@@ -1,6 +1,122 @@
 {
- "updated": "2026-11-13T12:32:14+00:00",
+ "updated": "2026-11-13T14:54:38+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585986",
+   "title": "Proficient Auto Logistics eyes margin recovery after challenging Q3",
+   "url": "https://www.freightwaves.com/news/proficient-auto-logistics-eyes-margin-recovery-after-challenging-q3",
+   "source": "FreightWaves",
+   "audience": [
+    "Broker"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Proficient Auto Logistics, North America’s largest finished vehicle logistics platform, sees better days ahead, but its 2026 third quarter signaled a still-difficult operating environment for car haulers. The Jacksonville, Florida-based company pointed to several levers—higher pricing, improved…",
+   "published": "2026-11-13T14:42:23+00:00"
+  },
+  {
+   "id": "https://www.supplychaindive.com/news/walmart-more-than-doubles-planned-drone-delivery-sites/874580/",
+   "title": "Walmart more than doubles planned drone delivery sites",
+   "url": "https://www.supplychaindive.com/news/walmart-more-than-doubles-planned-drone-delivery-sites/874580/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "An expansion with drone operator Zipline will allow the retailer to make rapid air delivery available to customers nationwide over the next several years.",
+   "published": "2026-11-13T14:37:21+00:00"
+  },
+  {
+   "id": "https://www.supplychaindive.com/news/usps-readies-2027-rate-increase-permanent-fuel-surcharge/874524/",
+   "title": "USPS readies 2027 rate increase, permanent fuel surcharge",
+   "url": "https://www.supplychaindive.com/news/usps-readies-2027-rate-increase-permanent-fuel-surcharge/874524/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Diesel"
+   ],
+   "excerpt": "The agency plans to increase prices by 5.9% on average for services like USPS Ground Advantage and Priority Mail in January.",
+   "published": "2026-11-13T14:26:13+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=585995",
+   "title": "Cargojet fleet optimization boosts productivity, fuels record Q3 revenue",
+   "url": "https://www.freightwaves.com/news/cargojet-fleet-optimization-boosts-productivity-fuels-record-q3-revenue",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [],
+   "excerpt": "Cargojet credited new strategic initiatives involving the integration of the Canadian overnight network with international operations and introduction of more scheduled charter services, which improved asset utilization, for propelling the company to record third-quarter revenue and operating…",
+   "published": "2026-11-13T14:20:58+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=585992",
+   "title": "Record October as Los Angeles tops 1 Million TEUs for second straight month",
+   "url": "https://www.freightwaves.com/news/record-october-as-los-angeles-tops-1-million-teus-for-second-straight-month",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The Port of Los Angeles recorded its busiest October ever, handling 1,026,872 twenty-foot equivalent units, or TEUs, and surpassing 1 million TEUs for the second consecutive month for the first time in its history. October’s total was the second-highest monthly volume ever at the nation’s busiest…",
+   "published": "2026-11-13T14:08:21+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/canada-threat-sue-stellantis",
+   "title": "Canada threatens to sue Stellantis over auto plant sale",
+   "url": "https://www.ttnews.com/articles/canada-threat-sue-stellantis",
+   "source": "Transport Topics",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "Industry Minister Mélanie Joly said Ottawa had issued Stellantis a formal notice alleging breaches of its funding agreement, giving the automaker 30 days to address the violations or face legal action.",
+   "published": "2026-11-13T14:07:49+00:00"
+  },
+  {
+   "id": "https://www.freightcaviar.com/stories/fmcsa-record-eld-crackdown",
+   "title": "🎣 Biggest ELD Crackdown Ever",
+   "url": "https://www.freightcaviar.com/stories/fmcsa-record-eld-crackdown",
+   "source": "Freight Caviar",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation",
+    "Tech"
+   ],
+   "excerpt": "FMCSA pulls 133 ELDs after investigators find providers falsifying driving logs and rest periods.",
+   "published": "2026-11-13T13:55:00+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/cargo-ship-strikes-bridge",
+   "title": "Cargo ship strikes bridge between New Jersey, Philadelphia",
+   "url": "https://www.ttnews.com/articles/cargo-ship-strikes-bridge",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The U.S. Coast Guard said the cargo vessel is currently moored at a Kinder Morgan facility in Bristol, Pa., where an inspection team is on site.",
+   "published": "2026-11-13T13:42:05+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16425477",
    "title": "Industry grapples with defining 'safe' carrier",
@@ -1030,122 +1146,6 @@
    ],
    "excerpt": "While the Journal of Commerce TCI for the third quarter rose to its highest reading since Q4 2023, the increase doesn't reflect a broader trend in truck capacity.",
    "published": "2026-11-10T17:06:15+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=328238",
-   "title": "El Niño transport chaos hits LatAm perishables exports",
-   "url": "https://theloadstar.com/el-nino-transport-chaos-hits-latam-perishables-exports/",
-   "source": "The Loadstar",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "When it rains, it pours. Agriculture exporters in Latin America’s southern cone have struggled with headwinds from weather hitting crops as well as transport routes, on top of gateway problems and high transport costs. Chile’s cherry export season got off to a rocky start when truckers staged a…",
-   "published": "2026-11-10T17:00:31+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585556",
-   "title": "$760K fuel-card fraud scheme tied to impersonated Michigan trucking company",
-   "url": "https://www.freightwaves.com/news/760k-fuel-card-fraud-scheme-tied-to-impersonated-michigan-trucking-company",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Fraud"
-   ],
-   "excerpt": "Two Georgia men face federal charges in a $760,000 fuel-card fraud scheme involving a legitimate Michigan trucking company. Prosecutors accuse Mario Bailey and Zachary Walker of obtaining eight fuel cards through a fraudulent credit application. Fuel purchases spanned 23 states, contributing to an…",
-   "published": "2026-11-10T16:59:33+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/stellantis-sells-plant-roshel",
-   "title": "Stellantis sells Canada plant to armored vehicle maker Roshel",
-   "url": "https://www.ttnews.com/articles/stellantis-sells-plant-roshel",
-   "source": "Transport Topics",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "The plant in Brampton, Ontario, once employed about 3,000 unionized workers but hasn’t been in production since late 2023.",
-   "published": "2026-11-10T16:42:37+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585623",
-   "title": "Kearney, MIT put US driverless truck cost parity at 2028",
-   "url": "https://www.freightwaves.com/news/kearney-mit-driverless-truck-cost-parity-2028",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Kearney and the MIT Mobility Initiative project that autonomous trucks will match the per-mile cost of trucks with drivers in the US around 2028, according to a report released Nov. 5 . Their model puts a driverless truck at $4 a mile in 2026, against $2.50 for a conventional truck, with the two…",
-   "published": "2026-11-10T16:11:02+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585640",
-   "title": "ACT Expo 2027 agenda leads with diesel and fleet costs",
-   "url": "https://www.freightwaves.com/news/act-expo-2027-agenda-diesel-costs",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "ACT Expo opened registrations for next year’s show with an agenda that leads with cutting fleets’ fuel and operating costs, starting with diesel technology. The Advanced Clean Transportation Expo will take place May 17-20 at the Las Vegas Convention Center.",
-   "published": "2026-11-10T15:59:17+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585618",
-   "title": "Lineage sees cold storage inventories stabilize after capacity reductions",
-   "url": "https://www.freightwaves.com/news/lineage-sees-cold-storage-inventories-stabilize-after-capacity-reductions",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Capacity"
-   ],
-   "excerpt": "Cold storage facility operator Lineage said customer inventories have stabilized, though some accounts are holding lower stock levels. The Novi, Michigan-based company said Tuesday on its third-quarter call that it continues to shutter underutilized facilities in efforts to tighten supply and…",
-   "published": "2026-11-10T15:47:17+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585629",
-   "title": "ASICS warehouse drones quickly find misplaced inventory",
-   "url": "https://www.freightwaves.com/news/asics-warehouse-drones-quickly-find-misplaced-inventory",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Sportswear company ASICS is recovering misplaced products nearly 60% faster at its Byhalia, Mississippi, distribution center since it began conducting nightly flights of high-risk storage areas with autonomous inventory drones. The drones, manufactured by Corvus Robotics, have increased counting…",
-   "published": "2026-11-10T15:46:57+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/kodiak-international-option",
-   "title": "Kodiak to add International tractors to autonomous options",
-   "url": "https://www.ttnews.com/articles/kodiak-international-option",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Kodiak AI will begin offering retrofitted autonomous tractors from three truck makers in the second half of 2027: International Motors, Peterbilt and Western Star.",
-   "published": "2026-11-10T15:36:17+00:00"
   }
  ]
 }
