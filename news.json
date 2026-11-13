@@ -1,6 +1,47 @@
 {
- "updated": "2026-11-13T06:33:00+00:00",
+ "updated": "2026-11-13T12:32:14+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16425477",
+   "title": "Industry grapples with defining 'safe' carrier",
+   "url": "https://www.ccjdigital.com/regulations/government-affairs/article/16425477/industry-grapples-with-defining-safe-carrier",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "The Mississippi Senate race has finally been called by the Associated Press, landing the Democrats with another seat, while results in Alaska are still undetermined. While the reality is Democrats will control Congress in January , many efforts surrounding trucking regulation remain bipartisan as…",
+   "published": "2026-11-13T11:51:16+00:00"
+  },
+  {
+   "id": "https://theloadstar.com/?p=328434",
+   "title": "Democrat success may mean more trade stability, but alongside tariffs",
+   "url": "https://theloadstar.com/democrat-success-may-mean-more-trade-stability-but-alongside-tariffs/",
+   "source": "The Loadstar",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "Following the Democrats’ midterm US election victories, freight forwarders and importers could face greater stability in trade policy, but little immediate relief from existing duties. Nunzio De Filipis, co-CEO of CargoTrans, told The Loadstar Podcast the election result could slow the pace of…",
+   "published": "2026-11-13T11:41:07+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/16425496",
+   "title": "Trucking company faces charges for alleged cabotage",
+   "url": "https://www.ccjdigital.com/regulations/article/16425496/trucking-company-faces-charges-for-alleged-cabotage",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Trucking news and briefs for Friday, Nov. 13, 2026: Trucking company owner charged for allegedly employing unauthorized immigrants, cabotage violations A Texas-based trucking company owner has been indicted for allegedly employing unauthorized drivers to transport domestic freight.",
+   "published": "2026-11-13T06:50:00+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16425506",
    "title": "FMCSA boots 133 ELD off registry in fraud crackdown",
@@ -1105,51 +1146,6 @@
    ],
    "excerpt": "Kodiak AI will begin offering retrofitted autonomous tractors from three truck makers in the second half of 2027: International Motors, Peterbilt and Western Star.",
    "published": "2026-11-10T15:36:17+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/marten-reports-fewer-trucking-miles-but-notches-14-tl-rate-gain/874114/",
-   "title": "Marten reports fewer trucking miles but notches 14% TL rate gain",
-   "url": "https://www.truckingdive.com/news/marten-reports-fewer-trucking-miles-but-notches-14-tl-rate-gain/874114/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Operating income in its dedicated segment nosedived in Q3 while its TL segment reduced the severity of an operating loss.",
-   "published": "2026-11-10T15:25:00+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/canada-goose-will-revisit-pricing-to-blunt-tariffs-next-year-cfo-says/874196/",
-   "title": "Canada Goose will revisit pricing to blunt tariffs next year, CFO says",
-   "url": "https://www.supplychaindive.com/news/canada-goose-will-revisit-pricing-to-blunt-tariffs-next-year-cfo-says/874196/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "The Toronto-based luxury apparel company worked hard to get its products into the U.S. before new import tariffs became effective in August.",
-   "published": "2026-11-10T15:11:00+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/forward-air-pauses-sale-of-intermodal-segment/874212/",
-   "title": "Forward Air pauses sale of intermodal segment",
-   "url": "https://www.truckingdive.com/news/forward-air-pauses-sale-of-intermodal-segment/874212/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "The company, however, remains open to a sale if it can get “fair value” for the business, CFO Jamie Pierson said.",
-   "published": "2026-11-10T15:06:00+00:00"
   }
  ]
 }
