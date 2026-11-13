@@ -1,6 +1,48 @@
 {
- "updated": "2026-11-13T15:53:29+00:00",
+ "updated": "2026-11-13T16:23:29+00:00",
  "items": [
+  {
+   "id": "https://www.supplychaindive.com/news/port-of-los-angeles-grapples-with-elevated-rail-dwell-times/874553/",
+   "title": "Port of Los Angeles grapples with elevated rail dwell times",
+   "url": "https://www.supplychaindive.com/news/port-of-los-angeles-grapples-with-elevated-rail-dwell-times/874553/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Wait times for idle containers set for rail transport have reached over nine days, Executive Director Gene Seroka said.",
+   "published": "2026-11-13T16:04:00+00:00"
+  },
+  {
+   "id": "https://www.supplychaindive.com/news/jd-sports-leverages-tech-for-faster-replenishment/874427/",
+   "title": "JD Sports leverages tech for faster replenishment",
+   "url": "https://www.supplychaindive.com/news/jd-sports-leverages-tech-for-faster-replenishment/874427/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The sportswear retailer is partnering with Zebra to gain real-time inventory visibility across its omnichannel operations, citing 98% on-shelf availability.",
+   "published": "2026-11-13T15:55:00+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/port-authority-ny-nj-budget",
+   "title": "Port Authority of N.Y.-N.J. proposes $10.3 billion budget",
+   "url": "https://www.ttnews.com/articles/port-authority-ny-nj-budget",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The Port Authority expects to issue $1.1 billion in new bonds to help fund the budget, while proposing no new toll, fare or fee adjustments.",
+   "published": "2026-11-13T15:45:53+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=586005",
    "title": "White House to extend Jones Act waiver as deadline nears, sources say",
@@ -1105,47 +1147,6 @@
    "tags": [],
    "excerpt": "If you’re planning on trucking along Interstate 70 in Kansas City, Mo., in 2027, consider this your heads-up.",
    "published": "2026-11-10T18:59:38+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/forward-air-earnings-q3-2026",
-   "title": "Forward Air Bolsters Freight Demand Amid Capacity Crackdown",
-   "url": "https://www.ttnews.com/articles/forward-air-earnings-q3-2026",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Capacity"
-   ],
-   "excerpt": "Forward Air Corp. reported top-line growth for the third quarter Nov. 9 as freight demand bolstered ongoing capacity reductions.",
-   "published": "2026-11-10T18:25:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/us-forecasts-2027-diesel",
-   "title": "U.S. raises forecasts for 2027 gasoline and diesel prices",
-   "url": "https://www.ttnews.com/articles/us-forecasts-2027-diesel",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "The EIA increased its projected retail price of diesel next year to $5.03 a gallon, up from $4.49 a gallon, and gasoline to an average of $3.73 a gallon, up from $3.56 a gallon.",
-   "published": "2026-11-10T18:02:54+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104631",
-   "title": "Billions for roads. Will truckers see results?",
-   "url": "https://landline.media/billions-for-roads-will-truckers-see-results/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Road repairs, congestion relief and transit are on the table. See what voters approved and how the decisions could affect truck drivers.",
-   "published": "2026-11-10T17:42:19+00:00"
   }
  ]
 }
