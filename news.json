@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-13T23:28:12+00:00",
+ "updated": "2026-11-13T23:58:06+00:00",
  "items": [
+  {
+   "id": "https://www.dcvelocity.com/supply-chain/other-services/green-logistics/meta-buys-zero-emission-trucking-capacity-to-offset-data-center-construction",
+   "title": "Meta buys zero-emission trucking capacity to offset data center construction",
+   "url": "https://www.dcvelocity.com/supply-chain/other-services/green-logistics/meta-buys-zero-emission-trucking-capacity-to-offset-data-center-construction",
+   "source": "DC Velocity",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Rates",
+    "Capacity",
+    "Tech"
+   ],
+   "excerpt": "Artificial intelligence (AI) and social media giant Meta will purchase zero-emission trucking capacity from Nevoya, an electric truckload carrier, to offset the emissions of its business activities, the firms said Thursday. Nevoya announced the multi-year agreement with Meta that support the…",
+   "published": "2026-11-13T23:51:48+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16425716",
    "title": "AI dependence is a concern as diesel and regulatory uncertainty squeeze trucking",
@@ -1136,18 +1152,6 @@
    ],
    "excerpt": "Slowing demand at U.S. ports is helping ease rates, but costs remain elevated on a year-over-year basis.",
    "published": "2026-11-11T15:48:40+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585774",
-   "title": "Texas trucking owner indicted in scheme involving 57 unauthorized drivers",
-   "url": "https://www.freightwaves.com/news/texas-trucking-owner-indicted-in-scheme-involving-57-unauthorized-drivers",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "A Texas trucking company owner has been indicted on federal charges from an alleged scheme to employ unauthorized foreign drivers to transport domestic freight across the U.S., saving his company nearly $300,000 in labor costs. Armando Martinez Varela, 56, of Laredo, Texas, owned VMS Transport LLC,…",
-   "published": "2026-11-11T15:04:26+00:00"
   }
  ]
 }
