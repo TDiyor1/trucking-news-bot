@@ -1,6 +1,64 @@
 {
- "updated": "2026-11-13T14:54:38+00:00",
+ "updated": "2026-11-13T15:53:29+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=586005",
+   "title": "White House to extend Jones Act waiver as deadline nears, sources say",
+   "url": "https://www.freightwaves.com/news/white-house-to-extend-jones-act-waiver-as-deadline-nears-sources-say",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "The Trump administration is weighing another controversial extension of a temporary Jones Act waiver ahead of its Sunday expiration, potentially preserving a shipping option intended to ease fuel transportation constraints and help contain costs. Sources who spoke on the condition of anonymity tell…",
+   "published": "2026-11-13T15:02:13+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/3-trucking-businesses-go-bankrupt-in-california-illinois-and-maryland/874391/",
+   "title": "3 trucking businesses go bankrupt in California, Illinois and Maryland",
+   "url": "https://www.truckingdive.com/news/3-trucking-businesses-go-bankrupt-in-california-illinois-and-maryland/874391/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Capacity"
+   ],
+   "excerpt": "Road King Transport, Jared Lyons Trucking and Silk Route Transportation all reported repayment issues with equipment lenders.",
+   "published": "2026-11-13T15:02:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586011",
+   "title": "FMCSA revokes 133 electronic logging devices in fraud crackdown",
+   "url": "https://www.freightwaves.com/news/fmcsa-revokes-133-electronic-logging-devices-in-fraud-crackdown",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation",
+    "Fraud"
+   ],
+   "excerpt": "The Federal Motor Carrier Safety Administration has removed 133 electronic logging devices from its registry, citing widespread compliance failures and evidence that some systems were being used to falsify truck drivers’ hours-of-service records. The enforcement action, announced Thursday by…",
+   "published": "2026-11-13T15:00:12+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/nussbaum-transportation-finds-next-ceo-from-within/833268/",
+   "title": "Nussbaum Transportation finds next CEO from within",
+   "url": "https://www.truckingdive.com/news/nussbaum-transportation-finds-next-ceo-from-within/833268/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "Brent Nussbaum, who has led the company since 2000, is handing the reins to longtime executive Bill Wettstein on Jan. 1",
+   "published": "2026-11-13T14:52:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=585986",
    "title": "Proficient Auto Logistics eyes margin recovery after challenging Q3",
@@ -1088,64 +1146,6 @@
    "tags": [],
    "excerpt": "Road repairs, congestion relief and transit are on the table. See what voters approved and how the decisions could affect truck drivers.",
    "published": "2026-11-10T17:42:19+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585658",
-   "title": "Port of Long Beach, coalition aims for electricity to power 35% of shipping by 2035",
-   "url": "https://www.freightwaves.com/news/port-of-long-beach-coalition-aims-for-electricity-to-power-35-of-shipping-by-2035",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "The Port of Long Beach is among the ports highlighted in a maritime electrification proposal that calls for electricity to supply at least 35% of international shipping’s final energy demand by 2035, placing shore-power infrastructure at the center of a broader effort to reduce fossil-fuel use.",
-   "published": "2026-11-10T17:30:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16425078",
-   "title": "Progressive unifies commercial telematics with new Snapshot Pro program",
-   "url": "https://www.ccjdigital.com/business/insurance/article/16425078/progressive-unifies-commercial-telematics-with-new-snapshot-pro-program",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Progressive Insurance has completed the national rollout of Snapshot Pro, a unified commercial telematics program designed to give small small fleets and owner-operators more visibility into their driving habits. The program combines Progressive's Snapshot ProView and Smart Haul into a single…",
-   "published": "2026-11-10T17:18:07+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/ps-logistics-unit-buys-roane",
-   "title": "PS Logistics unit buys Tennessee-based flatbed carrier Roane",
-   "url": "https://www.ttnews.com/articles/ps-logistics-unit-buys-roane",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Loudon County Trucking’s acquisition of Roane revives PS Logistics’ strategic bent toward deal-making for expansion in the flatbed segment of the freight market.",
-   "published": "2026-11-10T17:08:19+00:00"
-  },
-  {
-   "id": "https://joc.com/article/additional-trucks-at-large-us-carriers-boost-truckload-capacity-index-6321140",
-   "title": "Additional trucks at large US carriers boost Truckload Capacity Index",
-   "url": "https://joc.com/article/additional-trucks-at-large-us-carriers-boost-truckload-capacity-index-6321140",
-   "source": "JOC",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Rates",
-    "Capacity"
-   ],
-   "excerpt": "While the Journal of Commerce TCI for the third quarter rose to its highest reading since Q4 2023, the increase doesn't reflect a broader trend in truck capacity.",
-   "published": "2026-11-10T17:06:15+00:00"
   }
  ]
 }

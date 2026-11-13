@@ -1,4 +1,49 @@
 {
  "last_digest": "2026-11-13",
- "queue": []
+ "queue": [
+  {
+   "id": "https://www.truckingdive.com/news/nussbaum-transportation-finds-next-ceo-from-within/833268/",
+   "title": "Nussbaum Transportation finds next CEO from within",
+   "url": "https://www.truckingdive.com/news/nussbaum-transportation-finds-next-ceo-from-within/833268/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "Brent Nussbaum, who has led the company since 2000, is handing the reins to longtime executive Bill Wettstein on Jan. 1",
+   "published": "2026-11-13T14:52:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586011",
+   "title": "FMCSA revokes 133 electronic logging devices in fraud crackdown",
+   "url": "https://www.freightwaves.com/news/fmcsa-revokes-133-electronic-logging-devices-in-fraud-crackdown",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation",
+    "Fraud"
+   ],
+   "excerpt": "The Federal Motor Carrier Safety Administration has removed 133 electronic logging devices from its registry, citing widespread compliance failures and evidence that some systems were being used to falsify truck drivers’ hours-of-service records. The enforcement action, announced Thursday by…",
+   "published": "2026-11-13T15:00:12+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/3-trucking-businesses-go-bankrupt-in-california-illinois-and-maryland/874391/",
+   "title": "3 trucking businesses go bankrupt in California, Illinois and Maryland",
+   "url": "https://www.truckingdive.com/news/3-trucking-businesses-go-bankrupt-in-california-illinois-and-maryland/874391/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Capacity"
+   ],
+   "excerpt": "Road King Transport, Jared Lyons Trucking and Silk Route Transportation all reported repayment issues with equipment lenders.",
+   "published": "2026-11-13T15:02:00+00:00"
+  }
+ ]
 }
