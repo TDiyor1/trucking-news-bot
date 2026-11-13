@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-13T17:23:32+00:00",
+ "updated": "2026-11-13T17:53:54+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=585975",
+   "title": "Suspect in $100M Brink’s jewelry theft agrees to plead guilty in related cargo robbery case",
+   "url": "https://www.freightwaves.com/news/suspect-in-100m-brinks-jewelry-theft-agrees-to-plead-guilty-in-related-cargo-robbery-case",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Carlos Victor Mestanza Cercado acknowledged participating in the $100 million Brink’s jewelry heist in a newly filed federal plea agreement. The Nov. 9 filing details how conspirators followed a semitruck approximately 300 miles before stealing its cargo.",
+   "published": "2026-11-13T17:11:35+00:00"
+  },
   {
    "id": "https://landline.media/?p=104716",
    "title": "Nearly 2,400 vehicles placed out of service during Brake Safety Week",
@@ -1129,20 +1141,6 @@
    "tags": [],
    "excerpt": "Meals on the house. Membership dues at a discount. Veterans Day specials and Truckers For Troops offer ways to save and give back.",
    "published": "2026-11-10T19:57:24+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104651",
-   "title": "BOI reporting: Back to haunt small businesses?",
-   "url": "https://landline.media/boi-reporting-back-to-haunt-small-businesses/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "A new lawsuit could revive beneficial ownership information reporting, reopening a compliance saga many small-business owners thought was over.",
-   "published": "2026-11-10T19:24:47+00:00"
   }
  ]
 }
