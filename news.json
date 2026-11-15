@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-15T07:09:27+00:00",
+ "updated": "2026-11-15T14:44:42+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=586168",
+   "title": "Borderlands Mexico: Texas cross-border traffic rises by 400 trucks through Saturday pilot",
+   "url": "https://www.freightwaves.com/news/borderlands-mexico-texas-cross-border-traffic-rises-by-400-trucks-through-saturday-pilot",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade. This week in Borderlands Mexico: Texas cross-border traffic rises by 400 trucks through Saturday pilot; Truck freight between US and Mexico reaches $75.4B in September; and…",
+   "published": "2026-11-15T12:00:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=586053",
    "title": "Spot rates jump ahead of holidays",
@@ -1138,21 +1153,6 @@
    "tags": [],
    "excerpt": "Latam Airlines Group announced Wednesday it will build and finance a new cargo terminal at El Dorado International Airport in Bogotá, Colombia, tripling its existing work space and enabling faster processing of import and export shipments. The expansion project is part of a new plan to upgrade…",
    "published": "2026-11-11T17:09:37+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585785",
-   "title": "US postpones ‘million-dollar’ China ship tax until January",
-   "url": "https://www.freightwaves.com/news/us-postpones-million-dollar-china-ship-tax-until-january",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "The United States has extended the suspension of port fees targeting China-linked shipping for another two months, keeping the measures on hold through January 9, 2027, according to a notice published Tuesday in the Federal Register. The decision gives Washington and Beijing additional time to…",
-   "published": "2026-11-11T16:02:32+00:00"
   }
  ]
 }
