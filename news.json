@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-15T20:25:42+00:00",
+ "updated": "2026-11-15T20:55:49+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16425606",
+   "title": "Data shows serial noncompliance behind majority of ELD revocations",
+   "url": "https://www.ccjdigital.com/technology/driver-management/article/16425606/data-shows-serial-noncompliance-behind-majority-of-eld-revocations",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation",
+    "Tech"
+   ],
+   "excerpt": "On the list of electronic logging devices (ELDs) revoked by the Federal Motor Carrier Safety Administration (FMCSA) Thursday, you will find 121 ELD names, but not 121 different providers. Sixty-five of the removed devices were distributed across 26 providers with two or more devices, leaving just…",
+   "published": "2026-11-15T20:47:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=586168",
    "title": "Borderlands Mexico: Texas cross-border traffic rises by 400 trucks through Saturday pilot",
@@ -1139,20 +1154,6 @@
    ],
    "excerpt": "Market growth remains steady, but pressured capacity and other traditional signals of a late burst in demand were lacking in October, Xeneta reported.",
    "published": "2026-11-11T18:55:52+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585800",
-   "title": "Latam Cargo to increase flower exports with Bogota terminal expansion",
-   "url": "https://www.freightwaves.com/news/latam-cargo-to-increase-flower-exports-with-bogota-terminal-expansion",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Latam Airlines Group announced Wednesday it will build and finance a new cargo terminal at El Dorado International Airport in Bogotá, Colombia, tripling its existing work space and enabling faster processing of import and export shipments. The expansion project is part of a new plan to upgrade…",
-   "published": "2026-11-11T17:09:37+00:00"
   }
  ]
 }

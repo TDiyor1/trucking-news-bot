@@ -1,4 +1,20 @@
 {
  "last_digest": "2026-11-15",
- "queue": []
+ "queue": [
+  {
+   "id": "https://www.ccjdigital.com/16425606",
+   "title": "Data shows serial noncompliance behind majority of ELD revocations",
+   "url": "https://www.ccjdigital.com/technology/driver-management/article/16425606/data-shows-serial-noncompliance-behind-majority-of-eld-revocations",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation",
+    "Tech"
+   ],
+   "excerpt": "On the list of electronic logging devices (ELDs) revoked by the Federal Motor Carrier Safety Administration (FMCSA) Thursday, you will find 121 ELD names, but not 121 different providers. Sixty-five of the removed devices were distributed across 26 providers with two or more devices, leaving just…",
+   "published": "2026-11-15T20:47:00+00:00"
+  }
+ ]
 }
