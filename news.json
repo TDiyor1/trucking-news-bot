@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-16T16:50:04+00:00",
+ "updated": "2026-11-16T17:20:07+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/ata-report-eld-fraud-2026",
+   "title": "ATA proposes 6 steps to help FMCSA combat ELD fraud",
+   "url": "https://www.ttnews.com/articles/ata-report-eld-fraud-2026",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation",
+    "Fraud",
+    "Tech"
+   ],
+   "excerpt": "Those recommendations include requiring ELD vendors to have a verified U.S.-based presence and developing an independent certification program for devices.",
+   "published": "2026-11-16T17:04:00+00:00"
+  },
+  {
+   "id": "https://www.logisticsmgmt.com/article/october_freight_shipments_and_expenditures_see_continued_gains_reports_cass_freight_index_report",
+   "title": "October freight shipments and expenditures see continued gains, reports Cass Freight Index Report",
+   "url": "https://www.logisticsmgmt.com/article/october_freight_shipments_and_expenditures_see_continued_gains_reports_cass_freight_index_report",
+   "source": "Logistics Management",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "The October edition of the Cass Freight Index, which was issued today by Cass Freight Systems, saw annual gains, for both freight shipments and expenditures. Many freight transportation and logistics executives and analysts consider the Cass Freight Index to be the most accurate barometer of…",
+   "published": "2026-11-16T16:55:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586189",
+   "title": "October TL rates surge as shipment counts extend positive streak",
+   "url": "https://www.freightwaves.com/news/october-tl-rates-surge-as-shipment-counts-extend-positive-streak",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "Truckload rates were up big again in October with shipment counts extending a positive streak to three months, according to a Monday report from Cass Information Systems. The outsized rate gains are allowing one-way fleets to quickly repair margins, while fleets under dedicated arrangements have…",
+   "published": "2026-11-16T16:44:14+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=586194",
    "title": "UPS accident in Miami sidelines 767 freighter during busy shipping season",
@@ -113,6 +161,38 @@
    ],
    "excerpt": "Containerized imports through U.S ports reached a record 2.67 million twenty foot equivalent units (TEUs) in October, pushing volumes above the previous peak set during the pandemic-era surge. Rising shipments from China and a rebound at East and Gulf Coast ports fueled the record, according to…",
    "published": "2026-11-16T14:41:06+00:00"
+  },
+  {
+   "id": "https://www.logisticsmgmt.com/article/usps_is_set_to_make_fuel_surcharge_permanent_raise_parcel_prices_5.9_in_2027",
+   "title": "USPS is set to make fuel surcharge permanent, raise parcel prices 5.9% in 2027",
+   "url": "https://www.logisticsmgmt.com/article/usps_is_set_to_make_fuel_surcharge_permanent_raise_parcel_prices_5.9_in_2027",
+   "source": "Logistics Management",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Diesel"
+   ],
+   "excerpt": "The U.S. Postal Service wants to make its fuel surcharge permanent and raise it from 8% to 11% on Jan. 17. It also proposed raising rates by an average of 5.9% across four domestic package services, including Ground Advantage and Priority Mail. USPS filed notice of the changes with the Postal…",
+   "published": "2026-11-16T14:35:00+00:00"
+  },
+  {
+   "id": "https://www.logisticsmgmt.com/article/u.s_container_imports_break_a_four_year_volume_record_in_october_reports_descartes",
+   "title": "U.S. container imports break a four-year volume record in October, reports Descartes",
+   "url": "https://www.logisticsmgmt.com/article/u.s_container_imports_break_a_four_year_volume_record_in_october_reports_descartes",
+   "source": "Logistics Management",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tariffs",
+    "Ports/Rail"
+   ],
+   "excerpt": "U.S. container imports hit an all-time high in October as shipments from China rose for a fourth straight month. U.S. ports handled 2,674,808 twenty-foot equivalent units (TEUs), up 5% from September and 16% from a year earlier, according to Descartes’ November Global Shipping Report.",
+   "published": "2026-11-16T14:25:00+00:00"
   },
   {
    "id": "https://theloadstar.com/?p=328543",
@@ -1082,80 +1162,6 @@
    "tags": [],
    "excerpt": "LTL carrier XPO is now an investment-grade credit at one of the three major ratings agencies. Fitch Ratings has upgraded its rating on XPO (NYSE: XPO) to BBB-. That is one notch above the cutoff between investment-grade and non-investment grade debt. It comes just a few months after both Moody’s…",
    "published": "2026-11-12T13:19:10+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16425127",
-   "title": "Rate gains fall short as PAM Transport's Q3 loss grows",
-   "url": "https://www.ccjdigital.com/business/article/16425127/pam-transport-posts-thirdquarter-loss",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Rates",
-    "Diesel"
-   ],
-   "excerpt": "PAM Transport ( CCJ Top 250 , No. 55) reported a wider third-quarter net loss as higher fuel costs, increased expenses with hiring drivers and a sharp drop in used-equipment gains outweighed rate improvement. The truckload carrier posted a net loss of $8.1 million, or 38 cents per share, for the…",
-   "published": "2026-11-12T13:13:59+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585663",
-   "title": "ITF report ties part of retail’s $850B returns to freight",
-   "url": "https://www.freightwaves.com/news/itf-group-report-retail-returns-freight",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [],
-   "excerpt": "Returns are a big and costly ordeal. While a majority of retail focus on getting items to store shelves or doorsteps, what happens afterwards is increasingly becoming a top of mind issue for supply chain executives. To put things in context, consumers were expected to return $849.9 billion in…",
-   "published": "2026-11-12T13:00:00+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/bipartisan-push-possible-to-curb-trump-tariffs/874347/",
-   "title": "Bipartisan push possible to curb Trump tariffs",
-   "url": "https://www.supplychaindive.com/news/bipartisan-push-possible-to-curb-trump-tariffs/874347/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation",
-    "Tariffs"
-   ],
-   "excerpt": "Three bills in Congress would significantly restrict presidential tariff power if they become law, and experts say there's appetite for change in trade policy.",
-   "published": "2026-11-12T12:25:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585900",
-   "title": "Genesee & Wyoming prepares to split into three rail holding companies",
-   "url": "https://www.freightwaves.com/news/genesee-wyoming-prepares-to-split-into-three-rail-holding-companies",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Genesee & Wyoming Inc. is planning to separate into three rail holding companies, effective Jan. 1, 2027, a move that will position the regional entities for eventual sale. The companies will continue to be owned by G&W parent Brookfield and GIC . G&W operates more than 100 railroads.",
-   "published": "2026-11-12T11:08:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585939",
-   "title": "Intermodal leads U.S. rail traffic up 6.6% from a year ago",
-   "url": "https://www.freightwaves.com/news/intermodal-leads-u-s-rail-traffic-up-6-6-from-a-year-ago",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Rail traffic among U.S. carriers rose 6.6% in the week ending Nov. 7 compared with the same week a year ago, driven by an 11% increase in intermodal shipments, the Association of American Railroads said. Carloads increased 1.3% from a year earlier. Seven of the 10 commodity groups recorded gains,…",
-   "published": "2026-11-12T11:00:00+00:00"
   }
  ]
 }
