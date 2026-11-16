@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-16T22:20:23+00:00",
+ "updated": "2026-11-16T22:50:24+00:00",
  "items": [
+  {
+   "id": "https://www.dat.com/blog/?p=27737",
+   "title": "Flatbed Report: Rates hold at $2.60 as the load-to-truck ratio loosens from both sides",
+   "url": "https://www.dat.com/blog/flatbed-report-rates-hold-at-2-60-as-the-load-to-truck-ratio-loosens-from-both-sides",
+   "source": "DAT iQ",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Diesel"
+   ],
+   "excerpt": "Flatbed spot linehaul rates paid to carriers averaged $2.60 per mile last week, minus fuel, down 0.3%, or $0.01 per mile, from the week before. Rates climbed 31.4%, or $0.62 per mile, year over year and held 26.6%, or $0.55 per mile, above the nine-year seasonal average of $2.05 per mile, near the…",
+   "published": "2026-11-16T22:26:38+00:00"
+  },
   {
    "id": "https://www.dat.com/blog/?p=27734",
    "title": "Dry Van Report: October imports hit a record TEU as five big ports surge at once",
@@ -17,6 +33,21 @@
    ],
    "excerpt": "Dry van spot linehaul rates paid to carriers averaged $2.27 per mile last week, minus fuel, up 2.2%, or $0.05 per mile, from the week before. Rates climbed 35.8%, or $0.60 per mile, year over year and held 24.6%, or $0.45 per mile, above the nine-year seasonal average of $1.82 per mile, near the…",
    "published": "2026-11-16T22:09:16+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586325",
+   "title": "Meta pays Nevoya to put 25 electric trucks on I-10",
+   "url": "https://www.freightwaves.com/news/meta-nevoya-electric-trucks-i-10",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Rates",
+    "Tech"
+   ],
+   "excerpt": "Meta will buy environmental attribute certificates tied to 25 Nevoya battery-electric trucks on Interstate 10, a multi-year deal that gives the electric truckload carrier committed demand on a second freight lane. Nevoya, which announced the agreement Thursday, expects the Class 8 trucks to start…",
+   "published": "2026-11-16T22:04:10+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=586319",
@@ -1141,34 +1172,6 @@
    ],
    "excerpt": "The U.S. Postal Service is moving to raise and make permanent its fuel surcharge, which the agency introduced for the first time earlier this year.",
    "published": "2026-11-12T21:00:00+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104707",
-   "title": "Officials find tablet open to YouTube during fatal crash investigation",
-   "url": "https://landline.media/officials-find-tablet-open-to-youtube-during-fatal-crash-investigation/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Distracted driving by a trucker may have played a role in a fatal crash in Missouri. Here’s the latest on the investigation.",
-   "published": "2026-11-12T20:35:57+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585961",
-   "title": "Mexico truck exports soar 159% as production jumps 130% in October",
-   "url": "https://www.freightwaves.com/news/mexico-truck-exports-soar-159-as-production-jumps-130-in-october",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "Mexico’s heavy-duty truck manufacturing industry posted a sharp rebound in October, with production surging nearly 130% and exports jumping 159% compared with a year earlier, according to new government data. Mexican manufacturers produced 16,375 heavy-duty vehicles during October, a 129.6%…",
-   "published": "2026-11-12T19:03:15+00:00"
   }
  ]
 }
