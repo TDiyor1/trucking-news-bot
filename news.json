@@ -1,6 +1,81 @@
 {
- "updated": "2026-11-16T17:50:21+00:00",
+ "updated": "2026-11-16T18:20:08+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=586232",
+   "title": "New logistics firm linked to collapsed R&R transportation empire",
+   "url": "https://www.freightwaves.com/news/new-logistics-firm-linked-to-collapsed-rr-transportation-empire",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Capacity"
+   ],
+   "excerpt": "Members of the family behind the collapsed R&R Family of Companies are listed as executives of a newly established Pittsburgh-area logistics business, even as former R&R chief executive Richard Stephen Francis navigates personal Chapter 11 bankruptcy proceedings in Florida.",
+   "published": "2026-11-16T18:00:51+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/16541578",
+   "title": "ATA pushes for third-party certification in 6-step roadmap to combat ELD fraud",
+   "url": "https://www.ccjdigital.com/regulations/safety-compliance/article/16541578/eld-certification-roadmap-6-ways-to-stop-fraud-improve-safety",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation",
+    "Fraud",
+    "Tech"
+   ],
+   "excerpt": "Faced with surging safety threats tied to hours-of-service manipulation, the American Trucking Associations (ATA) is pressing federal regulators to overhaul the nation's electronic logging device system through mandatory third-party oversight and rigorous digital surveillance.",
+   "published": "2026-11-16T17:55:42+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/congressmen-eld-records",
+   "title": "Lawmakers Introduce Bill Targeting Overseas Tampering of ELDs",
+   "url": "https://www.ttnews.com/articles/congressmen-eld-records",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "“Foreign dispatchers should not be able to manipulate trucking safety records from halfway around the world,” said Rep. Greg Steube (R-Fla.).",
+   "published": "2026-11-16T17:51:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586219",
+   "title": "Union Pacific police in shootout after alleged train robbery on southern California freight line",
+   "url": "https://www.freightwaves.com/news/union-pacific-police-in-shootout-after-alleged-train-robbery-on-southern-california-freight-line",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Fraud",
+    "Ports/Rail"
+   ],
+   "excerpt": "Two men were arrested after a shooting involving Union Pacific Railroad Police investigating suspected cargo theft near the busy Tehachapi Loop on Nov. 12. No injuries were reported, according to the Kern County Sheriff’s Office and reported in local media.",
+   "published": "2026-11-16T17:32:43+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586210",
+   "title": "Small sellers rethink free shipping over USPS 11% fuel fee",
+   "url": "https://www.freightwaves.com/news/small-sellers-free-shipping-usps-fuel-surcharge",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Small online sellers are raising free-shipping minimums, charging for returns and absorbing higher label costs as the U.S. Postal Service moves to make its fuel surcharge permanent. USPS filed notice Nov. 12 to convert the 8% charge it added to package prices in April into an 11% fuel surcharge on…",
+   "published": "2026-11-16T17:09:09+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/ata-report-eld-fraud-2026",
    "title": "ATA proposes 6 steps to help FMCSA combat ELD fraud",
@@ -1089,79 +1164,6 @@
    "tags": [],
    "excerpt": "Trucking CEOs detailed how they expect pricing discipline strategy and current constraints on the supply of transportation firms to continue to hold in 2027.",
    "published": "2026-11-12T14:27:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585886",
-   "title": "US midterm shift adds trade uncertainty as trans-Pacific ocean freight rates stay elevated",
-   "url": "https://www.freightwaves.com/news/us-midterm-shift-adds-trade-uncertainty-as-trans-pacific-ocean-freight-rates-stay-elevated",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Rates",
-    "Regulation",
-    "Tariffs",
-    "Ports/Rail"
-   ],
-   "excerpt": "The Democratic sweep of both houses of Congress in last week’s U.S. midterm elections has introduced new uncertainty for trade and logistics, as container imports slow after an unusually long peak season. The political shift leaves the Trump administration facing competing pressures, says rate…",
-   "published": "2026-11-12T14:25:28+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/oil-prices-trump-no-iran-deal",
-   "title": "Oil prices rise after Trump says U.S. doesn't need Iran deal",
-   "url": "https://www.ttnews.com/articles/oil-prices-trump-no-iran-deal",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Brent crude, the international standard, rose 0.6% to $93.32 a barrel. Prices had eased earlier on signs of resurgent oil supplies from Saudi Arabia.",
-   "published": "2026-11-12T14:24:53+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585716",
-   "title": "Diesel 101: Why Truck Stop Diesel Is Still Above $6 a Gallon as Crude Falls",
-   "url": "https://www.freightwaves.com/news/diesel-101-why-truck-stop-diesel-is-still-above-6-a-gallon-as-crude-falls",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Rates",
-    "Diesel"
-   ],
-   "excerpt": "SONAR’s new sitrep traces diesel from crude to truck stop and explains why prices are holding near record highs, even as Brent drops. Diesel is expensive because refined product supply, not crude, is the bottleneck. Middle East and Russian refinery damage, longer tanker routes and thin U.S.…",
-   "published": "2026-11-12T14:24:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/trump-double-tariffs-mexico",
-   "title": "Trump threatens to double tariffs on Mexico over migrants",
-   "url": "https://www.ttnews.com/articles/trump-double-tariffs-mexico",
-   "source": "Transport Topics",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "It was not immediately clear what legal authority Trump has to double levies on imports following a Supreme Court decision earlier this year curtailing his tariff powers.",
-   "published": "2026-11-12T13:52:33+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585879",
-   "title": "One of 3 ratings agencies now has XPO as investment-grade",
-   "url": "https://www.freightwaves.com/news/one-of-3-ratings-agencies-now-has-xpo-as-investment-grade",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "LTL carrier XPO is now an investment-grade credit at one of the three major ratings agencies. Fitch Ratings has upgraded its rating on XPO (NYSE: XPO) to BBB-. That is one notch above the cutoff between investment-grade and non-investment grade debt. It comes just a few months after both Moody’s…",
-   "published": "2026-11-12T13:19:10+00:00"
   }
  ]
 }
