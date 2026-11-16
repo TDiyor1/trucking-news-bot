@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-16T05:35:37+00:00",
+ "updated": "2026-11-16T07:15:03+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16425694",
+   "title": "Fleets commit to hiring 13K vets through 'Freedom Haulers' program",
+   "url": "https://www.ccjdigital.com/workforce/article/16425694/fleets-commit-to-hiring-13k-vets-through-freedom-haulers-program",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "Trucking news and briefs for Monday, Nov. 16, 2026: FMCSA touts ‘Freedom Haulers’ progress Earlier this year, the Federal Motor Carrier Safety Administration launched a program it called “Freedom Haulers” to expedite the CDL credentialing process for military veterans with experience driving heavy…",
+   "published": "2026-11-16T06:55:00+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16425606",
    "title": "Data shows serial noncompliance behind majority of ELD revocations",
@@ -1139,21 +1153,6 @@
    "tags": [],
    "excerpt": "Driveline vibration or noise in a new truck? A Freightliner and Western Star recall may explain it. See what to check.",
    "published": "2026-11-11T19:36:12+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/air-cargos-hopes-for-end-of-year-volume-surge-dwindle/874430/",
-   "title": "Air cargo’s hopes for end-of-year volume surge dwindle",
-   "url": "https://www.supplychaindive.com/news/air-cargos-hopes-for-end-of-year-volume-surge-dwindle/874430/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Capacity"
-   ],
-   "excerpt": "Market growth remains steady, but pressured capacity and other traditional signals of a late burst in demand were lacking in October, Xeneta reported.",
-   "published": "2026-11-11T18:55:52+00:00"
   }
  ]
 }
