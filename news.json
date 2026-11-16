@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-16T21:50:22+00:00",
+ "updated": "2026-11-16T22:20:23+00:00",
  "items": [
+  {
+   "id": "https://www.dat.com/blog/?p=27734",
+   "title": "Dry Van Report: October imports hit a record TEU as five big ports surge at once",
+   "url": "https://www.dat.com/blog/dry-van-report-october-imports-hit-a-record-teu-as-five-big-ports-surge-at-once",
+   "source": "DAT iQ",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Diesel",
+    "Tariffs"
+   ],
+   "excerpt": "Dry van spot linehaul rates paid to carriers averaged $2.27 per mile last week, minus fuel, up 2.2%, or $0.05 per mile, from the week before. Rates climbed 35.8%, or $0.60 per mile, year over year and held 24.6%, or $0.45 per mile, above the nine-year seasonal average of $1.82 per mile, near the…",
+   "published": "2026-11-16T22:09:16+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=586319",
    "title": "Amazon workers’ union gets a contract, but it’s in Canada",
@@ -1152,22 +1169,6 @@
    ],
    "excerpt": "Mexico’s heavy-duty truck manufacturing industry posted a sharp rebound in October, with production surging nearly 130% and exports jumping 159% compared with a year earlier, according to new government data. Mexican manufacturers produced 16,375 heavy-duty vehicles during October, a 129.6%…",
    "published": "2026-11-12T19:03:15+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/california-ports-surge",
-   "title": "Southern California ports see continued surge of imports",
-   "url": "https://www.ttnews.com/articles/california-ports-surge",
-   "source": "Transport Topics",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs",
-    "Ports/Rail"
-   ],
-   "excerpt": "Combined imports at the Port of Los Angeles and the Port of Long Beach came in at 1,000,500 TEUs in October, just off September’s all-time high.",
-   "published": "2026-11-12T18:59:13+00:00"
   }
  ]
 }
