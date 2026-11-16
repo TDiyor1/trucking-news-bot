@@ -1,6 +1,65 @@
 {
- "updated": "2026-11-16T18:50:03+00:00",
+ "updated": "2026-11-16T19:20:24+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104757",
+   "title": "Second Circuit hands New York win over CDL dispute",
+   "url": "https://landline.media/second-circuit-hands-new-york-win-over-cdl-dispute/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "FMCSA announced it was withholding $73 million from New York for the way it issued CDLs. An appeals court has sided with New York.",
+   "published": "2026-11-16T19:13:02+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104746",
+   "title": "Hefty fine for a heavy load",
+   "url": "https://landline.media/hefty-fine-for-a-heavy-load/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "It’s a little hard to blend in behind the wheel of a 200,000-pound truck. One driver tested this theory anyway.",
+   "published": "2026-11-16T19:10:54+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104750",
+   "title": "Road Rumor: Did a trucker’s CB crash Microsoft?",
+   "url": "https://landline.media/road-rumor-did-a-truckers-cb-crash-microsoft/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Tech"
+   ],
+   "excerpt": "A trucker claims his CB-ELD wiring job crashed Microsoft and sent load board rates to $7.50 a mile. Only one of those is easy to believe.",
+   "published": "2026-11-16T19:09:58+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586024",
+   "title": "Q3 2026 Freight Earnings: Rates, Capacity and 2027 Bid Outlook",
+   "url": "https://www.freightwaves.com/news/q3-2026-freight-earnings-rates-capacity-and-2027-bid-outlook",
+   "source": "FreightWaves SONAR",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Capacity"
+   ],
+   "excerpt": "Q3 2026 Freight Earnings: What 74 Companies Told Us Rates turned, costs bit and capacity kept leaving. Here is what the Q3 2026 freight earnings season says about the market heading into the 2027 bid season. The short answer Q3 2026 freight earnings confirmed a supply-driven recovery : SONAR tender…",
+   "published": "2026-11-16T19:00:00+00:00"
+  },
   {
    "id": "https://landline.media/?p=104742",
    "title": "Lower fuel taxes? Truckers still face a catch",
@@ -1106,64 +1165,6 @@
    ],
    "excerpt": "Freight rates strengthened in the third quarter as capacity constraints and rising costs gave the trucking industry greater pricing power despite soft demand.",
    "published": "2026-11-12T17:38:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585921",
-   "title": "Trump threatens to double Mexico tariffs over alleged migrant influx",
-   "url": "https://www.freightwaves.com/news/trump-threatens-to-double-mexico-tariffs-over-alleged-migrant-influx",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "President Donald Trump threatened Thursday to immediately double tariffs on Mexican imports unless Mexico stops migrant caravans traveling toward the U.S. border, raising the prospect of another major disruption to North American trade and cross-border supply chains.",
-   "published": "2026-11-12T16:13:14+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/manufacturing-advocates-make-case-for-tariffs-following-midterm-results/874456/",
-   "title": "Manufacturing advocates make case for tariffs following midterm results",
-   "url": "https://www.supplychaindive.com/news/manufacturing-advocates-make-case-for-tariffs-following-midterm-results/874456/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "Although polls show the public is tired of import taxes, rolling back trade enforcement would be a “serious mistake,” per an Alliance for American Manufacturing report.",
-   "published": "2026-11-12T16:08:17+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585914",
-   "title": "BLET ends Wheeling & Lake Erie strike",
-   "url": "https://www.freightwaves.com/news/blet-ends-wheeling-lake-erie-strike",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "The Brotherhood of Locomotive Engineers and Trainmen said its November 11 strike against Wheeling & Lake Erie Railway was resolved after the railroad agreed to honor contractual protections and stop using managers in place of union conductors. In a statement issued that day, BLET National President…",
-   "published": "2026-11-12T15:39:34+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/forward-air-q3-operating-income-nearly-triples-yoy-to-44m/874063/",
-   "title": "Forward Air Q3 operating income nearly triples YoY to $44M",
-   "url": "https://www.truckingdive.com/news/forward-air-q3-operating-income-nearly-triples-yoy-to-44m/874063/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "The company expects more momentum from a new two-year deal with a major longstanding client, CEO Shawn Stewart said.",
-   "published": "2026-11-12T14:31:00+00:00"
   }
  ]
 }
