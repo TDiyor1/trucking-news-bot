@@ -1,6 +1,119 @@
 {
- "updated": "2026-11-16T07:15:03+00:00",
+ "updated": "2026-11-16T15:50:04+00:00",
  "items": [
+  {
+   "id": "https://www.supplychaindive.com/news/ai-backed-tools-power-reformations-inventory-management/874645/",
+   "title": "AI-backed tools power Reformation’s inventory management",
+   "url": "https://www.supplychaindive.com/news/ai-backed-tools-power-reformations-inventory-management/874645/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "The apparel company is leveraging the technology to monitor demand and make informed production decisions.",
+   "published": "2026-11-16T15:40:00+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/as-data-center-backlash-grows-a-model-law-aims-to-give-cities-more-control/874731/",
+   "title": "As data center backlash grows, a model law aims to give cities more control",
+   "url": "https://www.truckingdive.com/news/as-data-center-backlash-grows-a-model-law-aims-to-give-cities-more-control/874731/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Data centers “are moving faster and at a larger scale than most local codes were built to handle,” the executive director of the bipartisan network Climate Mayors said. Its model local law offers a framework for siting, permitting, transparency and community benefits.",
+   "published": "2026-11-16T15:37:00+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/nmfta-creates-cybersecurity-challenge-training-resource/874055/",
+   "title": "NMFTA creates cybersecurity challenge training resource",
+   "url": "https://www.truckingdive.com/news/nmfta-creates-cybersecurity-challenge-training-resource/874055/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "“It really helps to know how things get broken,” Senior Cybersecurity Research Engineer Ben Gardiner said.",
+   "published": "2026-11-16T15:28:00+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/diesel-falls-below-6-nov-16",
+   "title": "Diesel dips below $6 for first time since September",
+   "url": "https://www.ttnews.com/articles/diesel-falls-below-6-nov-16",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "U.S. retail diesel prices have dropped below $6 a gallon for the first time since early September, taking some pressure off a key inflationary input that has pushed other prices higher.",
+   "published": "2026-11-16T15:00:00+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/port-of-los-angeles-grapples-with-elevated-rail-dwell-times/874726/",
+   "title": "Port of Los Angeles grapples with elevated rail dwell times",
+   "url": "https://www.truckingdive.com/news/port-of-los-angeles-grapples-with-elevated-rail-dwell-times/874726/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Wait times for idle containers set for rail transport have reached over nine days, Executive Director Gene Seroka said.",
+   "published": "2026-11-16T14:49:00+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/kodiak-adds-camera-monitoring-system-to-its-autonomous-trucks/873748/",
+   "title": "Kodiak adds camera monitoring system to its autonomous trucks",
+   "url": "https://www.truckingdive.com/news/kodiak-adds-camera-monitoring-system-to-its-autonomous-trucks/873748/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Stoneridge’s MirrorEye uses exterior digital cameras in place of traditional mirrors on newly developed trucks equipped with the Kodiak Driver.",
+   "published": "2026-11-16T14:49:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586183",
+   "title": "U.S. container imports hit record 2.67 million TEUs in October as port delays rise",
+   "url": "https://www.freightwaves.com/news/u-s-container-imports-hit-record-2-67-million-teus-in-october-as-port-delays-rise",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tariffs",
+    "Ports/Rail"
+   ],
+   "excerpt": "Containerized imports through U.S ports reached a record 2.67 million twenty foot equivalent units (TEUs) in October, pushing volumes above the previous peak set during the pandemic-era surge. Rising shipments from China and a rebound at East and Gulf Coast ports fueled the record, according to…",
+   "published": "2026-11-16T14:41:06+00:00"
+  },
+  {
+   "id": "https://theloadstar.com/?p=328543",
+   "title": "Smaller US truckers buckling under as costs outpace rate gains",
+   "url": "https://theloadstar.com/smaller-us-truckers-buckling-under-as-costs-outpace-rate-gains/",
+   "source": "The Loadstar",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "As rising costs outpace rate increases, the pool of truckers in North America continues to shrink – and industry experts see no end to the bloodletting. The C-suites of large trucking firms are, however, upbeat on their prospects. Industry reports show a steady increase in casualties in the…",
+   "published": "2026-11-16T12:45:16+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16425694",
    "title": "Fleets commit to hiring 13K vets through 'Freedom Haulers' program",
@@ -1044,115 +1157,6 @@
    ],
    "excerpt": "Trucking news and briefs for Thursday, Nov. 12, 2026: Trucking conditions declined in September, but improvements expected Market conditions for trucking companies deteriorated modestly in September from August, largely due to record fuel costs and stagnating freight rates, according to FTR’s…",
    "published": "2026-11-12T07:48:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585847",
-   "title": "New cyber thief gang targets transports; Hunt, Ryder and Echo hit",
-   "url": "https://www.freightwaves.com/news/new-cyber-thief-gang-targets-transports-hunt-ryder-and-echo-hit",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Actions by a relatively new group of cybercriminals that have targeted many transportation companies in turn have led to lawsuits filed by employees of three big names that have gotten caught up in the crook’s web. The cyber criminals operate under the name Whitearmor.",
-   "published": "2026-11-12T01:59:44+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585861",
-   "title": "Why Owner-Operators Are Leaving The Small-Fleet Tier, And Where Their Trucks Go Next",
-   "url": "https://www.freightwaves.com/news/why-owner-operators-are-leaving-the-small-fleet-tier-and-where-their-trucks-go-next",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "For three and a half years the smallest tier of trucking has been quietly emptying out, with the number of tractors run by one-to-six-truck carriers sliding from a 2023 peak near 398,000 all the way back to about 362,000, and the easy explanation, that owner-operators are simply going out of…",
-   "published": "2026-11-11T22:48:14+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585850",
-   "title": "Freight distress persists as logistics layoffs top 1,000, bankruptcies mount",
-   "url": "https://www.freightwaves.com/news/freight-distress-persists-as-logistics-layoffs-top-1000-bankruptcies-mount",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Capacity"
-   ],
-   "excerpt": "Financial distress continues to ripple through the U.S. transportation and logistics industry, with more than 1,000 announced job cuts and a new round of bankruptcy filings involving trucking companies , warehouse operators and freight-related businesses .",
-   "published": "2026-11-11T22:20:40+00:00"
-  },
-  {
-   "id": "https://www.dcvelocity.com/supply-chain/other-services/global-logistics/u-s-container-imports-hit-record-volume-in-october",
-   "title": "U.S. container imports hit record volume in October",
-   "url": "https://www.dcvelocity.com/supply-chain/other-services/global-logistics/u-s-container-imports-hit-record-volume-in-october",
-   "source": "DC Velocity",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs",
-    "Ports/Rail"
-   ],
-   "excerpt": "U.S. container imports hit record volume in October, reaching an all-time high of 2,674,808 twenty-foot equivalent units (TEUs), according to a report from Descartes Systems group. Much of that increase came from China, as U.S. imports from China rose for a fourth consecutive month to 987,805 TEUs…",
-   "published": "2026-11-11T20:43:36+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104689",
-   "title": "Diesel prices dip slightly, but is more relief on its way?",
-   "url": "https://landline.media/diesel-prices-dip-slightly-but-is-more-relief-on-its-way/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Are we finally starting to see some relief from the record-high diesel prices that have devastated truckers for the past two months?",
-   "published": "2026-11-11T20:04:37+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104674",
-   "title": "Hauling livestock in the Southwest? Screwworm cases are on the rise.",
-   "url": "https://landline.media/hauling-livestock-in-the-southwest-screwworm-cases-are-on-the-rise/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Hauling livestock? Screwworm cases are rising, and some states now want extra paperwork. See what drivers need before heading out.",
-   "published": "2026-11-11T20:02:26+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104670",
-   "title": "Truckers need every dollar. States just changed the rules",
-   "url": "https://landline.media/truckers-need-every-dollar-states-just-changed-the-rules/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Truckers already face rising costs for fuel, tires and repairs. New state income tax rules could change how much money they get to keep.",
-   "published": "2026-11-11T20:01:28+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104677",
-   "title": "New Freightliner or Western Star? Check your VIN for this recall",
-   "url": "https://landline.media/new-freightliner-or-western-star-check-your-vin-for-this-recall/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Driveline vibration or noise in a new truck? A Freightliner and Western Star recall may explain it. See what to check.",
-   "published": "2026-11-11T19:36:12+00:00"
   }
  ]
 }
