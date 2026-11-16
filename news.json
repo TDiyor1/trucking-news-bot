@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-16T16:19:51+00:00",
+ "updated": "2026-11-16T16:50:04+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=586194",
+   "title": "UPS accident in Miami sidelines 767 freighter during busy shipping season",
+   "url": "https://www.freightwaves.com/news/ups-accident-in-miami-sidelines-767-freighter-during-busy-shipping-season",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "United Parcel Service has to temporarily replace a Boeing 767-300 freighter aircraft after sustaining damage when it was struck by the wing tip of a passenger plane during taxiing at Miami International Airport, complicating planning and operations with the peak season underway and volumes surging.…",
+   "published": "2026-11-16T16:16:51+00:00"
+  },
   {
    "id": "https://www.supplychaindive.com/news/ai-backed-tools-power-reformations-inventory-management/874645/",
    "title": "AI-backed tools power Reformation’s inventory management",
@@ -1142,21 +1156,6 @@
    ],
    "excerpt": "Rail traffic among U.S. carriers rose 6.6% in the week ending Nov. 7 compared with the same week a year ago, driven by an 11% increase in intermodal shipments, the Association of American Railroads said. Carloads increased 1.3% from a year earlier. Seven of the 10 commodity groups recorded gains,…",
    "published": "2026-11-12T11:00:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16425159",
-   "title": "Trucking conditions deteriorated in September with fuel's spike",
-   "url": "https://www.ccjdigital.com/economic-trends/article/16425159/trucking-conditions-deteriorated-in-september-with-fuels-spike",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Rates",
-    "Diesel"
-   ],
-   "excerpt": "Trucking news and briefs for Thursday, Nov. 12, 2026: Trucking conditions declined in September, but improvements expected Market conditions for trucking companies deteriorated modestly in September from August, largely due to record fuel costs and stagnating freight rates, according to FTR’s…",
-   "published": "2026-11-12T07:48:00+00:00"
   }
  ]
 }
