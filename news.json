@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-16T18:20:08+00:00",
+ "updated": "2026-11-16T18:50:03+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104742",
+   "title": "Lower fuel taxes? Truckers still face a catch",
+   "url": "https://landline.media/lower-fuel-taxes-truckers-still-face-a-catch/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "States are cutting or considering fuel tax cuts, but not every break covers diesel. Here’s what truckers could save and what catches remain.",
+   "published": "2026-11-16T18:35:42+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=586232",
    "title": "New logistics firm linked to collapsed R&R transportation empire",
@@ -1150,20 +1164,6 @@
    "tags": [],
    "excerpt": "The company expects more momentum from a new two-year deal with a major longstanding client, CEO Shawn Stewart said.",
    "published": "2026-11-12T14:31:00+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/7-trucking-execs-weigh-in-on-2027-market-and-business-conditions/874201/",
-   "title": "7 trucking execs weigh in on 2027 market and business conditions",
-   "url": "https://www.truckingdive.com/news/7-trucking-execs-weigh-in-on-2027-market-and-business-conditions/874201/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Trucking CEOs detailed how they expect pricing discipline strategy and current constraints on the supply of transportation firms to continue to hold in 2027.",
-   "published": "2026-11-12T14:27:00+00:00"
   }
  ]
 }
