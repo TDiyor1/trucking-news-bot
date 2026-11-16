@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-16T21:20:17+00:00",
+ "updated": "2026-11-16T21:50:22+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=586319",
+   "title": "Amazon workers’ union gets a contract, but it’s in Canada",
+   "url": "https://www.freightwaves.com/news/amazon-workers-union-gets-a-contract-but-its-in-canada",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "Amazon has its first deal with a union in North America, but it came from a top-down process in a Canadian province, rather than traditional collective bargaining. The Amazon view of what happened for its workers at a Delta, British Columbia fulfillment center, a Vancouver suburb, was stark.",
+   "published": "2026-11-16T21:15:20+00:00"
+  },
   {
    "id": "https://joc.com/article/eld-bans-to-pile-more-pressure-on-us-truck-capacity-6324588",
    "title": "ELD bans to pile more pressure on US truck capacity",
@@ -118,6 +133,21 @@
    ],
    "excerpt": "States are cutting or considering fuel tax cuts, but not every break covers diesel. Here’s what truckers could save and what catches remain.",
    "published": "2026-11-16T18:35:42+00:00"
+  },
+  {
+   "id": "https://www.logisticsmgmt.com/article/ftr_trucking_conditions_index_remains_on_a_solid_growth_track",
+   "title": "FTR Trucking Conditions Index remains on a solid growth track",
+   "url": "https://www.logisticsmgmt.com/article/ftr_trucking_conditions_index_remains_on_a_solid_growth_track",
+   "source": "Logistics Management",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "The new edition of the Trucking Conditions Index, which was recently issued by FTR, again turned in a positive reading, at a reduced rate. According to FTR, a TCI reading above zero represents an adequate trucking environment, with readings above 10 indicating that volumes, prices and margin are in…",
+   "published": "2026-11-16T18:27:00+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=586232",
@@ -1138,32 +1168,6 @@
    ],
    "excerpt": "Combined imports at the Port of Los Angeles and the Port of Long Beach came in at 1,000,500 TEUs in October, just off September’s all-time high.",
    "published": "2026-11-12T18:59:13+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104700",
-   "title": "‘It’s a lifeline’: What Truckers For Troops means to those serving",
-   "url": "https://landline.media/its-a-lifeline-what-truckers-for-troops-means-to-those-serving/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "A box arrives far from home. What’s inside matters, but who remembered matters more. Veterans share why Truckers For Troops hits home.",
-   "published": "2026-11-12T18:39:24+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104696",
-   "title": "New lights, cameras and rules target work-zone dangers",
-   "url": "https://landline.media/new-lights-cameras-and-rules-target-work-zone-dangers/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Pennsylvania is targeting work-zone dangers with driver training, ticket cameras and brighter warning lights. Here’s what truckers need to know.",
-   "published": "2026-11-12T18:28:05+00:00"
   }
  ]
 }
