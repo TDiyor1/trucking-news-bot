@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-17T16:04:44+00:00",
+ "updated": "2026-11-17T16:34:48+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=586359",
+   "title": "SONAR Pricing Power Index Falls to 68 as Truckload Demand Weakens",
+   "url": "https://www.freightwaves.com/news/sonar-pricing-power-index-falls-to-68-as-truckload-demand-weakens",
+   "source": "FreightWaves SONAR",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Ports/Rail"
+   ],
+   "excerpt": "Accepted truckload volume gave back its recent gains and fell to the 13th percentile, intermodal contract rates dropped to the 65th percentile and ocean bookings declined for a second straight week. Rail volume held near its five-year high, the national spot rate firmed to $3.56 and rejections…",
+   "published": "2026-11-17T15:59:57+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586353",
+   "title": "Oil market slide brings benchmark diesel under $6 level",
+   "url": "https://www.freightwaves.com/news/oil-market-slide-brings-benchmark-diesel-under-6-level",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Oil prices are in the middle of their biggest downturn since the military action by the U.S. and Israel began at the start of March, and the benchmark price used for most fuel surcharges is trying to keep up. The Department of Energy/Energy Information Administration average retail diesel price…",
+   "published": "2026-11-17T15:50:51+00:00"
+  },
   {
    "id": "https://www.truckingdive.com/news/truckload-carriers-compete-over-drivers-but-not-just-with-money/874713/",
    "title": "Truckload carriers compete over drivers — but not just with money",
@@ -1151,35 +1181,6 @@
    "tags": [],
    "excerpt": "Cargojet credited new strategic initiatives involving the integration of the Canadian overnight network with international operations and introduction of more scheduled charter services, which improved asset utilization, for propelling the company to record third-quarter revenue and operating…",
    "published": "2026-11-13T14:20:58+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585992",
-   "title": "Record October as Los Angeles tops 1 Million TEUs for second straight month",
-   "url": "https://www.freightwaves.com/news/record-october-as-los-angeles-tops-1-million-teus-for-second-straight-month",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "The Port of Los Angeles recorded its busiest October ever, handling 1,026,872 twenty-foot equivalent units, or TEUs, and surpassing 1 million TEUs for the second consecutive month for the first time in its history. October’s total was the second-highest monthly volume ever at the nation’s busiest…",
-   "published": "2026-11-13T14:08:21+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/canada-threat-sue-stellantis",
-   "title": "Canada threatens to sue Stellantis over auto plant sale",
-   "url": "https://www.ttnews.com/articles/canada-threat-sue-stellantis",
-   "source": "Transport Topics",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "Industry Minister Mélanie Joly said Ottawa had issued Stellantis a formal notice alleging breaches of its funding agreement, giving the automaker 30 days to address the violations or face legal action.",
-   "published": "2026-11-13T14:07:49+00:00"
   }
  ]
 }
