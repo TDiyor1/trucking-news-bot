@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-17T09:10:00+00:00",
+ "updated": "2026-11-17T13:55:01+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/oil-prices-vessel-attacks",
+   "title": "Oil prices swing as vessel attacks reported around Hormuz",
+   "url": "https://www.ttnews.com/articles/oil-prices-vessel-attacks",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Brent crude, the international standard, fell 49 cents to $92.93 a barrel. While Brent is up more than 50% this year, the global benchmark has slid from a six-month high set in late October.",
+   "published": "2026-11-17T13:10:06+00:00"
+  },
+  {
+   "id": "https://theloadstar.com/?p=328669",
+   "title": "Korean Air maximises Americas capacity as AI cargo adds to peak pressure",
+   "url": "https://theloadstar.com/korean-air-maximises-americas-capacity-as-ai-cargo-adds-to-peak-pressure/",
+   "source": "The Loadstar",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Capacity",
+    "Tech"
+   ],
+   "excerpt": "Korean Air is maximising its Asia-Americas cargo capacity, as year-round demand for AI infrastructure overlaps traditional peak-season shipments, keeping the pressure on transpacific space even as global weekly volumes soften. Jaedong Eum, EVP and head of the carrier’s Cargo Business division, told…",
+   "published": "2026-11-17T12:33:52+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/16541735",
+   "title": "Safer highways should be a bipartisan priority",
+   "url": "https://www.ccjdigital.com/perspectives/article/16541735/truckload-carriers-association-outlines-fmcsa-reform-strategy",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Rates",
+    "Regulation"
+   ],
+   "excerpt": "Highway safety isn't a Republican issue or a Democratic issue . It's something we should all agree on. And as Congress looks ahead to the next legislative session, modernizing the Federal Motor Carrier Safety Administration (FMCSA) presents an opportunity to turn that shared commitment into…",
+   "published": "2026-11-17T11:45:59+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16541707",
    "title": "Driveshaft recall hits Daimler, Paccar trucks",
@@ -1134,49 +1178,6 @@
    ],
    "excerpt": "Evergreen Marine reported after-tax net profit of $2.16 billion for the first nine months of 2026, up 18.13% from a year earlier, as a strong third quarter boosted the Taiwanese container carrier’s earnings. The world’s seventh-largest liner said consolidated revenue for January through September…",
    "published": "2026-11-13T11:40:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16425496",
-   "title": "Trucking company faces charges for alleged cabotage",
-   "url": "https://www.ccjdigital.com/regulations/article/16425496/trucking-company-faces-charges-for-alleged-cabotage",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Trucking news and briefs for Friday, Nov. 13, 2026: Trucking company owner charged for allegedly employing unauthorized immigrants, cabotage violations A Texas-based trucking company owner has been indicted for allegedly employing unauthorized drivers to transport domestic freight.",
-   "published": "2026-11-13T06:50:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16425506",
-   "title": "FMCSA boots 133 ELD off registry in fraud crackdown",
-   "url": "https://www.ccjdigital.com/regulations/safety-compliance/article/16425506/dot-crackdown-133-electronic-logging-devices-revoked-by-fmcsa",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation",
-    "Fraud",
-    "Tech"
-   ],
-   "excerpt": "Federal Motor Carrier Safety Administration (FMCSA) on Thursday removed 133 electronic logging devices from its registry Thursday in a crackdown aimed at stopping fraud and enforcing highway safety rules. U.S. Department of Transportation Secretary Sean Duffy said the swept devices include 121…",
-   "published": "2026-11-12T23:28:50+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/us-budget-deficit-up-october",
-   "title": "U.S. budget deficit up 42% in October; tariff revenue dips 39%",
-   "url": "https://www.ttnews.com/articles/us-budget-deficit-up-october",
-   "source": "Transport Topics",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "The U.S. budget gap widened to $404 billion in October, up 42% from the same period a year earlier, Treasury Department data showed Nov. 12.",
-   "published": "2026-11-12T21:40:12+00:00"
   }
  ]
 }
