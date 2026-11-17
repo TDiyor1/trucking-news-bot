@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-17T13:55:01+00:00",
+ "updated": "2026-11-17T15:34:42+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=586341",
+   "title": "Truck Parking Club hands CPC 7 drop yards in two months",
+   "url": "https://www.freightwaves.com/news/truck-parking-club-cpc-drop-yards",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [],
+   "excerpt": "CPC Fleet Solutions used to spend one to two months finding a single drop yard for its private fleets. Through Truck Parking Club’s Fleet Parking service, it secured seven yards for 47 power units and more than 120 trailers in two months, Truck Parking Club said in a Nov. 12 release.",
+   "published": "2026-11-17T14:18:46+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=585831",
+   "title": "Shippers Are Finally Ready to Fix the Supply Chain Behind the Freight Bill",
+   "url": "https://www.freightwaves.com/news/shippers-are-finally-ready-to-fix-the-supply-chain-behind-the-freight-bill",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Regulation",
+    "Tariffs"
+   ],
+   "excerpt": "For much of the past three years, freight was cheap enough to ignore. Shippers could lean on the spot market, push problems downstream, and skip the hard conversations about how their networks were built. That window has closed. As shippers finalize 2027 budgets, climbing transportation costs,…",
+   "published": "2026-11-17T14:05:00+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/gas-pump-price-8-month-low",
+   "title": "Gas pump price hits 8-month low to ease inflation worries",
+   "url": "https://www.ttnews.com/articles/gas-pump-price-8-month-low",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "National regular unleaded gasoline dropped to an average $3.78 a gallon, according to AAA. Global oil prices have slid in recent weeks on increased flows from the Persian Gulf.",
+   "published": "2026-11-17T13:41:05+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/oil-prices-vessel-attacks",
    "title": "Oil prices swing as vessel attacks reported around Hormuz",
@@ -1134,50 +1178,6 @@
    ],
    "excerpt": "The U.S. Coast Guard said the cargo vessel is currently moored at a Kinder Morgan facility in Bristol, Pa., where an inspection team is on site.",
    "published": "2026-11-13T13:42:05+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16425477",
-   "title": "Industry grapples with defining 'safe' carrier",
-   "url": "https://www.ccjdigital.com/regulations/government-affairs/article/16425477/industry-grapples-with-defining-safe-carrier",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "The Mississippi Senate race has finally been called by the Associated Press, landing the Democrats with another seat, while results in Alaska are still undetermined. While the reality is Democrats will control Congress in January , many efforts surrounding trucking regulation remain bipartisan as…",
-   "published": "2026-11-13T11:51:16+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=328434",
-   "title": "Democrat success may mean more trade stability, but alongside tariffs",
-   "url": "https://theloadstar.com/democrat-success-may-mean-more-trade-stability-but-alongside-tariffs/",
-   "source": "The Loadstar",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "Following the Democrats’ midterm US election victories, freight forwarders and importers could face greater stability in trade policy, but little immediate relief from existing duties. Nunzio De Filipis, co-CEO of CargoTrans, told The Loadstar Podcast the election result could slow the pace of…",
-   "published": "2026-11-13T11:41:07+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586046",
-   "title": "Evergreen Marine nine-month profit up 18% to $2.16 billion",
-   "url": "https://www.freightwaves.com/news/evergreen-marine-nine-month-profit-up-18-to-2-16-billion",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Evergreen Marine reported after-tax net profit of $2.16 billion for the first nine months of 2026, up 18.13% from a year earlier, as a strong third quarter boosted the Taiwanese container carrier’s earnings. The world’s seventh-largest liner said consolidated revenue for January through September…",
-   "published": "2026-11-13T11:40:00+00:00"
   }
  ]
 }
