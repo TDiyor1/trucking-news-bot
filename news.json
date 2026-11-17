@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-17T01:03:35+00:00",
+ "updated": "2026-11-17T09:10:00+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16541707",
+   "title": "Driveshaft recall hits Daimler, Paccar trucks",
+   "url": "https://www.ccjdigital.com/maintenance/article/16541707/driveshaft-recall-hits-daimler-paccar-trucks",
+   "source": "CCJ",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Trucking news and briefs for Tuesday, Nov. 17, 2026: Cummins driveline issue prompts Daimler, Paccar recalls An issue with certain driveshafts from Cummins-Meritor has resulted in the recall of more than 3,800 Freightliner and Western Star trucks and nearly 1,000 Kenworth units.",
+   "published": "2026-11-17T06:02:00+00:00"
+  },
   {
    "id": "https://www.dat.com/blog/?p=27740",
    "title": "Reefer Report: Rates edge up ahead of Thanksgiving as truck supply grows",
@@ -1163,21 +1177,6 @@
    ],
    "excerpt": "The U.S. budget gap widened to $404 billion in October, up 42% from the same period a year earlier, Treasury Department data showed Nov. 12.",
    "published": "2026-11-12T21:40:12+00:00"
-  },
-  {
-   "id": "https://www.dat.com/blog/?p=27730",
-   "title": "Reefer Produce Report: Produce volume drops 17%, but rates stay well above last year",
-   "url": "https://www.dat.com/blog/reefer-produce-report-produce-volume-drops-17-but-rates-stay-well-above-last-year",
-   "source": "DAT iQ",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "National refrigerated produce volume fell 17% week over week and is down 17% year over year, according to USDA data for the week ending Nov. 10. Rates did not follow it down. Reefer spot linehaul rates paid to carriers averaged $2.77 per mile last week, minus fuel, up 3.3% from the week before and…",
-   "published": "2026-11-12T21:36:56+00:00"
   }
  ]
 }
