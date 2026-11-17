@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-17T16:34:48+00:00",
+ "updated": "2026-11-17T17:04:48+00:00",
  "items": [
+  {
+   "id": "https://www.truckingdive.com/news/new-york-state-fends-off-federal-move-to-withhold-highway-funding/874822/",
+   "title": "New York state fends off federal move to withhold highway funding",
+   "url": "https://www.truckingdive.com/news/new-york-state-fends-off-federal-move-to-withhold-highway-funding/874822/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "A federal appeals court ruled against the federal government, concluding an FMCSA noncompliance determination was improper regarding non-domiciled CDLs and commercial learner permits.",
+   "published": "2026-11-17T16:48:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586363",
+   "title": "Red Sea overcapacity looms as ocean container spot rates still 50% above year-ago",
+   "url": "https://www.freightwaves.com/news/red-sea-overcapacity-looms-as-ocean-container-spot-rates-still-50-above-year-ago",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Capacity",
+    "Ports/Rail"
+   ],
+   "excerpt": "Ocean container freight rates remained elevated on major east-west trade lanes, even as container carriers’ growing return to the Red Sea and an expanding global fleet raised the prospect of downward pressure on prices in 2027. Asia-Europe prices were broadly stable for the week ending Nov.",
+   "published": "2026-11-17T16:28:34+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=586359",
    "title": "SONAR Pricing Power Index Falls to 68 as Truckload Demand Weakens",
@@ -1151,36 +1183,6 @@
    ],
    "excerpt": "An expansion with drone operator Zipline will allow the retailer to make rapid air delivery available to customers nationwide over the next several years.",
    "published": "2026-11-13T14:37:21+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/usps-readies-2027-rate-increase-permanent-fuel-surcharge/874524/",
-   "title": "USPS readies 2027 rate increase, permanent fuel surcharge",
-   "url": "https://www.supplychaindive.com/news/usps-readies-2027-rate-increase-permanent-fuel-surcharge/874524/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Diesel"
-   ],
-   "excerpt": "The agency plans to increase prices by 5.9% on average for services like USPS Ground Advantage and Priority Mail in January.",
-   "published": "2026-11-13T14:26:13+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585995",
-   "title": "Cargojet fleet optimization boosts productivity, fuels record Q3 revenue",
-   "url": "https://www.freightwaves.com/news/cargojet-fleet-optimization-boosts-productivity-fuels-record-q3-revenue",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [],
-   "excerpt": "Cargojet credited new strategic initiatives involving the integration of the Canadian overnight network with international operations and introduction of more scheduled charter services, which improved asset utilization, for propelling the company to record third-quarter revenue and operating…",
-   "published": "2026-11-13T14:20:58+00:00"
   }
  ]
 }
