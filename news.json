@@ -1,6 +1,49 @@
 {
- "updated": "2026-11-17T19:04:55+00:00",
+ "updated": "2026-11-17T19:35:06+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104766",
+   "title": "Eyes on the road: New bill aims to tackle CDL fraud",
+   "url": "https://landline.media/eyes-on-the-road-new-bill-aims-to-tackle-cdl-fraud/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation",
+    "Fraud"
+   ],
+   "excerpt": "Truckers are in a unique position to spot CDL fraud. A new bill aims to provide a permanent way for their concerns to be heard.",
+   "published": "2026-11-17T19:32:57+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104769",
+   "title": "Kenworth joins growing recall over Meritor drivelines",
+   "url": "https://landline.media/kenworth-joins-growing-recall-over-meritor-drivelines/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Unusual vibration or noise in your new Kenworth? A defect affecting several models could have serious consequences.",
+   "published": "2026-11-17T19:31:27+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104762",
+   "title": "Pennsylvania clears a roadblock to fixing local bridges",
+   "url": "https://landline.media/pennsylvania-clears-a-roadblock-to-fixing-local-bridges/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "A new Pennsylvania law lets counties use existing state funds to repair town- and city-owned bridges. Could more local bridges get fixed?",
+   "published": "2026-11-17T19:30:49+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=586379",
    "title": "Maersk and Hapag-Lloyd restore Asia-Europe Suez routes as U.S. shippers watch capacity and costs",
@@ -139,6 +182,34 @@
    ],
    "excerpt": "Carney said in Manila, Philippines, that any trade agreement with Washington must leave Canada with a viable auto industry.",
    "published": "2026-11-17T15:34:38+00:00"
+  },
+  {
+   "id": "https://www.logisticsmgmt.com/article/national_diesel_average_falls_below_the_6_per_gallon_mark_for_first_time_since_mid_september",
+   "title": "National diesel average falls below the $6 per gallon mark for first time since mid-September",
+   "url": "https://www.logisticsmgmt.com/article/national_diesel_average_falls_below_the_6_per_gallon_mark_for_first_time_since_mid_september",
+   "source": "Logistics Management",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "The national average price per gallon of diesel gasoline declined for the third consecutive week, according to data issued today by the Department of Energy’s Energy Information Administration (EIA). For the week of November 16, the national average price per gallon, at $5.937, dropped $0.19, its…",
+   "published": "2026-11-17T15:32:00+00:00"
+  },
+  {
+   "id": "https://www.logisticsmgmt.com/article/intermodal_volumes_maintain_strong_momentum_heading_toward_year_end_iana_index_shows",
+   "title": "Intermodal volumes maintain strong momentum heading toward year-end, IANA index shows",
+   "url": "https://www.logisticsmgmt.com/article/intermodal_volumes_maintain_strong_momentum_heading_toward_year_end_iana_index_shows",
+   "source": "Logistics Management",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Intermodal momentum remains remain strong, as 2026 continues on its home stretch, according to the new edition of the Intermodal Volume Index (IVI), which was recently issued this by the Intermodal Association of North America (IANA). The North America IVI made its debut in May, with IANA…",
+   "published": "2026-11-17T14:54:00+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=586341",
@@ -1115,77 +1186,6 @@
    ],
    "excerpt": "Wait times for idle containers set for rail transport have reached over nine days, Executive Director Gene Seroka said.",
    "published": "2026-11-13T16:04:00+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/jd-sports-leverages-tech-for-faster-replenishment/874427/",
-   "title": "JD Sports leverages tech for faster replenishment",
-   "url": "https://www.supplychaindive.com/news/jd-sports-leverages-tech-for-faster-replenishment/874427/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "The sportswear retailer is partnering with Zebra to gain real-time inventory visibility across its omnichannel operations, citing 98% on-shelf availability.",
-   "published": "2026-11-13T15:55:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/port-authority-ny-nj-budget",
-   "title": "Port Authority of N.Y.-N.J. proposes $10.3 billion budget",
-   "url": "https://www.ttnews.com/articles/port-authority-ny-nj-budget",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "The Port Authority expects to issue $1.1 billion in new bonds to help fund the budget, while proposing no new toll, fare or fee adjustments.",
-   "published": "2026-11-13T15:45:53+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586005",
-   "title": "White House to extend Jones Act waiver as deadline nears, sources say",
-   "url": "https://www.freightwaves.com/news/white-house-to-extend-jones-act-waiver-as-deadline-nears-sources-say",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "The Trump administration is weighing another controversial extension of a temporary Jones Act waiver ahead of its Sunday expiration, potentially preserving a shipping option intended to ease fuel transportation constraints and help contain costs. Sources who spoke on the condition of anonymity tell…",
-   "published": "2026-11-13T15:02:13+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/3-trucking-businesses-go-bankrupt-in-california-illinois-and-maryland/874391/",
-   "title": "3 trucking businesses go bankrupt in California, Illinois and Maryland",
-   "url": "https://www.truckingdive.com/news/3-trucking-businesses-go-bankrupt-in-california-illinois-and-maryland/874391/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Capacity"
-   ],
-   "excerpt": "Road King Transport, Jared Lyons Trucking and Silk Route Transportation all reported repayment issues with equipment lenders.",
-   "published": "2026-11-13T15:02:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586011",
-   "title": "FMCSA revokes 133 electronic logging devices in fraud crackdown",
-   "url": "https://www.freightwaves.com/news/fmcsa-revokes-133-electronic-logging-devices-in-fraud-crackdown",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation",
-    "Fraud"
-   ],
-   "excerpt": "The Federal Motor Carrier Safety Administration has removed 133 electronic logging devices from its registry, citing widespread compliance failures and evidence that some systems were being used to falsify truck drivers’ hours-of-service records. The enforcement action, announced Thursday by…",
-   "published": "2026-11-13T15:00:12+00:00"
   }
  ]
 }
