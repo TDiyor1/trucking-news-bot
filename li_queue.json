@@ -1,4 +1,36 @@
 {
  "last_digest": "2026-11-17",
- "queue": []
+ "queue": [
+  {
+   "id": "https://www.ttnews.com/articles/carney-canada-chinese-autos",
+   "title": "Carney says Canada could turn to Chinese automakers",
+   "url": "https://www.ttnews.com/articles/carney-canada-chinese-autos",
+   "source": "Transport Topics",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs",
+    "Ports/Rail"
+   ],
+   "excerpt": "Carney said in Manila, Philippines, that any trade agreement with Washington must leave Canada with a viable auto industry.",
+   "published": "2026-11-17T15:34:38+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/truckload-carriers-compete-over-drivers-but-not-just-with-money/874713/",
+   "title": "Truckload carriers compete over drivers — but not just with money",
+   "url": "https://www.truckingdive.com/news/truckload-carriers-compete-over-drivers-but-not-just-with-money/874713/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Rates",
+    "Capacity"
+   ],
+   "excerpt": "Executives recently shared growth priorities for how they are building safe, reliable capacity amid rising costs to recruit and retain drivers.",
+   "published": "2026-11-17T15:39:00+00:00"
+  }
+ ]
 }

@@ -1,6 +1,37 @@
 {
- "updated": "2026-11-17T15:34:42+00:00",
+ "updated": "2026-11-17T16:04:44+00:00",
  "items": [
+  {
+   "id": "https://www.truckingdive.com/news/truckload-carriers-compete-over-drivers-but-not-just-with-money/874713/",
+   "title": "Truckload carriers compete over drivers — but not just with money",
+   "url": "https://www.truckingdive.com/news/truckload-carriers-compete-over-drivers-but-not-just-with-money/874713/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Rates",
+    "Capacity"
+   ],
+   "excerpt": "Executives recently shared growth priorities for how they are building safe, reliable capacity amid rising costs to recruit and retain drivers.",
+   "published": "2026-11-17T15:39:00+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/carney-canada-chinese-autos",
+   "title": "Carney says Canada could turn to Chinese automakers",
+   "url": "https://www.ttnews.com/articles/carney-canada-chinese-autos",
+   "source": "Transport Topics",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs",
+    "Ports/Rail"
+   ],
+   "excerpt": "Carney said in Manila, Philippines, that any trade agreement with Washington must leave Canada with a viable auto industry.",
+   "published": "2026-11-17T15:34:38+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=586341",
    "title": "Truck Parking Club hands CPC 7 drop yards in two months",
@@ -1149,35 +1180,6 @@
    ],
    "excerpt": "Industry Minister Mélanie Joly said Ottawa had issued Stellantis a formal notice alleging breaches of its funding agreement, giving the automaker 30 days to address the violations or face legal action.",
    "published": "2026-11-13T14:07:49+00:00"
-  },
-  {
-   "id": "https://www.freightcaviar.com/stories/fmcsa-record-eld-crackdown",
-   "title": "🎣 Biggest ELD Crackdown Ever",
-   "url": "https://www.freightcaviar.com/stories/fmcsa-record-eld-crackdown",
-   "source": "Freight Caviar",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation",
-    "Tech"
-   ],
-   "excerpt": "FMCSA pulls 133 ELDs after investigators find providers falsifying driving logs and rest periods.",
-   "published": "2026-11-13T13:55:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/cargo-ship-strikes-bridge",
-   "title": "Cargo ship strikes bridge between New Jersey, Philadelphia",
-   "url": "https://www.ttnews.com/articles/cargo-ship-strikes-bridge",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "The U.S. Coast Guard said the cargo vessel is currently moored at a Kinder Morgan facility in Bristol, Pa., where an inspection team is on site.",
-   "published": "2026-11-13T13:42:05+00:00"
   }
  ]
 }
