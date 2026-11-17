@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T21:24:41+00:00",
+ "updated": "2026-11-17T21:41:15+00:00",
  "items": [
   {
    "id": "https://joc.com/article/economic-indicators-increasingly-signal-stronger-us-freight-market-6325525",
@@ -17,6 +17,18 @@
    ],
    "excerpt": "Growing US freight demand is putting more pressure on diminished trucking capacity and pricing, according to a round of fresh data.",
    "published": "2026-11-17T21:21:14+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586424",
+   "title": "SCOTUS action revives shipper/receiver liability post-Montgomery",
+   "url": "https://www.freightwaves.com/news/scotus-action-revives-shipper-receiver-liability-post-montgomery",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [],
+   "excerpt": "A decision handed down by the U.S. Supreme Court Monday is setting up the possibility of a major decision on the question of shipper and recipient liability in a post-Montgomery world. The high court granted certiorari in the case of Casarez vs. Irigoyen Farms et. al.",
+   "published": "2026-11-17T21:19:22+00:00"
   },
   {
    "id": "https://www.ttnews.com/articles/mexican-class-8-october-2026",
@@ -1180,20 +1192,6 @@
    ],
    "excerpt": "Businesses will pay more next year to ship packages through the U.S. Postal Service, which is pushing through another round of pricing and fee adjustments. The Postal Service notified the Postal Regulatory Commission on Thursday about its intent to raise domestic and international shipping rates…",
    "published": "2026-11-13T19:00:38+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=328476",
-   "title": "TechCrunch: Uber confirms hackers stole thousands of drivers’ license information in data breach",
-   "url": "https://theloadstar.com/techcrunch-uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
-   "source": "The Loadstar",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Fraud"
-   ],
-   "excerpt": "TechCrunch reports: Uber is notifying thousands of drivers that their personal and driver’s license information was stolen during an October data breach at one of the company’s tech providers. In notices filed this week with several U.S. attorneys general, including California, the ride-hail giant…",
-   "published": "2026-11-13T18:09:36+00:00"
   }
  ]
 }
