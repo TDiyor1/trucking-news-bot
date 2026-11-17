@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-17T18:34:52+00:00",
+ "updated": "2026-11-17T19:04:55+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=586379",
+   "title": "Maersk and Hapag-Lloyd restore Asia-Europe Suez routes as U.S. shippers watch capacity and costs",
+   "url": "https://www.freightwaves.com/news/maersk-and-hapag-lloyd-restore-asia-europe-suez-routes-as-u-s-shippers-watch-capacity-and-costs",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Capacity"
+   ],
+   "excerpt": "Maersk and Hapag-Lloyd announced today that their Gemini Cooperation’s AE1, AE2 and AE3 services will return to the trans-Suez route and Red Sea, replacing diverted voyages around Africa. The changes, in a phased transition extending from December into January, affect Asia-Europe services, but…",
+   "published": "2026-11-17T17:42:00+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/lack-empty-tankers-gulf-oil",
    "title": "Lack of empty tankers puts Gulf oil flow at risk",
@@ -1172,21 +1186,6 @@
    ],
    "excerpt": "The Federal Motor Carrier Safety Administration has removed 133 electronic logging devices from its registry, citing widespread compliance failures and evidence that some systems were being used to falsify truck drivers’ hours-of-service records. The enforcement action, announced Thursday by…",
    "published": "2026-11-13T15:00:12+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/nussbaum-transportation-finds-next-ceo-from-within/833268/",
-   "title": "Nussbaum Transportation finds next CEO from within",
-   "url": "https://www.truckingdive.com/news/nussbaum-transportation-finds-next-ceo-from-within/833268/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "Brent Nussbaum, who has led the company since 2000, is handing the reins to longtime executive Bill Wettstein on Jan. 1",
-   "published": "2026-11-13T14:52:00+00:00"
   }
  ]
 }
