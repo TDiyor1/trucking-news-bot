@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-17T17:34:50+00:00",
+ "updated": "2026-11-17T18:04:53+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/lack-empty-tankers-gulf-oil",
+   "title": "Lack of empty tankers puts Gulf oil flow at risk",
+   "url": "https://www.ttnews.com/articles/lack-empty-tankers-gulf-oil",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Diesel"
+   ],
+   "excerpt": "Oil tanker rates have declined from record levels over the past few weeks, helping to reduce the cost of delivering crude to customers. Any shortage in the number of empty vessels would support rates.",
+   "published": "2026-11-17T17:30:50+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=586369",
    "title": "Broker RXO says TL spot rates not entering deflationary phase",
@@ -1170,20 +1187,6 @@
    ],
    "excerpt": "Brent Nussbaum, who has led the company since 2000, is handing the reins to longtime executive Bill Wettstein on Jan. 1",
    "published": "2026-11-13T14:52:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585986",
-   "title": "Proficient Auto Logistics eyes margin recovery after challenging Q3",
-   "url": "https://www.freightwaves.com/news/proficient-auto-logistics-eyes-margin-recovery-after-challenging-q3",
-   "source": "FreightWaves",
-   "audience": [
-    "Broker"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Proficient Auto Logistics, North America’s largest finished vehicle logistics platform, sees better days ahead, but its 2026 third quarter signaled a still-difficult operating environment for car haulers. The Jacksonville, Florida-based company pointed to several levers—higher pricing, improved…",
-   "published": "2026-11-13T14:42:23+00:00"
   }
  ]
 }
