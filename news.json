@@ -1,6 +1,134 @@
 {
- "updated": "2026-11-18T09:05:38+00:00",
+ "updated": "2026-11-18T15:53:40+00:00",
  "items": [
+  {
+   "id": "https://www.supplychaindive.com/news/starbucks-inventory-availability-at-all-time-high-with-daily-deliveries/874923/",
+   "title": "Starbucks inventory availability at ‘all-time high’ with daily deliveries, CEO says",
+   "url": "https://www.supplychaindive.com/news/starbucks-inventory-availability-at-all-time-high-with-daily-deliveries/874923/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The coffeehouse chain has been testing a 24-hour operating model to improve inventory availability and build an overall faster, more reliable supply chain.",
+   "published": "2026-11-18T15:38:15+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/nevoya-developing-arizona-california-i-10-electric-truck-route/874721/",
+   "title": "Nevoya developing Arizona-California I-10 electric truck route",
+   "url": "https://www.truckingdive.com/news/nevoya-developing-arizona-california-i-10-electric-truck-route/874721/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Social media giant Meta is funding the electric trucking corridor by buying environmental certificates to lower its own emissions profile.",
+   "published": "2026-11-18T15:02:00+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/16425526",
+   "title": "Raising insurance minimums: What’s good, what’s bad, and what’s just noise",
+   "url": "https://www.ccjdigital.com/business/insurance/article/16425526/will-raising-trucking-insurance-minimums-affect-your-fleet",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "If you’ve spent any time around the trucking industry over the last decade, you know that certain policy debates are like dirty pennies: They just keep turning up. Lawmakers have formally introduced at least five major legislative proposals since 2019 to raise the $750,000 minimum liability…",
+   "published": "2026-11-18T14:39:42+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586457",
+   "title": "J.B. Hunt sees cost pressures ease, touts dedicated wins",
+   "url": "https://www.freightwaves.com/news/j-b-hunt-sees-cost-pressures-ease-touts-dedicated-wins",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "J.B. Hunt Transport Services said Tuesday it remains focused on “disciplined growth” even though it is seeing outsized demand for its services amid scrutiny of and attrition within the supply side . It believes a measured approach positions it best to restore margins through price increases.",
+   "published": "2026-11-18T14:27:51+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586037",
+   "title": "The Lag Effect: Trucking Capacity Declines as Rates Recover",
+   "url": "https://www.freightwaves.com/news/the-lag-effect-trucking-capacity-declines-as-rates-recover",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Rates",
+    "Capacity"
+   ],
+   "excerpt": "SONAR’s new Sitrep, The Lag Effect, shows rates rising far faster than costs, capacity leaving at a record pace, and contract rates with more room to run in 2027. Truckload rates have finally outrun the cost of running a truck. SONAR’s spot linehaul index (NTIL) is up about 49% in a year and dry…",
+   "published": "2026-11-18T14:04:00+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/oil-prices-attacks-gulf",
+   "title": "Oil prices steady despite spikes in attacks in Persian Gulf",
+   "url": "https://www.ttnews.com/articles/oil-prices-attacks-gulf",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Brent crude fell 0.46% to $92.68 a barrel. The wider market pressure overshadowed spikes in attacks in the Persian Gulf, which have threatened to imperil a rebound in energy flows from the region.",
+   "published": "2026-11-18T13:25:29+00:00"
+  },
+  {
+   "id": "https://theloadstar.com/?p=328724",
+   "title": "Transatlantic airfreight rates at highest level for four years",
+   "url": "https://theloadstar.com/transatlantic-airfreight-rates-at-highest-level-for-four-years/",
+   "source": "The Loadstar",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Capacity"
+   ],
+   "excerpt": "Transatlantic airfreight rates have hit their highest level since December 2022, as peak-season demand and tightening capacity push prices up – although last week’s US aviation disruption appears to have had little additional impact. According to Freightos, Europe-US rates jumped 12% last week, to…",
+   "published": "2026-11-18T13:10:27+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586432",
+   "title": "Redwood report lists 9 warning signs for shippers picking a 4PL",
+   "url": "https://www.freightwaves.com/news/redwood-state-of-4pl-2027-warning-signs",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [],
+   "excerpt": "Redwood Logistics is telling shippers to slow down any 4PL selection that shows one of nine warning signs, starting with managed transportation rebranded as a 4PL. The checklist anchors the State of 4PL 2027 report the Chicago-based company released Nov.",
+   "published": "2026-11-18T13:00:00+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/16541642",
+   "title": "GP Transco polishes its Innovator-winning technology",
+   "url": "https://www.ccjdigital.com/ccj-innovators/article/16541642/gp-transco-enhances-awardwinning-planning-technology",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Illinois dry van carrier GP Transco ( CCJ Top 250 , No. 146) has a plan to put an additional 50 drivers on the road by the end of this year, and so far, the company has made strides toward its goal. Sergey Bort, vice president of marketing and communication, said the company’s classrooms have been…",
+   "published": "2026-11-18T12:43:35+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16541869",
    "title": "Saia seeks exemption to allow CLP holders to pull doubles with supervision",
@@ -1053,139 +1181,6 @@
    ],
    "excerpt": "The U.S. economy has had a strong year and should keep growing next year, said analysts at FTR Transportation Intelligence, noting the caveat that growth leans heavily on artificial intelligence investment and that the policy backdrop for trucking is uncertain.",
    "published": "2026-11-13T22:41:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586161",
-   "title": "Denial of funds to NY over non domiciled CDLs overturned: appellate court",
-   "url": "https://www.freightwaves.com/news/denial-of-funds-to-ny-over-non-domiciled-cdls-overturned-appellate-court",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "New York State has come out on top in a legal battle with the Department of Transportation over how long a non-domiciled CDL can stay in effect. In a unanimous decision issued Friday by the U.S. Court of Appeals for the Second Circuit, a three-judge panel agreed with New York’s argument that denial…",
-   "published": "2026-11-13T22:27:15+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586151",
-   "title": "Tanker strikes cruise riverboat in New Orleans",
-   "url": "https://www.freightwaves.com/news/tanker-strikes-cruise-riverboat-in-new-orleans",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "A tanker struck a docked passenger riverboat on the Mississippi River on Friday, triggering a multiagency rescue operation and closing a stretch of the river to vessel traffic. The 25-foot bitumen tanker Atlantic Asphalt struck American Cruise Lines’ paddlewheel riverboat American Heritage at…",
-   "published": "2026-11-13T21:25:44+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585471",
-   "title": "AI cargo thefts top $150 million from June 2025 to June 2026",
-   "url": "https://www.freightwaves.com/news/ai-cargo-thefts-top-150-million-from-june-2025-to-june-2026",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Fraud",
-    "Tech"
-   ],
-   "excerpt": "Cargo thieves stole more than $150 million in artificial intelligence equipment between June 2025 and June 2026, increasingly using fraudulent carrier identities and falsified shipping documents to steal high-value shipments, according to a report from Overhaul.",
-   "published": "2026-11-13T21:11:42+00:00"
-  },
-  {
-   "id": "https://joc.com/article/record-asia-imports-bnsf-woes-worsen-southern-california-rail-dwells-6323692",
-   "title": "Record Asia imports, BNSF woes worsen Southern California rail dwells",
-   "url": "https://joc.com/article/record-asia-imports-bnsf-woes-worsen-southern-california-rail-dwells-6323692",
-   "source": "JOC",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs",
-    "Ports/Rail"
-   ],
-   "excerpt": "Those volumes began moving inland from the ports of Los Angeles and Long Beach just as back-to-back storms in late October and early November caused major flooding and disrupted operations along BNSF’s Southern Transcon network in New Mexico.",
-   "published": "2026-11-13T20:54:15+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/fmcsa-removes-133-elds-list",
-   "title": "FMCSA removes 133 ELDs from registered devices list",
-   "url": "https://www.ttnews.com/articles/fmcsa-removes-133-elds-list",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "FMCSA removed 133 electronic logging devices from its registered devices list Nov. 12 after finding widespread noncompliance and evidence of falsified hours-of-service records.",
-   "published": "2026-11-13T20:12:29+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104732",
-   "title": "Cross-border truck freight values soar. Where are the loads?",
-   "url": "https://landline.media/cross-border-truck-freight-values-soar-where-are-the-loads/",
-   "source": "Land Line",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "Cross-border truck freight is worth far more than a year ago, but trucks aren’t hauling much more of it. Here’s what’s behind the gap.",
-   "published": "2026-11-13T20:01:14+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=585854",
-   "title": "Freightos’ founder accuses company of ‘rigging’ proxy vote as company opposes his proposals",
-   "url": "https://www.freightwaves.com/news/freightos-founder-accuses-company-of-rigging-proxy-vote-as-company-opposes-his-proposals",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Freightos founder and former CEO Zvi Schreiber has accused the company of “rigging” a shareholder vote by omitting one of his proposals from its proxy card. He said properly executed proxy forms would automatically count as votes against the proposal. The proposal is included in Freightos’ proxy…",
-   "published": "2026-11-13T19:48:52+00:00"
-  },
-  {
-   "id": "https://joc.com/article/warehousing-demand-intensifying-in-major-us-logistics-markets-6323671",
-   "title": "Warehousing demand intensifying in major US logistics markets",
-   "url": "https://joc.com/article/warehousing-demand-intensifying-in-major-us-logistics-markets-6323671",
-   "source": "JOC",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Markets in the Midwest in particular saw industrial real estate vacancy rates drop in the third quarter, with reports indicating a stronger flow of goods through warehouses.",
-   "published": "2026-11-13T19:42:16+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104728",
-   "title": "A ‘historic’ crackdown: FMCSA drops the hammer on fraudulent ELDs",
-   "url": "https://landline.media/a-historic-crackdown-fmcsa-drops-the-hammer-on-fraudulent-elds/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation",
-    "Fraud"
-   ],
-   "excerpt": "The U.S. DOT’s crackdown on electronic logging devices reaches “historic” levels, with over 120 ELDs being revoked. Here are the details.",
-   "published": "2026-11-13T19:35:13+00:00"
   }
  ]
 }
