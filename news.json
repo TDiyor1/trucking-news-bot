@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T23:24:40+00:00",
+ "updated": "2026-11-18T23:54:45+00:00",
  "items": [
   {
    "id": "https://www.freightwaves.com/?p=586589",
@@ -84,6 +84,21 @@
    "published": "2026-11-18T20:30:33+00:00"
   },
   {
+   "id": "https://www.logisticsmgmt.com/article/pola_and_polb_face_renewed_strike_risks_ahead_of_november_21_deadline",
+   "title": "POLA and POLB face renewed strike risks ahead of November 21 deadline",
+   "url": "https://www.logisticsmgmt.com/article/pola_and_polb_face_renewed_strike_risks_ahead_of_november_21_deadline",
+   "source": "Logistics Management",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "While a labor strike at the Port of Los Angeles (POLA) and the Port of Long Beach (POLB) was averted earlier this month, when the Pacific Maritime Association (PMA), whom represents shipping lines and terminal operators at 29 West Coast ports, and IWLU Local 26 said they came to terms on a stopgap…",
+   "published": "2026-11-18T20:20:00+00:00"
+  },
+  {
    "id": "https://www.freightwaves.com/?p=586401",
    "title": "From more footage to more focus: Find your fleet’s videosafety stage",
    "url": "https://www.freightwaves.com/news/from-more-footage-to-more-focus-find-your-fleets-videosafety-stage",
@@ -150,6 +165,20 @@
    "tags": [],
    "excerpt": "ABF Freight employees discovered suspected narcotics inside a shipment from Los Angeles to Dayton, Ohio. Workers opened a package addressed to Douglas Bennett and contacted law enforcement Feb. 2, 2026. The discovery triggered a federal investigation involving cocaine, fentanyl, methamphetamine and…",
    "published": "2026-11-18T18:51:32+00:00"
+  },
+  {
+   "id": "https://www.logisticsmgmt.com/article/qa_kyle_peacock_principal_peacock_tariff_consulting",
+   "title": "Q&A: Kyle Peacock, principal, Peacock Tariff Consulting",
+   "url": "https://www.logisticsmgmt.com/article/qa_kyle_peacock_principal_peacock_tariff_consulting",
+   "source": "Logistics Management",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "Logistics Management Group News Editor Jeff Berman recently spoke with Kyle Peacock, tariff and trade expert and Principal of Peacock Tariff Consulting, an international trade consulting firm helping businesses manage the costs, risks, and regulatory complexities associated with importing and…",
+   "published": "2026-11-18T18:49:00+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=586502",
@@ -1136,34 +1165,6 @@
    ],
    "excerpt": "Truckload rates were up big again in October with shipment counts extending a positive streak to three months, according to a Monday report from Cass Information Systems. The outsized rate gains are allowing one-way fleets to quickly repair margins, while fleets under dedicated arrangements have…",
    "published": "2026-11-16T16:44:14+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586194",
-   "title": "UPS accident in Miami sidelines 767 freighter during busy shipping season",
-   "url": "https://www.freightwaves.com/news/ups-accident-in-miami-sidelines-767-freighter-during-busy-shipping-season",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "United Parcel Service has to temporarily replace a Boeing 767-300 freighter aircraft after sustaining damage when it was struck by the wing tip of a passenger plane during taxiing at Miami International Airport, complicating planning and operations with the peak season underway and volumes surging.…",
-   "published": "2026-11-16T16:16:51+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/ai-backed-tools-power-reformations-inventory-management/874645/",
-   "title": "AI-backed tools power Reformation’s inventory management",
-   "url": "https://www.supplychaindive.com/news/ai-backed-tools-power-reformations-inventory-management/874645/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "The apparel company is leveraging the technology to monitor demand and make informed production decisions.",
-   "published": "2026-11-16T15:40:00+00:00"
   }
  ]
 }
