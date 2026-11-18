@@ -1,6 +1,33 @@
 {
- "updated": "2026-11-18T19:09:21+00:00",
+ "updated": "2026-11-18T19:39:30+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=586554",
+   "title": "ATA spells out short- and long-term solutions to halt ELD fraud",
+   "url": "https://www.freightwaves.com/news/ata-spells-out-short-and-long-term-solutions-to-halt-eld-fraud",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Fraud",
+    "Tech"
+   ],
+   "excerpt": "The American Trucking Association wants the Federal Motor Carrier Safety Administration to go outside in its quest to dramatically slow the use of Electronic Logging Devices (ELDs) in freight fraud. In a report released earlier this week , the ATA said a certification program for approving ELDs for…",
+   "published": "2026-11-18T19:12:53+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586205",
+   "title": "ABF Freight workers uncover $1.5M drug shipment headed to Ohio",
+   "url": "https://www.freightwaves.com/news/abf-freight-workers-uncover-1-5m-drug-shipment-headed-to-ohio",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [],
+   "excerpt": "ABF Freight employees discovered suspected narcotics inside a shipment from Los Angeles to Dayton, Ohio. Workers opened a package addressed to Douglas Bennett and contacted law enforcement Feb. 2, 2026. The discovery triggered a federal investigation involving cocaine, fentanyl, methamphetamine and…",
+   "published": "2026-11-18T18:51:32+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=586502",
    "title": "Over 284 out-of-service violations uncovered in latest truck enforcement blitzes",
@@ -1146,35 +1173,6 @@
    ],
    "excerpt": "As rising costs outpace rate increases, the pool of truckers in North America continues to shrink – and industry experts see no end to the bloodletting. The C-suites of large trucking firms are, however, upbeat on their prospects. Industry reports show a steady increase in casualties in the…",
    "published": "2026-11-16T12:45:16+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16425694",
-   "title": "Fleets commit to hiring 13K vets through 'Freedom Haulers' program",
-   "url": "https://www.ccjdigital.com/workforce/article/16425694/fleets-commit-to-hiring-13k-vets-through-freedom-haulers-program",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "Trucking news and briefs for Monday, Nov. 16, 2026: FMCSA touts ‘Freedom Haulers’ progress Earlier this year, the Federal Motor Carrier Safety Administration launched a program it called “Freedom Haulers” to expedite the CDL credentialing process for military veterans with experience driving heavy…",
-   "published": "2026-11-16T06:55:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16425606",
-   "title": "Data shows serial noncompliance behind majority of ELD revocations",
-   "url": "https://www.ccjdigital.com/technology/driver-management/article/16425606/data-shows-serial-noncompliance-behind-majority-of-eld-revocations",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation",
-    "Tech"
-   ],
-   "excerpt": "On the list of electronic logging devices (ELDs) revoked by the Federal Motor Carrier Safety Administration (FMCSA) Thursday, you will find 121 ELD names, but not 121 different providers. Sixty-five of the removed devices were distributed across 26 providers with two or more devices, leaving just…",
-   "published": "2026-11-15T20:47:00+00:00"
   }
  ]
 }
