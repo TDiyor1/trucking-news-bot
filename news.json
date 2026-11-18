@@ -1,6 +1,34 @@
 {
- "updated": "2026-11-18T20:09:29+00:00",
+ "updated": "2026-11-18T20:49:34+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/fed-officials-back-rate-hike",
+   "title": "Most Fed officials back further rate hikes",
+   "url": "https://www.ttnews.com/articles/fed-officials-back-rate-hike",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "Nearly all Federal Reserve officials agreed in October they would likely have to raise interest rates “in the months ahead” to return inflation to their 2% target.",
+   "published": "2026-11-18T20:30:33+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586401",
+   "title": "From more footage to more focus: Find your fleet’s videosafety stage",
+   "url": "https://www.freightwaves.com/news/from-more-footage-to-more-focus-find-your-fleets-videosafety-stage",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Cameras can show what happened on a route. Whether they help a driver avoid the next collision depends on two things: what the camera tells the driver on the road and what your safety team does with the footage afterward. Fleet safety managers know the pattern.",
+   "published": "2026-11-18T20:02:46+00:00"
+  },
   {
    "id": "https://landline.media/?p=104795",
    "title": "Bathroom break for truckers?",
@@ -111,6 +139,20 @@
    ],
    "excerpt": "Truckload carriers that can’t dispatch a truck for a tendered load now have somewhere to send it besides back to the shipper. Graypool , the Atlanta freight software company formerly known as HOPTEK, opened Graypool Exchange on Wednesday. It launched with seven founding member carriers, which pass…",
    "published": "2026-11-18T16:40:00+00:00"
+  },
+  {
+   "id": "https://www.logisticsmgmt.com/article/port_of_long_beach_october_volumes_post_an_11.7_annual_gain",
+   "title": "Port of Long Beach October volumes post an 11.7% annual gain",
+   "url": "https://www.logisticsmgmt.com/article/port_of_long_beach_october_volumes_post_an_11.7_annual_gain",
+   "source": "Logistics Management",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Port of Long Beach (POLB) October volumes saw another strong month, according to data issued by the port yesterday. Total October volume came in at 937,715 TEU (Twenty-Foot Equivalent Units), marking an 11.7% annual increase, following September’s 997,177 TEU, which set a new monthly record, for…",
+   "published": "2026-11-18T16:18:00+00:00"
   },
   {
    "id": "https://www.supplychaindive.com/news/starbucks-inventory-availability-at-all-time-high-with-daily-deliveries/874923/",
@@ -1127,52 +1169,6 @@
    ],
    "excerpt": "Wait times for idle containers set for rail transport have reached over nine days, Executive Director Gene Seroka said.",
    "published": "2026-11-16T14:49:00+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/kodiak-adds-camera-monitoring-system-to-its-autonomous-trucks/873748/",
-   "title": "Kodiak adds camera monitoring system to its autonomous trucks",
-   "url": "https://www.truckingdive.com/news/kodiak-adds-camera-monitoring-system-to-its-autonomous-trucks/873748/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Stoneridge’s MirrorEye uses exterior digital cameras in place of traditional mirrors on newly developed trucks equipped with the Kodiak Driver.",
-   "published": "2026-11-16T14:49:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586183",
-   "title": "U.S. container imports hit record 2.67 million TEUs in October as port delays rise",
-   "url": "https://www.freightwaves.com/news/u-s-container-imports-hit-record-2-67-million-teus-in-october-as-port-delays-rise",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs",
-    "Ports/Rail"
-   ],
-   "excerpt": "Containerized imports through U.S ports reached a record 2.67 million twenty foot equivalent units (TEUs) in October, pushing volumes above the previous peak set during the pandemic-era surge. Rising shipments from China and a rebound at East and Gulf Coast ports fueled the record, according to…",
-   "published": "2026-11-16T14:41:06+00:00"
-  },
-  {
-   "id": "https://www.logisticsmgmt.com/article/usps_is_set_to_make_fuel_surcharge_permanent_raise_parcel_prices_5.9_in_2027",
-   "title": "USPS is set to make fuel surcharge permanent, raise parcel prices 5.9% in 2027",
-   "url": "https://www.logisticsmgmt.com/article/usps_is_set_to_make_fuel_surcharge_permanent_raise_parcel_prices_5.9_in_2027",
-   "source": "Logistics Management",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Diesel"
-   ],
-   "excerpt": "The U.S. Postal Service wants to make its fuel surcharge permanent and raise it from 8% to 11% on Jan. 17. It also proposed raising rates by an average of 5.9% across four domestic package services, including Ground Advantage and Priority Mail. USPS filed notice of the changes with the Postal…",
-   "published": "2026-11-16T14:35:00+00:00"
   }
  ]
 }
