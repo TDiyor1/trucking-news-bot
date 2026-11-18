@@ -1,6 +1,47 @@
 {
- "updated": "2026-11-18T16:53:30+00:00",
+ "updated": "2026-11-18T17:23:37+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16541819",
+   "title": "Owner to outlaw: How Motus forced trucker to skirt rules he says he never broke",
+   "url": "https://www.ccjdigital.com/regulations/safety-compliance/article/16541819/fmcsa-computer-glitch-leaves-colorado-truckers-usdot-inactive",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "After 20 years in the Air Force Reserve and more than 40 years behind the wheel of a commercial truck, Darryl Gibbs thought he'd jumped every hurdle trucking could throw at him. But the owner-operator and Aurora, Colorado, resident recently found himself in uncharted waters -- at least uncharted…",
+   "published": "2026-11-18T16:53:32+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586174",
+   "title": "The Trump Crackdown Aims At The Driver, However The Same Government Keeps Clearing The Company Behind Him",
+   "url": "https://www.freightwaves.com/news/the-trump-crackdown-aims-at-the-driver-however-the-same-government-keeps-clearing-the-company-behind-him",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Editor’s note: Rob Carpenter is an independent contributor to FreightWaves. The reporting, analysis and opinions in this piece are his own and do not necessarily reflect the views of FreightWaves or its affiliates. On July 2, 2026, a Michigan inspector pulled over a truck running under USDOT…",
+   "published": "2026-11-18T16:51:46+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586479",
+   "title": "Carriers can now pass loads they can’t cover to 7 vetted peers",
+   "url": "https://www.freightwaves.com/news/graypool-exchange-carriers-pass-uncovered-loads",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "Truckload carriers that can’t dispatch a truck for a tendered load now have somewhere to send it besides back to the shipper. Graypool , the Atlanta freight software company formerly known as HOPTEK, opened Graypool Exchange on Wednesday. It launched with seven founding member carriers, which pass…",
+   "published": "2026-11-18T16:40:00+00:00"
+  },
   {
    "id": "https://www.supplychaindive.com/news/starbucks-inventory-availability-at-all-time-high-with-daily-deliveries/874923/",
    "title": "Starbucks inventory availability at ‘all-time high’ with daily deliveries, CEO says",
@@ -1135,52 +1176,6 @@
    ],
    "excerpt": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade. This week in Borderlands Mexico: Texas cross-border traffic rises by 400 trucks through Saturday pilot; Truck freight between US and Mexico reaches $75.4B in September; and…",
    "published": "2026-11-15T12:00:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586053",
-   "title": "Spot rates jump ahead of holidays",
-   "url": "https://www.freightwaves.com/news/spot-rates-jump-ahead-of-holidays",
-   "source": "FreightWaves SONAR",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Chart of the Week: National Truckload Index – USA SONAR : NTI.USA The National Truckload Index (NTI), which measures dry van spot rate movement across the U.S., jumped to its highest level since July in early November. The NTI rarely climbs this early ahead of the holidays.",
-   "published": "2026-11-15T01:30:00+00:00"
-  },
-  {
-   "id": "https://www.dcvelocity.com/supply-chain/other-services/green-logistics/meta-buys-zero-emission-trucking-capacity-to-offset-data-center-construction",
-   "title": "Meta buys zero-emission trucking capacity to offset data center construction",
-   "url": "https://www.dcvelocity.com/supply-chain/other-services/green-logistics/meta-buys-zero-emission-trucking-capacity-to-offset-data-center-construction",
-   "source": "DC Velocity",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Rates",
-    "Capacity",
-    "Tech"
-   ],
-   "excerpt": "Artificial intelligence (AI) and social media giant Meta will purchase zero-emission trucking capacity from Nevoya, an electric truckload carrier, to offset the emissions of its business activities, the firms said Thursday. Nevoya announced the multi-year agreement with Meta that support the…",
-   "published": "2026-11-13T23:51:48+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16425716",
-   "title": "AI dependence is a concern as diesel and regulatory uncertainty squeeze trucking",
-   "url": "https://www.ccjdigital.com/economic-trends/article/16425716/ai-props-up-economy-as-trucking-faces-uncertain-road",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel",
-    "Tech"
-   ],
-   "excerpt": "The U.S. economy has had a strong year and should keep growing next year, said analysts at FTR Transportation Intelligence, noting the caveat that growth leans heavily on artificial intelligence investment and that the policy backdrop for trucking is uncertain.",
-   "published": "2026-11-13T22:41:00+00:00"
   }
  ]
 }

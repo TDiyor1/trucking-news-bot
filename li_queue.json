@@ -1,4 +1,34 @@
 {
  "last_digest": "2026-11-18",
- "queue": []
+ "queue": [
+  {
+   "id": "https://www.freightwaves.com/?p=586479",
+   "title": "Carriers can now pass loads they can’t cover to 7 vetted peers",
+   "url": "https://www.freightwaves.com/news/graypool-exchange-carriers-pass-uncovered-loads",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "Truckload carriers that can’t dispatch a truck for a tendered load now have somewhere to send it besides back to the shipper. Graypool , the Atlanta freight software company formerly known as HOPTEK, opened Graypool Exchange on Wednesday. It launched with seven founding member carriers, which pass…",
+   "published": "2026-11-18T16:40:00+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/16541819",
+   "title": "Owner to outlaw: How Motus forced trucker to skirt rules he says he never broke",
+   "url": "https://www.ccjdigital.com/regulations/safety-compliance/article/16541819/fmcsa-computer-glitch-leaves-colorado-truckers-usdot-inactive",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "After 20 years in the Air Force Reserve and more than 40 years behind the wheel of a commercial truck, Darryl Gibbs thought he'd jumped every hurdle trucking could throw at him. But the owner-operator and Aurora, Colorado, resident recently found himself in uncharted waters -- at least uncharted…",
+   "published": "2026-11-18T16:53:32+00:00"
+  }
+ ]
 }
