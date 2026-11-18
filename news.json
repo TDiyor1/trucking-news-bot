@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-18T22:24:38+00:00",
+ "updated": "2026-11-18T22:54:47+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=586589",
+   "title": "LA-Long Beach port strike risk grows as employers say ILWU talks stalled",
+   "url": "https://www.freightwaves.com/news/la-long-beach-port-strike-risk-grows-as-employers-say-ilwu-talks-stalled",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "A contract dispute involving about 250 union watchmen could disrupt cargo movement at the ports of Los Angeles and Long Beach as early as this Saturday , with the Pacific Maritime Association reporting little progress in the latest negotiations with International Longshore and Warehouse Union Local…",
+   "published": "2026-11-18T22:37:39+00:00"
+  },
   {
    "id": "https://landline.media/?p=104804",
    "title": "Time is money: Congestion costs remain at near-record levels",
@@ -1150,20 +1164,6 @@
    ],
    "excerpt": "The apparel company is leveraging the technology to monitor demand and make informed production decisions.",
    "published": "2026-11-16T15:40:00+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/as-data-center-backlash-grows-a-model-law-aims-to-give-cities-more-control/874731/",
-   "title": "As data center backlash grows, a model law aims to give cities more control",
-   "url": "https://www.truckingdive.com/news/as-data-center-backlash-grows-a-model-law-aims-to-give-cities-more-control/874731/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Data centers “are moving faster and at a larger scale than most local codes were built to handle,” the executive director of the bipartisan network Climate Mayors said. Its model local law offers a framework for siting, permitting, transparency and community benefits.",
-   "published": "2026-11-16T15:37:00+00:00"
   }
  ]
 }
