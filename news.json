@@ -1,6 +1,32 @@
 {
- "updated": "2026-11-17T21:41:15+00:00",
+ "updated": "2026-11-18T01:18:42+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=586441",
+   "title": "Nasdaq gives Hub Group more time to produce delayed financial filings",
+   "url": "https://www.freightwaves.com/news/nasdaq-gives-hub-group-more-time-to-produce-delayed-financial-filings",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Hub Group announced Tuesday that Nasdaq has given it until the end of the year to submit its delayed financial filings. Its shares will continue to trade on the exchange in the interim. Hub Group ( NASDAQ: HUBG ) submitted a plan to regain compliance at an Oct. 27 hearing.",
+   "published": "2026-11-17T22:54:31+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586427",
+   "title": "Western Star films 49X logger in Daimler vocational push",
+   "url": "https://www.freightwaves.com/news/western-star-49x-on-the-job-vocational",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Winter brings some of the busiest months of the year for loggers in northern Wisconsin. Frozen ground lets loaded trucks reach deeper into the woods and haul timber miles off-road to the mill. Western Star’s latest video follows one of those trucks. The second episode of the brand’s “On the Job”…",
+   "published": "2026-11-17T21:57:04+00:00"
+  },
   {
    "id": "https://joc.com/article/economic-indicators-increasingly-signal-stronger-us-freight-market-6325525",
    "title": "Economic indicators increasingly signal stronger US freight market",
@@ -1161,37 +1187,6 @@
    ],
    "excerpt": "Too often, truckers are told to ‘hold it.’ Lawmakers want to put an end to shipper and receiver facilities denying restroom access to truck drivers.",
    "published": "2026-11-13T19:28:33+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586085",
-   "title": "CMA CGM triples profit as Q3 freight rates and cargo volumes rise",
-   "url": "https://www.freightwaves.com/news/cma-cgm-triples-profit-as-q3-freight-rates-and-cargo-volumes-rise",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Ports/Rail"
-   ],
-   "excerpt": "CMA CGM reported a sharp increase in third-quarter earnings today as higher freight rates and growing container volumes strengthened its ocean container business. The third-largest liner operator said weaker profitability in logistics highlighted uneven conditions across the group.",
-   "published": "2026-11-13T19:19:11+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586081",
-   "title": "USPS to add 11% permanent fuel surcharge along with parcel rate hike",
-   "url": "https://www.freightwaves.com/news/usps-to-add-11-permanent-fuel-surcharge-along-with-parcel-rate-hike",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Rates",
-    "Diesel"
-   ],
-   "excerpt": "Businesses will pay more next year to ship packages through the U.S. Postal Service, which is pushing through another round of pricing and fee adjustments. The Postal Service notified the Postal Regulatory Commission on Thursday about its intent to raise domestic and international shipping rates…",
-   "published": "2026-11-13T19:00:38+00:00"
   }
  ]
 }
