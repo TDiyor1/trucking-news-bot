@@ -1,6 +1,58 @@
 {
- "updated": "2026-11-18T20:49:34+00:00",
+ "updated": "2026-11-18T21:20:46+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104804",
+   "title": "Time is money: Congestion costs remain at near-record levels",
+   "url": "https://landline.media/time-is-money-congestion-costs-remain-at-near-record-levels/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Congestion takes a toll on your time and your bank account. According to a recent report, that cost is near-record levels.",
+   "published": "2026-11-18T21:16:54+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104800",
+   "title": "Citizen group: No more trucks!",
+   "url": "https://landline.media/citizen-group-no-more-trucks/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Truck traffic has sparked much debate in this Canadian city. Now, one group is taking the city to court over the matter.",
+   "published": "2026-11-18T21:15:00+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/16541990",
+   "title": "Traffic congestion cost the trucking industry $128.2 billion in 2024",
+   "url": "https://www.ccjdigital.com/business/article/16541990/traffic-congestion-cost-trucking-1282b-in-2024",
+   "source": "CCJ",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [],
+   "excerpt": "Traffic congestion added $128.2 billion in costs onto the trucking industry in 2024, according to the latest Cost of Congestion study published by the American Transportation (ATRI). That is the second-highest total in the study’s history, behind a record $129.8 billion in 2023.",
+   "published": "2026-11-18T21:00:00+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/advance-trucker-bathroom-act",
+   "title": "Senate committee advances Trucker Bathroom Access Act",
+   "url": "https://www.ttnews.com/articles/advance-trucker-bathroom-act",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "If the bill passes Congress, it would address common bathroom access issues drivers face on the road, which is a particular problem for many female drivers, research shows.",
+   "published": "2026-11-18T20:50:52+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/fed-officials-back-rate-hike",
    "title": "Most Fed officials back further rate hikes",
@@ -1112,63 +1164,6 @@
    "tags": [],
    "excerpt": "Data centers “are moving faster and at a larger scale than most local codes were built to handle,” the executive director of the bipartisan network Climate Mayors said. Its model local law offers a framework for siting, permitting, transparency and community benefits.",
    "published": "2026-11-16T15:37:00+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/nmfta-creates-cybersecurity-challenge-training-resource/874055/",
-   "title": "NMFTA creates cybersecurity challenge training resource",
-   "url": "https://www.truckingdive.com/news/nmfta-creates-cybersecurity-challenge-training-resource/874055/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "“It really helps to know how things get broken,” Senior Cybersecurity Research Engineer Ben Gardiner said.",
-   "published": "2026-11-16T15:28:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/diesel-falls-below-6-nov-16",
-   "title": "Diesel dips below $6 for first time since September",
-   "url": "https://www.ttnews.com/articles/diesel-falls-below-6-nov-16",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "U.S. retail diesel prices have dropped below $6 a gallon for the first time since early September, taking some pressure off a key inflationary input that has pushed other prices higher.",
-   "published": "2026-11-16T15:00:00+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=328605",
-   "title": "CNBC: Nvidia fallout: Commerce targets ‘loophole for China’s data center use’",
-   "url": "https://theloadstar.com/cnbc-nvidia-fallout-commerce-targets-loophole-for-chinas-data-center-use/",
-   "source": "The Loadstar",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "CNBC reports: The Commerce Department on Monday moved to close a loophole that has let Chinese companies lease Nvidia’s advanced computing power from data centers in third countries, effectively circumventing controls on sensitive chip technology being exported to China.",
-   "published": "2026-11-16T14:56:24+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/port-of-los-angeles-grapples-with-elevated-rail-dwell-times/874726/",
-   "title": "Port of Los Angeles grapples with elevated rail dwell times",
-   "url": "https://www.truckingdive.com/news/port-of-los-angeles-grapples-with-elevated-rail-dwell-times/874726/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Wait times for idle containers set for rail transport have reached over nine days, Executive Director Gene Seroka said.",
-   "published": "2026-11-16T14:49:00+00:00"
   }
  ]
 }
