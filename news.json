@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-18T17:53:48+00:00",
+ "updated": "2026-11-18T17:59:09+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=586502",
+   "title": "Over 284 out-of-service violations uncovered in latest truck enforcement blitzes",
+   "url": "https://www.freightwaves.com/news/over-284-out-of-service-violations-uncovered-in-latest-truck-enforcement-blitzes",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "Commercial truck enforcement operations across the U.S. and Canada have uncovered hundreds of safety violations, sidelining trucks and drivers for defective brakes, unsafe tires, licensing violations and other regulatory infractions. Recent enforcement actions in more than a dozen U.S.",
+   "published": "2026-11-18T17:25:46+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16541819",
    "title": "Owner to outlaw: How Motus forced trucker to skirt rules he says he never broke",
@@ -1161,21 +1175,6 @@
    ],
    "excerpt": "On the list of electronic logging devices (ELDs) revoked by the Federal Motor Carrier Safety Administration (FMCSA) Thursday, you will find 121 ELD names, but not 121 different providers. Sixty-five of the removed devices were distributed across 26 providers with two or more devices, leaving just…",
    "published": "2026-11-15T20:47:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586168",
-   "title": "Borderlands Mexico: Texas cross-border traffic rises by 400 trucks through Saturday pilot",
-   "url": "https://www.freightwaves.com/news/borderlands-mexico-texas-cross-border-traffic-rises-by-400-trucks-through-saturday-pilot",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade. This week in Borderlands Mexico: Texas cross-border traffic rises by 400 trucks through Saturday pilot; Truck freight between US and Mexico reaches $75.4B in September; and…",
-   "published": "2026-11-15T12:00:00+00:00"
   }
  ]
 }
