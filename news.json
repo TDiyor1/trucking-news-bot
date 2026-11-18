@@ -1,6 +1,35 @@
 {
- "updated": "2026-11-18T19:39:30+00:00",
+ "updated": "2026-11-18T20:09:29+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104795",
+   "title": "Bathroom break for truckers?",
+   "url": "https://landline.media/bathroom-break-for-truckers/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "Truckers have been denied restroom access for years. This week, a Senate committee advanced a bill aimed at changing that.",
+   "published": "2026-11-18T20:00:34+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104791",
+   "title": "Heavier trucks, bigger risks? Texas weighs new rules",
+   "url": "https://landline.media/heavier-trucks-bigger-risks-texas-weighs-new-rules/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "New Texas bills could tighten hazmat truck penalties while giving other heavy haulers more weight flexibility. See who benefits and who could pay.",
+   "published": "2026-11-18T19:43:29+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=586554",
    "title": "ATA spells out short- and long-term solutions to halt ELD fraud",
@@ -1144,35 +1173,6 @@
    ],
    "excerpt": "The U.S. Postal Service wants to make its fuel surcharge permanent and raise it from 8% to 11% on Jan. 17. It also proposed raising rates by an average of 5.9% across four domestic package services, including Ground Advantage and Priority Mail. USPS filed notice of the changes with the Postal…",
    "published": "2026-11-16T14:35:00+00:00"
-  },
-  {
-   "id": "https://www.logisticsmgmt.com/article/u.s_container_imports_break_a_four_year_volume_record_in_october_reports_descartes",
-   "title": "U.S. container imports break a four-year volume record in October, reports Descartes",
-   "url": "https://www.logisticsmgmt.com/article/u.s_container_imports_break_a_four_year_volume_record_in_october_reports_descartes",
-   "source": "Logistics Management",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs",
-    "Ports/Rail"
-   ],
-   "excerpt": "U.S. container imports hit an all-time high in October as shipments from China rose for a fourth straight month. U.S. ports handled 2,674,808 twenty-foot equivalent units (TEUs), up 5% from September and 16% from a year earlier, according to Descartes’ November Global Shipping Report.",
-   "published": "2026-11-16T14:25:00+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=328543",
-   "title": "Smaller US truckers buckling under as costs outpace rate gains",
-   "url": "https://theloadstar.com/smaller-us-truckers-buckling-under-as-costs-outpace-rate-gains/",
-   "source": "The Loadstar",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "As rising costs outpace rate increases, the pool of truckers in North America continues to shrink – and industry experts see no end to the bloodletting. The C-suites of large trucking firms are, however, upbeat on their prospects. Industry reports show a steady increase in casualties in the…",
-   "published": "2026-11-16T12:45:16+00:00"
   }
  ]
 }
