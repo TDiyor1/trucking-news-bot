@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-19T20:58:36+00:00",
+ "updated": "2026-11-19T21:23:39+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16542200",
+   "title": "Independent contractor classification: Labor Dept. finalizes new rule",
+   "url": "https://www.ccjdigital.com/workforce/article/16542200/independent-contractor-classification-labor-dept-finalizes-new-rule",
+   "source": "CCJ",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation",
+    "Ports/Rail"
+   ],
+   "excerpt": "The U.S. Department of Labor’s Wage and Hour Division Thursday announced a final rule to yet again change the criteria for determining whether workers are employees or independent contractors under the Fair Labor Standards Act and two related federal laws.",
+   "published": "2026-11-19T20:58:50+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/final-independent-contractor",
+   "title": "Labor Department finalizes independent contractor rule",
+   "url": "https://www.ttnews.com/articles/final-independent-contractor",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "The Department of Labor is returning to an approach that primarily uses two factors rather than six.",
+   "published": "2026-11-19T20:51:06+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=586670",
    "title": "PACCAR recalls 6,185 trucks over radar braking fault",
@@ -1118,35 +1150,6 @@
    ],
    "excerpt": "National regular unleaded gasoline dropped to an average $3.78 a gallon, according to AAA. Global oil prices have slid in recent weeks on increased flows from the Persian Gulf.",
    "published": "2026-11-17T13:41:05+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/oil-prices-vessel-attacks",
-   "title": "Oil prices swing as vessel attacks reported around Hormuz",
-   "url": "https://www.ttnews.com/articles/oil-prices-vessel-attacks",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Brent crude, the international standard, fell 49 cents to $92.93 a barrel. While Brent is up more than 50% this year, the global benchmark has slid from a six-month high set in late October.",
-   "published": "2026-11-17T13:10:06+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=328669",
-   "title": "Korean Air maximises Americas capacity as AI cargo adds to peak pressure",
-   "url": "https://theloadstar.com/korean-air-maximises-americas-capacity-as-ai-cargo-adds-to-peak-pressure/",
-   "source": "The Loadstar",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Capacity",
-    "Tech"
-   ],
-   "excerpt": "Korean Air is maximising its Asia-Americas cargo capacity, as year-round demand for AI infrastructure overlaps traditional peak-season shipments, keeping the pressure on transpacific space even as global weekly volumes soften. Jaedong Eum, EVP and head of the carrier’s Cargo Business division, told…",
-   "published": "2026-11-17T12:33:52+00:00"
   }
  ]
 }
