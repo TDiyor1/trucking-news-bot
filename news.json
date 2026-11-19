@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-19T11:00:09+00:00",
+ "updated": "2026-11-19T11:30:30+00:00",
  "items": [
+  {
+   "id": "https://theloadstar.com/?p=328781",
+   "title": "Last-ditch bid to prevent threatened strike at San Pedro Bay ports",
+   "url": "https://theloadstar.com/last-ditch-bid-to-prevent-threatened-strike-at-san-pedro-bay-ports/",
+   "source": "The Loadstar",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "A strike could disrupt cargo operations at the ports of Los Angeles and Long Beach from Saturday, after the latest contract negotiations between employers and port security workers ended without agreement. The Pacific Maritime Association (PMA), which represents shipping lines and terminal…",
+   "published": "2026-11-19T11:16:38+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16542063",
    "title": "Truck driver gets prison time for bilking $500K from employer through fuel cards",
@@ -1144,21 +1158,6 @@
    ],
    "excerpt": "Faced with surging safety threats tied to hours-of-service manipulation, the American Trucking Associations (ATA) is pressing federal regulators to overhaul the nation's electronic logging device system through mandatory third-party oversight and rigorous digital surveillance.",
    "published": "2026-11-16T17:55:42+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/congressmen-eld-records",
-   "title": "Lawmakers Introduce Bill Targeting Overseas Tampering of ELDs",
-   "url": "https://www.ttnews.com/articles/congressmen-eld-records",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "“Foreign dispatchers should not be able to manipulate trucking safety records from halfway around the world,” said Rep. Greg Steube (R-Fla.).",
-   "published": "2026-11-16T17:51:00+00:00"
   }
  ]
 }
