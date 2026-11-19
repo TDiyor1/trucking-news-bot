@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-19T11:30:30+00:00",
+ "updated": "2026-11-19T12:01:09+00:00",
  "items": [
+  {
+   "id": "https://theloadstar.com/?p=328788",
+   "title": "Mexico-US cargo charters still facing long wait for approval",
+   "url": "https://theloadstar.com/mexico-us-cargo-charters-still-facing-long-wait-for-approval/",
+   "source": "The Loadstar",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "Mexican cargo airlines are still facing longer waits for US approval of cross-border charter flights, even after Washington lifted restrictions on passenger services from Mexico City to the US last month. In October 2025, the US sanctioned Mexican carriers in protest over their government’s…",
+   "published": "2026-11-19T11:45:35+00:00"
+  },
   {
    "id": "https://theloadstar.com/?p=328781",
    "title": "Last-ditch bid to prevent threatened strike at San Pedro Bay ports",
@@ -1142,22 +1156,6 @@
    ],
    "excerpt": "Members of the family behind the collapsed R&R Family of Companies are listed as executives of a newly established Pittsburgh-area logistics business, even as former R&R chief executive Richard Stephen Francis navigates personal Chapter 11 bankruptcy proceedings in Florida.",
    "published": "2026-11-16T18:00:51+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16541578",
-   "title": "ATA pushes for third-party certification in 6-step roadmap to combat ELD fraud",
-   "url": "https://www.ccjdigital.com/regulations/safety-compliance/article/16541578/eld-certification-roadmap-6-ways-to-stop-fraud-improve-safety",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation",
-    "Fraud",
-    "Tech"
-   ],
-   "excerpt": "Faced with surging safety threats tied to hours-of-service manipulation, the American Trucking Associations (ATA) is pressing federal regulators to overhaul the nation's electronic logging device system through mandatory third-party oversight and rigorous digital surveillance.",
-   "published": "2026-11-16T17:55:42+00:00"
   }
  ]
 }
