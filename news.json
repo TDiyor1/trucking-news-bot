@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-19T23:28:36+00:00",
+ "updated": "2026-11-19T23:47:36+00:00",
  "items": [
+  {
+   "id": "https://www.dat.com/blog/?p=27747",
+   "title": "Reefer Produce Report: California produce rates climb as lettuce heads to the desert and Thanksgiving nears",
+   "url": "https://www.dat.com/blog/reefer-produce-report-california-produce-rates-climb-as-lettuce-heads-to-the-desert-and-thanksgiving-nears",
+   "source": "DAT iQ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "National volume fell 6% week over week, but most of the drop sits on one day. Wednesday, Nov. 11 posted 45% of the previous Wednesday’s volume, and without those two Wednesdays the week ran 5% above the one before. Inference: Veterans Day likely thinned shipping and reporting that day.",
+   "published": "2026-11-19T23:33:37+00:00"
+  },
   {
    "id": "https://www.dcvelocity.com/rockwell-automation-buys-agilox-to-combine-amr-fleets",
    "title": "Rockwell Automation buys Agilox to combine AMR fleets",
@@ -1138,20 +1152,6 @@
    ],
    "excerpt": "The national average price per gallon of diesel gasoline declined for the third consecutive week, according to data issued today by the Department of Energy’s Energy Information Administration (EIA). For the week of November 16, the national average price per gallon, at $5.937, dropped $0.19, its…",
    "published": "2026-11-17T15:32:00+00:00"
-  },
-  {
-   "id": "https://www.logisticsmgmt.com/article/intermodal_volumes_maintain_strong_momentum_heading_toward_year_end_iana_index_shows",
-   "title": "Intermodal volumes maintain strong momentum heading toward year-end, IANA index shows",
-   "url": "https://www.logisticsmgmt.com/article/intermodal_volumes_maintain_strong_momentum_heading_toward_year_end_iana_index_shows",
-   "source": "Logistics Management",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Intermodal momentum remains remain strong, as 2026 continues on its home stretch, according to the new edition of the Intermodal Volume Index (IVI), which was recently issued this by the Intermodal Association of North America (IANA). The North America IVI made its debut in May, with IANA…",
-   "published": "2026-11-17T14:54:00+00:00"
   }
  ]
 }
