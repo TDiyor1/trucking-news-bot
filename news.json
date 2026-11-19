@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-19T00:17:44+00:00",
+ "updated": "2026-11-19T00:24:56+00:00",
  "items": [
+  {
+   "id": "https://www.dcvelocity.com/technology/artificial-intelligence/korber-ai-investment-is-up-but-3-in-4-leaders-say-decision-making-is-now-more-complex",
+   "title": "Körber: AI investment is up, but 3 in 4 leaders say decision-making is now more complex",
+   "url": "https://www.dcvelocity.com/technology/artificial-intelligence/korber-ai-investment-is-up-but-3-in-4-leaders-say-decision-making-is-now-more-complex",
+   "source": "DC Velocity",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "AI adoption is accelerating faster than organizations' ability to execute on it, according to a report from intelligent manufacturing and supply chain solution provider Körber. That conclusion comes from a survey of 2,000 senior decision-makers in the U.S.",
+   "published": "2026-11-19T00:21:30+00:00"
+  },
+  {
+   "id": "https://www.dcvelocity.com/transportation/trucking/diesel-prices-punished-shippers-in-september-ftr-says",
+   "title": "Diesel prices punished shippers in September, FTR says",
+   "url": "https://www.dcvelocity.com/transportation/trucking/diesel-prices-punished-shippers-in-september-ftr-says",
+   "source": "DC Velocity",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Rates",
+    "Diesel"
+   ],
+   "excerpt": "Weighed down by record diesel prices, the freight market in September matched April as the second-toughest month for shippers since March 2022, according to the transportation analysis firm FTR. That result was shown by Bloomington, Indiana-based FTR’s Shippers Conditions Index (SCI), which fell…",
+   "published": "2026-11-19T00:17:34+00:00"
+  },
   {
    "id": "https://www.dcvelocity.com/finance-strategy/strategy/gartner-ranks-healthcare-supply-chains-led-by-adventhealth",
    "title": "Gartner ranks healthcare supply chains, led by AdventHealth",
@@ -1131,38 +1161,6 @@
    ],
    "excerpt": "Small online sellers are raising free-shipping minimums, charging for returns and absorbing higher label costs as the U.S. Postal Service moves to make its fuel surcharge permanent. USPS filed notice Nov. 12 to convert the 8% charge it added to package prices in April into an 11% fuel surcharge on…",
    "published": "2026-11-16T17:09:09+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/ata-report-eld-fraud-2026",
-   "title": "ATA proposes 6 steps to help FMCSA combat ELD fraud",
-   "url": "https://www.ttnews.com/articles/ata-report-eld-fraud-2026",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation",
-    "Fraud",
-    "Tech"
-   ],
-   "excerpt": "Those recommendations include requiring ELD vendors to have a verified U.S.-based presence and developing an independent certification program for devices.",
-   "published": "2026-11-16T17:04:00+00:00"
-  },
-  {
-   "id": "https://www.logisticsmgmt.com/article/october_freight_shipments_and_expenditures_see_continued_gains_reports_cass_freight_index_report",
-   "title": "October freight shipments and expenditures see continued gains, reports Cass Freight Index Report",
-   "url": "https://www.logisticsmgmt.com/article/october_freight_shipments_and_expenditures_see_continued_gains_reports_cass_freight_index_report",
-   "source": "Logistics Management",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "The October edition of the Cass Freight Index, which was issued today by Cass Freight Systems, saw annual gains, for both freight shipments and expenditures. Many freight transportation and logistics executives and analysts consider the Cass Freight Index to be the most accurate barometer of…",
-   "published": "2026-11-16T16:55:00+00:00"
   }
  ]
 }
