@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-19T16:06:15+00:00",
+ "updated": "2026-11-19T16:36:19+00:00",
  "items": [
+  {
+   "id": "https://www.supplychaindive.com/news/honda-invests-462m-in-alabama-plant-to-boost-production/875189/",
+   "title": "Honda invests $462M in Alabama plant to boost production",
+   "url": "https://www.supplychaindive.com/news/honda-invests-462m-in-alabama-plant-to-boost-production/875189/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Capacity"
+   ],
+   "excerpt": "The automaker will use the funds to increase production capacity of high-demand models.",
+   "published": "2026-11-19T16:33:34+00:00"
+  },
   {
    "id": "https://joc.com/article/midterms-add-to-uncertainties-for-new-mpvs-in-us-shipbuilding-push-6326562",
    "title": "Midterms add to uncertainties for new MPVs in US shipbuilding push",
@@ -1141,20 +1156,6 @@
    ],
    "excerpt": "The cargo theft landscape became more costly in the third quarter as criminals continued to focus on high-value loads.",
    "published": "2026-11-16T20:03:33+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104757",
-   "title": "Second Circuit hands New York win over CDL dispute",
-   "url": "https://landline.media/second-circuit-hands-new-york-win-over-cdl-dispute/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "FMCSA announced it was withholding $73 million from New York for the way it issued CDLs. An appeals court has sided with New York.",
-   "published": "2026-11-16T19:13:02+00:00"
   }
  ]
 }
