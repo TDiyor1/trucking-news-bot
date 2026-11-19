@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-19T01:25:10+00:00",
+ "updated": "2026-11-19T01:55:27+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16541992",
+   "title": "FMCSA's pending pile is 43% larger and nearly twice as old as it was in August",
+   "url": "https://www.ccjdigital.com/regulations/safety-compliance/article/16541992/fmcsa-motus-backlog-swells-25000-pending-applications-stalled-without-insurance",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "The Federal Motor Carrier Safety Administration's Motus Carrier table holds 7,806 more pending applications than when I first counted it Aug. 23, and the median file age has nearly doubled, from 36 days to 70. CCJ published that first count Aug. 31. I ran it again on the file as refreshed Nov.",
+   "published": "2026-11-19T01:35:00+00:00"
+  },
   {
    "id": "https://www.dcvelocity.com/technology/artificial-intelligence/korber-ai-investment-is-up-but-3-in-4-leaders-say-decision-making-is-now-more-complex",
    "title": "Körber: AI investment is up, but 3 in 4 leaders say decision-making is now more complex",
@@ -1147,20 +1161,6 @@
    ],
    "excerpt": "Two men were arrested after a shooting involving Union Pacific Railroad Police investigating suspected cargo theft near the busy Tehachapi Loop on Nov. 12. No injuries were reported, according to the Kern County Sheriff’s Office and reported in local media.",
    "published": "2026-11-16T17:32:43+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586210",
-   "title": "Small sellers rethink free shipping over USPS 11% fuel fee",
-   "url": "https://www.freightwaves.com/news/small-sellers-free-shipping-usps-fuel-surcharge",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Small online sellers are raising free-shipping minimums, charging for returns and absorbing higher label costs as the U.S. Postal Service moves to make its fuel surcharge permanent. USPS filed notice Nov. 12 to convert the 8% charge it added to package prices in April into an 11% fuel surcharge on…",
-   "published": "2026-11-16T17:09:09+00:00"
   }
  ]
 }
