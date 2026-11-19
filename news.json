@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-19T12:01:09+00:00",
+ "updated": "2026-11-19T12:31:04+00:00",
  "items": [
+  {
+   "id": "https://theloadstar.com/?p=328795",
+   "title": "US truckers feel the squeeze as fuel price outpaces freight rates",
+   "url": "https://theloadstar.com/us-truckers-feel-the-squeeze-as-fuel-price-outpaces-freight-rates/",
+   "source": "The Loadstar",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Diesel"
+   ],
+   "excerpt": "US shippers using road haulage are increasingly abandoning annual freight contracts in favour of shorter-term agreements, as soaring diesel prices outpace freight rate increases, according to new research from EASE Logistics. The Ohio-based 3PL and 4PL provider’s Q3 26 Automotive Freight Index…",
+   "published": "2026-11-19T12:10:20+00:00"
+  },
   {
    "id": "https://theloadstar.com/?p=328788",
    "title": "Mexico-US cargo charters still facing long wait for approval",
@@ -1142,20 +1159,6 @@
    ],
    "excerpt": "The new edition of the Trucking Conditions Index, which was recently issued by FTR, again turned in a positive reading, at a reduced rate. According to FTR, a TCI reading above zero represents an adequate trucking environment, with readings above 10 indicating that volumes, prices and margin are in…",
    "published": "2026-11-16T18:27:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586232",
-   "title": "New logistics firm linked to collapsed R&R transportation empire",
-   "url": "https://www.freightwaves.com/news/new-logistics-firm-linked-to-collapsed-rr-transportation-empire",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Capacity"
-   ],
-   "excerpt": "Members of the family behind the collapsed R&R Family of Companies are listed as executives of a newly established Pittsburgh-area logistics business, even as former R&R chief executive Richard Stephen Francis navigates personal Chapter 11 bankruptcy proceedings in Florida.",
-   "published": "2026-11-16T18:00:51+00:00"
   }
  ]
 }
