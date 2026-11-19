@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T15:32:49+00:00",
+ "updated": "2026-11-19T16:06:15+00:00",
  "items": [
   {
    "id": "https://joc.com/article/midterms-add-to-uncertainties-for-new-mpvs-in-us-shipbuilding-push-6326562",
@@ -15,6 +15,18 @@
    ],
    "excerpt": "Questions about whether the lame-duck Congress will approve the National Defense Authorization Act has put a question mark over MPV-related legislation.",
    "published": "2026-11-19T15:21:14+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586625",
+   "title": "Ship pilot indicted after fatal Houston collision linked to cellphone distraction",
+   "url": "https://www.freightwaves.com/news/ship-pilot-indicted-after-fatal-houston-collision-linked-to-cellphone-distraction",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "A Houston ship pilot has been indicted on a federal seaman’s manslaughter charge stemming from a 2024 collision in the Houston Ship Channel that killed a sailor, marking what authorities say is the first prosecution of its kind against a ship pilot in U.S. history.",
+   "published": "2026-11-19T15:16:34+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=586621",
@@ -1143,18 +1155,6 @@
    ],
    "excerpt": "FMCSA announced it was withholding $73 million from New York for the way it issued CDLs. An appeals court has sided with New York.",
    "published": "2026-11-16T19:13:02+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104746",
-   "title": "Hefty fine for a heavy load",
-   "url": "https://landline.media/hefty-fine-for-a-heavy-load/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "It’s a little hard to blend in behind the wheel of a 200,000-pound truck. One driver tested this theory anyway.",
-   "published": "2026-11-16T19:10:54+00:00"
   }
  ]
 }
