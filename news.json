@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-19T16:36:19+00:00",
+ "updated": "2026-11-19T17:06:17+00:00",
  "items": [
+  {
+   "id": "https://www.truckingdive.com/news/einride-targets-2028-for-growth-of-autonomous-freight-on-highways/875124/",
+   "title": "Einride targets 2028 for growth of autonomous freight on highways",
+   "url": "https://www.truckingdive.com/news/einride-targets-2028-for-growth-of-autonomous-freight-on-highways/875124/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Nvidia-powered tech is helping the company’s timeline, which involves live road evaluations in late 2027.",
+   "published": "2026-11-19T16:57:00+00:00"
+  },
   {
    "id": "https://www.supplychaindive.com/news/honda-invests-462m-in-alabama-plant-to-boost-production/875189/",
    "title": "Honda invests $462M in Alabama plant to boost production",
@@ -1142,20 +1156,6 @@
    ],
    "excerpt": "The Port Authority of New York and New Jersey is proposing road improvements, wharf rehabilitation and replacement public berths at Port Newark as part of its $10.3 billion capital and operating budget for 2027. The spending plan also includes $21 million for maintenance dredging to keep the port’s…",
    "published": "2026-11-16T20:13:19+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/truckers-grapple-criminals",
-   "title": "Truckers grapple with selective, price-conscious criminals",
-   "url": "https://www.ttnews.com/articles/truckers-grapple-criminals",
-   "source": "Transport Topics",
-   "audience": [
-    "Broker"
-   ],
-   "tags": [
-    "Fraud"
-   ],
-   "excerpt": "The cargo theft landscape became more costly in the third quarter as criminals continued to focus on high-value loads.",
-   "published": "2026-11-16T20:03:33+00:00"
   }
  ]
 }
