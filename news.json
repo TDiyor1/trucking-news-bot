@@ -1,6 +1,35 @@
 {
- "updated": "2026-11-19T15:02:26+00:00",
+ "updated": "2026-11-19T15:32:49+00:00",
  "items": [
+  {
+   "id": "https://joc.com/article/midterms-add-to-uncertainties-for-new-mpvs-in-us-shipbuilding-push-6326562",
+   "title": "Midterms add to uncertainties for new MPVs in US shipbuilding push",
+   "url": "https://joc.com/article/midterms-add-to-uncertainties-for-new-mpvs-in-us-shipbuilding-push-6326562",
+   "source": "JOC",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "Questions about whether the lame-duck Congress will approve the National Defense Authorization Act has put a question mark over MPV-related legislation.",
+   "published": "2026-11-19T15:21:14+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586621",
+   "title": "Expeditors enters new logistics frontier supporting Kennedy space missions",
+   "url": "https://www.freightwaves.com/news/expeditors-enters-new-logistics-frontier-supporting-kennedy-space-missions",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Expeditors International is moving into a new logistics galaxy. The Seattle-based third-party logistics provider announced Wednesday that it will handle logistics for a start-up project designed to support spacecraft launches at Kennedy Space Center in Florida.",
+   "published": "2026-11-19T14:50:51+00:00"
+  },
   {
    "id": "https://www.truckingdive.com/news/roadrunner-adds-outbound-ltl-service-for-customers-in-canada/874503/",
    "title": "Roadrunner adds outbound LTL service for customers in Canada",
@@ -1126,39 +1155,6 @@
    "tags": [],
    "excerpt": "It’s a little hard to blend in behind the wheel of a 200,000-pound truck. One driver tested this theory anyway.",
    "published": "2026-11-16T19:10:54+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104750",
-   "title": "Road Rumor: Did a trucker’s CB crash Microsoft?",
-   "url": "https://landline.media/road-rumor-did-a-truckers-cb-crash-microsoft/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Tech"
-   ],
-   "excerpt": "A trucker claims his CB-ELD wiring job crashed Microsoft and sent load board rates to $7.50 a mile. Only one of those is easy to believe.",
-   "published": "2026-11-16T19:09:58+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586024",
-   "title": "Q3 2026 Freight Earnings: Rates, Capacity and 2027 Bid Outlook",
-   "url": "https://www.freightwaves.com/news/q3-2026-freight-earnings-rates-capacity-and-2027-bid-outlook",
-   "source": "FreightWaves SONAR",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Capacity"
-   ],
-   "excerpt": "Q3 2026 Freight Earnings: What 74 Companies Told Us Rates turned, costs bit and capacity kept leaving. Here is what the Q3 2026 freight earnings season says about the market heading into the 2027 bid season. The short answer Q3 2026 freight earnings confirmed a supply-driven recovery : SONAR tender…",
-   "published": "2026-11-16T19:00:00+00:00"
   }
  ]
 }
