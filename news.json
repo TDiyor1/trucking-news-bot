@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-18T23:54:45+00:00",
+ "updated": "2026-11-19T00:17:44+00:00",
  "items": [
+  {
+   "id": "https://www.dcvelocity.com/finance-strategy/strategy/gartner-ranks-healthcare-supply-chains-led-by-adventhealth",
+   "title": "Gartner ranks healthcare supply chains, led by AdventHealth",
+   "url": "https://www.dcvelocity.com/finance-strategy/strategy/gartner-ranks-healthcare-supply-chains-led-by-adventhealth",
+   "source": "DC Velocity",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "AdventHealth claimed the No. 1 spot for the third consecutive year in the “Gartner Healthcare Supply Chain Top 25 for 2026” as top performers followed three main themes, the analyst firm said : accelerating clinical collaboration initiatives; strengthening commitment to supply chain resiliency; and…",
+   "published": "2026-11-19T00:17:02+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=586589",
    "title": "LA-Long Beach port strike risk grows as employers say ILWU talks stalled",
@@ -1149,22 +1163,6 @@
    ],
    "excerpt": "The October edition of the Cass Freight Index, which was issued today by Cass Freight Systems, saw annual gains, for both freight shipments and expenditures. Many freight transportation and logistics executives and analysts consider the Cass Freight Index to be the most accurate barometer of…",
    "published": "2026-11-16T16:55:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586189",
-   "title": "October TL rates surge as shipment counts extend positive streak",
-   "url": "https://www.freightwaves.com/news/october-tl-rates-surge-as-shipment-counts-extend-positive-streak",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Truckload rates were up big again in October with shipment counts extending a positive streak to three months, according to a Monday report from Cass Information Systems. The outsized rate gains are allowing one-way fleets to quickly repair margins, while fleets under dedicated arrangements have…",
-   "published": "2026-11-16T16:44:14+00:00"
   }
  ]
 }
