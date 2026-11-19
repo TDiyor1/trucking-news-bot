@@ -1,4 +1,34 @@
 {
  "last_digest": "2026-11-19",
- "queue": []
+ "queue": [
+  {
+   "id": "https://www.ttnews.com/articles/oil-prices-fears-strikes-iran",
+   "title": "Oil prices head higher on fears of more strikes on Iran",
+   "url": "https://www.ttnews.com/articles/oil-prices-fears-strikes-iran",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Brent crude rose 0.7% to $92.63 a barrel. Prices earlier swung between small gains and losses as Trump and his Chinese and Russian counterparts agreed to ramp up global fuel supplies.",
+   "published": "2026-11-19T13:59:43+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/roadrunner-adds-outbound-ltl-service-for-customers-in-canada/874503/",
+   "title": "Roadrunner adds outbound LTL service for customers in Canada",
+   "url": "https://www.truckingdive.com/news/roadrunner-adds-outbound-ltl-service-for-customers-in-canada/874503/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Rates",
+    "Tariffs"
+   ],
+   "excerpt": "A 5.9% general rate increase is helping support the enhanced network, the carrier said.",
+   "published": "2026-11-19T14:30:00+00:00"
+  }
+ ]
 }

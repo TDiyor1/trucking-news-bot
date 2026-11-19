@@ -1,6 +1,35 @@
 {
- "updated": "2026-11-19T14:01:52+00:00",
+ "updated": "2026-11-19T14:32:10+00:00",
  "items": [
+  {
+   "id": "https://www.truckingdive.com/news/roadrunner-adds-outbound-ltl-service-for-customers-in-canada/874503/",
+   "title": "Roadrunner adds outbound LTL service for customers in Canada",
+   "url": "https://www.truckingdive.com/news/roadrunner-adds-outbound-ltl-service-for-customers-in-canada/874503/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Rates",
+    "Tariffs"
+   ],
+   "excerpt": "A 5.9% general rate increase is helping support the enhanced network, the carrier said.",
+   "published": "2026-11-19T14:30:00+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/oil-prices-fears-strikes-iran",
+   "title": "Oil prices head higher on fears of more strikes on Iran",
+   "url": "https://www.ttnews.com/articles/oil-prices-fears-strikes-iran",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Brent crude rose 0.7% to $92.63 a barrel. Prices earlier swung between small gains and losses as Trump and his Chinese and Russian counterparts agreed to ramp up global fuel supplies.",
+   "published": "2026-11-19T13:59:43+00:00"
+  },
   {
    "id": "https://theloadstar.com/?p=328795",
    "title": "US truckers feel the squeeze as fuel price outpaces freight rates",
@@ -1130,35 +1159,6 @@
    ],
    "excerpt": "Q3 2026 Freight Earnings: What 74 Companies Told Us Rates turned, costs bit and capacity kept leaving. Here is what the Q3 2026 freight earnings season says about the market heading into the 2027 bid season. The short answer Q3 2026 freight earnings confirmed a supply-driven recovery : SONAR tender…",
    "published": "2026-11-16T19:00:00+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104742",
-   "title": "Lower fuel taxes? Truckers still face a catch",
-   "url": "https://landline.media/lower-fuel-taxes-truckers-still-face-a-catch/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "States are cutting or considering fuel tax cuts, but not every break covers diesel. Here’s what truckers could save and what catches remain.",
-   "published": "2026-11-16T18:35:42+00:00"
-  },
-  {
-   "id": "https://www.logisticsmgmt.com/article/ftr_trucking_conditions_index_remains_on_a_solid_growth_track",
-   "title": "FTR Trucking Conditions Index remains on a solid growth track",
-   "url": "https://www.logisticsmgmt.com/article/ftr_trucking_conditions_index_remains_on_a_solid_growth_track",
-   "source": "Logistics Management",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "The new edition of the Trucking Conditions Index, which was recently issued by FTR, again turned in a positive reading, at a reduced rate. According to FTR, a TCI reading above zero represents an adequate trucking environment, with readings above 10 indicating that volumes, prices and margin are in…",
-   "published": "2026-11-16T18:27:00+00:00"
   }
  ]
 }
