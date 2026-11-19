@@ -1,6 +1,90 @@
 {
- "updated": "2026-11-19T20:06:43+00:00",
+ "updated": "2026-11-19T20:58:36+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=586670",
+   "title": "PACCAR recalls 6,185 trucks over radar braking fault",
+   "url": "https://www.freightwaves.com/news/paccar-kenworth-peterbilt-radar-braking-recall",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "The forward radar on 6,185 Kenworth and Peterbilt trucks built between Feb. 11 and Oct. 8 can trigger braking for stopped or slow-moving vehicles in the left lane. PACCAR disclosed the defect in a Nov. 11 recall filing with the National Highway Traffic Safety Administration.",
+   "published": "2026-11-19T20:19:16+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/atri-trucking-congestion-2024",
+   "title": "ATRI puts trucking’s congestion cost at $128 billion",
+   "url": "https://www.ttnews.com/articles/atri-trucking-congestion-2024",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Highway congestion cost the trucking industry $128.2 billion in 2024 while wasting 6.66 billion gallons of diesel fuel, according to ATRI.",
+   "published": "2026-11-19T20:15:00+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104828",
+   "title": "Background check backfire: Carrier sued after truck driver kills Costco worker",
+   "url": "https://landline.media/background-check-backfire-carrier-sued-after-truck-driver-kills-costco-worker/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "A truck driver shot and killed a Costco employee. Now the victim’s estate says the carrier should have known about the driver’s gun history.",
+   "published": "2026-11-19T20:11:32+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104824",
+   "title": "California to Waymo: Get off our freeways",
+   "url": "https://landline.media/california-to-waymo-get-off-our-freeways/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Waymo faces new limits. Meanwhile, Aurora plans thousands more trucks. The debate over highway safety is picking up speed.",
+   "published": "2026-11-19T19:59:46+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104820",
+   "title": "Fake crashes, real consequences: Nevada targets fraud",
+   "url": "https://landline.media/fake-crashes-real-consequences-nevada-targets-fraud/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation",
+    "Fraud"
+   ],
+   "excerpt": "Staged crashes can put innocent drivers at risk. A Nevada bill would raise penalties and target everyone involved in crash-for-cash schemes.",
+   "published": "2026-11-19T19:45:14+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104815",
+   "title": "ELD reinstated after feds pull over 100 devices from approved list",
+   "url": "https://landline.media/eld-reinstated-after-feds-pull-over-100-devices-from-approved-list/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation",
+    "Tech"
+   ],
+   "excerpt": "Amid a massive revocation of ELDs, one device has been reinstated by FMCSA. Find out which device made it back to the approved list.",
+   "published": "2026-11-19T19:42:40+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=586665",
    "title": "NYC push against delivery bill brings in legal and racial arguments",
@@ -32,6 +116,21 @@
    "published": "2026-11-19T18:33:07+00:00"
   },
   {
+   "id": "https://www.logisticsmgmt.com/article/u.s_bound_imports_post_solid_october_gains_with_2026_on_track_for_a_record_year_reports_sp_global_market_intelligence",
+   "title": "U.S.-bound imports post solid October gains, with 2026 on track for a record year, reports S&P Global Market Intelligence",
+   "url": "https://www.logisticsmgmt.com/article/u.s_bound_imports_post_solid_october_gains_with_2026_on_track_for_a_record_year_reports_sp_global_market_intelligence",
+   "source": "Logistics Management",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tariffs",
+    "Ports/Rail"
+   ],
+   "excerpt": "October marked another strong month for United States-bound containerized imports, according to data recently issued by S&P Global Market Intelligence. October imports, at 2.76 million TEU (Twenty-Foot Equivalent Units), posted a 14.4% annual gain, following a 9.1% annual gain in September.",
+   "published": "2026-11-19T17:24:00+00:00"
+  },
+  {
    "id": "https://www.truckingdive.com/news/einride-targets-2028-for-growth-of-autonomous-freight-on-highways/875124/",
    "title": "Einride targets 2028 for growth of autonomous freight on highways",
    "url": "https://www.truckingdive.com/news/einride-targets-2028-for-growth-of-autonomous-freight-on-highways/875124/",
@@ -59,6 +158,22 @@
    ],
    "excerpt": "The automaker will use the funds to increase production capacity of high-demand models.",
    "published": "2026-11-19T16:33:34+00:00"
+  },
+  {
+   "id": "https://www.logisticsmgmt.com/article/competition_service_disruptions_and_higher_costs_lead_opposition_to_proposed_up_ns_merger_in_stb_filings",
+   "title": "Competition, service disruptions and higher costs lead opposition to proposed UP-NS merger in STB filings",
+   "url": "https://www.logisticsmgmt.com/article/competition_service_disruptions_and_higher_costs_lead_opposition_to_proposed_up_ns_merger_in_stb_filings",
+   "source": "Logistics Management",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Rates",
+    "Regulation",
+    "Ports/Rail"
+   ],
+   "excerpt": "Various filings submitted to the Surface Transportation Board (STB), an independent adjudicatory and economic-regulatory agency charged by Congress with resolving railroad rate and service disputes and reviewing proposed railroad mergers, regarding opening comments on the proposed $85 billion…",
+   "published": "2026-11-19T15:49:00+00:00"
   },
   {
    "id": "https://joc.com/article/midterms-add-to-uncertainties-for-new-mpvs-in-us-shipbuilding-push-6326562",
@@ -1032,129 +1147,6 @@
    ],
    "excerpt": "Korean Air is maximising its Asia-Americas cargo capacity, as year-round demand for AI infrastructure overlaps traditional peak-season shipments, keeping the pressure on transpacific space even as global weekly volumes soften. Jaedong Eum, EVP and head of the carrier’s Cargo Business division, told…",
    "published": "2026-11-17T12:33:52+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16541735",
-   "title": "Safer highways should be a bipartisan priority",
-   "url": "https://www.ccjdigital.com/perspectives/article/16541735/truckload-carriers-association-outlines-fmcsa-reform-strategy",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Rates",
-    "Regulation"
-   ],
-   "excerpt": "Highway safety isn't a Republican issue or a Democratic issue . It's something we should all agree on. And as Congress looks ahead to the next legislative session, modernizing the Federal Motor Carrier Safety Administration (FMCSA) presents an opportunity to turn that shared commitment into…",
-   "published": "2026-11-17T11:45:59+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16541707",
-   "title": "Driveshaft recall hits Daimler, Paccar trucks",
-   "url": "https://www.ccjdigital.com/maintenance/article/16541707/driveshaft-recall-hits-daimler-paccar-trucks",
-   "source": "CCJ",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Trucking news and briefs for Tuesday, Nov. 17, 2026: Cummins driveline issue prompts Daimler, Paccar recalls An issue with certain driveshafts from Cummins-Meritor has resulted in the recall of more than 3,800 Freightliner and Western Star trucks and nearly 1,000 Kenworth units.",
-   "published": "2026-11-17T06:02:00+00:00"
-  },
-  {
-   "id": "https://www.dat.com/blog/?p=27740",
-   "title": "Reefer Report: Rates edge up ahead of Thanksgiving as truck supply grows",
-   "url": "https://www.dat.com/blog/reefer-report-rates-edge-up-ahead-of-thanksgiving-as-truck-supply-grows",
-   "source": "DAT iQ",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Diesel"
-   ],
-   "excerpt": "Reefer spot linehaul rates paid to carriers averaged $2.78 per mile last week, minus fuel, up 1.7%, or $0.05 per mile, from the week before. Rates climbed 34.2%, or $0.71 per mile, year over year and held 27.7%, or $0.60 per mile, above the nine-year seasonal average of $2.18 per mile, near the top…",
-   "published": "2026-11-16T22:55:54+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586284",
-   "title": "Police recover $4.5 million in stolen vehicles bound for West Africa, arrest 12",
-   "url": "https://www.freightwaves.com/news/police-recover-4-5-million-in-stolen-vehicles-bound-for-west-africa-arrest-12",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs",
-    "Fraud"
-   ],
-   "excerpt": "Police in Ontario, Canada, recovered 96 stolen vehicles worth approximately C$4.5 million (US$3.1 million) during an international trafficking investigation. The operation targeted a network suspected of moving luxury SUVs, pickup trucks and other automobiles overseas .",
-   "published": "2026-11-16T22:46:26+00:00"
-  },
-  {
-   "id": "https://www.dat.com/blog/?p=27737",
-   "title": "Flatbed Report: Rates hold at $2.60 as the load-to-truck ratio loosens from both sides",
-   "url": "https://www.dat.com/blog/flatbed-report-rates-hold-at-2-60-as-the-load-to-truck-ratio-loosens-from-both-sides",
-   "source": "DAT iQ",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Diesel"
-   ],
-   "excerpt": "Flatbed spot linehaul rates paid to carriers averaged $2.60 per mile last week, minus fuel, down 0.3%, or $0.01 per mile, from the week before. Rates climbed 31.4%, or $0.62 per mile, year over year and held 26.6%, or $0.55 per mile, above the nine-year seasonal average of $2.05 per mile, near the…",
-   "published": "2026-11-16T22:26:38+00:00"
-  },
-  {
-   "id": "https://www.dat.com/blog/?p=27734",
-   "title": "Dry Van Report: October imports hit a record TEU as five big ports surge at once",
-   "url": "https://www.dat.com/blog/dry-van-report-october-imports-hit-a-record-teu-as-five-big-ports-surge-at-once",
-   "source": "DAT iQ",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Diesel",
-    "Tariffs"
-   ],
-   "excerpt": "Dry van spot linehaul rates paid to carriers averaged $2.27 per mile last week, minus fuel, up 2.2%, or $0.05 per mile, from the week before. Rates climbed 35.8%, or $0.60 per mile, year over year and held 24.6%, or $0.45 per mile, above the nine-year seasonal average of $1.82 per mile, near the…",
-   "published": "2026-11-16T22:09:16+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586325",
-   "title": "Meta pays Nevoya to put 25 electric trucks on I-10",
-   "url": "https://www.freightwaves.com/news/meta-nevoya-electric-trucks-i-10",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Rates",
-    "Tech"
-   ],
-   "excerpt": "Meta will buy environmental attribute certificates tied to 25 Nevoya battery-electric trucks on Interstate 10, a multi-year deal that gives the electric truckload carrier committed demand on a second freight lane. Nevoya, which announced the agreement Thursday, expects the Class 8 trucks to start…",
-   "published": "2026-11-16T22:04:10+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586319",
-   "title": "Amazon workers’ union gets a contract, but it’s in Canada",
-   "url": "https://www.freightwaves.com/news/amazon-workers-union-gets-a-contract-but-its-in-canada",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "Amazon has its first deal with a union in North America, but it came from a top-down process in a Canadian province, rather than traditional collective bargaining. The Amazon view of what happened for its workers at a Delta, British Columbia fulfillment center, a Vancouver suburb, was stark.",
-   "published": "2026-11-16T21:15:20+00:00"
   }
  ]
 }
