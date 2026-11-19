@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T22:58:36+00:00",
+ "updated": "2026-11-19T23:28:36+00:00",
  "items": [
   {
    "id": "https://www.dcvelocity.com/rockwell-automation-buys-agilox-to-combine-amr-fleets",
@@ -61,6 +61,23 @@
    ],
    "excerpt": "The Department of Labor is returning to an approach that primarily uses two factors rather than six.",
    "published": "2026-11-19T20:51:06+00:00"
+  },
+  {
+   "id": "https://www.logisticsmgmt.com/article/capacity_constraints_continue_to_drive_truckload_rate_inflation_as_spot_rates_climb_to_2026_highs_notes_rxo_curve",
+   "title": "Capacity constraints continue to drive truckload rate inflation as spot rates climb to 2026 highs, notes RXO ‘Curve’",
+   "url": "https://www.logisticsmgmt.com/article/capacity_constraints_continue_to_drive_truckload_rate_inflation_as_spot_rates_climb_to_2026_highs_notes_rxo_curve",
+   "source": "Logistics Management",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Capacity"
+   ],
+   "excerpt": "Not to be outdone by the second quarter’s readings, third quarter spot market truckload rates followed suit, in posting the highest readings since 2021, paced by the ongoing tightening of carrier capacity, according to the new edition of the “Curve” truckload forecast, which was recently issued by…",
+   "published": "2026-11-19T20:30:00+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=586670",
@@ -1135,19 +1152,6 @@
    ],
    "excerpt": "Intermodal momentum remains remain strong, as 2026 continues on its home stretch, according to the new edition of the Intermodal Volume Index (IVI), which was recently issued this by the Intermodal Association of North America (IANA). The North America IVI made its debut in May, with IANA…",
    "published": "2026-11-17T14:54:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586341",
-   "title": "Truck Parking Club hands CPC 7 drop yards in two months",
-   "url": "https://www.freightwaves.com/news/truck-parking-club-cpc-drop-yards",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [],
-   "excerpt": "CPC Fleet Solutions used to spend one to two months finding a single drop yard for its private fleets. Through Truck Parking Club’s Fleet Parking service, it secured seven yards for 47 power units and more than 120 trailers in two months, Truck Parking Club said in a Nov. 12 release.",
-   "published": "2026-11-17T14:18:46+00:00"
   }
  ]
 }
