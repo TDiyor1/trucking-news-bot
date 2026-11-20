@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-20T20:12:57+00:00",
+ "updated": "2026-11-20T21:00:34+00:00",
  "items": [
+  {
+   "id": "https://joc.com/article/customs-brokers-navigate-shifting-trade-regulatory-landscape-in-us-6327316",
+   "title": "Customs brokers navigate shifting trade, regulatory landscape in US",
+   "url": "https://joc.com/article/customs-brokers-navigate-shifting-trade-regulatory-landscape-in-us-6327316",
+   "source": "JOC",
+   "audience": [
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "The primary challenge that traditional customs brokers face in today's complex trade environment is that clients are asking them to provide more services, Wesccon attendees were told.",
+   "published": "2026-11-20T20:18:14+00:00"
+  },
   {
    "id": "https://landline.media/?p=104864",
    "title": "Another independent contractor rule. What changes for owner-operators?",
@@ -1142,20 +1156,6 @@
    ],
    "excerpt": "Port of Long Beach (POLB) October volumes saw another strong month, according to data issued by the port yesterday. Total October volume came in at 937,715 TEU (Twenty-Foot Equivalent Units), marking an 11.7% annual increase, following September’s 997,177 TEU, which set a new monthly record, for…",
    "published": "2026-11-18T16:18:00+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/starbucks-inventory-availability-at-all-time-high-with-daily-deliveries/874923/",
-   "title": "Starbucks inventory availability at ‘all-time high’ with daily deliveries, CEO says",
-   "url": "https://www.supplychaindive.com/news/starbucks-inventory-availability-at-all-time-high-with-daily-deliveries/874923/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "The coffeehouse chain has been testing a 24-hour operating model to improve inventory availability and build an overall faster, more reliable supply chain.",
-   "published": "2026-11-18T15:38:15+00:00"
   }
  ]
 }
