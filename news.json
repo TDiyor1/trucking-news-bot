@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-20T17:32:10+00:00",
+ "updated": "2026-11-20T18:02:13+00:00",
  "items": [
+  {
+   "id": "https://theloadstar.com/?p=328896",
+   "title": "Bloomberg Exclusive: Trump officials met privately with hedge funds on mega rail deal",
+   "url": "https://theloadstar.com/bloomberg-exclusive-trump-officials-met-privately-with-hedge-funds-on-mega-rail-deal/",
+   "source": "The Loadstar",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "BLOOMBERG reports: In a highly unusual gathering, White House officials met privately this week with a group of hedge fund investors betting on whether the $72 billion tie-up between Union Pacific Corp. and Norfolk Southern Corp. will win approval from the Trump administration, according to people…",
+   "published": "2026-11-20T17:46:07+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/canada-funds-ford-plant",
+   "title": "Canada gives Ford plant $324 million to protect auto jobs",
+   "url": "https://www.ttnews.com/articles/canada-funds-ford-plant",
+   "source": "Transport Topics",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "The federal government says the agreement will protect “more than 2,000 jobs” as the automotive sector struggles under the weight of U.S. tariffs.",
+   "published": "2026-11-20T17:25:02+00:00"
+  },
   {
    "id": "https://joc.com/article/questions-aplenty-as-debate-around-up-deal-for-norfolk-southern-heats-up-6327263",
    "title": "Questions aplenty as debate around UP deal for Norfolk Southern heats up",
@@ -1128,35 +1158,6 @@
    ],
    "excerpt": "Brent crude fell 0.46% to $92.68 a barrel. The wider market pressure overshadowed spikes in attacks in the Persian Gulf, which have threatened to imperil a rebound in energy flows from the region.",
    "published": "2026-11-18T13:25:29+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=328724",
-   "title": "Transatlantic airfreight rates at highest level for four years",
-   "url": "https://theloadstar.com/transatlantic-airfreight-rates-at-highest-level-for-four-years/",
-   "source": "The Loadstar",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Capacity"
-   ],
-   "excerpt": "Transatlantic airfreight rates have hit their highest level since December 2022, as peak-season demand and tightening capacity push prices up – although last week’s US aviation disruption appears to have had little additional impact. According to Freightos, Europe-US rates jumped 12% last week, to…",
-   "published": "2026-11-18T13:10:27+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586432",
-   "title": "Redwood report lists 9 warning signs for shippers picking a 4PL",
-   "url": "https://www.freightwaves.com/news/redwood-state-of-4pl-2027-warning-signs",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [],
-   "excerpt": "Redwood Logistics is telling shippers to slow down any 4PL selection that shows one of nine warning signs, starting with managed transportation rebranded as a 4PL. The checklist anchors the State of 4PL 2027 report the Chicago-based company released Nov.",
-   "published": "2026-11-18T13:00:00+00:00"
   }
  ]
 }
