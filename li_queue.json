@@ -1,4 +1,52 @@
 {
  "last_digest": "2026-11-20",
- "queue": []
+ "queue": [
+  {
+   "id": "https://www.freightwaves.com/?p=586582",
+   "title": "Trucker sentenced in $7.2 million cargo theft scheme involving legitimate freight contracts",
+   "url": "https://www.freightwaves.com/news/trucker-sentenced-in-7-2-million-cargo-theft-scheme-involving-legitimate-freight-contracts",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Fraud"
+   ],
+   "excerpt": "A California trucking company owner received 30 months in federal prison for participating in a $7.2 million cargo theft scheme. Criminals used legitimate transportation contracts to obtain shipments before diverting merchandise from warehouses across Southern California.",
+   "published": "2026-11-20T15:00:48+00:00"
+  },
+  {
+   "id": "https://www.supplychaindive.com/news/nvidia-gets-more-supplier-capacity-to-meet-ai-demand/875238/",
+   "title": "Nvidia gets more supplier capacity to meet AI demand",
+   "url": "https://www.supplychaindive.com/news/nvidia-gets-more-supplier-capacity-to-meet-ai-demand/875238/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Capacity",
+    "Tech"
+   ],
+   "excerpt": "The chipmaker unveiled the latest production agreements a month after securing other deals from partners.",
+   "published": "2026-11-20T15:19:00+00:00"
+  },
+  {
+   "id": "https://theloadstar.com/?p=328884",
+   "title": "The $1bn parking question – STB says railroads can charge even when cars and land are private",
+   "url": "https://theloadstar.com/the-1bn-parking-question-stb-says-railroads-can-charge-even-when-cars-and-land-are-private/",
+   "source": "The Loadstar",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Under the radar: CSX and Norfolk Southern collected nearly $1 billion in annual demurrage revenue in 2021. And now a federal ruling has reinforced their authority to charge for private railcars held at a Pennsylvania industrial park, following a dispute that produced a $354,000 court judgment.",
+   "published": "2026-11-20T15:25:59+00:00"
+  }
+ ]
 }
