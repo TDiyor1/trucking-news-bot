@@ -1,6 +1,183 @@
 {
- "updated": "2026-11-20T07:04:22+00:00",
+ "updated": "2026-11-20T15:02:13+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/epa-2027-nox-final-review",
+   "title": "EPA’s revised 2027 NOx rule enters final review",
+   "url": "https://www.ttnews.com/articles/epa-2027-nox-final-review",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "The regulatory uncertainty has affected truck purchasing decisions, with many carriers awaiting clarity on truck pricing before making investments.",
+   "published": "2026-11-20T14:43:30+00:00"
+  },
+  {
+   "id": "https://www.supplychaindive.com/news/target-boosts-on-shelf-availability-aided-by-stronger-tech/875117/",
+   "title": "Target boosts on-shelf availability, aided by stronger tech",
+   "url": "https://www.supplychaindive.com/news/target-boosts-on-shelf-availability-aided-by-stronger-tech/875117/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The retailer is using artificial intelligence and advanced data science to make smarter and faster inventory decisions, COO Lisa Roath said.",
+   "published": "2026-11-20T14:38:53+00:00"
+  },
+  {
+   "id": "https://www.logisticsmgmt.com/article/ftrs_shippers_conditions_index_takes_another_backwards_step",
+   "title": "FTR’s Shippers Conditions Index takes another backwards step",
+   "url": "https://www.logisticsmgmt.com/article/ftrs_shippers_conditions_index_takes_another_backwards_step",
+   "source": "Logistics Management",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Rates",
+    "Capacity"
+   ],
+   "excerpt": "The new edition of the Shippers Conditions Index (SCI), which was recently released by freight transportation consultancy FTR, saw further declines, as has been the case in recent months. The SCI is a key logistics metric showing freight market health for shippers, combining factors like rates,…",
+   "published": "2026-11-20T14:16:00+00:00"
+  },
+  {
+   "id": "https://www.logisticsmgmt.com/article/u.s_ral_carload_and_intermodal_volumes_post_annual_gains_for_week_ending_november_14_reports_aar",
+   "title": "U.S. ral carload and intermodal volumes post annual gains, for week ending November 14, reports AAR",
+   "url": "https://www.logisticsmgmt.com/article/u.s_ral_carload_and_intermodal_volumes_post_annual_gains_for_week_ending_november_14_reports_aar",
+   "source": "Logistics Management",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "United States rail carload and intermodal volumes posted annual gains, for the week ending November 14, according to data issued this week by the Association of American Railroads (AAR). Rail carloads, at 230,260, posted a 3.3% annual gain, topping the week ending November 7, at 227,914, and…",
+   "published": "2026-11-20T14:00:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586709",
+   "title": "14 charged in $22.5 million cargo theft ring that stopped moving freight trains",
+   "url": "https://www.freightwaves.com/news/14-charged-in-22-5-million-cargo-theft-ring-that-stopped-moving-freight-trains",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Fraud",
+    "Ports/Rail"
+   ],
+   "excerpt": "Federal prosecutors charged 14 people in an alleged $22.5 million cargo theft conspiracy targeting freight trains across Southern California. Nathan Daniel Angel, 21, of East Los Angeles, allegedly coordinated burglaries involving more than 70 shipping containers.",
+   "published": "2026-11-20T13:57:54+00:00"
+  },
+  {
+   "id": "https://www.freightcaviar.com/stories/shippers-pay-up",
+   "title": "🎣 Shippers, Pay Up",
+   "url": "https://www.freightcaviar.com/stories/shippers-pay-up",
+   "source": "Freight Caviar",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "EASE’s bids show a shift to shorter contracts as Werner pushes for double-digit increases in contract rates.",
+   "published": "2026-11-20T13:55:00+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/oil-prices-robust-supply",
+   "title": "Oil prices drop on robust supply",
+   "url": "https://www.ttnews.com/articles/oil-prices-robust-supply",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Brent crude fell 0.6% to $91.44 a barrel as traders weighed the risk of renewed U.S. strikes on Iran against ample supply.",
+   "published": "2026-11-20T13:40:45+00:00"
+  },
+  {
+   "id": "https://theloadstar.com/?p=328878",
+   "title": "Transpac spots finally on the slide, but Asia-Med spike a surprise",
+   "url": "https://theloadstar.com/transpac-spots-finally-on-the-slide-but-asia-med-spike-a-surprise/",
+   "source": "The Loadstar",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Ports/Rail"
+   ],
+   "excerpt": "Container spot freight rates on the transpacific trades finally began to show more normal slack-season behaviour this week, with significant declines from Asia to both the US west and east coasts. However, spot rates on the Asia-Europe trade moved in the opposite direction, with Asia-Mediterranean…",
+   "published": "2026-11-20T13:27:40+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586693",
+   "title": "Werner and Bennett turn AI dashcams toward crash prevention",
+   "url": "https://www.freightwaves.com/news/werner-bennett-ai-dashcams-crash-prevention",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Truck cameras long served fleets after a crash, as evidence to reconstruct what happened and size up their exposure in court. Carriers including Werner Enterprises now use that AI-powered video and telematics data to spot risky driving and coach it out before a crash.",
+   "published": "2026-11-20T13:00:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586687",
+   "title": "Einride books $167M in contracted revenue, targets $250M",
+   "url": "https://www.freightwaves.com/news/einride-q3-contracted-revenue-nvidia-alpamayo",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Einride expects to end 2027 bringing in revenue at an annualized pace of about $250 million, with more than 65% of it covered by signed customer contracts. The Swedish autonomous and electric freight company gave the outlook Wednesday in its third-quarter business update .",
+   "published": "2026-11-20T12:30:00+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/16542172",
+   "title": "Freight costs jump 32% as volumes stall",
+   "url": "https://www.ccjdigital.com/business/article/16542172/freight-spending-jumps-32-as-volumes-barely-move",
+   "source": "CCJ",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Rates",
+    "Diesel",
+    "Capacity"
+   ],
+   "excerpt": "Freight volume barely moved in the third quarter, yet shippers paid more to haul them. According to the U.S. Bank Freight Payment Index, the truck freight market was shaped by three trends: tightening capacity putting upward pressure on rates, higher diesel prices driving up shipper costs , and…",
+   "published": "2026-11-20T11:46:06+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586737",
+   "title": "US rail traffic rises 7.3% as intermodal gains 10.7% in latest week",
+   "url": "https://www.freightwaves.com/news/us-rail-traffic-rises-7-3-as-intermodal-gains-10-7-in-latest-week",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "U.S. rail traffic rose 7.3% in the week ending November 14, 2026, compared with the same week last year, as double-digit intermodal growth outpaced gains in conventional carload shipments, according to the Association of American Railroads. Intermodal volume increased 10.7% year over year, while…",
+   "published": "2026-11-20T11:20:00+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16542224",
    "title": "Bill to require bathroom access for truckers advances in Senate",
@@ -971,188 +1148,6 @@
    ],
    "excerpt": "How low can we go? The national average price for diesel dropped for the third consecutive week, falling below $6 per gallon.",
    "published": "2026-11-17T19:39:06+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104766",
-   "title": "Eyes on the road: New bill aims to tackle CDL fraud",
-   "url": "https://landline.media/eyes-on-the-road-new-bill-aims-to-tackle-cdl-fraud/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation",
-    "Fraud"
-   ],
-   "excerpt": "Truckers are in a unique position to spot CDL fraud. A new bill aims to provide a permanent way for their concerns to be heard.",
-   "published": "2026-11-17T19:32:57+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104769",
-   "title": "Kenworth joins growing recall over Meritor drivelines",
-   "url": "https://landline.media/kenworth-joins-growing-recall-over-meritor-drivelines/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Unusual vibration or noise in your new Kenworth? A defect affecting several models could have serious consequences.",
-   "published": "2026-11-17T19:31:27+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104762",
-   "title": "Pennsylvania clears a roadblock to fixing local bridges",
-   "url": "https://landline.media/pennsylvania-clears-a-roadblock-to-fixing-local-bridges/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "A new Pennsylvania law lets counties use existing state funds to repair town- and city-owned bridges. Could more local bridges get fixed?",
-   "published": "2026-11-17T19:30:49+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586379",
-   "title": "Maersk and Hapag-Lloyd restore Asia-Europe Suez routes as U.S. shippers watch capacity and costs",
-   "url": "https://www.freightwaves.com/news/maersk-and-hapag-lloyd-restore-asia-europe-suez-routes-as-u-s-shippers-watch-capacity-and-costs",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Capacity"
-   ],
-   "excerpt": "Maersk and Hapag-Lloyd announced today that their Gemini Cooperation’s AE1, AE2 and AE3 services will return to the trans-Suez route and Red Sea, replacing diverted voyages around Africa. The changes, in a phased transition extending from December into January, affect Asia-Europe services, but…",
-   "published": "2026-11-17T17:42:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/lack-empty-tankers-gulf-oil",
-   "title": "Lack of empty tankers puts Gulf oil flow at risk",
-   "url": "https://www.ttnews.com/articles/lack-empty-tankers-gulf-oil",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Diesel"
-   ],
-   "excerpt": "Oil tanker rates have declined from record levels over the past few weeks, helping to reduce the cost of delivering crude to customers. Any shortage in the number of empty vessels would support rates.",
-   "published": "2026-11-17T17:30:50+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586369",
-   "title": "Broker RXO says TL spot rates not entering deflationary phase",
-   "url": "https://www.freightwaves.com/news/broker-rxo-says-tl-spot-rates-not-entering-deflationary-phase",
-   "source": "FreightWaves",
-   "audience": [
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Diesel"
-   ],
-   "excerpt": "Freight broker RXO said Tuesday that even though truckload spot rates have cooled in the fourth quarter, the market is not entering deflationary territory. RXO’s ( NYSE: RXO ) linehaul rate dataset, which excludes fuel surcharges, jumped 37.9% year over year in the third quarter, to “levels not…",
-   "published": "2026-11-17T17:13:00+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/new-york-state-fends-off-federal-move-to-withhold-highway-funding/874822/",
-   "title": "New York state fends off federal move to withhold highway funding",
-   "url": "https://www.truckingdive.com/news/new-york-state-fends-off-federal-move-to-withhold-highway-funding/874822/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "A federal appeals court ruled against the federal government, concluding an FMCSA noncompliance determination was improper regarding non-domiciled CDLs and commercial learner permits.",
-   "published": "2026-11-17T16:48:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586363",
-   "title": "Red Sea overcapacity looms as ocean container spot rates still 50% above year-ago",
-   "url": "https://www.freightwaves.com/news/red-sea-overcapacity-looms-as-ocean-container-spot-rates-still-50-above-year-ago",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Capacity",
-    "Ports/Rail"
-   ],
-   "excerpt": "Ocean container freight rates remained elevated on major east-west trade lanes, even as container carriers’ growing return to the Red Sea and an expanding global fleet raised the prospect of downward pressure on prices in 2027. Asia-Europe prices were broadly stable for the week ending Nov.",
-   "published": "2026-11-17T16:28:34+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586359",
-   "title": "SONAR Pricing Power Index Falls to 68 as Truckload Demand Weakens",
-   "url": "https://www.freightwaves.com/news/sonar-pricing-power-index-falls-to-68-as-truckload-demand-weakens",
-   "source": "FreightWaves SONAR",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Ports/Rail"
-   ],
-   "excerpt": "Accepted truckload volume gave back its recent gains and fell to the 13th percentile, intermodal contract rates dropped to the 65th percentile and ocean bookings declined for a second straight week. Rail volume held near its five-year high, the national spot rate firmed to $3.56 and rejections…",
-   "published": "2026-11-17T15:59:57+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586353",
-   "title": "Oil market slide brings benchmark diesel under $6 level",
-   "url": "https://www.freightwaves.com/news/oil-market-slide-brings-benchmark-diesel-under-6-level",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Oil prices are in the middle of their biggest downturn since the military action by the U.S. and Israel began at the start of March, and the benchmark price used for most fuel surcharges is trying to keep up. The Department of Energy/Energy Information Administration average retail diesel price…",
-   "published": "2026-11-17T15:50:51+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/truckload-carriers-compete-over-drivers-but-not-just-with-money/874713/",
-   "title": "Truckload carriers compete over drivers — but not just with money",
-   "url": "https://www.truckingdive.com/news/truckload-carriers-compete-over-drivers-but-not-just-with-money/874713/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Rates",
-    "Capacity"
-   ],
-   "excerpt": "Executives recently shared growth priorities for how they are building safe, reliable capacity amid rising costs to recruit and retain drivers.",
-   "published": "2026-11-17T15:39:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/carney-canada-chinese-autos",
-   "title": "Carney says Canada could turn to Chinese automakers",
-   "url": "https://www.ttnews.com/articles/carney-canada-chinese-autos",
-   "source": "Transport Topics",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs",
-    "Ports/Rail"
-   ],
-   "excerpt": "Carney said in Manila, Philippines, that any trade agreement with Washington must leave Canada with a viable auto industry.",
-   "published": "2026-11-17T15:34:38+00:00"
   }
  ]
 }
