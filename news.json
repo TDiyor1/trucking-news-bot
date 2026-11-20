@@ -1,6 +1,34 @@
 {
- "updated": "2026-11-20T19:02:15+00:00",
+ "updated": "2026-11-20T19:32:28+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104864",
+   "title": "Another independent contractor rule. What changes for owner-operators?",
+   "url": "https://landline.media/another-independent-contractor-rule-what-changes-for-owner-operators/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "New independent contractor rules say carriers can’t hide micromanaging behind ‘safety’ and put predatory lease-purchase deals on notice.",
+   "published": "2026-11-20T19:10:18+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104861",
+   "title": "Detour ahead: Feds to close northern border crossing until 2028",
+   "url": "https://landline.media/detour-ahead-feds-to-close-northern-border-crossing-until-2028/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "A U.S.-Canadian border crossing is closing for a year or more. Find out which one and what routes you can take to avoid delays.",
+   "published": "2026-11-20T19:07:22+00:00"
+  },
   {
    "id": "https://landline.media/?p=104850",
    "title": "Your truck is on camera. Who gets to track it?",
@@ -1128,34 +1156,6 @@
    ],
    "excerpt": "The coffeehouse chain has been testing a 24-hour operating model to improve inventory availability and build an overall faster, more reliable supply chain.",
    "published": "2026-11-18T15:38:15+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/nevoya-developing-arizona-california-i-10-electric-truck-route/874721/",
-   "title": "Nevoya developing Arizona-California I-10 electric truck route",
-   "url": "https://www.truckingdive.com/news/nevoya-developing-arizona-california-i-10-electric-truck-route/874721/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Social media giant Meta is funding the electric trucking corridor by buying environmental certificates to lower its own emissions profile.",
-   "published": "2026-11-18T15:02:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16425526",
-   "title": "Raising insurance minimums: What’s good, what’s bad, and what’s just noise",
-   "url": "https://www.ccjdigital.com/business/insurance/article/16425526/will-raising-trucking-insurance-minimums-affect-your-fleet",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "If you’ve spent any time around the trucking industry over the last decade, you know that certain policy debates are like dirty pennies: They just keep turning up. Lawmakers have formally introduced at least five major legislative proposals since 2019 to raise the $750,000 minimum liability…",
-   "published": "2026-11-18T14:39:42+00:00"
   }
  ]
 }
