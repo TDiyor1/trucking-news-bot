@@ -1,6 +1,65 @@
 {
- "updated": "2026-11-20T16:32:09+00:00",
+ "updated": "2026-11-20T17:02:14+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/trucking-call-on-washington",
+   "title": "Trucking groups press Congress for lame-duck action",
+   "url": "https://www.ttnews.com/articles/trucking-call-on-washington",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation",
+    "Fraud"
+   ],
+   "excerpt": "Industry representatives from six states advocated for federal legislation addressing lawsuit abuse, accident fraud and funding for highways and truck parking.",
+   "published": "2026-11-20T16:59:42+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/nyc-weigh-overhaul-amazon",
+   "title": "NYC lawmakers weigh overhaul of Amazon delivery worker bill",
+   "url": "https://www.ttnews.com/articles/nyc-weigh-overhaul-amazon",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "Amazon has threatened to pull its logistics operations out of the city if it is required to directly employ all of its delivery workers, as the bill currently proposes.",
+   "published": "2026-11-20T16:38:08+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586760",
+   "title": "Mexico tightens trucking oversight with new digital compliance rules",
+   "url": "https://www.freightwaves.com/news/mexico-tightens-trucking-oversight-with-new-digital-compliance-rules",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "Mexico has introduced new requirements for commercial trucking companies seeking voluntary federal certification. The new program places greater emphasis on digital monitoring, vehicle weight compliance and internal operational controls as the country works to strengthen highway safety and…",
+   "published": "2026-11-20T16:37:12+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586751",
+   "title": "Union Pacific–Norfolk Southern merger draws labor support, shipper concerns",
+   "url": "https://www.freightwaves.com/news/union-pacific-norfolk-southern-merger-draws-labor-support-shipper-concerns",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Union Pacific and Norfolk Southern have urged the Surface Transportation Board to continue reviewing their proposed merger, pushing back against Canadian Pacific Kansas City’s request to terminate the proceeding as four rail labor organizations endorsed the transaction.",
+   "published": "2026-11-20T16:10:31+00:00"
+  },
   {
    "id": "https://www.truckingdive.com/news/trucking-groups-praise-labor-departments-flip-of-independent-contractor-ru/875285/",
    "title": "Trucking groups praise Labor Department’s flip of independent contractor rule",
@@ -1095,63 +1154,6 @@
    "tags": [],
    "excerpt": "Illinois dry van carrier GP Transco ( CCJ Top 250 , No. 146) has a plan to put an additional 50 drivers on the road by the end of this year, and so far, the company has made strides toward its goal. Sergey Bort, vice president of marketing and communication, said the company’s classrooms have been…",
    "published": "2026-11-18T12:43:35+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16541869",
-   "title": "Saia seeks exemption to allow CLP holders to pull doubles with supervision",
-   "url": "https://www.ccjdigital.com/regulations/article/16541869/saia-seeks-exemption-to-allow-clp-holders-to-pull-doubles-with-supervision",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "Trucking news and briefs for Wednesday, Nov. 18, 2026: Saia requests exemption to allow CLP holders to pull doubles Saia LTL Freight ( CCJ Top 250 , No. 18) has petitioned the Federal Motor Carrier Safety Administration for an exemption that would allow its driver trainees to pull doubles without a…",
-   "published": "2026-11-18T06:07:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586441",
-   "title": "Nasdaq gives Hub Group more time to produce delayed financial filings",
-   "url": "https://www.freightwaves.com/news/nasdaq-gives-hub-group-more-time-to-produce-delayed-financial-filings",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Hub Group announced Tuesday that Nasdaq has given it until the end of the year to submit its delayed financial filings. Its shares will continue to trade on the exchange in the interim. Hub Group ( NASDAQ: HUBG ) submitted a plan to regain compliance at an Oct. 27 hearing.",
-   "published": "2026-11-17T22:54:31+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586427",
-   "title": "Western Star films 49X logger in Daimler vocational push",
-   "url": "https://www.freightwaves.com/news/western-star-49x-on-the-job-vocational",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Winter brings some of the busiest months of the year for loggers in northern Wisconsin. Frozen ground lets loaded trucks reach deeper into the woods and haul timber miles off-road to the mill. Western Star’s latest video follows one of those trucks. The second episode of the brand’s “On the Job”…",
-   "published": "2026-11-17T21:57:04+00:00"
-  },
-  {
-   "id": "https://joc.com/article/economic-indicators-increasingly-signal-stronger-us-freight-market-6325525",
-   "title": "Economic indicators increasingly signal stronger US freight market",
-   "url": "https://joc.com/article/economic-indicators-increasingly-signal-stronger-us-freight-market-6325525",
-   "source": "JOC",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Capacity"
-   ],
-   "excerpt": "Growing US freight demand is putting more pressure on diminished trucking capacity and pricing, according to a round of fresh data.",
-   "published": "2026-11-17T21:21:14+00:00"
   }
  ]
 }
