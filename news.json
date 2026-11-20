@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T22:48:05+00:00",
+ "updated": "2026-11-20T23:18:06+00:00",
  "items": [
   {
    "id": "https://www.freightwaves.com/?p=586802",
@@ -40,6 +40,20 @@
    "tags": [],
    "excerpt": "Economic growth so far this year has primarily hinged on the level of spending on artificial intelligence, according to Apollo Global Management Chief Economist Torsten Slok.",
    "published": "2026-11-20T20:54:00+00:00"
+  },
+  {
+   "id": "https://www.logisticsmgmt.com/article/ata_praises_restoration_of_labor_protections_for_owner_operators",
+   "title": "ATA praises restoration of labor protections for owner-operators",
+   "url": "https://www.logisticsmgmt.com/article/ata_praises_restoration_of_labor_protections_for_owner_operators",
+   "source": "Logistics Management",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "The American Trucking Associations is lauding what it calls “a watershed moment” in a years-long battle to restore labor protections for over 350,000 independent truckers. A final independent contractor rule issued by Labor Department will rescind what ATA calls “a destructive, Biden-era…",
+   "published": "2026-11-20T20:35:00+00:00"
   },
   {
    "id": "https://joc.com/article/customs-brokers-navigate-shifting-trade-regulatory-landscape-in-us-6327316",
@@ -1141,20 +1155,6 @@
    ],
    "excerpt": "Commercial truck enforcement operations across the U.S. and Canada have uncovered hundreds of safety violations, sidelining trucks and drivers for defective brakes, unsafe tires, licensing violations and other regulatory infractions. Recent enforcement actions in more than a dozen U.S.",
    "published": "2026-11-18T17:25:46+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16541819",
-   "title": "Owner to outlaw: How Motus forced trucker to skirt rules he says he never broke",
-   "url": "https://www.ccjdigital.com/regulations/safety-compliance/article/16541819/fmcsa-computer-glitch-leaves-colorado-truckers-usdot-inactive",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "After 20 years in the Air Force Reserve and more than 40 years behind the wheel of a commercial truck, Darryl Gibbs thought he'd jumped every hurdle trucking could throw at him. But the owner-operator and Aurora, Colorado, resident recently found himself in uncharted waters -- at least uncharted…",
-   "published": "2026-11-18T16:53:32+00:00"
   }
  ]
 }
