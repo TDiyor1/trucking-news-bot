@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-20T15:32:08+00:00",
+ "updated": "2026-11-20T16:02:01+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=586743",
+   "title": "BlueGrace Logistics secures Littlejohn as new private equity partner",
+   "url": "https://www.freightwaves.com/news/bluegrace-logistics-secures-littlejohn-as-new-private-equity-partner",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "BlueGrace Logistics announced it will change private equity hands. The managed logistics provider said middle-market investor Littlejohn & Co. will replace Warburg Pincus as its primary growth partner. Financial terms of the transaction were not disclosed.",
+   "published": "2026-11-20T15:37:46+00:00"
+  },
   {
    "id": "https://theloadstar.com/?p=328884",
    "title": "The $1bn parking question – STB says railroads can charge even when cars and land are private",
@@ -1137,20 +1149,6 @@
    "tags": [],
    "excerpt": "A decision handed down by the U.S. Supreme Court Monday is setting up the possibility of a major decision on the question of shipper and recipient liability in a post-Montgomery world. The high court granted certiorari in the case of Casarez vs. Irigoyen Farms et. al.",
    "published": "2026-11-17T21:19:22+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/mexican-class-8-october-2026",
-   "title": "Mexican Class 8 truck production rebounds in October",
-   "url": "https://www.ttnews.com/articles/mexican-class-8-october-2026",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "Production levels remained significantly elevated compared with the same period 12 months earlier, when demand continued to be weak across the U.S. and Canada.",
-   "published": "2026-11-17T21:17:04+00:00"
   }
  ]
 }
