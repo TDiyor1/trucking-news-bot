@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-20T04:51:00+00:00",
+ "updated": "2026-11-20T07:04:22+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16542224",
+   "title": "Bill to require bathroom access for truckers advances in Senate",
+   "url": "https://www.ccjdigital.com/regulations/article/16542224/bill-to-require-bathroom-access-for-truckers-advances-in-senate",
+   "source": "CCJ",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "Trucking news and briefs for Friday, Nov. 20, 2026: Truckers’ bathroom-access bill advances A bill that would require shippers and receivers to provide restroom access for truck drivers under certain circumstances has cleared its first hurdle in the U.S.",
+   "published": "2026-11-20T06:18:00+00:00"
+  },
   {
    "id": "https://www.dat.com/blog/?p=27747",
    "title": "Reefer Produce Report: California produce rates climb as lettuce heads to the desert and Thanksgiving nears",
@@ -1138,20 +1153,6 @@
    ],
    "excerpt": "Carney said in Manila, Philippines, that any trade agreement with Washington must leave Canada with a viable auto industry.",
    "published": "2026-11-17T15:34:38+00:00"
-  },
-  {
-   "id": "https://www.logisticsmgmt.com/article/national_diesel_average_falls_below_the_6_per_gallon_mark_for_first_time_since_mid_september",
-   "title": "National diesel average falls below the $6 per gallon mark for first time since mid-September",
-   "url": "https://www.logisticsmgmt.com/article/national_diesel_average_falls_below_the_6_per_gallon_mark_for_first_time_since_mid_september",
-   "source": "Logistics Management",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "The national average price per gallon of diesel gasoline declined for the third consecutive week, according to data issued today by the Department of Energy’s Energy Information Administration (EIA). For the week of November 16, the national average price per gallon, at $5.937, dropped $0.19, its…",
-   "published": "2026-11-17T15:32:00+00:00"
   }
  ]
 }
