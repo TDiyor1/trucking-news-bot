@@ -1,6 +1,49 @@
 {
- "updated": "2026-11-20T18:02:13+00:00",
+ "updated": "2026-11-20T18:32:26+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104850",
+   "title": "Your truck is on camera. Who gets to track it?",
+   "url": "https://landline.media/your-truck-is-on-camera-who-gets-to-track-it/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "License plate readers can record where trucks travel and when. Lawmakers are fighting over who can access that data and how long it stays on file.",
+   "published": "2026-11-20T18:12:51+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/north-dakota-drillers-trucks",
+   "title": "North Dakota drillers tap trucks during pipeline outage",
+   "url": "https://www.ttnews.com/articles/north-dakota-drillers-trucks",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Capacity"
+   ],
+   "excerpt": "A prolonged outage of an Enbridge-operated pipeline forces drillers to look for alternatives to avoid shutting down production.",
+   "published": "2026-11-20T18:07:44+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104846",
+   "title": "Pulled into the scale, placed out of service",
+   "url": "https://landline.media/pulled-into-the-scale-placed-out-of-service/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Law enforcement in one Northwest state reiterated the critical role weigh stations play in road safety during recent operations.",
+   "published": "2026-11-20T18:07:23+00:00"
+  },
   {
    "id": "https://theloadstar.com/?p=328896",
    "title": "Bloomberg Exclusive: Trump officials met privately with hedge funds on mega rail deal",
@@ -1113,51 +1156,6 @@
    ],
    "excerpt": "If you’ve spent any time around the trucking industry over the last decade, you know that certain policy debates are like dirty pennies: They just keep turning up. Lawmakers have formally introduced at least five major legislative proposals since 2019 to raise the $750,000 minimum liability…",
    "published": "2026-11-18T14:39:42+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586457",
-   "title": "J.B. Hunt sees cost pressures ease, touts dedicated wins",
-   "url": "https://www.freightwaves.com/news/j-b-hunt-sees-cost-pressures-ease-touts-dedicated-wins",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "J.B. Hunt Transport Services said Tuesday it remains focused on “disciplined growth” even though it is seeing outsized demand for its services amid scrutiny of and attrition within the supply side . It believes a measured approach positions it best to restore margins through price increases.",
-   "published": "2026-11-18T14:27:51+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586037",
-   "title": "The Lag Effect: Trucking Capacity Declines as Rates Recover",
-   "url": "https://www.freightwaves.com/news/the-lag-effect-trucking-capacity-declines-as-rates-recover",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Rates",
-    "Capacity"
-   ],
-   "excerpt": "SONAR’s new Sitrep, The Lag Effect, shows rates rising far faster than costs, capacity leaving at a record pace, and contract rates with more room to run in 2027. Truckload rates have finally outrun the cost of running a truck. SONAR’s spot linehaul index (NTIL) is up about 49% in a year and dry…",
-   "published": "2026-11-18T14:04:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/oil-prices-attacks-gulf",
-   "title": "Oil prices steady despite spikes in attacks in Persian Gulf",
-   "url": "https://www.ttnews.com/articles/oil-prices-attacks-gulf",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Brent crude fell 0.46% to $92.68 a barrel. The wider market pressure overshadowed spikes in attacks in the Persian Gulf, which have threatened to imperil a rebound in energy flows from the region.",
-   "published": "2026-11-18T13:25:29+00:00"
   }
  ]
 }
