@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-20T16:05:06+00:00",
+ "updated": "2026-11-20T16:32:09+00:00",
  "items": [
+  {
+   "id": "https://www.truckingdive.com/news/trucking-groups-praise-labor-departments-flip-of-independent-contractor-ru/875285/",
+   "title": "Trucking groups praise Labor Department’s flip of independent contractor rule",
+   "url": "https://www.truckingdive.com/news/trucking-groups-praise-labor-departments-flip-of-independent-contractor-ru/875285/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "The shift back to a weighted review of circumstances returns “clarity and order to the law in this area,” the American Trucking Associations said.",
+   "published": "2026-11-20T16:08:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=586743",
    "title": "BlueGrace Logistics secures Littlejohn as new private equity partner",
@@ -1137,18 +1152,6 @@
    ],
    "excerpt": "Growing US freight demand is putting more pressure on diminished trucking capacity and pricing, according to a round of fresh data.",
    "published": "2026-11-17T21:21:14+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586424",
-   "title": "SCOTUS action revives shipper/receiver liability post-Montgomery",
-   "url": "https://www.freightwaves.com/news/scotus-action-revives-shipper-receiver-liability-post-montgomery",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [],
-   "excerpt": "A decision handed down by the U.S. Supreme Court Monday is setting up the possibility of a major decision on the question of shipper and recipient liability in a post-Montgomery world. The high court granted certiorari in the case of Casarez vs. Irigoyen Farms et. al.",
-   "published": "2026-11-17T21:19:22+00:00"
   }
  ]
 }
