@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-21T11:44:51+00:00",
+ "updated": "2026-11-21T19:08:29+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=586815",
+   "title": "Tentative union deal averts strike at Port of LA-Long Beach",
+   "url": "https://www.freightwaves.com/news/tentative-union-deal-averts-strike-at-port-of-la-long-beach",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The Pacific Maritime Association and International Longshore and Warehouse Union Local 26 have reached a tentative contract agreement covering about 250 watchmen at the ports of Los Angeles and Long Beach, averting an immediate strike threat at the busiest U.S. trade gateway.",
+   "published": "2026-11-21T14:57:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586811",
+   "title": "DHL Express makes customs clearance easier for small cross-border shippers",
+   "url": "https://www.freightwaves.com/news/dhl-express-makes-customs-clearance-easier-for-small-cross-border-shippers",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tariffs",
+    "Tech",
+    "Ports/Rail"
+   ],
+   "excerpt": "Small businesses shipping goods to overseas customers are the primary beneficiaries of a new AI-powered tool developed by DHL Express that simplifies product classification required on customs declarations and ensures descriptions are accurate. The parcel and freight transportation company said…",
+   "published": "2026-11-21T13:38:56+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/ai-takes-call-2026",
+   "title": "AI takes the call",
+   "url": "https://www.ttnews.com/articles/ai-takes-call-2026",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "*/ /*-->*/ AI voice agents are increasingly integrated with transportation management systems to automate routine communications such as check calls and appointment scheduling.",
+   "published": "2026-11-21T12:00:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=586802",
    "title": "J.B. Hunt broker liability case proceeding after split decision",
@@ -1115,46 +1159,6 @@
    ],
    "excerpt": "The American Trucking Association wants the Federal Motor Carrier Safety Administration to go outside in its quest to dramatically slow the use of Electronic Logging Devices (ELDs) in freight fraud. In a report released earlier this week , the ATA said a certification program for approving ELDs for…",
    "published": "2026-11-18T19:12:53+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586205",
-   "title": "ABF Freight workers uncover $1.5M drug shipment headed to Ohio",
-   "url": "https://www.freightwaves.com/news/abf-freight-workers-uncover-1-5m-drug-shipment-headed-to-ohio",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [],
-   "excerpt": "ABF Freight employees discovered suspected narcotics inside a shipment from Los Angeles to Dayton, Ohio. Workers opened a package addressed to Douglas Bennett and contacted law enforcement Feb. 2, 2026. The discovery triggered a federal investigation involving cocaine, fentanyl, methamphetamine and…",
-   "published": "2026-11-18T18:51:32+00:00"
-  },
-  {
-   "id": "https://www.logisticsmgmt.com/article/qa_kyle_peacock_principal_peacock_tariff_consulting",
-   "title": "Q&A: Kyle Peacock, principal, Peacock Tariff Consulting",
-   "url": "https://www.logisticsmgmt.com/article/qa_kyle_peacock_principal_peacock_tariff_consulting",
-   "source": "Logistics Management",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "Logistics Management Group News Editor Jeff Berman recently spoke with Kyle Peacock, tariff and trade expert and Principal of Peacock Tariff Consulting, an international trade consulting firm helping businesses manage the costs, risks, and regulatory complexities associated with importing and…",
-   "published": "2026-11-18T18:49:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586502",
-   "title": "Over 284 out-of-service violations uncovered in latest truck enforcement blitzes",
-   "url": "https://www.freightwaves.com/news/over-284-out-of-service-violations-uncovered-in-latest-truck-enforcement-blitzes",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "Commercial truck enforcement operations across the U.S. and Canada have uncovered hundreds of safety violations, sidelining trucks and drivers for defective brakes, unsafe tires, licensing violations and other regulatory infractions. Recent enforcement actions in more than a dozen U.S.",
-   "published": "2026-11-18T17:25:46+00:00"
   }
  ]
 }
