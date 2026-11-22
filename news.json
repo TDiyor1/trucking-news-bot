@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-22T06:37:57+00:00",
+ "updated": "2026-11-22T14:54:00+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=586803",
+   "title": "Borderlands Mexico: Truckers secure 29 agreements on highway safety after nationwide strike",
+   "url": "https://www.freightwaves.com/news/borderlands-mexico-truckers-secure-29-agreements-on-highway-safety-after-nationwide-strike",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade. This week in Borderlands Mexico: Truckers secure 29 agreements on highway safety after nationwide strike; MISUMI Americas expands Mexico operations with new…",
+   "published": "2026-11-22T12:00:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=586767",
    "title": "Shippers’ backup plan is getting more expensive",
@@ -1144,20 +1159,6 @@
    ],
    "excerpt": "Truckers have been denied restroom access for years. This week, a Senate committee advanced a bill aimed at changing that.",
    "published": "2026-11-18T20:00:34+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104791",
-   "title": "Heavier trucks, bigger risks? Texas weighs new rules",
-   "url": "https://landline.media/heavier-trucks-bigger-risks-texas-weighs-new-rules/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "New Texas bills could tighten hazmat truck penalties while giving other heavy haulers more weight flexibility. See who benefits and who could pay.",
-   "published": "2026-11-18T19:43:29+00:00"
   }
  ]
 }
