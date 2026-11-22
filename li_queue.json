@@ -1,4 +1,19 @@
 {
  "last_digest": "2026-11-21",
- "queue": []
+ "queue": [
+  {
+   "id": "https://www.freightwaves.com/?p=586767",
+   "title": "Shippers’ backup plan is getting more expensive",
+   "url": "https://www.freightwaves.com/news/shippers-backup-plan-is-getting-more-expensive",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "Chart of the Week: Routing Guide Premium, 2nd Tender, Routing Guide Acceptance Share for the first tender – USA SONAR : RGP2.USA, RGAS1.USA The price of a rejected tender jumped this week. SONAR’s Routing Guide Premium for the 2nd tender (RGP2) climbed to 10.69% on Thursday, up 1.87 percentage…",
+   "published": "2026-11-22T01:30:00+00:00"
+  }
+ ]
 }
