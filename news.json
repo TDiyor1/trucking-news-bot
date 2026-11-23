@@ -1,6 +1,179 @@
 {
- "updated": "2026-11-23T09:45:39+00:00",
+ "updated": "2026-11-23T15:18:17+00:00",
  "items": [
+  {
+   "id": "https://www.truckingdive.com/news/werner-enterprises-works-to-restore-its-powerlink-network/875177/",
+   "title": "Werner Enterprises works to restore its PowerLink network",
+   "url": "https://www.truckingdive.com/news/werner-enterprises-works-to-restore-its-powerlink-network/875177/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Rebuilding following competitor poaching and improved pricing are helping the carrier turn around a year’s worth of operating losses in its logistics segment.",
+   "published": "2026-11-23T14:56:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586860",
+   "title": "C.H. Robinson: no evidence of racketeering, wants RICO case moved",
+   "url": "https://www.freightwaves.com/news/c-h-robinson-no-evidence-of-racketeering-wants-rico-case-moved",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "C.H. Robinson has responded to the lawsuit by several carriers that it had engaged in activity that violates the Racketeer Influenced and Corrupt Organizations Act (RICO), at one point describing some of the charges against it as “non-actionable puffery.” The response filed by C.H.",
+   "published": "2026-11-23T14:47:38+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/canada-stellantis-options",
+   "title": "Canada offers Stellantis options to keep Ontario plant open",
+   "url": "https://www.ttnews.com/articles/canada-stellantis-options",
+   "source": "Transport Topics",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "Industry Minister Mélanie Joly, Ontario Premier Doug Ford and Unifor National President Lana Payne met with Stellantis CEO Antonio Filosa over the company’s plan to sell its plant in Brampton, Ontario.",
+   "published": "2026-11-23T14:39:32+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586851",
+   "title": "Asia–US East Coast ocean freight rates top $10,000, up 300% from a year ago",
+   "url": "https://www.freightwaves.com/news/asia-us-east-coast-ocean-freight-rates-top-10000-up-300-from-a-year-ago",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Capacity",
+    "Ports/Rail"
+   ],
+   "excerpt": "Container shipping spot rates from Asia to the United States declined in the latest week as offered capacity increased on routes to both U.S. coasts, according to Xeneta’s latest market update. Average rates to the U.S. West Coast fell 1.7% to $8,203 per 40-foot container (FEU), while rates to the…",
+   "published": "2026-11-23T14:35:03+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/oil-prices-supply-tensions",
+   "title": "Oil prices dip as ample supply balances Persian Gulf tensions",
+   "url": "https://www.ttnews.com/articles/oil-prices-supply-tensions",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "Brent crude fell 2.2% to $90.46&nbsp;a barrel. Global benchmark Brent has dropped by about a fifth this month after Trump held off on renewed strikes following the midterm elections.&nbsp;",
+   "published": "2026-11-23T14:00:00+00:00"
+  },
+  {
+   "id": "https://www.freightcaviar.com/stories/holiday-freight-capacity-squeeze",
+   "title": "🎣 The Holiday Squeeze",
+   "url": "https://www.freightcaviar.com/stories/holiday-freight-capacity-squeeze",
+   "source": "Freight Caviar",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Capacity"
+   ],
+   "excerpt": "Arrive expects holiday rate pressure to last into January, with truck capacity staying tight through Q1 2027.",
+   "published": "2026-11-23T13:55:00+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/high-diesel-prices-stafford-act",
+   "title": "Perspective: High diesel costs warrant invoking Stafford Act",
+   "url": "https://www.ttnews.com/articles/high-diesel-prices-stafford-act",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "President Trump should invoke the Stafford Disaster Relief and Emergency Assistance Act to help with the high cost of diesel, writes Colorado trucking leader Greg Fulton.",
+   "published": "2026-11-23T13:00:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586837",
+   "title": "Final mile delivery prices climb 10.5% in Q3, GEODIS says",
+   "url": "https://www.freightwaves.com/news/geodis-final-mile-index-delivery-prices",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Courier and parcel prices rose 10.2% in the third quarter from a year earlier, and local freight trucking prices rose 10.7%, according to the first edition of GEODIS’ U.S. Final Mile Index . Consumer prices rose 3.5% over the same period. The index, released Nov.",
+   "published": "2026-11-23T12:30:00+00:00"
+  },
+  {
+   "id": "https://theloadstar.com/?p=328904",
+   "title": "OceanX radar: Zim outperforms; west coast strike averted; war at sea",
+   "url": "https://theloadstar.com/oceanx-radar-zim-outperforms-west-coast-strike-averted-war-at-sea/",
+   "source": "The Loadstar",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The Shenzhen APEC meeting came and went, including the highly anticipated trilateral meeting of Xi, Trump & Putin. Even if the outcome was utterly underwhelming, talking is still better than not talking. In terms of the China-US trade situation, things continue in limbo, while a “strategic…",
+   "published": "2026-11-23T11:56:04+00:00"
+  },
+  {
+   "id": "https://theloadstar.com/?p=328909",
+   "title": "Final-mile costs rising faster than revenue, say hard-pressed carriers",
+   "url": "https://theloadstar.com/final-mile-costs-rising-faster-than-revenue-say-hard-pressed-carriers/",
+   "source": "The Loadstar",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "The cost of final-mile delivery in the US has risen more than 10% over the past year, according to the Final Mile Delivery Index, published by logistics provider Geodis. It shows cost in Q3 up 10.5% on the same period in 2025, following a 10.6% year-on-year increase in the second quarter –more than…",
+   "published": "2026-11-23T11:45:03+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/16542181",
+   "title": "CCJ Innovator of the Year ramps up innovation with AI",
+   "url": "https://www.ccjdigital.com/technology/artificial-intelligence/article/16542181/gp-transco-builds-custom-solutions-without-coding",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Amos Savickas, executive vice president of operations at Illinois-based trucking company GP Transco, recently built a model for a load scoring system to be added into the carrier’s self-developed OpenRoad transportation management system . He did this by describing what he wanted in plain language,…",
+   "published": "2026-11-23T11:40:47+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/16542285",
+   "title": "NMFTA research highlights how shared ELD tech creates industry-wide cybersecurity vulnerabilities",
+   "url": "https://www.ccjdigital.com/technology/cybersecurity/article/16542285/whitelabel-elds-expose-carriers-to-cyber-risk",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Fraud",
+    "Tech"
+   ],
+   "excerpt": "There’s a whole electronic logging device (ELD) storefront on Amazon, but choosing one from a mass marketplace with third-party sellers comes with risk. “Small operators who are just going on Amazon, trying to find a cheap product to meet their needs, if it turns out that that product is fraudulent…",
+   "published": "2026-11-23T11:39:27+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16542378",
    "title": "Safe driving urged as traffic surge expected around Thanksgiving",
@@ -989,173 +1162,6 @@
    ],
    "excerpt": "Trucking news and briefs for Thursday, Nov. 19, 2026: Truck driver gets prison time for stolen fuel A truck driver who pleaded guilty over the summer to stealing more than half a million dollars from his employer through false charges to company-issued fuel cards has been sentenced to prison and…",
    "published": "2026-11-19T06:01:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16541992",
-   "title": "FMCSA's pending pile is 43% larger and nearly twice as old as it was in August",
-   "url": "https://www.ccjdigital.com/regulations/safety-compliance/article/16541992/fmcsa-motus-backlog-swells-25000-pending-applications-stalled-without-insurance",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "The Federal Motor Carrier Safety Administration's Motus Carrier table holds 7,806 more pending applications than when I first counted it Aug. 23, and the median file age has nearly doubled, from 36 days to 70. CCJ published that first count Aug. 31. I ran it again on the file as refreshed Nov.",
-   "published": "2026-11-19T01:35:00+00:00"
-  },
-  {
-   "id": "https://www.dcvelocity.com/technology/artificial-intelligence/korber-ai-investment-is-up-but-3-in-4-leaders-say-decision-making-is-now-more-complex",
-   "title": "Körber: AI investment is up, but 3 in 4 leaders say decision-making is now more complex",
-   "url": "https://www.dcvelocity.com/technology/artificial-intelligence/korber-ai-investment-is-up-but-3-in-4-leaders-say-decision-making-is-now-more-complex",
-   "source": "DC Velocity",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "AI adoption is accelerating faster than organizations' ability to execute on it, according to a report from intelligent manufacturing and supply chain solution provider Körber. That conclusion comes from a survey of 2,000 senior decision-makers in the U.S.",
-   "published": "2026-11-19T00:21:30+00:00"
-  },
-  {
-   "id": "https://www.dcvelocity.com/transportation/trucking/diesel-prices-punished-shippers-in-september-ftr-says",
-   "title": "Diesel prices punished shippers in September, FTR says",
-   "url": "https://www.dcvelocity.com/transportation/trucking/diesel-prices-punished-shippers-in-september-ftr-says",
-   "source": "DC Velocity",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Rates",
-    "Diesel"
-   ],
-   "excerpt": "Weighed down by record diesel prices, the freight market in September matched April as the second-toughest month for shippers since March 2022, according to the transportation analysis firm FTR. That result was shown by Bloomington, Indiana-based FTR’s Shippers Conditions Index (SCI), which fell…",
-   "published": "2026-11-19T00:17:34+00:00"
-  },
-  {
-   "id": "https://www.dcvelocity.com/finance-strategy/strategy/gartner-ranks-healthcare-supply-chains-led-by-adventhealth",
-   "title": "Gartner ranks healthcare supply chains, led by AdventHealth",
-   "url": "https://www.dcvelocity.com/finance-strategy/strategy/gartner-ranks-healthcare-supply-chains-led-by-adventhealth",
-   "source": "DC Velocity",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "AdventHealth claimed the No. 1 spot for the third consecutive year in the “Gartner Healthcare Supply Chain Top 25 for 2026” as top performers followed three main themes, the analyst firm said : accelerating clinical collaboration initiatives; strengthening commitment to supply chain resiliency; and…",
-   "published": "2026-11-19T00:17:02+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586589",
-   "title": "LA-Long Beach port strike risk grows as employers say ILWU talks stalled",
-   "url": "https://www.freightwaves.com/news/la-long-beach-port-strike-risk-grows-as-employers-say-ilwu-talks-stalled",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "A contract dispute involving about 250 union watchmen could disrupt cargo movement at the ports of Los Angeles and Long Beach as early as this Saturday , with the Pacific Maritime Association reporting little progress in the latest negotiations with International Longshore and Warehouse Union Local…",
-   "published": "2026-11-18T22:37:39+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104804",
-   "title": "Time is money: Congestion costs remain at near-record levels",
-   "url": "https://landline.media/time-is-money-congestion-costs-remain-at-near-record-levels/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Congestion takes a toll on your time and your bank account. According to a recent report, that cost is near-record levels.",
-   "published": "2026-11-18T21:16:54+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104800",
-   "title": "Citizen group: No more trucks!",
-   "url": "https://landline.media/citizen-group-no-more-trucks/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Truck traffic has sparked much debate in this Canadian city. Now, one group is taking the city to court over the matter.",
-   "published": "2026-11-18T21:15:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16541990",
-   "title": "Traffic congestion cost the trucking industry $128.2 billion in 2024",
-   "url": "https://www.ccjdigital.com/business/article/16541990/traffic-congestion-cost-trucking-1282b-in-2024",
-   "source": "CCJ",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [],
-   "excerpt": "Traffic congestion added $128.2 billion in costs onto the trucking industry in 2024, according to the latest Cost of Congestion study published by the American Transportation (ATRI). That is the second-highest total in the study’s history, behind a record $129.8 billion in 2023.",
-   "published": "2026-11-18T21:00:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/advance-trucker-bathroom-act",
-   "title": "Senate committee advances Trucker Bathroom Access Act",
-   "url": "https://www.ttnews.com/articles/advance-trucker-bathroom-act",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "If the bill passes Congress, it would address common bathroom access issues drivers face on the road, which is a particular problem for many female drivers, research shows.",
-   "published": "2026-11-18T20:50:52+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/fed-officials-back-rate-hike",
-   "title": "Most Fed officials back further rate hikes",
-   "url": "https://www.ttnews.com/articles/fed-officials-back-rate-hike",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Nearly all Federal Reserve officials agreed in October they would likely have to raise interest rates “in the months ahead” to return inflation to their 2% target.",
-   "published": "2026-11-18T20:30:33+00:00"
-  },
-  {
-   "id": "https://www.logisticsmgmt.com/article/pola_and_polb_face_renewed_strike_risks_ahead_of_november_21_deadline",
-   "title": "POLA and POLB face renewed strike risks ahead of November 21 deadline",
-   "url": "https://www.logisticsmgmt.com/article/pola_and_polb_face_renewed_strike_risks_ahead_of_november_21_deadline",
-   "source": "Logistics Management",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "While a labor strike at the Port of Los Angeles (POLA) and the Port of Long Beach (POLB) was averted earlier this month, when the Pacific Maritime Association (PMA), whom represents shipping lines and terminal operators at 29 West Coast ports, and IWLU Local 26 said they came to terms on a stopgap…",
-   "published": "2026-11-18T20:20:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586401",
-   "title": "From more footage to more focus: Find your fleet’s videosafety stage",
-   "url": "https://www.freightwaves.com/news/from-more-footage-to-more-focus-find-your-fleets-videosafety-stage",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "Cameras can show what happened on a route. Whether they help a driver avoid the next collision depends on two things: what the camera tells the driver on the road and what your safety team does with the footage afterward. Fleet safety managers know the pattern.",
-   "published": "2026-11-18T20:02:46+00:00"
   }
  ]
 }
