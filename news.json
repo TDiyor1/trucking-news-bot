@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-23T21:18:27+00:00",
+ "updated": "2026-11-23T21:48:28+00:00",
  "items": [
+  {
+   "id": "https://joc.com/article/author-of-ballot-measure-hails-job-protections-for-la-port-workers-6328260",
+   "title": "Author of ballot measure hails job protections for LA port workers",
+   "url": "https://joc.com/article/author-of-ballot-measure-hails-job-protections-for-la-port-workers-6328260",
+   "source": "JOC",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Measure PRT, approved overwhelmingly by voters on Nov. 3, will impact how the Los Angeles Harbor Department assesses the impact of marine terminal development projects on workers' jobs.",
+   "published": "2026-11-23T21:31:14+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16542500",
    "title": "Five petitions to FMCSA to allow non-domiciled CDL renewals",
@@ -1156,23 +1171,6 @@
    ],
    "excerpt": "The Department of Labor is returning to an approach that primarily uses two factors rather than six.",
    "published": "2026-11-19T20:51:06+00:00"
-  },
-  {
-   "id": "https://www.logisticsmgmt.com/article/capacity_constraints_continue_to_drive_truckload_rate_inflation_as_spot_rates_climb_to_2026_highs_notes_rxo_curve",
-   "title": "Capacity constraints continue to drive truckload rate inflation as spot rates climb to 2026 highs, notes RXO ‘Curve’",
-   "url": "https://www.logisticsmgmt.com/article/capacity_constraints_continue_to_drive_truckload_rate_inflation_as_spot_rates_climb_to_2026_highs_notes_rxo_curve",
-   "source": "Logistics Management",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Capacity"
-   ],
-   "excerpt": "Not to be outdone by the second quarter’s readings, third quarter spot market truckload rates followed suit, in posting the highest readings since 2021, paced by the ongoing tightening of carrier capacity, according to the new edition of the “Curve” truckload forecast, which was recently issued by…",
-   "published": "2026-11-19T20:30:00+00:00"
   }
  ]
 }
