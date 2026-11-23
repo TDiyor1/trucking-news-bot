@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-23T15:48:07+00:00",
+ "updated": "2026-11-23T16:18:04+00:00",
  "items": [
+  {
+   "id": "https://www.supplychaindive.com/news/best-buy-taps-ai-platform-for-supplier-insights/875211/",
+   "title": "Best Buy taps AI platform for supplier insights",
+   "url": "https://www.supplychaindive.com/news/best-buy-taps-ai-platform-for-supplier-insights/875211/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "The retailer is teaming up with Circana to gain visibility for more effective planning and informed decisions.",
+   "published": "2026-11-23T16:05:59+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16542477",
    "title": "Trucking runs on trust, and cyber threats are testing every link in the chain",
@@ -35,6 +49,22 @@
    ],
    "excerpt": "Many expected that 2026 would be a year of some normalcy for freight markets after suffering through several years of a “freight recession.” However, war, tighter capacity, fuel costs, and shifting tariff policies have helped to prolong the uncertainty that the freight industry has experienced for…",
    "published": "2026-11-23T15:30:10+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586820",
+   "title": "Prosecutors uncover trucking playbook in multimillion-dollar port smuggling scheme",
+   "url": "https://www.freightwaves.com/news/prosecutors-uncover-trucking-playbook-in-multimillion-dollar-port-smuggling-scheme",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Tariffs",
+    "Ports/Rail"
+   ],
+   "excerpt": "Federal prosecutors uncovered a written playbook instructing commercial truck drivers to divert shipping containers before customs inspections. The document warned about surveillance, GPS trackers and additional security seals. Investigators connected those instructions to a scheme involving tens…",
+   "published": "2026-11-23T15:22:50+00:00"
   },
   {
    "id": "https://www.truckingdive.com/news/werner-enterprises-works-to-restore-its-powerlink-network/875177/",
@@ -1138,37 +1168,6 @@
    ],
    "excerpt": "Brent crude rose 0.7% to $92.63 a barrel. Prices earlier swung between small gains and losses as Trump and his Chinese and Russian counterparts agreed to ramp up global fuel supplies.",
    "published": "2026-11-19T13:59:43+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=328795",
-   "title": "US truckers feel the squeeze as fuel price outpaces freight rates",
-   "url": "https://theloadstar.com/us-truckers-feel-the-squeeze-as-fuel-price-outpaces-freight-rates/",
-   "source": "The Loadstar",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Diesel"
-   ],
-   "excerpt": "US shippers using road haulage are increasingly abandoning annual freight contracts in favour of shorter-term agreements, as soaring diesel prices outpace freight rate increases, according to new research from EASE Logistics. The Ohio-based 3PL and 4PL provider’s Q3 26 Automotive Freight Index…",
-   "published": "2026-11-19T12:10:20+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=328788",
-   "title": "Mexico-US cargo charters still facing long wait for approval",
-   "url": "https://theloadstar.com/mexico-us-cargo-charters-still-facing-long-wait-for-approval/",
-   "source": "The Loadstar",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "Mexican cargo airlines are still facing longer waits for US approval of cross-border charter flights, even after Washington lifted restrictions on passenger services from Mexico City to the US last month. In October 2025, the US sanctioned Mexican carriers in protest over their government’s…",
-   "published": "2026-11-19T11:45:35+00:00"
   }
  ]
 }
