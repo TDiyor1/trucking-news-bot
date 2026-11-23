@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T16:48:11+00:00",
+ "updated": "2026-11-23T17:18:12+00:00",
  "items": [
   {
    "id": "https://theloadstar.com/?p=328950",
@@ -79,6 +79,21 @@
    ],
    "excerpt": "Federal prosecutors uncovered a written playbook instructing commercial truck drivers to divert shipping containers before customs inspections. The document warned about surveillance, GPS trackers and additional security seals. Investigators connected those instructions to a scheme involving tens…",
    "published": "2026-11-23T15:22:50+00:00"
+  },
+  {
+   "id": "https://www.logisticsmgmt.com/article/labor_tensions_ease_at_pola_and_polb_as_pma_ilwu_local_26_reach_tentative_deal",
+   "title": "Labor Tensions ease at POLA and POLB as PMA, ILWU Local 26 reach tentative deal",
+   "url": "https://www.logisticsmgmt.com/article/labor_tensions_ease_at_pola_and_polb_as_pma_ilwu_local_26_reach_tentative_deal",
+   "source": "Logistics Management",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Faced with a late Friday deadline on a new contact between the Pacific Maritime Association (PMA), and IWLU Local 26, labor peace between the parties was restored early Saturday, in the form of a tentative agreement on a new contract, the parties reached.",
+   "published": "2026-11-23T15:09:00+00:00"
   },
   {
    "id": "https://www.truckingdive.com/news/werner-enterprises-works-to-restore-its-powerlink-network/875177/",
@@ -1153,21 +1168,6 @@
    "tags": [],
    "excerpt": "Expeditors International is moving into a new logistics galaxy. The Seattle-based third-party logistics provider announced Wednesday that it will handle logistics for a start-up project designed to support spacecraft launches at Kennedy Space Center in Florida.",
    "published": "2026-11-19T14:50:51+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/roadrunner-adds-outbound-ltl-service-for-customers-in-canada/874503/",
-   "title": "Roadrunner adds outbound LTL service for customers in Canada",
-   "url": "https://www.truckingdive.com/news/roadrunner-adds-outbound-ltl-service-for-customers-in-canada/874503/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Rates",
-    "Tariffs"
-   ],
-   "excerpt": "A 5.9% general rate increase is helping support the enhanced network, the carrier said.",
-   "published": "2026-11-19T14:30:00+00:00"
   }
  ]
 }
