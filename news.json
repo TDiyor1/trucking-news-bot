@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-23T03:39:06+00:00",
+ "updated": "2026-11-23T09:45:39+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16542378",
+   "title": "Safe driving urged as traffic surge expected around Thanksgiving",
+   "url": "https://www.ccjdigital.com/regulations/article/16542378/safe-driving-urged-as-traffic-surge-expected-around-thanksgiving",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Trucking news and briefs for Monday, Nov. 23, 2026: National Safety Council urges safe driving ahead of Thanksgiving An estimated 428 people may die in motor vehicle crashes during the 2026 Thanksgiving holiday period, according to a National Safety Council analysis.",
+   "published": "2026-11-23T06:13:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=586803",
    "title": "Borderlands Mexico: Truckers secure 29 agreements on highway safety after nationwide strike",
@@ -1144,21 +1156,6 @@
    "tags": [],
    "excerpt": "Cameras can show what happened on a route. Whether they help a driver avoid the next collision depends on two things: what the camera tells the driver on the road and what your safety team does with the footage afterward. Fleet safety managers know the pattern.",
    "published": "2026-11-18T20:02:46+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104795",
-   "title": "Bathroom break for truckers?",
-   "url": "https://landline.media/bathroom-break-for-truckers/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "Truckers have been denied restroom access for years. This week, a Senate committee advanced a bill aimed at changing that.",
-   "published": "2026-11-18T20:00:34+00:00"
   }
  ]
 }
