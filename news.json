@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T20:48:25+00:00",
+ "updated": "2026-11-23T21:18:27+00:00",
  "items": [
   {
    "id": "https://www.ccjdigital.com/16542500",
@@ -14,6 +14,21 @@
    ],
    "excerpt": "The Federal Motor Carrier Safety Administration is requesting public feedback on requests from four individuals seeking to have their non-domiciled CDLs renewed or reinstated, and another requesting relief for certain classifications of immigrants. Each of the applicants’ situations vary due to…",
    "published": "2026-11-23T20:03:49+00:00"
+  },
+  {
+   "id": "https://www.logisticsmgmt.com/article/qa_marcos_carias_north_american_economist_at_coface",
+   "title": "Q&A: Marcos Carias, North American Economist, at Coface",
+   "url": "https://www.logisticsmgmt.com/article/qa_marcos_carias_north_american_economist_at_coface",
+   "source": "Logistics Management",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tariffs",
+    "Tech"
+   ],
+   "excerpt": "LM Group News Editor Jeff Berman interviewed Marcos Carias, North American Economist, at Coface, about various trade-related topics, including: tariffs, USMCA; the impact of AI data center buildouts on trade; and USTR investigations, among other topics, in the Q&A below.",
+   "published": "2026-11-23T19:42:00+00:00"
   },
   {
    "id": "https://landline.media/?p=104883",
@@ -1158,20 +1173,6 @@
    ],
    "excerpt": "Not to be outdone by the second quarter’s readings, third quarter spot market truckload rates followed suit, in posting the highest readings since 2021, paced by the ongoing tightening of carrier capacity, according to the new edition of the “Curve” truckload forecast, which was recently issued by…",
    "published": "2026-11-19T20:30:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586670",
-   "title": "PACCAR recalls 6,185 trucks over radar braking fault",
-   "url": "https://www.freightwaves.com/news/paccar-kenworth-peterbilt-radar-braking-recall",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "The forward radar on 6,185 Kenworth and Peterbilt trucks built between Feb. 11 and Oct. 8 can trigger braking for stopped or slow-moving vehicles in the left lane. PACCAR disclosed the defect in a Nov. 11 recall filing with the National Highway Traffic Safety Administration.",
-   "published": "2026-11-19T20:19:16+00:00"
   }
  ]
 }
