@@ -1,6 +1,52 @@
 {
- "updated": "2026-11-23T18:18:14+00:00",
+ "updated": "2026-11-23T18:48:19+00:00",
  "items": [
+  {
+   "id": "https://www.dat.com/blog/?p=27752",
+   "title": "Dry Van Report: Large carriers are adding trucks, but only where a contract is waiting",
+   "url": "https://www.dat.com/blog/dry-van-report-large-carriers-are-adding-trucks-but-only-where-a-contract-is-waiting",
+   "source": "DAT iQ",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Diesel"
+   ],
+   "excerpt": "Dry van spot linehaul rates paid to carriers averaged $2.29 per mile last week, minus fuel, up 2.9%, or $0.06 per mile, from the week before. Rates climbed 37.5%, or $0.63 per mile, year over year and held 25.2%, or $0.46 per mile, above the nine-year seasonal average of $1.83 per mile.",
+   "published": "2026-11-23T18:22:18+00:00"
+  },
+  {
+   "id": "https://www.dcvelocity.com/transportation/regulation-government/wsc-uncertain-regulations-could-hinder-shipping-sector-moves-to-cut-greenhouse-gases",
+   "title": "WSC: uncertain regulations could hinder shipping sector moves to cut greenhouse gases",
+   "url": "https://www.dcvelocity.com/transportation/regulation-government/wsc-uncertain-regulations-could-hinder-shipping-sector-moves-to-cut-greenhouse-gases",
+   "source": "DC Velocity",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "Continued uncertainty about global greenhouse gas regulations risks slowing investment in cleaner fuels and infrastructure in the international shipping sector, according to The World Shipping Council (WSC). In response, the WSC is calling on governments to agree on binding regulations without…",
+   "published": "2026-11-23T18:18:27+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586897",
+   "title": "Bank challenges trucking CEO’s $8.5M Florida estate amid bankruptcy",
+   "url": "https://www.freightwaves.com/news/bank-challenges-trucking-ceos-8-5m-florida-estate-amid-bankruptcy",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Capacity"
+   ],
+   "excerpt": "Huntington National Bank is challenging former R&R Family of Companies CEO Richard “Rich” Francis’ attempts to protect his multimillion-dollar Florida residence and a collection of other assets from creditors. The legal battle follows a continuing escalation over the financial fallout from the…",
+   "published": "2026-11-23T18:16:37+00:00"
+  },
   {
    "id": "https://landline.media/?p=104869",
    "title": "Meritor driveline recall reaches Volvo, Mack Trucks",
@@ -14,6 +60,21 @@
    "tags": [],
    "excerpt": "First Daimler Truck and Paccar. Now Volvo and Mack Trucks. A defective Meritor driveline keeps adding names to the recall list.",
    "published": "2026-11-23T18:06:54+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/strike-averted-la-ports",
+   "title": "Strike averted at Los Angeles, Long Beach ports",
+   "url": "https://www.ttnews.com/articles/strike-averted-la-ports",
+   "source": "Transport Topics",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The agreement between the Pacific Maritime Association and ILWU Local 26 covers workers at the ports of Los Angeles and Long Beach and is subject to ratification by Local 26 members.",
+   "published": "2026-11-23T18:00:35+00:00"
   },
   {
    "id": "https://www.freightwaves.com/?p=586886",
@@ -1109,66 +1170,6 @@
    ],
    "excerpt": "EV Realty has broken ground on a 9 MW electric truck charging site in Torrance, California, that will have 50 charging ports when it opens to commercial fleets in mid-2027. The company announced the groundbreaking Tuesday. Torrance is its second site in Southern California, after a 76-port hub in…",
    "published": "2026-11-19T18:33:07+00:00"
-  },
-  {
-   "id": "https://www.logisticsmgmt.com/article/u.s_bound_imports_post_solid_october_gains_with_2026_on_track_for_a_record_year_reports_sp_global_market_intelligence",
-   "title": "U.S.-bound imports post solid October gains, with 2026 on track for a record year, reports S&P Global Market Intelligence",
-   "url": "https://www.logisticsmgmt.com/article/u.s_bound_imports_post_solid_october_gains_with_2026_on_track_for_a_record_year_reports_sp_global_market_intelligence",
-   "source": "Logistics Management",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs",
-    "Ports/Rail"
-   ],
-   "excerpt": "October marked another strong month for United States-bound containerized imports, according to data recently issued by S&P Global Market Intelligence. October imports, at 2.76 million TEU (Twenty-Foot Equivalent Units), posted a 14.4% annual gain, following a 9.1% annual gain in September.",
-   "published": "2026-11-19T17:24:00+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/einride-targets-2028-for-growth-of-autonomous-freight-on-highways/875124/",
-   "title": "Einride targets 2028 for growth of autonomous freight on highways",
-   "url": "https://www.truckingdive.com/news/einride-targets-2028-for-growth-of-autonomous-freight-on-highways/875124/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Nvidia-powered tech is helping the company’s timeline, which involves live road evaluations in late 2027.",
-   "published": "2026-11-19T16:57:00+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/honda-invests-462m-in-alabama-plant-to-boost-production/875189/",
-   "title": "Honda invests $462M in Alabama plant to boost production",
-   "url": "https://www.supplychaindive.com/news/honda-invests-462m-in-alabama-plant-to-boost-production/875189/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Capacity"
-   ],
-   "excerpt": "The automaker will use the funds to increase production capacity of high-demand models.",
-   "published": "2026-11-19T16:33:34+00:00"
-  },
-  {
-   "id": "https://www.logisticsmgmt.com/article/competition_service_disruptions_and_higher_costs_lead_opposition_to_proposed_up_ns_merger_in_stb_filings",
-   "title": "Competition, service disruptions and higher costs lead opposition to proposed UP-NS merger in STB filings",
-   "url": "https://www.logisticsmgmt.com/article/competition_service_disruptions_and_higher_costs_lead_opposition_to_proposed_up_ns_merger_in_stb_filings",
-   "source": "Logistics Management",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Rates",
-    "Regulation",
-    "Ports/Rail"
-   ],
-   "excerpt": "Various filings submitted to the Surface Transportation Board (STB), an independent adjudicatory and economic-regulatory agency charged by Congress with resolving railroad rate and service disputes and reviewing proposed railroad mergers, regarding opening comments on the proposed $85 billion…",
-   "published": "2026-11-19T15:49:00+00:00"
   }
  ]
 }
