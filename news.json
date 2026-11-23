@@ -1,6 +1,80 @@
 {
- "updated": "2026-11-23T19:18:19+00:00",
+ "updated": "2026-11-23T19:48:27+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104883",
+   "title": "One by one, non-domiciled CDL holders seek exemption",
+   "url": "https://landline.media/one-by-one-non-domiciled-cdl-holders-seek-exemption/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Rates",
+    "Regulation"
+   ],
+   "excerpt": "Nearly 200,000 non-domiciled CDL holders are being forced out of the freight market. Some of those drivers are asking for their individual cases to be reviewed.",
+   "published": "2026-11-23T19:26:16+00:00"
+  },
+  {
+   "id": "https://www.dat.com/blog/?p=27759",
+   "title": "Reefer Report: Rates climb into Thanksgiving as demand outruns trucks",
+   "url": "https://www.dat.com/blog/reefer-report-rates-climb-into-thanksgiving-as-demand-outruns-trucks",
+   "source": "DAT iQ",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Diesel"
+   ],
+   "excerpt": "Reefer spot linehaul rates paid to carriers averaged $2.84 per mile last week, minus fuel, up 3.5%, or $0.10 per mile, from the week before. Rates climbed 35.8%, or $0.75 per mile, year over year and held 27.9%, or $0.62 per mile, above the nine-year seasonal average of $2.22 per mile, near the top…",
+   "published": "2026-11-23T19:24:14+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104879",
+   "title": "Suspended CDL, numerous violations sack Louisiana truck driver in Missouri",
+   "url": "https://landline.media/suspended-cdl-numerous-violations-sack-louisiana-truck-driver-in-missouri/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "In a two-day span, a truck driver with a suspended CDL was pulled over by the same law enforcement officer and arrested.",
+   "published": "2026-11-23T19:23:29+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104875",
+   "title": "Get a grip: Officials approve new chain-up assistance program",
+   "url": "https://landline.media/get-a-grip-officials-approve-new-chain-up-assistance-program/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Colorado officials say “very few” truckers know how to install tire chains in winter weather. A new program aims to give truckers a hand.",
+   "published": "2026-11-23T19:20:10+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/port-truckers-hurdles-import-record",
+   "title": "Port truckers face cargo hurdles as imports hit record",
+   "url": "https://www.ttnews.com/articles/port-truckers-hurdles-import-record",
+   "source": "Transport Topics",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tariffs",
+    "Ports/Rail"
+   ],
+   "excerpt": "U.S. port truckers grappled with cargo fluidity issues that prevented them from taking full advantage of an ongoing surge in container volumes during October.",
+   "published": "2026-11-23T19:00:00+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16542446",
    "title": "Cargo thieves pivot to compromised inboxes and truck stops ahead of holiday rush",
@@ -1098,77 +1172,6 @@
    ],
    "excerpt": "Highway congestion cost the trucking industry $128.2 billion in 2024 while wasting 6.66 billion gallons of diesel fuel, according to ATRI.",
    "published": "2026-11-19T20:15:00+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104828",
-   "title": "Background check backfire: Carrier sued after truck driver kills Costco worker",
-   "url": "https://landline.media/background-check-backfire-carrier-sued-after-truck-driver-kills-costco-worker/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "A truck driver shot and killed a Costco employee. Now the victim’s estate says the carrier should have known about the driver’s gun history.",
-   "published": "2026-11-19T20:11:32+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104824",
-   "title": "California to Waymo: Get off our freeways",
-   "url": "https://landline.media/california-to-waymo-get-off-our-freeways/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Waymo faces new limits. Meanwhile, Aurora plans thousands more trucks. The debate over highway safety is picking up speed.",
-   "published": "2026-11-19T19:59:46+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104820",
-   "title": "Fake crashes, real consequences: Nevada targets fraud",
-   "url": "https://landline.media/fake-crashes-real-consequences-nevada-targets-fraud/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation",
-    "Fraud"
-   ],
-   "excerpt": "Staged crashes can put innocent drivers at risk. A Nevada bill would raise penalties and target everyone involved in crash-for-cash schemes.",
-   "published": "2026-11-19T19:45:14+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104815",
-   "title": "ELD reinstated after feds pull over 100 devices from approved list",
-   "url": "https://landline.media/eld-reinstated-after-feds-pull-over-100-devices-from-approved-list/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation",
-    "Tech"
-   ],
-   "excerpt": "Amid a massive revocation of ELDs, one device has been reinstated by FMCSA. Find out which device made it back to the approved list.",
-   "published": "2026-11-19T19:42:40+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586665",
-   "title": "NYC push against delivery bill brings in legal and racial arguments",
-   "url": "https://www.freightwaves.com/news/nyc-push-against-delivery-bill-brings-in-legal-and-racial-arguments",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "With the possibility of the New York City Delivery Protection Act headed toward some sort of amended structure and then a vote in the New York City Council before the end of the year, the push against it has ramped into high gear. The opponents who have become increasingly visible just in the past…",
-   "published": "2026-11-19T18:50:43+00:00"
   }
  ]
 }
