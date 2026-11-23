@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-23T18:48:19+00:00",
+ "updated": "2026-11-23T19:18:19+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16542446",
+   "title": "Cargo thieves pivot to compromised inboxes and truck stops ahead of holiday rush",
+   "url": "https://www.ccjdigital.com/technology/cybersecurity/article/16542446/freight-fraud-and-cargo-theft-shift-ahead-of-2026-peak-season",
+   "source": "CCJ",
+   "audience": [
+    "Broker"
+   ],
+   "tags": [
+    "Fraud"
+   ],
+   "excerpt": "Despite a dip in overall cargo theft metrics during the third quarter, freight security analysts warn that criminal networks are adapting their tactics ahead of the holiday shipping rush, exploiting legitimate credentials, striking truck stops during daytime hours and targeting high-value…",
+   "published": "2026-11-23T18:40:57+00:00"
+  },
   {
    "id": "https://www.dat.com/blog/?p=27752",
    "title": "Dry Van Report: Large carriers are adding trucks, but only where a contract is waiting",
@@ -1155,21 +1169,6 @@
    ],
    "excerpt": "With the possibility of the New York City Delivery Protection Act headed toward some sort of amended structure and then a vote in the New York City Council before the end of the year, the push against it has ramped into high gear. The opponents who have become increasingly visible just in the past…",
    "published": "2026-11-19T18:50:43+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586660",
-   "title": "EV Realty breaks ground on Torrance truck charging hub",
-   "url": "https://www.freightwaves.com/news/ev-realty-torrance-truck-charging-hub",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech",
-    "Ports/Rail"
-   ],
-   "excerpt": "EV Realty has broken ground on a 9 MW electric truck charging site in Torrance, California, that will have 50 charging ports when it opens to commercial fleets in mid-2027. The company announced the groundbreaking Tuesday. Torrance is its second site in Southern California, after a 76-port hub in…",
-   "published": "2026-11-19T18:33:07+00:00"
   }
  ]
 }
