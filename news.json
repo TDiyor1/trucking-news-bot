@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-23T17:48:18+00:00",
+ "updated": "2026-11-23T18:18:14+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104869",
+   "title": "Meritor driveline recall reaches Volvo, Mack Trucks",
+   "url": "https://landline.media/meritor-driveline-recall-reaches-volvo-mack-trucks/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "First Daimler Truck and Paccar. Now Volvo and Mack Trucks. A defective Meritor driveline keeps adding names to the recall list.",
+   "published": "2026-11-23T18:06:54+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=586886",
    "title": "Savannah handles 565,366 TEUs in October, up 25% year-over-year on strong import demand",
@@ -1155,21 +1169,6 @@
    ],
    "excerpt": "Various filings submitted to the Surface Transportation Board (STB), an independent adjudicatory and economic-regulatory agency charged by Congress with resolving railroad rate and service disputes and reviewing proposed railroad mergers, regarding opening comments on the proposed $85 billion…",
    "published": "2026-11-19T15:49:00+00:00"
-  },
-  {
-   "id": "https://joc.com/article/midterms-add-to-uncertainties-for-new-mpvs-in-us-shipbuilding-push-6326562",
-   "title": "Midterms add to uncertainties for new MPVs in US shipbuilding push",
-   "url": "https://joc.com/article/midterms-add-to-uncertainties-for-new-mpvs-in-us-shipbuilding-push-6326562",
-   "source": "JOC",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "Questions about whether the lame-duck Congress will approve the National Defense Authorization Act has put a question mark over MPV-related legislation.",
-   "published": "2026-11-19T15:21:14+00:00"
   }
  ]
 }
