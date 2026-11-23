@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-23T16:18:04+00:00",
+ "updated": "2026-11-23T16:48:11+00:00",
  "items": [
+  {
+   "id": "https://theloadstar.com/?p=328950",
+   "title": "Reuters: Nvidia reinstates Jensen Huang as CEO, igniting tech surge",
+   "url": "https://theloadstar.com/reuters-nvidia-reinstates-jensen-huang-as-ceo-igniting-tech-surge/",
+   "source": "The Loadstar",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "REUTERS reports: Nvidia on Monday said it is reinstating Jensen Huang as chief executive after gaining confidence that he does not pose a national security risk, news that sent shares in the company up by almost a third and reinvigorated the global AI trade that has flagged this month.",
+   "published": "2026-11-23T16:38:13+00:00"
+  },
   {
    "id": "https://www.supplychaindive.com/news/best-buy-taps-ai-platform-for-supplier-insights/875211/",
    "title": "Best Buy taps AI platform for supplier insights",
@@ -1154,20 +1168,6 @@
    ],
    "excerpt": "A 5.9% general rate increase is helping support the enhanced network, the carrier said.",
    "published": "2026-11-19T14:30:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/oil-prices-fears-strikes-iran",
-   "title": "Oil prices head higher on fears of more strikes on Iran",
-   "url": "https://www.ttnews.com/articles/oil-prices-fears-strikes-iran",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Brent crude rose 0.7% to $92.63 a barrel. Prices earlier swung between small gains and losses as Trump and his Chinese and Russian counterparts agreed to ramp up global fuel supplies.",
-   "published": "2026-11-19T13:59:43+00:00"
   }
  ]
 }
