@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-23T17:18:12+00:00",
+ "updated": "2026-11-23T17:48:18+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=586886",
+   "title": "Savannah handles 565,366 TEUs in October, up 25% year-over-year on strong import demand",
+   "url": "https://www.freightwaves.com/news/savannah-handles-565366-teus-in-october-up-25-year-over-year-on-strong-import-demand",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "The Port of Savannah handled 565,366 twenty-foot equivalent units (TEUs) in October, a 25% increase from a year earlier and the second-highest monthly container total in its history. The October gains pushed container volumes for fiscal 2027 to date up 7.8%, an increase of 152,991 TEUs compared…",
+   "published": "2026-11-23T17:12:43+00:00"
+  },
   {
    "id": "https://theloadstar.com/?p=328950",
    "title": "Reuters: Nvidia reinstates Jensen Huang as CEO, igniting tech surge",
@@ -14,6 +28,20 @@
    ],
    "excerpt": "REUTERS reports: Nvidia on Monday said it is reinstating Jensen Huang as chief executive after gaining confidence that he does not pose a national security risk, news that sent shares in the company up by almost a third and reinvigorated the global AI trade that has flagged this month.",
    "published": "2026-11-23T16:38:13+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/small-trucking-firms-diesel",
+   "title": "Small trucking firms scramble to survive diesel costs",
+   "url": "https://www.ttnews.com/articles/small-trucking-firms-diesel",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "High diesel prices this year have put new pressure on the small businesses that make up most of the nation's motor carriers.",
+   "published": "2026-11-23T16:28:12+00:00"
   },
   {
    "id": "https://www.supplychaindive.com/news/best-buy-taps-ai-platform-for-supplier-insights/875211/",
@@ -1142,32 +1170,6 @@
    ],
    "excerpt": "Questions about whether the lame-duck Congress will approve the National Defense Authorization Act has put a question mark over MPV-related legislation.",
    "published": "2026-11-19T15:21:14+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586625",
-   "title": "Ship pilot indicted after fatal Houston collision linked to cellphone distraction",
-   "url": "https://www.freightwaves.com/news/ship-pilot-indicted-after-fatal-houston-collision-linked-to-cellphone-distraction",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "A Houston ship pilot has been indicted on a federal seaman’s manslaughter charge stemming from a 2024 collision in the Houston Ship Channel that killed a sailor, marking what authorities say is the first prosecution of its kind against a ship pilot in U.S. history.",
-   "published": "2026-11-19T15:16:34+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586621",
-   "title": "Expeditors enters new logistics frontier supporting Kennedy space missions",
-   "url": "https://www.freightwaves.com/news/expeditors-enters-new-logistics-frontier-supporting-kennedy-space-missions",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Expeditors International is moving into a new logistics galaxy. The Seattle-based third-party logistics provider announced Wednesday that it will handle logistics for a start-up project designed to support spacecraft launches at Kennedy Space Center in Florida.",
-   "published": "2026-11-19T14:50:51+00:00"
   }
  ]
 }
