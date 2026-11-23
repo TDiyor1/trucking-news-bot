@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-23T19:48:27+00:00",
+ "updated": "2026-11-23T20:18:23+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16542500",
+   "title": "Five petitions to FMCSA to allow non-domiciled CDL renewals",
+   "url": "https://www.ccjdigital.com/regulations/article/16542500/five-petitions-to-fmcsa-to-allow-nondomiciled-cdl-renewals",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "The Federal Motor Carrier Safety Administration is requesting public feedback on requests from four individuals seeking to have their non-domiciled CDLs renewed or reinstated, and another requesting relief for certain classifications of immigrants. Each of the applicants’ situations vary due to…",
+   "published": "2026-11-23T20:03:49+00:00"
+  },
   {
    "id": "https://landline.media/?p=104883",
    "title": "One by one, non-domiciled CDL holders seek exemption",
@@ -1158,20 +1172,6 @@
    "tags": [],
    "excerpt": "The forward radar on 6,185 Kenworth and Peterbilt trucks built between Feb. 11 and Oct. 8 can trigger braking for stopped or slow-moving vehicles in the left lane. PACCAR disclosed the defect in a Nov. 11 recall filing with the National Highway Traffic Safety Administration.",
    "published": "2026-11-19T20:19:16+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/atri-trucking-congestion-2024",
-   "title": "ATRI puts trucking’s congestion cost at $128 billion",
-   "url": "https://www.ttnews.com/articles/atri-trucking-congestion-2024",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Highway congestion cost the trucking industry $128.2 billion in 2024 while wasting 6.66 billion gallons of diesel fuel, according to ATRI.",
-   "published": "2026-11-19T20:15:00+00:00"
   }
  ]
 }
