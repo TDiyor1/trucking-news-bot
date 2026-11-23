@@ -1,4 +1,40 @@
 {
  "last_digest": "2026-11-23",
- "queue": []
+ "queue": [
+  {
+   "id": "https://www.dcvelocity.com/sponsored-content/u-s-bank-freight-payment-index-shipper-costs-hit-five-year-high-as-freight-demand-stalls",
+   "title": "U.S. Bank Freight Payment Index: Shipper costs hit five-year high as freight demand stalls",
+   "url": "https://www.dcvelocity.com/sponsored-content/u-s-bank-freight-payment-index-shipper-costs-hit-five-year-high-as-freight-demand-stalls",
+   "source": "DC Velocity",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Rates",
+    "Diesel",
+    "Tariffs",
+    "Capacity"
+   ],
+   "excerpt": "Many expected that 2026 would be a year of some normalcy for freight markets after suffering through several years of a “freight recession.” However, war, tighter capacity, fuel costs, and shifting tariff policies have helped to prolong the uncertainty that the freight industry has experienced for…",
+   "published": "2026-11-23T15:30:10+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/16542477",
+   "title": "Trucking runs on trust, and cyber threats are testing every link in the chain",
+   "url": "https://www.ccjdigital.com/technology/cybersecurity/article/16542477/trucking-cybersecurity-threats-whitearmor-cargo-fraud-eld-risks",
+   "source": "CCJ",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Diesel",
+    "Regulation"
+   ],
+   "excerpt": "Just as a truck runs on diesel, trucking runs on trust. A shipper must trust that the truck going through the gate and picking the load up belongs to the carrier that the broker hired. A carrier must trust that the broker’s instructions are accurate and not modified, including the bill of lading.…",
+   "published": "2026-11-23T15:30:38+00:00"
+  }
+ ]
 }

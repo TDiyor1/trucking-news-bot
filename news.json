@@ -1,6 +1,41 @@
 {
- "updated": "2026-11-23T15:18:17+00:00",
+ "updated": "2026-11-23T15:48:07+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16542477",
+   "title": "Trucking runs on trust, and cyber threats are testing every link in the chain",
+   "url": "https://www.ccjdigital.com/technology/cybersecurity/article/16542477/trucking-cybersecurity-threats-whitearmor-cargo-fraud-eld-risks",
+   "source": "CCJ",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Diesel",
+    "Regulation"
+   ],
+   "excerpt": "Just as a truck runs on diesel, trucking runs on trust. A shipper must trust that the truck going through the gate and picking the load up belongs to the carrier that the broker hired. A carrier must trust that the broker’s instructions are accurate and not modified, including the bill of lading.…",
+   "published": "2026-11-23T15:30:38+00:00"
+  },
+  {
+   "id": "https://www.dcvelocity.com/sponsored-content/u-s-bank-freight-payment-index-shipper-costs-hit-five-year-high-as-freight-demand-stalls",
+   "title": "U.S. Bank Freight Payment Index: Shipper costs hit five-year high as freight demand stalls",
+   "url": "https://www.dcvelocity.com/sponsored-content/u-s-bank-freight-payment-index-shipper-costs-hit-five-year-high-as-freight-demand-stalls",
+   "source": "DC Velocity",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Rates",
+    "Diesel",
+    "Tariffs",
+    "Capacity"
+   ],
+   "excerpt": "Many expected that 2026 would be a year of some normalcy for freight markets after suffering through several years of a “freight recession.” However, war, tighter capacity, fuel costs, and shifting tariff policies have helped to prolong the uncertainty that the freight industry has experienced for…",
+   "published": "2026-11-23T15:30:10+00:00"
+  },
   {
    "id": "https://www.truckingdive.com/news/werner-enterprises-works-to-restore-its-powerlink-network/875177/",
    "title": "Werner Enterprises works to restore its PowerLink network",
@@ -1134,34 +1169,6 @@
    ],
    "excerpt": "Mexican cargo airlines are still facing longer waits for US approval of cross-border charter flights, even after Washington lifted restrictions on passenger services from Mexico City to the US last month. In October 2025, the US sanctioned Mexican carriers in protest over their government’s…",
    "published": "2026-11-19T11:45:35+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=328781",
-   "title": "Last-ditch bid to prevent threatened strike at San Pedro Bay ports",
-   "url": "https://theloadstar.com/last-ditch-bid-to-prevent-threatened-strike-at-san-pedro-bay-ports/",
-   "source": "The Loadstar",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "A strike could disrupt cargo operations at the ports of Los Angeles and Long Beach from Saturday, after the latest contract negotiations between employers and port security workers ended without agreement. The Pacific Maritime Association (PMA), which represents shipping lines and terminal…",
-   "published": "2026-11-19T11:16:38+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16542063",
-   "title": "Truck driver gets prison time for bilking $500K from employer through fuel cards",
-   "url": "https://www.ccjdigital.com/regulations/article/16542063/truck-driver-gets-prison-time-for-bilking-500k-from-employer-through-fuel-cards",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Fraud"
-   ],
-   "excerpt": "Trucking news and briefs for Thursday, Nov. 19, 2026: Truck driver gets prison time for stolen fuel A truck driver who pleaded guilty over the summer to stealing more than half a million dollars from his employer through false charges to company-issued fuel cards has been sentenced to prison and…",
-   "published": "2026-11-19T06:01:00+00:00"
   }
  ]
 }
