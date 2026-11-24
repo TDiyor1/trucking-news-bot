@@ -1,6 +1,37 @@
 {
- "updated": "2026-11-24T22:16:28+00:00",
+ "updated": "2026-11-24T22:46:36+00:00",
  "items": [
+  {
+   "id": "https://www.dcvelocity.com/supply-chain/other-services/supply-chain-security/usps-sees-rising-threat-of-holiday-scams",
+   "title": "USPS sees rising threat of holiday scams",
+   "url": "https://www.dcvelocity.com/supply-chain/other-services/supply-chain-security/usps-sees-rising-threat-of-holiday-scams",
+   "source": "DC Velocity",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Fraud"
+   ],
+   "excerpt": "The United States Postal Service (USPS) is warning customers to avoid holiday scams including counterfeit postage, brushing and imposter scams, phone charities, and mail theft. The threat of scams is now elevated because the holidays are the busiest time of year, creating an opportunity for…",
+   "published": "2026-11-24T22:23:51+00:00"
+  },
+  {
+   "id": "https://www.dcvelocity.com/supply-chain/other-services/supply-chain-security/cargo-thieves-increase-plots-to-steal-shipments-over-thanksgiving-holiday",
+   "title": "Cargo thieves increase plots to steal shipments over Thanksgiving holiday",
+   "url": "https://www.dcvelocity.com/supply-chain/other-services/supply-chain-security/cargo-thieves-increase-plots-to-steal-shipments-over-thanksgiving-holiday",
+   "source": "DC Velocity",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "As freight theft rates continue to rise, the supply chain risk analysis firm Verisk CargoNet is recommending that shippers, brokers, and carriers tighten their security and verification processes from Tuesday, Nov. 24, through Monday, Nov. 30. The firm is highlighting a growing scheme in which…",
+   "published": "2026-11-24T22:23:15+00:00"
+  },
   {
    "id": "https://joc.com/article/rail-rivals-seek-sweeping-intermodal-concessions-over-up-ns-merger-6328739",
    "title": "Rail rivals seek sweeping intermodal concessions over UP-NS merger",
@@ -1134,36 +1165,6 @@
    ],
    "excerpt": "History, whether long ago or recent, says that merger-related growth projections generally don’t come to pass, writes analyst Larry Gross.",
    "published": "2026-11-20T17:14:14+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/trucking-call-on-washington",
-   "title": "Trucking groups press Congress for lame-duck action",
-   "url": "https://www.ttnews.com/articles/trucking-call-on-washington",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation",
-    "Fraud"
-   ],
-   "excerpt": "Industry representatives from six states advocated for federal legislation addressing lawsuit abuse, accident fraud and funding for highways and truck parking.",
-   "published": "2026-11-20T16:59:42+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/nyc-weigh-overhaul-amazon",
-   "title": "NYC lawmakers weigh overhaul of Amazon delivery worker bill",
-   "url": "https://www.ttnews.com/articles/nyc-weigh-overhaul-amazon",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "Amazon has threatened to pull its logistics operations out of the city if it is required to directly employ all of its delivery workers, as the bill currently proposes.",
-   "published": "2026-11-20T16:38:08+00:00"
   }
  ]
 }
