@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T16:30:23+00:00",
+ "updated": "2026-11-24T17:00:23+00:00",
  "items": [
   {
    "id": "https://www.ttnews.com/articles/court-bars-fmcsa-ny-funds",
@@ -147,6 +147,23 @@
    ],
    "excerpt": "Mexico’s premier Pacific gateway is moving closer to a massive expansion after the national environmental agency gave its conditional approval for the first phase of the Puerto Nuevo Manzanillo project. This is a M$118.39bn (US$6.26bn) initiative to boost the port’s operating area from 450ha to…",
    "published": "2026-11-24T11:10:53+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586953",
+   "title": "Port of Oakland charging up 300 Tesla Semi trucks for zero-emission freight corridor",
+   "url": "https://www.freightwaves.com/news/port-of-oakland-buying-300-tesla-semi-trucks-for-zero-emission-freight-corridor",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tech",
+    "Ports/Rail"
+   ],
+   "excerpt": "The Port of Oakland and heavy-duty charging provider WattEV have opened a public electric truck charging depot, pairing new infrastructure with a planned purchase of 300 Tesla Semis to expand zero-emission freight service across Northern California and beyond.",
+   "published": "2026-11-24T11:05:00+00:00"
   },
   {
    "id": "https://www.ccjdigital.com/16542301",
@@ -1149,20 +1166,6 @@
    ],
    "excerpt": "Federal prosecutors charged 14 people in an alleged $22.5 million cargo theft conspiracy targeting freight trains across Southern California. Nathan Daniel Angel, 21, of East Los Angeles, allegedly coordinated burglaries involving more than 70 shipping containers.",
    "published": "2026-11-20T13:57:54+00:00"
-  },
-  {
-   "id": "https://www.freightcaviar.com/stories/shippers-pay-up",
-   "title": "🎣 Shippers, Pay Up",
-   "url": "https://www.freightcaviar.com/stories/shippers-pay-up",
-   "source": "Freight Caviar",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "EASE’s bids show a shift to shorter contracts as Werner pushes for double-digit increases in contract rates.",
-   "published": "2026-11-20T13:55:00+00:00"
   }
  ]
 }

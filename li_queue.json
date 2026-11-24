@@ -1,4 +1,22 @@
 {
  "last_digest": "2026-11-24",
- "queue": []
+ "queue": [
+  {
+   "id": "https://www.freightwaves.com/?p=586953",
+   "title": "Port of Oakland charging up 300 Tesla Semi trucks for zero-emission freight corridor",
+   "url": "https://www.freightwaves.com/news/port-of-oakland-buying-300-tesla-semi-trucks-for-zero-emission-freight-corridor",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tech",
+    "Ports/Rail"
+   ],
+   "excerpt": "The Port of Oakland and heavy-duty charging provider WattEV have opened a public electric truck charging depot, pairing new infrastructure with a planned purchase of 300 Tesla Semis to expand zero-emission freight service across Northern California and beyond.",
+   "published": "2026-11-24T11:05:00+00:00"
+  }
+ ]
 }
