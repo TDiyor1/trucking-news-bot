@@ -1,6 +1,165 @@
 {
- "updated": "2026-11-24T06:54:32+00:00",
+ "updated": "2026-11-24T16:00:34+00:00",
  "items": [
+  {
+   "id": "https://www.ttnews.com/articles/court-bars-fmcsa-ny-funds",
+   "title": "Court bars FMCSA from withholding $73M from New York",
+   "url": "https://www.ttnews.com/articles/court-bars-fmcsa-ny-funds",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "A federal appeals court has ruled that FMCSA could not withhold $73.5 million from New York over its issuance of questionable non-domiciled commercial driver licenses.",
+   "published": "2026-11-24T15:35:00+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/us-tariff-hike-china-eu-goods",
+   "title": "U.S. readies tariff hike on China, EU goods",
+   "url": "https://www.ttnews.com/articles/us-tariff-hike-china-eu-goods",
+   "source": "Transport Topics",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "The duties are expected to target economies accused of hurting American industry by subsidizing their domestic manufacturers.",
+   "published": "2026-11-24T15:23:04+00:00"
+  },
+  {
+   "id": "https://www.supplychaindive.com/news/fedex-ups-upcoming-rate-hikes-what-shippers-should-know/875495/",
+   "title": "FedEx, UPS’ upcoming rate hikes: What shippers should know",
+   "url": "https://www.supplychaindive.com/news/fedex-ups-upcoming-rate-hikes-what-shippers-should-know/875495/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "The carriers are deploying another 5.9% average price increase, but changes under the surface could squeeze customers' budgets further, experts said.",
+   "published": "2026-11-24T15:21:00+00:00"
+  },
+  {
+   "id": "https://www.supplychaindive.com/news/amazon-enlists-customers-in-fight-against-nyc-delivery-worker-bill/875500/",
+   "title": "Amazon enlists customers in fight against NYC delivery worker bill",
+   "url": "https://www.supplychaindive.com/news/amazon-enlists-customers-in-fight-against-nyc-delivery-worker-bill/875500/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "The e-commerce giant released a call to action for city customers to speak out against the Delivery Protection Act, or face increased order costs of up to $5.",
+   "published": "2026-11-24T14:50:45+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586942",
+   "title": "Uber Freight makes a very public break with Gartner’s Quadrant",
+   "url": "https://www.freightwaves.com/news/uber-freight-makes-a-very-public-break-with-gartners-quadrant",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Uber Freight’s CEO has publicly come out with the company’s decision to no longer cooperate with Gartner when the technology and management advisory company does future work on the Magic Quadrant designation for Uber Freight. Gartner’s latest interactions with Uber Freight (NYSE: UBER) over its…",
+   "published": "2026-11-24T14:50:09+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/americas-car-mart-chapter-11",
+   "title": "Subprime auto dealer America’s Car-Mart files for Chapter 11",
+   "url": "https://www.ttnews.com/articles/americas-car-mart-chapter-11",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Capacity"
+   ],
+   "excerpt": "The company has struggled to emerge from its performance rut, constrained by reduced inventory and limited capacity to write new loans.",
+   "published": "2026-11-24T14:09:13+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/alabama-trucking-association-names-interim-president/875418/",
+   "title": "Alabama Trucking Association names interim president",
+   "url": "https://www.truckingdive.com/news/alabama-trucking-association-names-interim-president/875418/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Former board chairman Chris Cooper will lead the state organization beginning Dec. 1.",
+   "published": "2026-11-24T14:02:00+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586469",
+   "title": "Why Air Cargo Rates Rose in 2026 and What Comes Next",
+   "url": "https://www.freightwaves.com/news/why-air-cargo-rates-rose-in-2026-and-what-comes-next",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Rates",
+    "Capacity"
+   ],
+   "excerpt": "Rates, capacity, earnings and the supply chain risks shaping air cargo into 2027 A review of 2026 air cargo demand, rates and capacity, carrier and forwarder earnings, and how much slack the system has left, using SONAR data. EXECUTIVE SUMMARY Air cargo entered 2026 expecting lower rates and got…",
+   "published": "2026-11-24T13:49:23+00:00"
+  },
+  {
+   "id": "https://theloadstar.com/?p=328952",
+   "title": "AI pulls logistics 3 ways – sell-off and rebound show selective rotation",
+   "url": "https://theloadstar.com/ai-pulls-logistics-3-ways-sell-off-and-rebound-show-selective-rotation/",
+   "source": "The Loadstar",
+   "audience": [
+    "Broker"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "For much of the past year AI looked like the only trade in town, taking more than four-fifths of US venture capital deal value through September and about a fifth of corporate debt issuance, although the average S&P 500 stock kept pace with the headline index, which the AI giants dominate.",
+   "published": "2026-11-24T11:56:21+00:00"
+  },
+  {
+   "id": "https://theloadstar.com/?p=328953",
+   "title": "Port of Manzanillo gears up for expansion as box traffic grows",
+   "url": "https://theloadstar.com/port-of-manzanillo-gears-up-for-expansion-as-box-traffic-grows/",
+   "source": "The Loadstar",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Tariffs",
+    "Capacity",
+    "Ports/Rail"
+   ],
+   "excerpt": "Mexico’s premier Pacific gateway is moving closer to a massive expansion after the national environmental agency gave its conditional approval for the first phase of the Puerto Nuevo Manzanillo project. This is a M$118.39bn (US$6.26bn) initiative to boost the port’s operating area from 450ha to…",
+   "published": "2026-11-24T11:10:53+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/16542301",
+   "title": "Connected tech shifts trucking maintenance from reactive fixes to planned service",
+   "url": "https://www.ccjdigital.com/maintenance/service-and-repair/article/16542301/connected-fleet-tech-cutting-truck-downtime-maintenance-costs",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Trucking fleets face mounting pressure to minimize unexpected breakdowns and control rising maintenance expenses, and truck and engine OEMs have taken note. Real-time engine telemetry, predictive analytics and over-the-air software updates have shifted fleet maintenance from reactive repairs to…",
+   "published": "2026-11-24T07:46:00+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16542569",
    "title": "Driveline recall hits Volvo, Mack trucks",
@@ -1004,170 +1163,6 @@
    ],
    "excerpt": "EASE’s bids show a shift to shorter contracts as Werner pushes for double-digit increases in contract rates.",
    "published": "2026-11-20T13:55:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/oil-prices-robust-supply",
-   "title": "Oil prices drop on robust supply",
-   "url": "https://www.ttnews.com/articles/oil-prices-robust-supply",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Brent crude fell 0.6% to $91.44 a barrel as traders weighed the risk of renewed U.S. strikes on Iran against ample supply.",
-   "published": "2026-11-20T13:40:45+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=328878",
-   "title": "Transpac spots finally on the slide, but Asia-Med spike a surprise",
-   "url": "https://theloadstar.com/transpac-spots-finally-on-the-slide-but-asia-med-spike-a-surprise/",
-   "source": "The Loadstar",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Ports/Rail"
-   ],
-   "excerpt": "Container spot freight rates on the transpacific trades finally began to show more normal slack-season behaviour this week, with significant declines from Asia to both the US west and east coasts. However, spot rates on the Asia-Europe trade moved in the opposite direction, with Asia-Mediterranean…",
-   "published": "2026-11-20T13:27:40+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586693",
-   "title": "Werner and Bennett turn AI dashcams toward crash prevention",
-   "url": "https://www.freightwaves.com/news/werner-bennett-ai-dashcams-crash-prevention",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Truck cameras long served fleets after a crash, as evidence to reconstruct what happened and size up their exposure in court. Carriers including Werner Enterprises now use that AI-powered video and telematics data to spot risky driving and coach it out before a crash.",
-   "published": "2026-11-20T13:00:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586687",
-   "title": "Einride books $167M in contracted revenue, targets $250M",
-   "url": "https://www.freightwaves.com/news/einride-q3-contracted-revenue-nvidia-alpamayo",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Einride expects to end 2027 bringing in revenue at an annualized pace of about $250 million, with more than 65% of it covered by signed customer contracts. The Swedish autonomous and electric freight company gave the outlook Wednesday in its third-quarter business update .",
-   "published": "2026-11-20T12:30:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16542172",
-   "title": "Freight costs jump 32% as volumes stall",
-   "url": "https://www.ccjdigital.com/business/article/16542172/freight-spending-jumps-32-as-volumes-barely-move",
-   "source": "CCJ",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Rates",
-    "Diesel",
-    "Capacity"
-   ],
-   "excerpt": "Freight volume barely moved in the third quarter, yet shippers paid more to haul them. According to the U.S. Bank Freight Payment Index, the truck freight market was shaped by three trends: tightening capacity putting upward pressure on rates, higher diesel prices driving up shipper costs , and…",
-   "published": "2026-11-20T11:46:06+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586737",
-   "title": "US rail traffic rises 7.3% as intermodal gains 10.7% in latest week",
-   "url": "https://www.freightwaves.com/news/us-rail-traffic-rises-7-3-as-intermodal-gains-10-7-in-latest-week",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "U.S. rail traffic rose 7.3% in the week ending November 14, 2026, compared with the same week last year, as double-digit intermodal growth outpaced gains in conventional carload shipments, according to the Association of American Railroads. Intermodal volume increased 10.7% year over year, while…",
-   "published": "2026-11-20T11:20:00+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16542224",
-   "title": "Bill to require bathroom access for truckers advances in Senate",
-   "url": "https://www.ccjdigital.com/regulations/article/16542224/bill-to-require-bathroom-access-for-truckers-advances-in-senate",
-   "source": "CCJ",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "Trucking news and briefs for Friday, Nov. 20, 2026: Truckers’ bathroom-access bill advances A bill that would require shippers and receivers to provide restroom access for truck drivers under certain circumstances has cleared its first hurdle in the U.S.",
-   "published": "2026-11-20T06:18:00+00:00"
-  },
-  {
-   "id": "https://www.dat.com/blog/?p=27747",
-   "title": "Reefer Produce Report: California produce rates climb as lettuce heads to the desert and Thanksgiving nears",
-   "url": "https://www.dat.com/blog/reefer-produce-report-california-produce-rates-climb-as-lettuce-heads-to-the-desert-and-thanksgiving-nears",
-   "source": "DAT iQ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "National volume fell 6% week over week, but most of the drop sits on one day. Wednesday, Nov. 11 posted 45% of the previous Wednesday’s volume, and without those two Wednesdays the week ran 5% above the one before. Inference: Veterans Day likely thinned shipping and reporting that day.",
-   "published": "2026-11-19T23:33:37+00:00"
-  },
-  {
-   "id": "https://www.dcvelocity.com/rockwell-automation-buys-agilox-to-combine-amr-fleets",
-   "title": "Rockwell Automation buys Agilox to combine AMR fleets",
-   "url": "https://www.dcvelocity.com/rockwell-automation-buys-agilox-to-combine-amr-fleets",
-   "source": "DC Velocity",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Industrial automation provider Rockwell Automation has agreed to acquire Austria-based Agilox , a maker of autonomous mobile robots (AMRs) that are driven by artificial intelligence and swarm networking technology, the firm said today. The acquisition would combine Agilox’s forklift AMR portfolio…",
-   "published": "2026-11-19T22:52:09+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586695",
-   "title": "DOL sticks with independent contractor proposal, trucking applauds",
-   "url": "https://www.freightwaves.com/news/dol-sticks-with-independent-contractor-proposal-trucking-applauds",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "The latest version of the Department of Labor’s (DOL) independent contractor rule was handed down Thursday with minuscule changes from what was proposed in February. The shift from the Biden administration’s IC rule to that of the second Trump administration is generally viewed as giving the Wage &…",
-   "published": "2026-11-19T22:47:24+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16542200",
-   "title": "Independent contractor classification: Labor Dept. finalizes new rule",
-   "url": "https://www.ccjdigital.com/workforce/article/16542200/independent-contractor-classification-labor-dept-finalizes-new-rule",
-   "source": "CCJ",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation",
-    "Ports/Rail"
-   ],
-   "excerpt": "The U.S. Department of Labor’s Wage and Hour Division Thursday announced a final rule to yet again change the criteria for determining whether workers are employees or independent contractors under the Fair Labor Standards Act and two related federal laws.",
-   "published": "2026-11-19T20:58:50+00:00"
   }
  ]
 }
