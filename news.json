@@ -1,6 +1,34 @@
 {
- "updated": "2026-11-24T19:30:30+00:00",
+ "updated": "2026-11-24T20:00:42+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16542703",
+   "title": "Why trucking lawsuit awards are surging despite falling crash rates",
+   "url": "https://www.ccjdigital.com/business/insurance/article/16542703/staged-crashes-and-litigation-funding-drive-trucking-verdicts-ilr-says",
+   "source": "CCJ",
+   "audience": [
+    "Broker"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "Medical referral networks, broker liability claims, anchoring tactics and a growing litigation-funding industry are pushing up truck accident awards, which have a median of $3 million across 334 cases since mid-2023, according to a report from the U.S.",
+   "published": "2026-11-24T19:35:23+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586997",
+   "title": "J.B. Hunt urges STB to reject Union Pacific–Norfolk Southern merger",
+   "url": "https://www.freightwaves.com/news/j-b-hunt-urges-stb-to-reject-union-pacific-norfolk-southern-merger",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "J.B. Hunt Transport is urging the Surface Transportation Board to reject Union Pacific’s (NYSE: UNP ) proposed merger with Norfolk Southern (NYSE: NSC ), arguing that the deal overstates potential shipper savings and truck-to-rail growth while threatening competition and service reliability.",
+   "published": "2026-11-24T19:24:27+00:00"
+  },
   {
    "id": "https://landline.media/?p=104901",
    "title": "Did DOT flip on congestion pricing? Not so fast",
@@ -1135,33 +1163,6 @@
    ],
    "excerpt": "The shift back to a weighted review of circumstances returns “clarity and order to the law in this area,” the American Trucking Associations said.",
    "published": "2026-11-20T16:08:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586743",
-   "title": "BlueGrace Logistics secures Littlejohn as new private equity partner",
-   "url": "https://www.freightwaves.com/news/bluegrace-logistics-secures-littlejohn-as-new-private-equity-partner",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [],
-   "excerpt": "BlueGrace Logistics announced it will change private equity hands. The managed logistics provider said middle-market investor Littlejohn & Co. will replace Warburg Pincus as its primary growth partner. Financial terms of the transaction were not disclosed.",
-   "published": "2026-11-20T15:37:46+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=328884",
-   "title": "The $1bn parking question – STB says railroads can charge even when cars and land are private",
-   "url": "https://theloadstar.com/the-1bn-parking-question-stb-says-railroads-can-charge-even-when-cars-and-land-are-private/",
-   "source": "The Loadstar",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Under the radar: CSX and Norfolk Southern collected nearly $1 billion in annual demurrage revenue in 2021. And now a federal ruling has reinforced their authority to charge for private railcars held at a Pennsylvania industrial park, following a dispute that produced a $354,000 court judgment.",
-   "published": "2026-11-20T15:25:59+00:00"
   }
  ]
 }
