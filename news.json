@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T21:17:53+00:00",
+ "updated": "2026-11-24T22:16:28+00:00",
  "items": [
   {
    "id": "https://joc.com/article/rail-rivals-seek-sweeping-intermodal-concessions-over-up-ns-merger-6328739",
@@ -133,6 +133,20 @@
    ],
    "excerpt": "Rail volume hit a new five-year high and the spot-to-contract spread narrowed to its closest level to breakeven since the beginning of October. Rejections jumped 91 basis points to their highest reading since late October. The three-month outlook slips a point to 76.",
    "published": "2026-11-24T18:20:02+00:00"
+  },
+  {
+   "id": "https://www.logisticsmgmt.com/article/qa_bill_pellino_national_leader_of_bdos_manufacturing_practice",
+   "title": "Q&A: Bill Pellino, National Leader of BDO’s Manufacturing Practice",
+   "url": "https://www.logisticsmgmt.com/article/qa_bill_pellino_national_leader_of_bdos_manufacturing_practice",
+   "source": "Logistics Management",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "LM Group News Editor Jeff Berman interviewed Bill Pellino, National Leader of BDO's Manufacturing Practice, about various aspects of the manufacturing supply chain. Topics covered included: the impact of the midterms on manufacturing; input costs; labor; and supply chain strategies, among others.…",
+   "published": "2026-11-24T16:35:00+00:00"
   },
   {
    "id": "https://www.logisticsmgmt.com/article/national_diesel_average_declines_for_fourth_straight_week_reports_eia",
@@ -1150,21 +1164,6 @@
    ],
    "excerpt": "Amazon has threatened to pull its logistics operations out of the city if it is required to directly employ all of its delivery workers, as the bill currently proposes.",
    "published": "2026-11-20T16:38:08+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586760",
-   "title": "Mexico tightens trucking oversight with new digital compliance rules",
-   "url": "https://www.freightwaves.com/news/mexico-tightens-trucking-oversight-with-new-digital-compliance-rules",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "Mexico has introduced new requirements for commercial trucking companies seeking voluntary federal certification. The new program places greater emphasis on digital monitoring, vehicle weight compliance and internal operational controls as the country works to strengthen highway safety and…",
-   "published": "2026-11-20T16:37:12+00:00"
   }
  ]
 }
