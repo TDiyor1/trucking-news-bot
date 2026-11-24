@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-24T18:30:32+00:00",
+ "updated": "2026-11-24T19:00:47+00:00",
  "items": [
+  {
+   "id": "https://landline.media/?p=104901",
+   "title": "Did DOT flip on congestion pricing? Not so fast",
+   "url": "https://landline.media/did-dot-flip-on-congestion-pricing-not-so-fast/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "FHWA's grant pitch listed congestion pricing as eligible, then quietly deleted it. Here’s why cities shouldn't expect a dime.",
+   "published": "2026-11-24T18:59:24+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104897",
+   "title": "Diesel tax scam rakes in millions, ends in prison time",
+   "url": "https://landline.media/diesel-tax-scam-rakes-in-millions-ends-in-prison-time/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel",
+    "Fraud"
+   ],
+   "excerpt": "For more than five years, a California resident illegally sold tax-exempt diesel. The result was nearly $5 million in fraudulent profits.",
+   "published": "2026-11-24T18:57:07+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104893",
+   "title": "Texas truck drivers could face a new round of road rules",
+   "url": "https://landline.media/texas-truck-drivers-could-face-a-new-round-of-road-rules/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Texas truck drivers could face tougher rules on the road. Here’s what proposed bills say about CDLs, parking bans and crash recovery costs.",
+   "published": "2026-11-24T18:55:08+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104889",
+   "title": "Boom goes the fireworks exemptions",
+   "url": "https://landline.media/boom-goes-the-fireworks-exemptions/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "Another fireworks company has been added to the list of exemptions from hours-of-service regulations around the July 4 holiday.",
+   "published": "2026-11-24T18:49:13+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586986",
+   "title": "SONAR PPI Outlook Holds Strong at 76 Despite Narrowing Rate Spread",
+   "url": "https://www.freightwaves.com/news/sonar-ppi-outlook-holds-strong-at-76-despite-narrowing-rate-spread",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Capacity",
+    "Ports/Rail"
+   ],
+   "excerpt": "Rail volume hit a new five-year high and the spot-to-contract spread narrowed to its closest level to breakeven since the beginning of October. Rejections jumped 91 basis points to their highest reading since late October. The three-month outlook slips a point to 76.",
+   "published": "2026-11-24T18:20:02+00:00"
+  },
+  {
+   "id": "https://www.logisticsmgmt.com/article/national_diesel_average_declines_for_fourth_straight_week_reports_eia",
+   "title": "National diesel average declines for fourth straight week, reports EIA",
+   "url": "https://www.logisticsmgmt.com/article/national_diesel_average_declines_for_fourth_straight_week_reports_eia",
+   "source": "Logistics Management",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Diesel"
+   ],
+   "excerpt": "The national average price per gallon of diesel gasoline declined for the fourth consecutive week, according to data issued today by the Department of Energy’s Energy Information Administration (EIA). For the week of November 23, the national average price per gallon, at $5.695, decreased $0.242,…",
+   "published": "2026-11-24T16:17:00+00:00"
+  },
   {
    "id": "https://www.ttnews.com/articles/court-bars-fmcsa-ny-funds",
    "title": "Court bars FMCSA from withholding $73M from New York",
@@ -72,6 +160,20 @@
    "tags": [],
    "excerpt": "Uber Freight’s CEO has publicly come out with the company’s decision to no longer cooperate with Gartner when the technology and management advisory company does future work on the Magic Quadrant designation for Uber Freight. Gartner’s latest interactions with Uber Freight (NYSE: UBER) over its…",
    "published": "2026-11-24T14:50:09+00:00"
+  },
+  {
+   "id": "https://www.logisticsmgmt.com/article/u.s_logistics_real_estate_market_sees_sustained_demand_as_vacancy_rates_tighten_reports_prologis",
+   "title": "U.S. logistics real estate market sees sustained demand as vacancy rates tighten, reports Prologis",
+   "url": "https://www.logisticsmgmt.com/article/u.s_logistics_real_estate_market_sees_sustained_demand_as_vacancy_rates_tighten_reports_prologis",
+   "source": "Logistics Management",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "United States logistics real estate market activity is continuing to see strong traction, which continues to reflect health the healthy flow of goods. That was a key theme in the new edition of the Industrial Business Indicator (IBI), which was recently issued by San Francisco-based real estate…",
+   "published": "2026-11-24T14:12:00+00:00"
   },
   {
    "id": "https://www.ttnews.com/articles/americas-car-mart-chapter-11",
@@ -1060,112 +1162,6 @@
    ],
    "excerpt": "Under the radar: CSX and Norfolk Southern collected nearly $1 billion in annual demurrage revenue in 2021. And now a federal ruling has reinforced their authority to charge for private railcars held at a Pennsylvania industrial park, following a dispute that produced a $354,000 court judgment.",
    "published": "2026-11-20T15:25:59+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/nvidia-gets-more-supplier-capacity-to-meet-ai-demand/875238/",
-   "title": "Nvidia gets more supplier capacity to meet AI demand",
-   "url": "https://www.supplychaindive.com/news/nvidia-gets-more-supplier-capacity-to-meet-ai-demand/875238/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Capacity",
-    "Tech"
-   ],
-   "excerpt": "The chipmaker unveiled the latest production agreements a month after securing other deals from partners.",
-   "published": "2026-11-20T15:19:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586582",
-   "title": "Trucker sentenced in $7.2 million cargo theft scheme involving legitimate freight contracts",
-   "url": "https://www.freightwaves.com/news/trucker-sentenced-in-7-2-million-cargo-theft-scheme-involving-legitimate-freight-contracts",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Fraud"
-   ],
-   "excerpt": "A California trucking company owner received 30 months in federal prison for participating in a $7.2 million cargo theft scheme. Criminals used legitimate transportation contracts to obtain shipments before diverting merchandise from warehouses across Southern California.",
-   "published": "2026-11-20T15:00:48+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/epa-2027-nox-final-review",
-   "title": "EPA’s revised 2027 NOx rule enters final review",
-   "url": "https://www.ttnews.com/articles/epa-2027-nox-final-review",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "The regulatory uncertainty has affected truck purchasing decisions, with many carriers awaiting clarity on truck pricing before making investments.",
-   "published": "2026-11-20T14:43:30+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/target-boosts-on-shelf-availability-aided-by-stronger-tech/875117/",
-   "title": "Target boosts on-shelf availability, aided by stronger tech",
-   "url": "https://www.supplychaindive.com/news/target-boosts-on-shelf-availability-aided-by-stronger-tech/875117/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "The retailer is using artificial intelligence and advanced data science to make smarter and faster inventory decisions, COO Lisa Roath said.",
-   "published": "2026-11-20T14:38:53+00:00"
-  },
-  {
-   "id": "https://www.logisticsmgmt.com/article/ftrs_shippers_conditions_index_takes_another_backwards_step",
-   "title": "FTR’s Shippers Conditions Index takes another backwards step",
-   "url": "https://www.logisticsmgmt.com/article/ftrs_shippers_conditions_index_takes_another_backwards_step",
-   "source": "Logistics Management",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Rates",
-    "Capacity"
-   ],
-   "excerpt": "The new edition of the Shippers Conditions Index (SCI), which was recently released by freight transportation consultancy FTR, saw further declines, as has been the case in recent months. The SCI is a key logistics metric showing freight market health for shippers, combining factors like rates,…",
-   "published": "2026-11-20T14:16:00+00:00"
-  },
-  {
-   "id": "https://www.logisticsmgmt.com/article/u.s_ral_carload_and_intermodal_volumes_post_annual_gains_for_week_ending_november_14_reports_aar",
-   "title": "U.S. ral carload and intermodal volumes post annual gains, for week ending November 14, reports AAR",
-   "url": "https://www.logisticsmgmt.com/article/u.s_ral_carload_and_intermodal_volumes_post_annual_gains_for_week_ending_november_14_reports_aar",
-   "source": "Logistics Management",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "United States rail carload and intermodal volumes posted annual gains, for the week ending November 14, according to data issued this week by the Association of American Railroads (AAR). Rail carloads, at 230,260, posted a 3.3% annual gain, topping the week ending November 7, at 227,914, and…",
-   "published": "2026-11-20T14:00:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586709",
-   "title": "14 charged in $22.5 million cargo theft ring that stopped moving freight trains",
-   "url": "https://www.freightwaves.com/news/14-charged-in-22-5-million-cargo-theft-ring-that-stopped-moving-freight-trains",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Fraud",
-    "Ports/Rail"
-   ],
-   "excerpt": "Federal prosecutors charged 14 people in an alleged $22.5 million cargo theft conspiracy targeting freight trains across Southern California. Nathan Daniel Angel, 21, of East Los Angeles, allegedly coordinated burglaries involving more than 70 shipping containers.",
-   "published": "2026-11-20T13:57:54+00:00"
   }
  ]
 }
