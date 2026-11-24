@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-24T05:57:41+00:00",
+ "updated": "2026-11-24T06:54:32+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16542569",
+   "title": "Driveline recall hits Volvo, Mack trucks",
+   "url": "https://www.ccjdigital.com/maintenance/article/16542569/driveline-recall-hits-volvo-mack-trucks",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Trucking news and briefs for Tuesday, Nov. 24, 2026: Mack, Volvo join driveline recall Volvo Trucks North America and Mack Trucks are the latest truck makers to recall trucks due to an issue with Cummins-Meritor drivelines, joining Daimler Trucks North America and Paccar, which recalled nearly…",
+   "published": "2026-11-24T06:34:00+00:00"
+  },
   {
    "id": "https://joc.com/article/author-of-ballot-measure-hails-job-protections-for-la-port-workers-6328260",
    "title": "Author of ballot measure hails job protections for LA port workers",
@@ -1156,21 +1168,6 @@
    ],
    "excerpt": "The U.S. Department of Labor’s Wage and Hour Division Thursday announced a final rule to yet again change the criteria for determining whether workers are employees or independent contractors under the Fair Labor Standards Act and two related federal laws.",
    "published": "2026-11-19T20:58:50+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/final-independent-contractor",
-   "title": "Labor Department finalizes independent contractor rule",
-   "url": "https://www.ttnews.com/articles/final-independent-contractor",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "The Department of Labor is returning to an approach that primarily uses two factors rather than six.",
-   "published": "2026-11-19T20:51:06+00:00"
   }
  ]
 }
