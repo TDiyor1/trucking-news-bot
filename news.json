@@ -1,6 +1,169 @@
 {
- "updated": "2026-11-25T10:27:41+00:00",
+ "updated": "2026-11-25T16:19:35+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=587062",
+   "title": "Freight Volatility Moved to the P&L. Is Your2027 Budget Ready?",
+   "url": "https://www.freightwaves.com/news/freight-volatility-moved-to-the-pl-is-your2027-budget-ready",
+   "source": "FreightWaves SONAR",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "Insights from Supply Chain Day at F3 2026, plus the SONAR data behind them Published: November 2026 | GoSONAR.com | Data Source: SONAR Volatility is a finance problem now Supply chain volatility used to show up on the loading dock. In 2026, it shows up in the budget variance report.",
+   "published": "2026-11-25T16:09:32+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/asian-steel-imports-surge-us",
+   "title": "Asian steel gains ground in U.S. despite 50% tariffs",
+   "url": "https://www.ttnews.com/articles/asian-steel-imports-surge-us",
+   "source": "Transport Topics",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "Cheaper Asian imports are gaining traction with U.S. steel buyers despite tariffs, as a data center construction boom squeezes domestic supplies and drives up prices.",
+   "published": "2026-11-25T15:18:16+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/trump-rebuilds-tariff-wall",
+   "title": "Trump rebuilds tariff wall with new import taxes",
+   "url": "https://www.ttnews.com/articles/trump-rebuilds-tariff-wall",
+   "source": "Transport Topics",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs"
+   ],
+   "excerpt": "The U.S. plans to impose new import taxes on goods from China, the European Union and a dozen other economies, in a move to rebuild President Donald Trump’s sweeping global tariff agenda.",
+   "published": "2026-11-25T15:14:00+00:00"
+  },
+  {
+   "id": "https://www.ttnews.com/articles/new-us-tariff-proposals-nov-2026",
+   "title": "Here are the proposed U.S. tariff rates by economy",
+   "url": "https://www.ttnews.com/articles/new-us-tariff-proposals-nov-2026",
+   "source": "Transport Topics",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Tariffs"
+   ],
+   "excerpt": "Here are the U.S. trading partners affected by the new tariffs crafted by the Trump administration and the proposed deal rates.",
+   "published": "2026-11-25T14:44:48+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586475",
+   "title": "REAL CREDENTIALS, WRONG HANDS",
+   "url": "https://www.freightwaves.com/news/real-credentials-wrong-hands",
+   "source": "FreightWaves SONAR",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Fraud"
+   ],
+   "excerpt": "Freight fraud trends and what they cost shippers How hijacked carrier identities, a tight truckload market and a shifting liability landscape put shippers on the front line of cargo theft. EXECUTIVE SUMMARY Freight fraud no longer depends on fake carriers.",
+   "published": "2026-11-25T14:43:59+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/kodiak-delivers-first-western-star-trucks-for-atlas-energys-growing-autono/874717/",
+   "title": "Kodiak delivers first Western Star trucks for Atlas Energy’s growing autonomous fleet",
+   "url": "https://www.truckingdive.com/news/kodiak-delivers-first-western-star-trucks-for-atlas-energys-growing-autono/874717/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "Daimler Truck North America manufactured the vehicles, which are equipped with Kodiak’s seventh-generation hardware.",
+   "published": "2026-11-25T14:30:00+00:00"
+  },
+  {
+   "id": "https://www.truckingdive.com/news/hub-group-granted-another-extension-to-file-late-quarterly-results/875642/",
+   "title": "Hub Group granted another extension to file late quarterly results",
+   "url": "https://www.truckingdive.com/news/hub-group-granted-another-extension-to-file-late-quarterly-results/875642/",
+   "source": "Trucking Dive",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Even with the extension, the company expressed uncertainty about its ability to meet a self-imposed year-end filing deadline to comply with Nasdaq listing rules.",
+   "published": "2026-11-25T14:26:00+00:00"
+  },
+  {
+   "id": "https://www.dcvelocity.com/material-handling/automating-your-loading-docks-just-got-easier",
+   "title": "Automating your loading docks just got easier",
+   "url": "https://www.dcvelocity.com/material-handling/automating-your-loading-docks-just-got-easier",
+   "source": "DC Velocity",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "The loading bay is one of the last areas of the warehouse to be automated, but many argue it’s the place that is most in need of a high-tech overhaul, given the physically demanding work involved in loading and unloading trailers day in and day out. Thankfully, times are changing, and advances in…",
+   "published": "2026-11-25T14:13:08+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=587055",
+   "title": "S&P upgrades CPKC to A- on diversified growth, Mexico-US corridor",
+   "url": "https://www.freightwaves.com/news/sp-upgrades-cpkc-to-a-on-diversified-growth-mexico-us-corridor",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs",
+    "Ports/Rail"
+   ],
+   "excerpt": "S&P Global Ratings raised its long-term issuer credit rating on Canadian Pacific Kansas City Ltd. (NYSE: CP) to A- from BBB+. It also raised the rating on the railroad’s unsecured debt to A- from BBB+. S&P on Tuesday said CPKC has kept delivering solid results despite economic and trade headwinds,…",
+   "published": "2026-11-25T14:01:48+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=587028",
+   "title": "Fewer crashes in 2026 won’t necessarily make December any safer",
+   "url": "https://www.freightwaves.com/news/fewer-crashes-in-2026-wont-necessarily-make-december-any-safer",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "The federal crash file has spent most of 2026 telling the trucking industry a comforting story, one in which the number of serious commercial vehicle crashes keeps sliding from its 2022 peak, the safety spending fleets made during the freight recession appears to be paying off, and the holiday…",
+   "published": "2026-11-25T13:38:23+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=586674",
+   "title": "THE RESILIENT CONSUMER: WHY REAL RETAIL SALES KEEP RISING IN 2026",
+   "url": "https://www.freightwaves.com/news/the-resilient-consumer-why-real-retail-sales-keep-rising-in-2026",
+   "source": "FreightWaves SONAR",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Real versus nominal sales, the New York Fed’s K-shape claim, and what jobs, wages, and sentiment say about consumer strength Retail and food services sales were $748.2 billion in October 2026, up 6.82% from a year earlier. Deflated by CPI, real sales were up an estimated 2.76% in October, about…",
+   "published": "2026-11-25T13:36:00+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16542755",
    "title": "New tactics from cargo thieves make Thanksgiving operations more vulnerable",
@@ -1008,163 +1171,6 @@
    "tags": [],
    "excerpt": "The brokerage arm of J.B. Hunt won one and lost one in an Arizona federal court Thursday in what now is shaping up to be one of the key cases on broker liability as the industry moves to a new legal landscape following the decision in Montgomery vs. Caribe Transport II. The U.S.",
    "published": "2026-11-20T22:09:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/act-expo-2027-early-look",
-   "title": "ACT Expo 2027 to spotlight TCO, autonomous trucks",
-   "url": "https://www.ttnews.com/articles/act-expo-2027-early-look",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "ACT Expo 2027’s first mainstage session is set to highlight what moves the bottom line for fleets and how to navigate the economics and operational risk.",
-   "published": "2026-11-20T21:22:50+00:00"
-  },
-  {
-   "id": "https://www.truckingdive.com/news/economic-outlook-dims-weak-consumer-expectations-conference-board-inflation-wages-fed/875399/",
-   "title": "Economic outlook dims on weak consumer expectations: Conference Board",
-   "url": "https://www.truckingdive.com/news/economic-outlook-dims-weak-consumer-expectations-conference-board-inflation-wages-fed/875399/",
-   "source": "Trucking Dive",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Economic growth so far this year has primarily hinged on the level of spending on artificial intelligence, according to Apollo Global Management Chief Economist Torsten Slok.",
-   "published": "2026-11-20T20:54:00+00:00"
-  },
-  {
-   "id": "https://www.logisticsmgmt.com/article/ata_praises_restoration_of_labor_protections_for_owner_operators",
-   "title": "ATA praises restoration of labor protections for owner-operators",
-   "url": "https://www.logisticsmgmt.com/article/ata_praises_restoration_of_labor_protections_for_owner_operators",
-   "source": "Logistics Management",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "The American Trucking Associations is lauding what it calls “a watershed moment” in a years-long battle to restore labor protections for over 350,000 independent truckers. A final independent contractor rule issued by Labor Department will rescind what ATA calls “a destructive, Biden-era…",
-   "published": "2026-11-20T20:35:00+00:00"
-  },
-  {
-   "id": "https://joc.com/article/customs-brokers-navigate-shifting-trade-regulatory-landscape-in-us-6327316",
-   "title": "Customs brokers navigate shifting trade, regulatory landscape in US",
-   "url": "https://joc.com/article/customs-brokers-navigate-shifting-trade-regulatory-landscape-in-us-6327316",
-   "source": "JOC",
-   "audience": [
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "The primary challenge that traditional customs brokers face in today's complex trade environment is that clients are asking them to provide more services, Wesccon attendees were told.",
-   "published": "2026-11-20T20:18:14+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104864",
-   "title": "Another independent contractor rule. What changes for owner-operators?",
-   "url": "https://landline.media/another-independent-contractor-rule-what-changes-for-owner-operators/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "New independent contractor rules say carriers can’t hide micromanaging behind ‘safety’ and put predatory lease-purchase deals on notice.",
-   "published": "2026-11-20T19:10:18+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104861",
-   "title": "Detour ahead: Feds to close northern border crossing until 2028",
-   "url": "https://landline.media/detour-ahead-feds-to-close-northern-border-crossing-until-2028/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "A U.S.-Canadian border crossing is closing for a year or more. Find out which one and what routes you can take to avoid delays.",
-   "published": "2026-11-20T19:07:22+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104850",
-   "title": "Your truck is on camera. Who gets to track it?",
-   "url": "https://landline.media/your-truck-is-on-camera-who-gets-to-track-it/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "License plate readers can record where trucks travel and when. Lawmakers are fighting over who can access that data and how long it stays on file.",
-   "published": "2026-11-20T18:12:51+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/north-dakota-drillers-trucks",
-   "title": "North Dakota drillers tap trucks during pipeline outage",
-   "url": "https://www.ttnews.com/articles/north-dakota-drillers-trucks",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Capacity"
-   ],
-   "excerpt": "A prolonged outage of an Enbridge-operated pipeline forces drillers to look for alternatives to avoid shutting down production.",
-   "published": "2026-11-20T18:07:44+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104846",
-   "title": "Pulled into the scale, placed out of service",
-   "url": "https://landline.media/pulled-into-the-scale-placed-out-of-service/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Law enforcement in one Northwest state reiterated the critical role weigh stations play in road safety during recent operations.",
-   "published": "2026-11-20T18:07:23+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=328896",
-   "title": "Bloomberg Exclusive: Trump officials met privately with hedge funds on mega rail deal",
-   "url": "https://theloadstar.com/bloomberg-exclusive-trump-officials-met-privately-with-hedge-funds-on-mega-rail-deal/",
-   "source": "The Loadstar",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "BLOOMBERG reports: In a highly unusual gathering, White House officials met privately this week with a group of hedge fund investors betting on whether the $72 billion tie-up between Union Pacific Corp. and Norfolk Southern Corp. will win approval from the Trump administration, according to people…",
-   "published": "2026-11-20T17:46:07+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/canada-funds-ford-plant",
-   "title": "Canada gives Ford plant $324 million to protect auto jobs",
-   "url": "https://www.ttnews.com/articles/canada-funds-ford-plant",
-   "source": "Transport Topics",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Tariffs"
-   ],
-   "excerpt": "The federal government says the agreement will protect “more than 2,000 jobs” as the automotive sector struggles under the weight of U.S. tariffs.",
-   "published": "2026-11-20T17:25:02+00:00"
   }
  ]
 }
