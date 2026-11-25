@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-25T23:08:45+00:00",
+ "updated": "2026-11-25T23:38:46+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16542516",
+   "title": "Pent-up demand is driving trailer orders",
+   "url": "https://www.ccjdigital.com/economic-trends/article/16542516/trailer-orders-stay-strong-as-backlogs-build",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Trailer demand stayed strong in October, with both FTR and ACT Research reporting strong order activity that indicates pent-up replacement demand and rising backlogs. FTR’s October data shows net orders of 38,385 units, an 11% decline from September but a 142% jump from a year earlier.",
+   "published": "2026-11-25T23:02:27+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/16542161",
+   "title": "Capacity attrition lifts Q3 freight rates as carriers hold the line on fleet growth",
+   "url": "https://www.ccjdigital.com/economic-trends/freight-demand/article/16542161/2027-freight-rate-outlook-trucking-leaders-cite-supply-squeeze",
+   "source": "CCJ",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Capacity",
+    "Ports/Rail"
+   ],
+   "excerpt": "Publicly traded trucking executives told Wall Street analysts during third-quarter earnings calls that a long-awaited freight recovery is taking hold but is driven not by a surge in consumer or industrial demand, but by a sustained contraction in available trucks and drivers.",
+   "published": "2026-11-25T23:00:00+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/16425093",
+   "title": "Autonomous trucking’s best-ever business case is less than 2 years away, report finds",
+   "url": "https://www.ccjdigital.com/equipment-controls/autonomous/article/16425093/autonomous-trucking-cost-parity-projected-for-2028",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "The economic tipping point for driverless freight might be closer than you think. Autonomous trucking is projected to reach cost parity with conventional human-driven rigs at roughly $2.60 per mile around 2028 in the U.S., according to according to Kearney and MIT Mobility Initiative projections.…",
+   "published": "2026-11-25T23:00:00+00:00"
+  },
   {
    "id": "https://www.ccjdigital.com/16542717",
    "title": "5 metrics auto transport businesses should be watching",
@@ -1142,51 +1186,6 @@
    ],
    "excerpt": "Container shipping spot rates from Asia to the United States declined in the latest week as offered capacity increased on routes to both U.S. coasts, according to Xeneta’s latest market update. Average rates to the U.S. West Coast fell 1.7% to $8,203 per 40-foot container (FEU), while rates to the…",
    "published": "2026-11-23T14:35:03+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/oil-prices-supply-tensions",
-   "title": "Oil prices dip as ample supply balances Persian Gulf tensions",
-   "url": "https://www.ttnews.com/articles/oil-prices-supply-tensions",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "Brent crude fell 2.2% to $90.46&nbsp;a barrel. Global benchmark Brent has dropped by about a fifth this month after Trump held off on renewed strikes following the midterm elections.&nbsp;",
-   "published": "2026-11-23T14:00:00+00:00"
-  },
-  {
-   "id": "https://www.freightcaviar.com/stories/holiday-freight-capacity-squeeze",
-   "title": "🎣 The Holiday Squeeze",
-   "url": "https://www.freightcaviar.com/stories/holiday-freight-capacity-squeeze",
-   "source": "Freight Caviar",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Rates",
-    "Capacity"
-   ],
-   "excerpt": "Arrive expects holiday rate pressure to last into January, with truck capacity staying tight through Q1 2027.",
-   "published": "2026-11-23T13:55:00+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/high-diesel-prices-stafford-act",
-   "title": "Perspective: High diesel costs warrant invoking Stafford Act",
-   "url": "https://www.ttnews.com/articles/high-diesel-prices-stafford-act",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "President Trump should invoke the Stafford Disaster Relief and Emergency Assistance Act to help with the high cost of diesel, writes Colorado trucking leader Greg Fulton.",
-   "published": "2026-11-23T13:00:00+00:00"
   }
  ]
 }

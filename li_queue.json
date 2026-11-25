@@ -156,6 +156,38 @@
    ],
    "excerpt": "Every completed auto transport load generates data on rates, mileage, fuel, routes and performance. But a single load rarely tells you much on its own. The value comes from looking at data over time, where patterns emerge that affect profitability, capacity and efficiency.",
    "published": "2026-11-25T19:40:00+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/16542161",
+   "title": "Capacity attrition lifts Q3 freight rates as carriers hold the line on fleet growth",
+   "url": "https://www.ccjdigital.com/economic-trends/freight-demand/article/16542161/2027-freight-rate-outlook-trucking-leaders-cite-supply-squeeze",
+   "source": "CCJ",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Capacity",
+    "Ports/Rail"
+   ],
+   "excerpt": "Publicly traded trucking executives told Wall Street analysts during third-quarter earnings calls that a long-awaited freight recovery is taking hold but is driven not by a surge in consumer or industrial demand, but by a sustained contraction in available trucks and drivers.",
+   "published": "2026-11-25T23:00:00+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/16425093",
+   "title": "Autonomous trucking’s best-ever business case is less than 2 years away, report finds",
+   "url": "https://www.ccjdigital.com/equipment-controls/autonomous/article/16425093/autonomous-trucking-cost-parity-projected-for-2028",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Tech"
+   ],
+   "excerpt": "The economic tipping point for driverless freight might be closer than you think. Autonomous trucking is projected to reach cost parity with conventional human-driven rigs at roughly $2.60 per mile around 2028 in the U.S., according to according to Kearney and MIT Mobility Initiative projections.…",
+   "published": "2026-11-25T23:00:00+00:00"
   }
  ]
 }
