@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-25T01:35:24+00:00",
+ "updated": "2026-11-25T10:27:41+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16542755",
+   "title": "New tactics from cargo thieves make Thanksgiving operations more vulnerable",
+   "url": "https://www.ccjdigital.com/business/article/16542755/new-tactics-from-cargo-thieves-make-thanksgiving-operations-more-vulnerable",
+   "source": "CCJ",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Fraud"
+   ],
+   "excerpt": "Trucking news and briefs for Wednesday, Nov. 25, 2026: CargoNet issues Thanksgiving theft warning Nearly $24 million worth of cargo has been stolen during the Thanksgiving holiday period from 2021 through 2025. Verisk CargoNet During the last five Thanksgiving holiday periods, Verisk CargoNet has…",
+   "published": "2026-11-25T06:48:00+00:00"
+  },
   {
    "id": "https://www.dcvelocity.com/supply-chain/other-services/supply-chain-security/usps-sees-rising-threat-of-holiday-scams",
    "title": "USPS sees rising threat of holiday scams",
@@ -1150,21 +1165,6 @@
    ],
    "excerpt": "The federal government says the agreement will protect “more than 2,000 jobs” as the automotive sector struggles under the weight of U.S. tariffs.",
    "published": "2026-11-20T17:25:02+00:00"
-  },
-  {
-   "id": "https://joc.com/article/questions-aplenty-as-debate-around-up-deal-for-norfolk-southern-heats-up-6327263",
-   "title": "Questions aplenty as debate around UP deal for Norfolk Southern heats up",
-   "url": "https://joc.com/article/questions-aplenty-as-debate-around-up-deal-for-norfolk-southern-heats-up-6327263",
-   "source": "JOC",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "History, whether long ago or recent, says that merger-related growth projections generally don’t come to pass, writes analyst Larry Gross.",
-   "published": "2026-11-20T17:14:14+00:00"
   }
  ]
 }
