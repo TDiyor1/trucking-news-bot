@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-25T18:19:26+00:00",
+ "updated": "2026-11-25T18:49:27+00:00",
  "items": [
+  {
+   "id": "https://joc.com/article/new-us-certification-system-needed-for-elds-to-shrink-growing-shadow-fleet-6329259",
+   "title": "New US certification system needed for ELDs to shrink growing shadow fleet",
+   "url": "https://joc.com/article/new-us-certification-system-needed-for-elds-to-shrink-growing-shadow-fleet-6329259",
+   "source": "JOC",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Fraud"
+   ],
+   "excerpt": "Regulators need a third-party certification process for electronic logging devices as part of their crackdown on trucking fraud, a step recommended by the American Trucking Associations.",
+   "published": "2026-11-25T18:40:15+00:00"
+  },
   {
    "id": "https://landline.media/?p=104907",
    "title": "Autonomous trucks are hitting the road. Are the laws ready?",
@@ -1168,21 +1182,6 @@
    ],
    "excerpt": "Amos Savickas, executive vice president of operations at Illinois-based trucking company GP Transco, recently built a model for a load scoring system to be added into the carrier’s self-developed OpenRoad transportation management system . He did this by describing what he wanted in plain language,…",
    "published": "2026-11-23T11:40:47+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16542285",
-   "title": "NMFTA research highlights how shared ELD tech creates industry-wide cybersecurity vulnerabilities",
-   "url": "https://www.ccjdigital.com/technology/cybersecurity/article/16542285/whitelabel-elds-expose-carriers-to-cyber-risk",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Fraud",
-    "Tech"
-   ],
-   "excerpt": "There’s a whole electronic logging device (ELD) storefront on Amazon, but choosing one from a mass marketplace with third-party sellers comes with risk. “Small operators who are just going on Amazon, trying to find a cheap product to meet their needs, if it turns out that that product is fraudulent…",
-   "published": "2026-11-23T11:39:27+00:00"
   }
  ]
 }
