@@ -1,4 +1,22 @@
 {
  "last_digest": "2026-11-25",
- "queue": []
+ "queue": [
+  {
+   "id": "https://www.supplychaindive.com/news/us-readies-tariffs-over-manufacturing-capacity-production-concerns/875639/",
+   "title": "US readies tariffs over manufacturing capacity, production concerns",
+   "url": "https://www.supplychaindive.com/news/us-readies-tariffs-over-manufacturing-capacity-production-concerns/875639/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs",
+    "Capacity"
+   ],
+   "excerpt": "The proposed levies, ranging from 15% to 35%, target goods from China, the European Union and 12 other partners following a Section 301 probe earlier this year.",
+   "published": "2026-11-25T16:34:26+00:00"
+  }
+ ]
 }

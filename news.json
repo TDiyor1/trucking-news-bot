@@ -1,6 +1,37 @@
 {
- "updated": "2026-11-25T16:49:22+00:00",
+ "updated": "2026-11-25T17:19:28+00:00",
  "items": [
+  {
+   "id": "https://www.supplychaindive.com/news/us-readies-tariffs-over-manufacturing-capacity-production-concerns/875639/",
+   "title": "US readies tariffs over manufacturing capacity, production concerns",
+   "url": "https://www.supplychaindive.com/news/us-readies-tariffs-over-manufacturing-capacity-production-concerns/875639/",
+   "source": "Supply Chain Dive",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs",
+    "Capacity"
+   ],
+   "excerpt": "The proposed levies, ranging from 15% to 35%, target goods from China, the European Union and 12 other partners following a Section 301 probe earlier this year.",
+   "published": "2026-11-25T16:34:26+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=587067",
+   "title": "Shein feels impact of EU import fees as revenue slides 6%",
+   "url": "https://www.freightwaves.com/news/shein-feels-impact-of-eu-import-fees-as-revenue-slides-6",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Chinese fast-fashion giant Shein said on Wednesday that soft demand in its European business could take a year to recover from new e-commerce import fees and has also agreed to pay $100 million to settle U.S. Federal Trade Commission claims that it misled consumers about shipping times and…",
+   "published": "2026-11-25T16:22:36+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=587062",
    "title": "Freight Volatility Moved to the P&L. Is Your2027 Budget Ready?",
@@ -1145,32 +1176,6 @@
    ],
    "excerpt": "Small businesses shipping goods to overseas customers are the primary beneficiaries of a new AI-powered tool developed by DHL Express that simplifies product classification required on customs declarations and ensures descriptions are accurate. The parcel and freight transportation company said…",
    "published": "2026-11-21T13:38:56+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/ai-takes-call-2026",
-   "title": "AI takes the call",
-   "url": "https://www.ttnews.com/articles/ai-takes-call-2026",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "*/ /*-->*/ AI voice agents are increasingly integrated with transportation management systems to automate routine communications such as check calls and appointment scheduling.",
-   "published": "2026-11-21T12:00:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586802",
-   "title": "J.B. Hunt broker liability case proceeding after split decision",
-   "url": "https://www.freightwaves.com/news/j-b-hunt-broker-liability-case-proceeding-after-split-decision",
-   "source": "FreightWaves",
-   "audience": [
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "The brokerage arm of J.B. Hunt won one and lost one in an Arizona federal court Thursday in what now is shaping up to be one of the key cases on broker liability as the industry moves to a new legal landscape following the decision in Montgomery vs. Caribe Transport II. The U.S.",
-   "published": "2026-11-20T22:09:00+00:00"
   }
  ]
 }
