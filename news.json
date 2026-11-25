@@ -1,6 +1,67 @@
 {
- "updated": "2026-11-25T19:19:28+00:00",
+ "updated": "2026-11-25T19:49:38+00:00",
  "items": [
+  {
+   "id": "https://www.ccjdigital.com/16542717",
+   "title": "5 metrics auto transport businesses should be watching",
+   "url": "https://www.ccjdigital.com/business/growth-strategies/article/16542717/5-auto-transport-metrics-to-track-for-better-lane-profitability",
+   "source": "CCJ",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Rates",
+    "Diesel",
+    "Capacity"
+   ],
+   "excerpt": "Every completed auto transport load generates data on rates, mileage, fuel, routes and performance. But a single load rarely tells you much on its own. The value comes from looking at data over time, where patterns emerge that affect profitability, capacity and efficiency.",
+   "published": "2026-11-25T19:40:00+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104925",
+   "title": "NHTSA: Automatic emergency braking ‘has not progressed’ as expected",
+   "url": "https://landline.media/nhtsa-automatic-emergency-braking-has-not-progressed-as-expected/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "NHTSA issued a rule in 2024 to mandate automatic emergency braking on cars. Now, the agency says the tech “has not progressed” as expected.",
+   "published": "2026-11-25T19:39:25+00:00"
+  },
+  {
+   "id": "https://landline.media/?p=104921",
+   "title": "Paccar recall gives automatic emergency braking skeptics fresh ammo",
+   "url": "https://landline.media/paccar-recall-gives-automatic-emergency-braking-skeptics-fresh-ammo/",
+   "source": "Land Line",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "Thousands of trucks are being recalled for “phantom” automatic emergency braking. Meanwhile, NHTSA says the tech is lagging. Is AEB ready?",
+   "published": "2026-11-25T19:37:15+00:00"
+  },
+  {
+   "id": "https://joc.com/article/xeneta-container-rate-futures-now-trading-in-europe-6329288",
+   "title": "Xeneta container rate futures now trading in Europe",
+   "url": "https://joc.com/article/xeneta-container-rate-futures-now-trading-in-europe-6329288",
+   "source": "JOC",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Rates",
+    "Ports/Rail"
+   ],
+   "excerpt": "The four new contracts covering Asia-Europe, the trans-Pacific, and trans-Atlantic will join others trading on European, US and Asian financial exchanges.",
+   "published": "2026-11-25T19:26:14+00:00"
+  },
   {
    "id": "https://joc.com/article/new-us-certification-system-needed-for-elds-to-shrink-growing-shadow-fleet-6329259",
    "title": "New US certification system needed for ELDs to shrink growing shadow fleet",
@@ -1126,62 +1187,6 @@
    ],
    "excerpt": "President Trump should invoke the Stafford Disaster Relief and Emergency Assistance Act to help with the high cost of diesel, writes Colorado trucking leader Greg Fulton.",
    "published": "2026-11-23T13:00:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586837",
-   "title": "Final mile delivery prices climb 10.5% in Q3, GEODIS says",
-   "url": "https://www.freightwaves.com/news/geodis-final-mile-index-delivery-prices",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "Courier and parcel prices rose 10.2% in the third quarter from a year earlier, and local freight trucking prices rose 10.7%, according to the first edition of GEODIS’ U.S. Final Mile Index . Consumer prices rose 3.5% over the same period. The index, released Nov.",
-   "published": "2026-11-23T12:30:00+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=328904",
-   "title": "OceanX radar: Zim outperforms; west coast strike averted; war at sea",
-   "url": "https://theloadstar.com/oceanx-radar-zim-outperforms-west-coast-strike-averted-war-at-sea/",
-   "source": "The Loadstar",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "The Shenzhen APEC meeting came and went, including the highly anticipated trilateral meeting of Xi, Trump & Putin. Even if the outcome was utterly underwhelming, talking is still better than not talking. In terms of the China-US trade situation, things continue in limbo, while a “strategic…",
-   "published": "2026-11-23T11:56:04+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=328909",
-   "title": "Final-mile costs rising faster than revenue, say hard-pressed carriers",
-   "url": "https://theloadstar.com/final-mile-costs-rising-faster-than-revenue-say-hard-pressed-carriers/",
-   "source": "The Loadstar",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "The cost of final-mile delivery in the US has risen more than 10% over the past year, according to the Final Mile Delivery Index, published by logistics provider Geodis. It shows cost in Q3 up 10.5% on the same period in 2025, following a 10.6% year-on-year increase in the second quarter –more than…",
-   "published": "2026-11-23T11:45:03+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16542181",
-   "title": "CCJ Innovator of the Year ramps up innovation with AI",
-   "url": "https://www.ccjdigital.com/technology/artificial-intelligence/article/16542181/gp-transco-builds-custom-solutions-without-coding",
-   "source": "CCJ",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "Amos Savickas, executive vice president of operations at Illinois-based trucking company GP Transco, recently built a model for a load scoring system to be added into the carrier’s self-developed OpenRoad transportation management system . He did this by describing what he wanted in plain language,…",
-   "published": "2026-11-23T11:40:47+00:00"
   }
  ]
 }
