@@ -1,6 +1,37 @@
 {
- "updated": "2026-11-25T17:19:28+00:00",
+ "updated": "2026-11-25T17:49:28+00:00",
  "items": [
+  {
+   "id": "https://www.dcvelocity.com/technology/artificial-intelligence/tech-funding-will-rise-in-2027-but-ai-investors-will-demand-measurable-savings",
+   "title": "Tech funding will rise in 2027, but AI investors will demand measurable savings",
+   "url": "https://www.dcvelocity.com/technology/artificial-intelligence/tech-funding-will-rise-in-2027-but-ai-investors-will-demand-measurable-savings",
+   "source": "DC Velocity",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Rates",
+    "Tech",
+    "Ports/Rail"
+   ],
+   "excerpt": "Dealmaking in logistics technology surged in 2026 and funding is on course to rise, but a softer 2027 freight market will reward only the artificial intelligence (AI) that is embedded in clear workflows and delivers measurable savings, according to a report from Norwegian logistics AI company Deep…",
+   "published": "2026-11-25T17:20:58+00:00"
+  },
+  {
+   "id": "https://www.dcvelocity.com/supply-chain/other-services/green-logistics/dual-fuel-fleet-set-to-meet-20-of-liner-energy-demand-by-2030",
+   "title": "Dual-fuel fleet set to meet 20% of liner energy demand by 2030",
+   "url": "https://www.dcvelocity.com/supply-chain/other-services/green-logistics/dual-fuel-fleet-set-to-meet-20-of-liner-energy-demand-by-2030",
+   "source": "DC Velocity",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "By around 2030, ships already operating or on order that are capable of using renewable marine fuels are expected to account for more than 20% of liner shipping’s total energy demand, demonstrating the scale of potential demand for renewable fuels, according to the World Shipping Council (WSC).…",
+   "published": "2026-11-25T17:16:25+00:00"
+  },
   {
    "id": "https://www.supplychaindive.com/news/us-readies-tariffs-over-manufacturing-capacity-production-concerns/875639/",
    "title": "US readies tariffs over manufacturing capacity, production concerns",
@@ -45,6 +76,23 @@
    ],
    "excerpt": "Insights from Supply Chain Day at F3 2026, plus the SONAR data behind them Published: November 2026 | GoSONAR.com | Data Source: SONAR Volatility is a finance problem now Supply chain volatility used to show up on the loading dock. In 2026, it shows up in the budget variance report.",
    "published": "2026-11-25T16:09:32+00:00"
+  },
+  {
+   "id": "https://www.logisticsmgmt.com/article/ustr_targets_14_u.s_trading_partners_in_section_301_investigation_proposes_tariffs_of_up_to_35",
+   "title": "USTR targets 14 U.S. trading partners in Section 301 investigation, proposes tariffs of up to 35%",
+   "url": "https://www.logisticsmgmt.com/article/ustr_targets_14_u.s_trading_partners_in_section_301_investigation_proposes_tariffs_of_up_to_35",
+   "source": "Logistics Management",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Tariffs",
+    "Capacity"
+   ],
+   "excerpt": "As was widely expected in recent days, earlier today, the Office of the United States Trade Representative (USTR) stated that under Section 301 of the Trade Act of 1974 that “the acts, policies, and practices” of 14 United States countries and trading partners, which are related to structural…",
+   "published": "2026-11-25T16:05:00+00:00"
   },
   {
    "id": "https://www.ttnews.com/articles/asian-steel-imports-surge-us",
@@ -1132,50 +1180,6 @@
    ],
    "excerpt": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade. This week in Borderlands Mexico: Truckers secure 29 agreements on highway safety after nationwide strike; MISUMI Americas expands Mexico operations with new…",
    "published": "2026-11-22T12:00:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586767",
-   "title": "Shippers’ backup plan is getting more expensive",
-   "url": "https://www.freightwaves.com/news/shippers-backup-plan-is-getting-more-expensive",
-   "source": "FreightWaves SONAR",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Rates"
-   ],
-   "excerpt": "Chart of the Week: Routing Guide Premium, 2nd Tender, Routing Guide Acceptance Share for the first tender – USA SONAR : RGP2.USA, RGAS1.USA The price of a rejected tender jumped this week. SONAR’s Routing Guide Premium for the 2nd tender (RGP2) climbed to 10.69% on Thursday, up 1.87 percentage…",
-   "published": "2026-11-22T01:30:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586815",
-   "title": "Tentative union deal averts strike at Port of LA-Long Beach",
-   "url": "https://www.freightwaves.com/news/tentative-union-deal-averts-strike-at-port-of-la-long-beach",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "The Pacific Maritime Association and International Longshore and Warehouse Union Local 26 have reached a tentative contract agreement covering about 250 watchmen at the ports of Los Angeles and Long Beach, averting an immediate strike threat at the busiest U.S. trade gateway.",
-   "published": "2026-11-21T14:57:00+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586811",
-   "title": "DHL Express makes customs clearance easier for small cross-border shippers",
-   "url": "https://www.freightwaves.com/news/dhl-express-makes-customs-clearance-easier-for-small-cross-border-shippers",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs",
-    "Tech",
-    "Ports/Rail"
-   ],
-   "excerpt": "Small businesses shipping goods to overseas customers are the primary beneficiaries of a new AI-powered tool developed by DHL Express that simplifies product classification required on customs declarations and ensures descriptions are accurate. The parcel and freight transportation company said…",
-   "published": "2026-11-21T13:38:56+00:00"
   }
  ]
 }
