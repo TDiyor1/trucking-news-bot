@@ -1,6 +1,93 @@
 {
- "updated": "2026-11-26T12:18:35+00:00",
+ "updated": "2026-11-26T16:15:36+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=587088",
+   "title": "Déjà vu in Miami as FedEx MD-11 freighter overshoots runway",
+   "url": "https://www.freightwaves.com/news/deja-vu-in-miami-as-fedex-md-11-freighter-overshoots-runway",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "A FedEx Corp. McDonnell Douglas MD-11 cargo jet overran the runway at Miami International Airport amid heavy rain and thunderstorms, causing the Federal Aviation Administration to issue a temporary ground stop of all flight activity during a busy holiday travel day.",
+   "published": "2026-11-26T15:36:05+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=587090",
+   "title": "5 non-domiciled drivers want CDLs reinstated as battle separately moves through courts",
+   "url": "https://www.freightwaves.com/news/5-non-domiciled-drivers-want-cdls-reinstated-as-battle-separately-moves-through-courts",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "A simultaneous request by five truck drivers to have their CDLs reinstated after losing them through the change in federal policy regarding non-domiciled drivers is open for comments in the Federal Register, and already has attracted both support and pushback on the possibility.",
+   "published": "2026-11-26T15:28:28+00:00"
+  },
+  {
+   "id": "https://theloadstar.com/?p=329114",
+   "title": "Green shipping needs global, rather than costlier regional, rules",
+   "url": "https://theloadstar.com/green-shipping-needs-global-rather-than-costlier-regional-rules/",
+   "source": "The Loadstar",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Regulation"
+   ],
+   "excerpt": "Surrendering the governance of maritime decarbonisation to fragmented and regional regulations could ultimately prove more expensive for the industry than a globally agreed framework, according to US Federal Maritime Commission chair Laura Di Bella. Speaking to The Loadstar on the sidelines of the…",
+   "published": "2026-11-26T13:15:58+00:00"
+  },
+  {
+   "id": "https://theloadstar.com/?p=329110",
+   "title": "Nvidia halts server shipments to Asian markets as new US export rules bite",
+   "url": "https://theloadstar.com/nvidia-halts-server-shipments-to-asian-markets-as-new-us-export-rules-bite/",
+   "source": "The Loadstar",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "Is it the beginning of the end for airfreight’s new best friend? Following new US export controls, Nvidia has reportedly told its manufacturing partners to stop shipping servers containing its chips to Malaysia, Singapore, Thailand, and Indonesia. According to the UK Financial Times today, citing…",
+   "published": "2026-11-26T12:56:46+00:00"
+  },
+  {
+   "id": "https://theloadstar.com/?p=329099",
+   "title": "Cargo crime gangs are patient, and they ‘plan around the calendar’",
+   "url": "https://theloadstar.com/cargo-crime-gangs-are-patient-and-they-plan-around-the-calendar/",
+   "source": "The Loadstar",
+   "audience": [
+    "Carrier",
+    "Broker"
+   ],
+   "tags": [
+    "Fraud"
+   ],
+   "excerpt": "Criminals posing as truck drivers and dispatchers are infiltrating US haulage firms to steal shipments, with data centre hardware and metals among the most sought-after commodities this year. In its Thanksgiving cargo theft warning, Verisk CargoNet said criminals were exploiting staff shortages and…",
+   "published": "2026-11-26T12:30:04+00:00"
+  },
+  {
+   "id": "https://www.freightwaves.com/?p=587079",
+   "title": "Ocean rates still double last year as congestion idles 3.6 million TEUs",
+   "url": "https://www.freightwaves.com/news/ocean-rates-still-double-last-year-as-congestion-idles-3-6-million-teus",
+   "source": "FreightWaves",
+   "audience": [
+    "Shipper"
+   ],
+   "tags": [
+    "Rates",
+    "Ports/Rail"
+   ],
+   "excerpt": "Ocean freight rates remain far above year-ago levels, and relief is likely to be gradual, a new analysis finds, as the market moves from “disruption management” to “transition management.” Container market rates are up 138% year over year and 15% from August, according to DHL Global Forwarding’s…",
+   "published": "2026-11-26T12:00:00+00:00"
+  },
   {
    "id": "https://theloadstar.com/?p=329070",
    "title": "Warehousing on the rise in the US again – with help from AI",
@@ -1091,100 +1178,6 @@
    ],
    "excerpt": "REUTERS reports: Nvidia on Monday said it is reinstating Jensen Huang as chief executive after gaining confidence that he does not pose a national security risk, news that sent shares in the company up by almost a third and reinvigorated the global AI trade that has flagged this month.",
    "published": "2026-11-23T16:38:13+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/small-trucking-firms-diesel",
-   "title": "Small trucking firms scramble to survive diesel costs",
-   "url": "https://www.ttnews.com/articles/small-trucking-firms-diesel",
-   "source": "Transport Topics",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Diesel"
-   ],
-   "excerpt": "High diesel prices this year have put new pressure on the small businesses that make up most of the nation's motor carriers.",
-   "published": "2026-11-23T16:28:12+00:00"
-  },
-  {
-   "id": "https://www.supplychaindive.com/news/best-buy-taps-ai-platform-for-supplier-insights/875211/",
-   "title": "Best Buy taps AI platform for supplier insights",
-   "url": "https://www.supplychaindive.com/news/best-buy-taps-ai-platform-for-supplier-insights/875211/",
-   "source": "Supply Chain Dive",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "The retailer is teaming up with Circana to gain visibility for more effective planning and informed decisions.",
-   "published": "2026-11-23T16:05:59+00:00"
-  },
-  {
-   "id": "https://www.ccjdigital.com/16542477",
-   "title": "Trucking runs on trust, and cyber threats are testing every link in the chain",
-   "url": "https://www.ccjdigital.com/technology/cybersecurity/article/16542477/trucking-cybersecurity-threats-whitearmor-cargo-fraud-eld-risks",
-   "source": "CCJ",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Diesel",
-    "Regulation"
-   ],
-   "excerpt": "Just as a truck runs on diesel, trucking runs on trust. A shipper must trust that the truck going through the gate and picking the load up belongs to the carrier that the broker hired. A carrier must trust that the broker’s instructions are accurate and not modified, including the bill of lading.…",
-   "published": "2026-11-23T15:30:38+00:00"
-  },
-  {
-   "id": "https://www.dcvelocity.com/sponsored-content/u-s-bank-freight-payment-index-shipper-costs-hit-five-year-high-as-freight-demand-stalls",
-   "title": "U.S. Bank Freight Payment Index: Shipper costs hit five-year high as freight demand stalls",
-   "url": "https://www.dcvelocity.com/sponsored-content/u-s-bank-freight-payment-index-shipper-costs-hit-five-year-high-as-freight-demand-stalls",
-   "source": "DC Velocity",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Rates",
-    "Diesel",
-    "Tariffs",
-    "Capacity"
-   ],
-   "excerpt": "Many expected that 2026 would be a year of some normalcy for freight markets after suffering through several years of a “freight recession.” However, war, tighter capacity, fuel costs, and shifting tariff policies have helped to prolong the uncertainty that the freight industry has experienced for…",
-   "published": "2026-11-23T15:30:10+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586820",
-   "title": "Prosecutors uncover trucking playbook in multimillion-dollar port smuggling scheme",
-   "url": "https://www.freightwaves.com/news/prosecutors-uncover-trucking-playbook-in-multimillion-dollar-port-smuggling-scheme",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Shipper"
-   ],
-   "tags": [
-    "Tariffs",
-    "Ports/Rail"
-   ],
-   "excerpt": "Federal prosecutors uncovered a written playbook instructing commercial truck drivers to divert shipping containers before customs inspections. The document warned about surveillance, GPS trackers and additional security seals. Investigators connected those instructions to a scheme involving tens…",
-   "published": "2026-11-23T15:22:50+00:00"
-  },
-  {
-   "id": "https://www.logisticsmgmt.com/article/labor_tensions_ease_at_pola_and_polb_as_pma_ilwu_local_26_reach_tentative_deal",
-   "title": "Labor Tensions ease at POLA and POLB as PMA, ILWU Local 26 reach tentative deal",
-   "url": "https://www.logisticsmgmt.com/article/labor_tensions_ease_at_pola_and_polb_as_pma_ilwu_local_26_reach_tentative_deal",
-   "source": "Logistics Management",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "Faced with a late Friday deadline on a new contact between the Pacific Maritime Association (PMA), and IWLU Local 26, labor peace between the parties was restored early Saturday, in the form of a tentative agreement on a new contract, the parties reached.",
-   "published": "2026-11-23T15:09:00+00:00"
   }
  ]
 }
