@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-27T20:47:49+00:00",
+ "updated": "2026-11-27T21:54:33+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=587115",
+   "title": "Been a long time: Expeditors meets analysts, discloses revenue shares",
+   "url": "https://www.freightwaves.com/news/been-a-long-time-expeditors-meets-analysts-discloses-revenue-shares",
+   "source": "FreightWaves",
+   "audience": [
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "The most shocking thing about the recent investors day presentation held by Expeditors International is that it was taking place at all. Daniel Wall, the president and CEO of the asset-light freight forwarder–among several other services–conceded at the start of the November 18 investors day event…",
+   "published": "2026-11-27T20:38:15+00:00"
+  },
   {
    "id": "https://www.dat.com/blog/?p=27763",
    "title": "Reefer Produce Report: Thanksgiving week rates climb in Texas, Washington and Florida as California eases 3%",
@@ -1161,21 +1173,6 @@
    ],
    "excerpt": "Dry van spot linehaul rates paid to carriers averaged $2.29 per mile last week, minus fuel, up 2.9%, or $0.06 per mile, from the week before. Rates climbed 37.5%, or $0.63 per mile, year over year and held 25.2%, or $0.46 per mile, above the nine-year seasonal average of $1.83 per mile.",
    "published": "2026-11-23T18:22:18+00:00"
-  },
-  {
-   "id": "https://www.dcvelocity.com/transportation/regulation-government/wsc-uncertain-regulations-could-hinder-shipping-sector-moves-to-cut-greenhouse-gases",
-   "title": "WSC: uncertain regulations could hinder shipping sector moves to cut greenhouse gases",
-   "url": "https://www.dcvelocity.com/transportation/regulation-government/wsc-uncertain-regulations-could-hinder-shipping-sector-moves-to-cut-greenhouse-gases",
-   "source": "DC Velocity",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Regulation"
-   ],
-   "excerpt": "Continued uncertainty about global greenhouse gas regulations risks slowing investment in cleaner fuels and infrastructure in the international shipping sector, according to The World Shipping Council (WSC). In response, the WSC is calling on governments to agree on binding regulations without…",
-   "published": "2026-11-23T18:18:27+00:00"
   }
  ]
 }
