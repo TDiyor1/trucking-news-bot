@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-27T04:11:57+00:00",
+ "updated": "2026-11-27T14:18:53+00:00",
  "items": [
+  {
+   "id": "https://theloadstar.com/?p=329066",
+   "title": "Alaska’s freighter expansion puts Hawaii cargo growth in focus",
+   "url": "https://theloadstar.com/alaskas-freighter-expansion-puts-hawaii-cargo-growth-in-focus/",
+   "source": "The Loadstar",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [
+    "Capacity"
+   ],
+   "excerpt": "Alaska Air Group is doubling its dedicated freighter fleet as it looks to unlock cargo demand in Hawaii and build a more substantial international freight business. However, the challenge might be turning that additional aircraft capacity into sustainable revenue growth.",
+   "published": "2026-11-27T09:24:31+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/16542040",
+   "title": "FedEx Freight to deliver 18,000+ Christmas trees to military families nationwide",
+   "url": "https://www.ccjdigital.com/ccj-top-250/article/16542040/fedex-freight-delivers-18000-christmas-trees-to-us-military-bases",
+   "source": "CCJ",
+   "audience": [
+    "Carrier",
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [],
+   "excerpt": "FedEx Freight ( CCJ Top 250 , No. 1) will deliver more than 18,000 farm-grown Christmas trees to 100 military installations across the country this holiday season as part of the Trees for Troops program. Since the initiative began in 2005, the company has transported nearly 350,000 donated trees to…",
+   "published": "2026-11-27T08:59:00+00:00"
+  },
+  {
+   "id": "https://www.ccjdigital.com/16543063",
+   "title": "Peterbilt updates Red Oval program for used trucks",
+   "url": "https://www.ccjdigital.com/maintenance/article/16543063/peterbilt-updates-red-oval-program-for-used-trucks",
+   "source": "CCJ",
+   "audience": [
+    "Carrier"
+   ],
+   "tags": [],
+   "excerpt": "Trucking news and briefs for Friday, Nov. 27, 2026: Peterbilt expands Red Oval used-truck program Peterbilt Motors Company has announced enhancements to its Red Oval Certified Pre-Owned Program, including a new certification tier with warranty coverage included, as well as expanded warranty…",
+   "published": "2026-11-27T06:19:00+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=587088",
    "title": "Déjà vu in Miami as FedEx MD-11 freighter overshoots runway",
@@ -1135,49 +1175,6 @@
    "tags": [],
    "excerpt": "First Daimler Truck and Paccar. Now Volvo and Mack Trucks. A defective Meritor driveline keeps adding names to the recall list.",
    "published": "2026-11-23T18:06:54+00:00"
-  },
-  {
-   "id": "https://www.ttnews.com/articles/strike-averted-la-ports",
-   "title": "Strike averted at Los Angeles, Long Beach ports",
-   "url": "https://www.ttnews.com/articles/strike-averted-la-ports",
-   "source": "Transport Topics",
-   "audience": [
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "The agreement between the Pacific Maritime Association and ILWU Local 26 covers workers at the ports of Los Angeles and Long Beach and is subject to ratification by Local 26 members.",
-   "published": "2026-11-23T18:00:35+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586886",
-   "title": "Savannah handles 565,366 TEUs in October, up 25% year-over-year on strong import demand",
-   "url": "https://www.freightwaves.com/news/savannah-handles-565366-teus-in-october-up-25-year-over-year-on-strong-import-demand",
-   "source": "FreightWaves",
-   "audience": [
-    "Shipper"
-   ],
-   "tags": [
-    "Ports/Rail"
-   ],
-   "excerpt": "The Port of Savannah handled 565,366 twenty-foot equivalent units (TEUs) in October, a 25% increase from a year earlier and the second-highest monthly container total in its history. The October gains pushed container volumes for fiscal 2027 to date up 7.8%, an increase of 152,991 TEUs compared…",
-   "published": "2026-11-23T17:12:43+00:00"
-  },
-  {
-   "id": "https://theloadstar.com/?p=328950",
-   "title": "Reuters: Nvidia reinstates Jensen Huang as CEO, igniting tech surge",
-   "url": "https://theloadstar.com/reuters-nvidia-reinstates-jensen-huang-as-ceo-igniting-tech-surge/",
-   "source": "The Loadstar",
-   "audience": [
-    "Carrier"
-   ],
-   "tags": [
-    "Tech"
-   ],
-   "excerpt": "REUTERS reports: Nvidia on Monday said it is reinstating Jensen Huang as chief executive after gaining confidence that he does not pose a national security risk, news that sent shares in the company up by almost a third and reinvigorated the global AI trade that has flagged this month.",
-   "published": "2026-11-23T16:38:13+00:00"
   }
  ]
 }
