@@ -1,4 +1,20 @@
 {
  "last_digest": "2026-11-27",
- "queue": []
+ "queue": [
+  {
+   "id": "https://www.freightwaves.com/?p=587100",
+   "title": "Weekly US rail freight climbs 4.7% as intermodal surges 8.3%",
+   "url": "https://www.freightwaves.com/news/weekly-us-rail-freight-climbs-4-7-as-intermodal-surges-8-3",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "U.S. rail traffic rose 4.7% for the week ending November 21 from a year ago, the Association of American Railroads said, as intermodal volume again drove gains. Containers and trailers improved 8.3% compared with the same week in 2025, while commodity carloads edged up 0.5%.",
+   "published": "2026-11-27T14:45:31+00:00"
+  }
+ ]
 }

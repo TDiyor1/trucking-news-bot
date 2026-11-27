@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-27T15:17:25+00:00",
+ "updated": "2026-11-27T15:47:30+00:00",
  "items": [
+  {
+   "id": "https://www.freightwaves.com/?p=587100",
+   "title": "Weekly US rail freight climbs 4.7% as intermodal surges 8.3%",
+   "url": "https://www.freightwaves.com/news/weekly-us-rail-freight-climbs-4-7-as-intermodal-surges-8-3",
+   "source": "FreightWaves",
+   "audience": [
+    "Carrier",
+    "Shipper"
+   ],
+   "tags": [
+    "Ports/Rail"
+   ],
+   "excerpt": "U.S. rail traffic rose 4.7% for the week ending November 21 from a year ago, the Association of American Railroads said, as intermodal volume again drove gains. Containers and trailers improved 8.3% compared with the same week in 2025, while commodity carloads edged up 0.5%.",
+   "published": "2026-11-27T14:45:31+00:00"
+  },
   {
    "id": "https://theloadstar.com/?p=329066",
    "title": "Alaska’s freighter expansion puts Hawaii cargo growth in focus",
@@ -1161,20 +1176,6 @@
    ],
    "excerpt": "Huntington National Bank is challenging former R&R Family of Companies CEO Richard “Rich” Francis’ attempts to protect his multimillion-dollar Florida residence and a collection of other assets from creditors. The legal battle follows a continuing escalation over the financial fallout from the…",
    "published": "2026-11-23T18:16:37+00:00"
-  },
-  {
-   "id": "https://landline.media/?p=104869",
-   "title": "Meritor driveline recall reaches Volvo, Mack Trucks",
-   "url": "https://landline.media/meritor-driveline-recall-reaches-volvo-mack-trucks/",
-   "source": "Land Line",
-   "audience": [
-    "Carrier",
-    "Shipper",
-    "Broker"
-   ],
-   "tags": [],
-   "excerpt": "First Daimler Truck and Paccar. Now Volvo and Mack Trucks. A defective Meritor driveline keeps adding names to the recall list.",
-   "published": "2026-11-23T18:06:54+00:00"
   }
  ]
 }
