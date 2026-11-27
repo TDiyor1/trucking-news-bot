@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-27T16:47:33+00:00",
+ "updated": "2026-11-27T17:17:37+00:00",
  "items": [
+  {
+   "id": "https://www.dat.com/blog/?p=27763",
+   "title": "Reefer Produce Report: Thanksgiving week rates climb in Texas, Washington and Florida as California eases 3%",
+   "url": "https://www.dat.com/blog/reefer-produce-report-thanksgiving-week-rates-climb-in-texas-washington-and-florida-as-california-eases-3",
+   "source": "DAT iQ",
+   "audience": [
+    "Shipper",
+    "Broker"
+   ],
+   "tags": [
+    "Rates"
+   ],
+   "excerpt": "California produce rates eased 3% week over week for Thanksgiving week, while South Texas crossings gained 10%, Washington 8% and Florida 12%, according to USDA. Against last year, every one of the 57 lanes with a year-ago match is higher, and the average is +44%.",
+   "published": "2026-11-27T17:09:16+00:00"
+  },
   {
    "id": "https://www.freightwaves.com/?p=587100",
    "title": "Weekly US rail freight climbs 4.7% as intermodal surges 8.3%",
@@ -1161,21 +1176,6 @@
    ],
    "excerpt": "Continued uncertainty about global greenhouse gas regulations risks slowing investment in cleaner fuels and infrastructure in the international shipping sector, according to The World Shipping Council (WSC). In response, the WSC is calling on governments to agree on binding regulations without…",
    "published": "2026-11-23T18:18:27+00:00"
-  },
-  {
-   "id": "https://www.freightwaves.com/?p=586897",
-   "title": "Bank challenges trucking CEO’s $8.5M Florida estate amid bankruptcy",
-   "url": "https://www.freightwaves.com/news/bank-challenges-trucking-ceos-8-5m-florida-estate-amid-bankruptcy",
-   "source": "FreightWaves",
-   "audience": [
-    "Carrier",
-    "Broker"
-   ],
-   "tags": [
-    "Capacity"
-   ],
-   "excerpt": "Huntington National Bank is challenging former R&R Family of Companies CEO Richard “Rich” Francis’ attempts to protect his multimillion-dollar Florida residence and a collection of other assets from creditors. The legal battle follows a continuing escalation over the financial fallout from the…",
-   "published": "2026-11-23T18:16:37+00:00"
   }
  ]
 }
